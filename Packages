@@ -3,9 +3,9 @@ Name: Wallpaper Auto Rotate Disable
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>=11.0)
 Description: The wallpaper will not rotate even if the direction lock is on.
-Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wallpaper.autorotatadisabled/index.html
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wallpaper.autorotatadisabled
 Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_System.png
-Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wallpaper.autorotatadisabled/index.php
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wallpaper.autorotatadisabled
 Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Section: System
