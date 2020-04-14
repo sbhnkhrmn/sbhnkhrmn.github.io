@@ -19,7 +19,7 @@ SHA256: 10a0ab4434f311c92ce05e2488169f55f47b7f964cfd9f9ca86be35b2ef8bb52
 Package: com.sbhnkhrmn.wallpaper.parallax.factor
 Name: Wallpaper : Parallax Factor
 Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>>=11.0)
+Depends: mobilesubstrate, firmware (>=11.0)
 Description: It expands the speed and space of playing wallpaper. scrolling distance increases.
 Depiction:   https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wallpaper.parallax.factor/index.html
 Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_System.png
@@ -29,8 +29,7 @@ Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Section: System
 Version: 0.0.1
 Filename: ./debs/com.sbhnkhrmn.wallpaper.parallax.factor_0.0.1_iphoneos-arm.deb
-Size: 4170
-MD5sum: 2d3f37a70fd47981b91e4f3ebade0dc1
-SHA1: 62ed3c76ce0f63aa6ae7a62e22d15312139e6dca
-SHA256: f14df3b07e1b2ce8d1a109390f75b010f1390675cb18eb34bd23b261fbcea7ee
-
+Size: 4168
+MD5sum: e53e498110820507e7459cf858f5f8ae
+SHA1: b37482264573dfb11d42b2d83fec2b1f54b614e1
+SHA256: 3a4697a5f3b34bc215a18a49d3af4418db48a2f6eb48173e3eb44cdc9c3cf75c
