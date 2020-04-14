@@ -11,8 +11,7 @@ Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Section: System
 Version: 0.0.1
 Filename: ./debs/com.sbhnkhrmn.wallpaper.autorotatadisabled_0.0.1_iphoneos-arm.deb
-Size: 4116
-MD5sum: 1217d94ff1d5a9661ec831dd204af5cf
-SHA1: 9f1c65f5c60c033305b89266c062df6becd460e7
-SHA256: 198c79a03088cba59511ed8bf979df0afda5201562d17681d8f6f9237fede5d3
-
+Size: 4108
+MD5sum: 074b0c9fcb28a70d1b7aa2500ad6eaef
+SHA-1: d49f2e59b5371d7839a3dc07fa7b6d3fbd828ebe
+SHA-256: a343cbe354c23dfba2a2f68176f3c8deaf9ab414b9c3cc4c2e5ef21a618d8793
