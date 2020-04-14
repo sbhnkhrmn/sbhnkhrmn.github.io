@@ -9,9 +9,10 @@ Sileodepiction: .//depictions/com.sbhnkhrmn.wallpaper.autorotatadisabled/index.p
 Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Section: System
-Version: 0.0.1
+Version: 0.0.1-1+debug
 Filename: ./debs/com.sbhnkhrmn.wallpaper.autorotatadisabled_0.0.1-1+debug_iphoneos-arm.deb
 Size: 4124
+Installed-Size: 117
 MD5sum: a901dbed5549a92ec3e14074211999a0
 Sha1: 0962099bdde405f4aaa1528ed76c71c73bca7aad
 Sha56: 9888b5dcae4acbafb909851e41952bdb00289afa1635ce1e760c38e37c209dc3
