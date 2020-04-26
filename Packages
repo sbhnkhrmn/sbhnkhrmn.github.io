@@ -70,9 +70,9 @@ Section: Apps PRO
 Version: 3.1.4
 Filename: ./debs/com.sbhnkhrmn.adguard.pro_3.1.4-1_iphoneos-arm.deb
 Size: 4510
-MD5sum: 27724066B46F093CFB15AE0C6C4877A5
-Sha1: 0B03A1D9277306DFFCACF5221888B430FDF419AA
-Sha256: 5386CF34244001E68107DF8ACAFC8D26C029178CB757D2781F11D605C442E78A
+MD5sum: 27724066b46f093cfb15ae0c6c4877a5
+Sha1: 0b03a1d9277306dffcacf5221888b430fdf419aa
+Sha256: 5386cf34244001e68107df8acafc8d26c029178cb757d2781f11d605c442e78a
 
 Package: com.sbhnkhrmn.april.pro
 Name: April : Pro
@@ -89,9 +89,9 @@ Section: Apps PRO
 Version: 2.8.0
 Filename: ./debs/com.sbhnkhrmn.april.pro_2.8.0_iphoneos-arm.deb
 Size: 4878
-MD5sum: FFCE427C4E07C1D41764E7EC5366854D
-Sha1: D82D9843D83A20D10718C34686C9D276D60C278F
-Sha256: 88F4F2ED2F1187B070BFA25ECC2623C4182FCE91B61C0986708405450CC1BDEE
+MD5sum: ffce427c4e07c1d41764e7ec5366854d
+Sha1: d82d9843d83a20d10718c34686c9d276d60c278f
+Sha256: 88f4f2ed2f1187b070bfa25ecc2623c4182fce91b61c0986708405450cc1bdee
 
 Package: com.sbhnkhrmn.assembly.pro
 Name: Assembly : Pro
@@ -108,9 +108,9 @@ Section: Apps PRO
 Version: 2.3
 Filename: ./debs/com.sbhnkhrmn.assembly.pro_2.3_iphoneos-arm.deb
 Size: 4450
-MD5sum: 0EBA6B4906A0B98DC9AAF1871CF91984
-Sha1: 90762453775BE58CB894D053B13BE9B7BC785AE4
-Sha256: 25D0AF4F5AA807C754774B181CE1F1EF588945EC497E39C101DDB7ADC38573D2
+MD5sum: 0eba6b4906a0b98dc9aaf1871cf91984
+Sha1: 90762453775be58cb894d053b13be9b7bc785ae4
+Sha256: 25d0af4f5aa807c754774b181ce1f1ef588945ec497e39c101ddb7adc38573d2
 
 Package: com.sbhnkhrmn.audiomack.pro
 Name: AudioMack : Pro
@@ -127,9 +127,9 @@ Section: Apps PRO
 Version: 5.3.1
 Filename: ./debs/com.sbhnkhrmn.audiomack.pro_5.3.1_iphoneos-arm.deb
 Size: 4790
-MD5sum: DBB98A0CE327ED5112E5D76601C22239
-Sha1: BA089C0126B4EE1C6C1536F384A13E38200B860A
-Sha256: E38D290755222EF8430C8C6F98A86C93E98CCE622315BBBA120304BDF433C1B6
+MD5sum: dbb98a0ce327ed5112e5d76601c22239
+Sha1: ba089c0126b4ee1c6c1536f384a13e38200b860a
+Sha256: e38d290755222ef8430c8c6f98a86c93e98cce622315bbba120304bdf433c1b6
 
 Package: com.sbhnkhrmn.bazaart.pro
 Name: Bazaart : Pro
@@ -146,27 +146,9 @@ Section: Apps PRO
 Version: 6.8.0
 Filename: ./debs/com.sbhnkhrmn.bazaart.pro_6.8.0_iphoneos-arm.deb
 Size: 4256
-MD5sum: 5406E4ED2C3731434B5F8E3FF8CA7D3F
-Sha1: 8540607798276F4E28D633C638F7E22AD821639B
-Sha256: 7D72CDB1D1498AB7B65C02BEEE508535E8CE98CA4E1E1D48AFBA7DFB37865DCB
-
-Package: com.sbhnkhrmn.camera.rotate.bar
-Name: Camera : Rotate Bar
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>>=12.0)
-Description: Unlocks the landscape screen rotation.
-Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.rotate.bar/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
-Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.rotate.bar/index.php
-Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Section: Tweaks
-Version: 0.0.1
-Filename: ./debs/com.sbhnkhrmn.camera.rotate.bar_0.0.1_iphoneos-arm.deb
-Size: 5204
-MD5sum: AAFED1FFE629833D9FEE0948246E0033
-Sha1: 96665A6241AF86F4E5D8B67C166237030E94125D
-Sha256: D79100A0D0ECA5F946038A16E1EBAC37B7896F484F4038C89AD9B11DD2219534
+MD5sum: 5406e4ed2c3731434b5f8e3ff8ca7d3f
+Sha1: 8540607798276f4e28d633c638f7e22ad821639b
+Sha256: 7d72cdb1d1498ab7b65c02beee508535e8ce98ca4e1e1d48afba7dfb37865dcb
 
 Package: com.sbhnkhrmn.bear.pro
 Name: Bear : Pro
@@ -183,9 +165,9 @@ Section: Apps PRO
 Version: 1.7.10
 Filename: ./debs/com.sbhnkhrmn.bear.pro_1.7.10_iphoneos-arm.deb
 Size: 4482
-MD5sum: 672FEF75CE8CD6907BFF50F56F34BA22
-Sha1: C7B7FD4AA687B29695772440CAAD78E9DCF4FFF8
-Sha256: 5A4236F581ACE3002D4CB02672A6C2BABD937537708456E02B03BF2765182B32
+MD5sum: 672fef75ce8cd6907bff50f56f34ba22
+Sha1: c7b7fd4aa687b29695772440caad78e9dcf4fff8
+Sha256: 5a4236f581ace3002d4cb02672a6c2babd937537708456e02b03bf2765182b32
 
 Package: com.sbhnkhrmn.boom.pro
 Name: Boom : Pro
@@ -202,9 +184,9 @@ Section: Apps PRO
 Version: 2.0.8
 Filename: ./debs/com.sbhnkhrmn.boom.pro_2.0.8_iphoneos-arm.deb
 Size: 4078
-MD5sum: A7E80EF1A19146B930FA3E51BF249686
-Sha1: E8F6FC0631CAEF87E37324BD79C967F73C010D17
-Sha256: B876F3A490D5AEE79696A2679102AAED9F6E19B900E65058A42B767F3A469E92
+MD5sum: a7e80ef1a19146b930fa3e51bf249686
+Sha1: e8f6fc0631caef87e37324bd79c967f73c010d17
+Sha256: b876f3a490d5aee79696a2679102aaed9f6e19b900e65058a42b767f3a469e92
 
 Package: com.sbhnkhrmn.calm.pro
 Name: Calm : Pro
@@ -221,9 +203,9 @@ Section: Apps PRO
 Version: 4.22
 Filename: ./debs/com.sbhnkhrmn.calm.pro_4.22_iphoneos-arm.deb
 Size: 4058
-MD5sum: 7AC674DC858245BE3C3EBD432D741FF7
-Sha1: A7B8028329B7F9EBDD580ED7F108E23B7BEFD162
-Sha256: 4FCC488FECDC15B19DB83CAEB3DC2D08F2BF700F2A5E6C3332B0DEC7DB028DEC
+MD5sum: 7ac674dc858245be3c3ebd432d741ff7
+Sha1: a7b8028329b7f9ebdd580ed7f108e23b7befd162
+Sha256: 4fcc488fecdc15b19db83caeb3dc2d08f2bf700f2a5e6c3332b0dec7db028dec
 
 Package: com.sbhnkhrmn.cheetahkey.pro
 Name: AR Emoji Custom Keyboard : Pro
@@ -240,9 +222,9 @@ Section: Apps PRO
 Version: 1.15.2
 Filename: ./debs/com.sbhnkhrmn.cheetahkey.pro_1.15.2_iphoneos-arm.deb
 Size: 4082
-MD5sum: C4BF1F286C84DE2C71DE47661A551F1A
-Sha1: 2644715CEFB3EDEFAD057C0EC3CF62B217ABFE47
-Sha256: 84C8BCE73EFC47441599EBF0E827CB3E3048AE7FCAE6C1E2620739AD77F19369
+MD5sum: c4bf1f286c84de2c71de47661a551f1a
+Sha1: 2644715cefb3edefad057c0ec3cf62b217abfe47
+Sha256: 84c8bce73efc47441599ebf0e827cb3e3048ae7fcae6c1e2620739ad77f19369
 
 Package: com.sbhnkhrmn.clarity.pro
 Name: Clarity : Pro
@@ -259,9 +241,9 @@ Section: Apps PRO
 Version: 5.0.1
 Filename: ./debs/com.sbhnkhrmn.clarity.pro_5.0.1_iphoneos-arm.deb
 Size: 4934
-MD5sum: 36C11A63D0BB336D483B916FD7CC8A59
-Sha1: BE3902CE9BAE272AAF8D489F4F9AE1886B2D523B
-Sha256: 483343C575140A5BAA43D942916949D96CD2E735387E388253B28BA3FC37398F
+MD5sum: 36c11a63d0bb336d483b916fd7cc8a59
+Sha1: be3902ce9bae272aaf8d489f4f9ae1886b2d523b
+Sha256: 483343c575140a5baa43d942916949d96cd2e735387e388253b28ba3fc37398f
 
 Package: com.sbhnkhrmn.coloringbookforme.pro
 Name: Coloring Book for Me : Pro
@@ -278,9 +260,9 @@ Section: Tweaks
 Version: 4.24.3
 Filename: ./debs/com.sbhnkhrmn.coloringbookforme.pro_4.24.3_iphoneos-arm.deb
 Size: 5808
-MD5sum: C1FB8DAC1E632F5E3B0CBD34055C7EFE
-Sha1: 36B49A9DBA98999865921D36AB7B6ED4D73D01F0
-Sha256: 82CDBFCF3B047048D0D92E7A93A6CA94EAF94FE22CD996D53F30C9AC499EEE2F
+MD5sum: c1fb8dac1e632f5e3b0cbd34055c7efe
+Sha1: 36b49a9dba98999865921d36ab7b6ed4d73d01f0
+Sha256: 82cdbfcf3b047048d0d92e7a93a6ca94eaf94fe22cd996d53f30c9ac499eee2f
 
 Package: com.sbhnkhrmn.ddvpn.pro
 Name: DD Vpn : Pro
@@ -297,9 +279,9 @@ Section: Apps PRO
 Version: 2.0.3
 Filename: ./debs/com.sbhnkhrmn.ddvpn.pro_2.0.3_iphoneos-arm.deb
 Size: 4492
-MD5sum: 804883DF1C99513E67491EC1C72CFFEE
-Sha1: 999DC1009F492EE8A57743815899C7F88F6FE700
-Sha256: D2B6BFBD750A3A6ACD8362C82D164A93C265AF8C7D37217AEEEB9670AD1BFCDD
+MD5sum: 804883df1c99513e67491ec1c72cffee
+Sha1: 999dc1009f492ee8a57743815899c7f88f6fe700
+Sha256: d2b6bfbd750a3a6acd8362c82d164a93c265af8c7d37217aeeeb9670ad1bfcdd
 
 Package: com.sbhnkhrmn.documents.pro
 Name: Documents : Pro
@@ -316,9 +298,9 @@ Section: Apps PRO
 Version: 7.1.3
 Filename: ./debs/com.sbhnkhrmn.documents.pro_7.1.3_iphoneos-arm.deb
 Size: 4782
-MD5sum: 50395C431B051EA6674668D44AF28853
-Sha1: 29AB4DFA7C17A94BD39769784974AC5EDF33D5C2
-Sha256: B2648DFBCFE9405C619F7E39A1EC41FC678DB19778AB76FD604B6695EC58E0D7
+MD5sum: 50395c431b051ea6674668d44af28853
+Sha1: 29ab4dfa7c17a94bd39769784974ac5edf33d5c2
+Sha256: b2648dfbcfe9405c619f7e39a1ec41fc678db19778ab76fd604b6695ec58e0d7
 
 Package: com.sbhnkhrmn.dualingo.pro
 Name: Dualingo : Pro
@@ -335,9 +317,9 @@ Section: Apps PRO
 Version: 6.57.0
 Filename: ./debs/com.sbhnkhrmn.dualingo.pro_6.57.0_iphoneos-arm.deb
 Size: 5634
-MD5sum: 121E1C501D47557AF67DC16B3B43115B
-Sha1: 17DBD398C6767F9931318F96897F8681CB20E5E5
-Sha256: 3C5F5558BFB88C8EBDA5D69A1600FC03854AEB0D478AB173BC034F12819C12FC
+MD5sum: 121e1c501d47557af67dc16b3b43115b
+Sha1: 17dbd398c6767f9931318f96897f8681cb20e5e5
+Sha256: 3c5f5558bfb88c8ebda5d69a1600fc03854aeb0d478ab173bc034f12819c12fc
 
 Package: com.sbhnkhrmn.facetune2.pro
 Name: Facetune 2 : Pro
@@ -354,9 +336,9 @@ Section: Apps PRO
 Version: 1.27
 Filename: ./debs/com.sbhnkhrmn.facetune2.pro_1.27_iphoneos-arm.deb
 Size: 4046
-MD5sum: 4B1B2C82D84D6421871BF3CA699EA70F
-Sha1: D45DAFA222276C8DA686B45E58D30D1D6D5DCD56
-Sha256: A3317B672B1D602232CC4A29F2EFEA7B4C5E8F347AFEC5C6D7D183B763D18DCD
+MD5sum: 4b1b2c82d84d6421871bf3ca699ea70f
+Sha1: d45dafa222276c8da686b45e58d30d1d6d5dcd56
+Sha256: a3317b672b1d602232cc4a29f2efea7b4c5e8f347afec5c6d7d183b763d18dcd
 
 Package: com.sbhnkhrmn.firstvpn.pro
 Name: First Vpn : Pro
@@ -373,9 +355,9 @@ Section: Apps PRO
 Version: 2.3.4
 Filename: ./debs/com.sbhnkhrmn.firstvpn.pro_2.3.4_iphoneos-arm.deb
 Size: 4916
-MD5sum: 2B262F328B89C3A4AB08260750762BE3
-Sha1: 29C098471B93F3E16C86B2AF1CB0B6E3CB47C977
-Sha256: 9276D8961124FE0CE0D727D8977434E61D9BEF7E8159AD6FD93C149910243319
+MD5sum: 2b262f328b89c3a4ab08260750762be3
+Sha1: 29c098471b93f3e16c86b2af1cb0b6e3cb47c977
+Sha256: 9276d8961124fe0ce0d727d8977434e61d9bef7e8159ad6fd93c149910243319
 
 Package: com.sbhnkhrmn.focos.pro
 Name: Focos : Pro
@@ -392,9 +374,9 @@ Section: Apps PRO
 Version: 2.2
 Filename: ./debs/com.sbhnkhrmn.focos.pro_2.2_iphoneos-arm.deb
 Size: 4566
-MD5sum: 5B12D29C827CCFDB22CFBCD41C2DBA54
-Sha1: 3E25F7A501CACC07595A09745D72515C7764FD13
-Sha256: 72F9AF028823943324623028339169DB6198A9306DDFD4A3D5A75DDCE473A2DC
+MD5sum: 5b12d29c827ccfdb22cfbcd41c2dba54
+Sha1: 3e25f7a501cacc07595a09745d72515c7764fd13
+Sha256: 72f9af028823943324623028339169db6198a9306ddfd4a3d5a75ddce473a2dc
 
 Package: com.sbhnkhrmn.habitat.pro
 Name: Habitat : Pro
@@ -411,9 +393,9 @@ Section: Apps PRO
 Version: 4.6
 Filename: ./debs/com.sbhnkhrmn.habitat.pro_4.6_iphoneos-arm.deb
 Size: 4020
-MD5sum: 665AEFB49F6D6A9BD696F1071B7C6240
-Sha1: AE09299853ECDB7B9B3F3D8022C00474AC2A7944
-Sha256: CCF0B8EE5520A1B417F83A3C76B078C1BF02A1DF6BB373C3D47AD28FED8D149F
+MD5sum: 665aefb49f6d6a9bd696f1071b7c6240
+Sha1: ae09299853ecdb7b9b3f3d8022c00474ac2a7944
+Sha256: ccf0b8ee5520a1b417f83a3c76b078c1bf02a1df6bb373c3d47ad28fed8d149f
 
 Package: com.sbhnkhrmn.hotspotvpn.pro
 Name: HotSpot Vpn : Pro
@@ -430,9 +412,9 @@ Section: Apps PRO
 Version: 1.2.8
 Filename: ./debs/com.sbhnkhrmn.hotspotvpn.pro_1.2.8_iphoneos-arm.deb
 Size: 4852
-MD5sum: 23893EFEB8CC7F818EAA8A5F3B80F490
-Sha1: 7810E33607691A3DFC2BD6F30378D6DA468BFC17
-Sha256: 2CF2B771C5FAC773BE48ED4EA44DDC1BE9269A7DAEB108EB96708E8261F22EDB
+MD5sum: 23893efeb8cc7f818eaa8a5f3b80f490
+Sha1: 7810e33607691a3dfc2bd6f30378d6da468bfc17
+Sha256: 2cf2b771c5fac773be48ed4ea44ddc1be9269a7daeb108eb96708e8261f22edb
 
 Package: com.sbhnkhrmn.infuse6.pro
 Name: Infuse : Pro
@@ -449,9 +431,9 @@ Section: Apps PRO
 Version: 6.3.3
 Filename: ./debs/com.sbhnkhrmn.infuse6.pro_6.3.3_iphoneos-arm.deb
 Size: 4632
-MD5sum: 785546D39D3DC37F1DAE1248DE2CB291
-Sha1: 85291FFA3CC0619316CDCF972BFEAE44093CC6AB
-Sha256: 5FF4434DAD66076D03A7EB7FB15F76396EB3080C427427F8868375A82FBAD9EC
+MD5sum: 785546d39d3dc37f1dae1248de2cb291
+Sha1: 85291ffa3cc0619316cdcf972bfeae44093cc6ab
+Sha256: 5ff4434dad66076d03a7eb7fb15f76396eb3080c427427f8868375a82fbad9ec
 
 Package: com.sbhnkhrmn.inmessage.pro
 Name: InMessage : Pro
@@ -468,9 +450,9 @@ Section: Apps PRO
 Version: 3.3.5
 Filename: ./debs/com.sbhnkhrmn.inmessage.pro_3.3.5_iphoneos-arm.deb
 Size: 6202
-MD5sum: B7E646CD071FCEB00BADED209A42D6ED
-Sha1: FEF811A190157223F6E4E3EB83978D7863717145
-Sha256: BC0C80E43673161CAD3E82BC64AB943EA02DAD92B48D70AF9ADA7DE601600E32
+MD5sum: b7e646cd071fceb00baded209a42d6ed
+Sha1: fef811a190157223f6e4e3eb83978d7863717145
+Sha256: bc0c80e43673161cad3e82bc64ab943ea02dad92b48d70af9ada7de601600e32
 
 Package: com.sbhnkhrmn.inshot.pro
 Name: InShot : Pro
@@ -487,9 +469,9 @@ Section: Apps PRO
 Version: 1.42.1
 Filename: ./debs/com.sbhnkhrmn.inshot.pro_1.42.1_iphoneos-arm.deb
 Size: 4552
-MD5sum: 4C7B2A2DDCFE520EC4DF2FDFCC36D456
-Sha1: F24A3D8FCC2E2A0409EAB6C401D4CA5DB354A0D0
-Sha256: DA6316124D7997125EE0865C420B7FA183E5AC85E4D568065310B8B7D086351C
+MD5sum: 4c7b2a2ddcfe520ec4df2fdfcc36d456
+Sha1: f24a3d8fcc2e2a0409eab6c401d4ca5db354a0d0
+Sha256: da6316124d7997125ee0865c420b7fa183e5ac85e4d568065310b8b7d086351c
 
 Package: com.sbhnkhrmn.mackolik.pro
 Name: Mackolik : Pro
@@ -506,9 +488,9 @@ Section: Apps PRO
 Version: 3.4.7
 Filename: ./debs/com.sbhnkhrmn.mackolik.pro_3.4.7_iphoneos-arm.deb
 Size: 4886
-MD5sum: 46CBB2A464D17A2E0AD1FB31049C475F
-Sha1: 12872BF450A0829C5AB45ECBF3551EF282571DF5
-Sha256: 272561AB9D422E2209B0304B0C1BAE2506CDFFD805691D68A8765403B2BF0956
+MD5sum: 46cbb2a464d17a2e0ad1fb31049c475f
+Sha1: 12872bf450a0829c5ab45ecbf3551ef282571df5
+Sha256: 272561ab9d422e2209b0304b0c1bae2506cdffd805691d68a8765403b2bf0956
 
 Package: com.sbhnkhrmn.magi+.pro
 Name: Magi+ : Pro
@@ -525,9 +507,9 @@ Section: Apps PRO
 Version: 2.2.0
 Filename: ./debs/com.sbhnkhrmn.magi+.pro_2.2.0_iphoneos-arm.deb
 Size: 4934
-MD5sum: 829FC0092434AB58C79A320A1C871393
-Sha1: 53E16F14758924EB432259D29E4F68D5F92955A7
-Sha256: 85EA3AB4052348D063E69DED89BEA8ED5F1A4BFF85FFB275A27CFE84AC1F36AE
+MD5sum: 829fc0092434ab58c79a320a1c871393
+Sha1: 53e16f14758924eb432259d29e4f68d5f92955a7
+Sha256: 85ea3ab4052348d063e69ded89bea8ed5f1a4bff85ffb275a27cfe84ac1f36ae
 
 Package: com.sbhnkhrmn.memrise.pro
 Name: Memrise : Pro
@@ -544,9 +526,9 @@ Section: Apps PRO
 Version: 3.1.25
 Filename: ./debs/com.sbhnkhrmn.memrise.pro_3.1.25_iphoneos-arm.deb
 Size: 5472
-MD5sum: 55E4AB2887341FE42BB1176BC415D281
-Sha1: B6F4A42E0F0F4A02C49EF4DDF3DFE5DC3F4A107E
-Sha256: AEAC7DA719FBB27C51C8E0BF60076AC3BB60EB654AFC95A872C0F98C0A1061B6
+MD5sum: 55e4ab2887341fe42bb1176bc415d281
+Sha1: b6f4a42e0f0f4a02c49ef4ddf3dfe5dc3f4a107e
+Sha256: aeac7da719fbb27c51c8e0bf60076ac3bb60eb654afc95a872c0f98c0a1061b6
 
 Package: com.sbhnkhrmn.peachy.pro
 Name: Peachy : Pro
@@ -563,9 +545,9 @@ Section: Apps PRO
 Version: 1.12.0
 Filename: ./debs/com.sbhnkhrmn.peachy.pro_1.12.0_iphoneos-arm.deb
 Size: 4568
-MD5sum: 76B77D00866A8F50F87D7399CADE86C9
-Sha1: A9DEAE7C96BD7C939859716DA8E0658984BE2704
-Sha256: 5254F41910E45B443AA0D94EE211407C54A0A4CDFAFBC46C130D45C2A3FAA922
+MD5sum: 76b77d00866a8f50f87d7399cade86c9
+Sha1: a9deae7c96bd7c939859716da8e0658984be2704
+Sha256: 5254f41910e45b443aa0d94ee211407c54a0a4cdfafbc46c130d45c2a3faa922
 
 Package: com.sbhnkhrmn.photovault.pro
 Name: Photo Vault : Pro
@@ -582,9 +564,9 @@ Section: Apps PRO
 Version: 10.5
 Filename: ./debs/com.sbhnkhrmn.photovault.pro_10.5_iphoneos-arm.deb
 Size: 4510
-MD5sum: F59A171373E72008149490A8B2551C0D
-Sha1: 49AB0BC0A17432DE10A61CF8E195656C365DA3C5
-Sha256: 309D80B9772E1570464C55AC168EAF64C2BD21551E1CD1DF9DC783CE3B507A7A
+MD5sum: f59a171373e72008149490a8b2551c0d
+Sha1: 49ab0bc0a17432de10a61cf8e195656c365da3c5
+Sha256: 309d80b9772e1570464c55ac168eaf64c2bd21551e1cd1df9dc783ce3b507a7a
 
 Package: com.sbhnkhrmn.photofox.pro
 Name: Photofox : Pro
@@ -601,9 +583,9 @@ Section: Apps PRO
 Version: 2.2.4
 Filename: ./debs/com.sbhnkhrmn.photofox.pro_2.2.4_iphoneos-arm.deb
 Size: 4270
-MD5sum: BAF99C9308EADE6769CD0395A6E1F0DB
-Sha1: 16B643AD67DFE6584741912D48FBC5CB744CC968
-Sha256: 6CC51C28F22863D8EE5147AF328B38E7C834B5FB7745DA7B754C541E5358BE6B
+MD5sum: baf99c9308eade6769cd0395a6e1f0db
+Sha1: 16b643ad67dfe6584741912d48fbc5cb744cc968
+Sha256: 6cc51c28f22863d8ee5147af328b38e7c834b5fb7745da7b754c541e5358be6b
 
 Package: com.sbhnkhrmn.psexpress.pro
 Name: PS Express : Pro
@@ -620,9 +602,9 @@ Section: Apps PRO
 Version: 20.10.0
 Filename: ./debs/com.sbhnkhrmn.psexpress.pro_20.10.0_iphoneos-arm.deb
 Size: 5660
-MD5sum: 3C18E5EE8275548933D6F9662D858C15
-Sha1: 3F70528FC0F19FC7EE8B2DC5A18697DFE2ADA156
-Sha256: 962A36AF21147A5C3B29C51141DBA10A1E64CA204B6536B4BF0FA633402B3984
+MD5sum: 3c18e5ee8275548933d6f9662d858c15
+Sha1: 3f70528fc0f19fc7ee8b2dc5a18697dfe2ada156
+Sha256: 962a36af21147a5c3b29c51141dba10a1e64ca204b6536b4bf0fa633402b3984
 
 Package: com.sbhnkhrmn.qrscanner.pro
 Name: Qr Scanner : Pro
@@ -639,9 +621,9 @@ Section: Apps PRO
 Version: 1.2
 Filename: ./debs/com.sbhnkhrmn.qrscanner.pro_1.2_iphoneos-arm.deb
 Size: 6336
-MD5sum: 4FB36DDD23E628E2B3B8B482CB2CC40F
-Sha1: A1BF94EE6FB42412A01219898B67BF2FAB40F85E
-Sha256: B7C15F99B90411A0C69FF3EA00167D29E9EF1CDEEFE735510A398102FAF8A893
+MD5sum: 4fb36ddd23e628e2b3b8b482cb2cc40f
+Sha1: a1bf94ee6fb42412a01219898b67bf2fab40f85e
+Sha256: b7c15f99b90411a0c69ff3ea00167d29e9ef1cdeefe735510a398102faf8a893
 
 Package: com.sbhnkhrmn.quickshot.pro
 Name: Quickshot : Pro
@@ -658,9 +640,9 @@ Section: Apps PRO
 Version: 1.5.6
 Filename: ./debs/com.sbhnkhrmn.quickshot.pro_1.5.6_iphoneos-arm.deb
 Size: 4072
-MD5sum: 7BD4076B3CDA3434234BB30D38ABE432
-Sha1: D79213A355E78A6B71691DCC032E58576044D569
-Sha256: ED77A2EEE705A6702BBCFB270E9E7E0FFA431EB615148E5BB6EF096F10F24E52
+MD5sum: 7bd4076b3cda3434234bb30d38abe432
+Sha1: d79213a355e78a6b71691dcc032e58576044d569
+Sha256: ed77a2eee705a6702bbcfb270e9e7e0ffa431eb615148e5bb6ef096f10f24e52
 
 Package: com.sbhnkhrmn.ripl.pro
 Name: Ripl : Pro
@@ -677,9 +659,9 @@ Section: Apps PRO
 Version: 4.0.20
 Filename: ./debs/com.sbhnkhrmn.ripl.pro_4.0.20_iphoneos-arm.deb
 Size: 5136
-MD5sum: B04E7159A38AB93BF2D58BABDDD03878
-Sha1: B7EF71C3144BCAB07900A2DE4CCC67C141C1254E
-Sha256: 503ABDE2CD01370DB2BF8A8E8DD6CE8FB9E3BEF820C062538E8D83C8083F00FA
+MD5sum: b04e7159a38ab93bf2d58babddd03878
+Sha1: b7ef71c3144bcab07900a2de4ccc67c141c1254e
+Sha256: 503abde2cd01370db2bf8a8e8dd6ce8fb9e3bef820c062538e8d83c8083f00fa
 
 Package: com.sbhnkhrmn.scannertranslator.pro
 Name: ScannerTranslator : Pro
@@ -696,9 +678,9 @@ Section: Apps PRO
 Version: 5.0
 Filename: ./debs/com.sbhnkhrmn.scannertranslator.pro_5.0_iphoneos-arm.deb
 Size: 7368
-MD5sum: D7058F7B62BC4C65E604E77833B81CC4
-Sha1: 3FC0A1029E4389FBA00910CE53091F8B421AC195
-Sha256: 0BE3D9BBB3AAC8FD0ED67A80D40B25833015C76A05F152944B319160472A441A
+MD5sum: d7058f7b62bc4c65e604e77833b81cc4
+Sha1: 3fc0a1029e4389fba00910ce53091f8b421ac195
+Sha256: 0be3d9bbb3aac8fd0ed67a80d40b25833015c76a05f152944b319160472a441a
 
 Package: com.sbhnkhrmn.skecthes.pro
 Name: Skecthes : Pro
@@ -715,9 +697,9 @@ Section: Apps PRO
 Version: 23.8
 Filename: ./debs/com.sbhnkhrmn.skecthes.pro_23.8_iphoneos-arm.deb
 Size: 4030
-MD5sum: B3F649AC8EBA464F9B393D86933199F1
-Sha1: B1D992F70018B3923CD12EB7071DC0D5E79E4952
-Sha256: 0D41C6EE5394B36CF4C7700C85273879D8390A3BC2D1D90B3F606FCA0B152A0B
+MD5sum: b3f649ac8eba464f9b393d86933199f1
+Sha1: b1d992f70018b3923cd12eb7071dc0d5e79e4952
+Sha256: 0d41c6ee5394b36cf4c7700c85273879d8390a3bc2d1d90b3f606fca0b152a0b
 
 Package: com.sbhnkhrmn.starvpn.pro
 Name: Star Vpn : Pro
@@ -734,9 +716,9 @@ Section: Apps PRO
 Version: 3.1.0
 Filename: ./debs/com.sbhnkhrmn.starvpn.pro_3.1.0_iphoneos-arm.deb
 Size: 5172
-MD5sum: 9BC8A80D9FA77B4B499F21A1C996CBD6
-Sha1: A0D14F443BBFD62467F86BD4D1BDDCB181370190
-Sha256: A7D336B3193F8854B60AF071F7937BE43EE19DE73B6642F50DEBDEBE299BCBBF
+MD5sum: 9bc8a80d9fa77b4b499f21a1c996cbd6
+Sha1: a0d14f443bbfd62467f86bd4d1bddcb181370190
+Sha256: a7d336b3193f8854b60af071f7937be43ee19de73b6642f50debdebe299bcbbf
 
 Package: com.sbhnkhrmn.tinder.pro
 Name: Tinder : Pro
@@ -753,9 +735,9 @@ Section: Tweaks
 Version: 11.10.2
 Filename: ./debs/com.sbhnkhrmn.tinder.pro_11.10.2_iphoneos-arm.deb
 Size: 9244
-MD5sum: 0174F92E3A5B2FCF55227DFDE7E983E5
-Sha1: B723737C2312452554D66BB4555718F1536483B9
-Sha256: 9337761E320DA4956C19E0E8FDB5D9861332469E7B2BC28EE10DCF6493B405C9
+MD5sum: 0174f92e3a5b2fcf55227dfde7e983e5
+Sha1: b723737c2312452554d66bb4555718f1536483b9
+Sha256: 9337761e320da4956c19e0e8fdb5d9861332469e7b2bc28ee10dcf6493b405c9
 
 Package: com.sbhnkhrmn.torvpn.pro
 Name: TOR Vpn : Pro
@@ -772,9 +754,9 @@ Section: Apps PRO
 Version: 2.1.1
 Filename: ./debs/com.sbhnkhrmn.torvpn.pro_2.1.1_iphoneos-arm.deb
 Size: 5736
-MD5sum: C2AAADB93BAF7C1E7FD4DB86C6F15534
-Sha1: C27E94FC6C458698EA706F4D343312EEEED039D7
-Sha256: BDCD775F40D7B4E3B08BF790A0058B0D56AD45101119BB6AE085EFFD5C40DBFC
+MD5sum: c2aaadb93baf7c1e7fd4db86c6f15534
+Sha1: c27e94fc6c458698ea706f4d343312eeeed039d7
+Sha256: bdcd775f40d7b4e3b08bf790a0058b0d56ad45101119bb6ae085effd5c40dbfc
 
 Package: com.sbhnkhrmn.translatephoto.pro
 Name: Translate Photo : Pro
@@ -791,9 +773,9 @@ Section: Apps PRO
 Version: 4.5
 Filename: ./debs/com.sbhnkhrmn.translatephoto.pro_4.5_iphoneos-arm.deb
 Size: 6364
-MD5sum: 8D615233A850E6A860AE6E2959C4B9D2
-Sha1: 4B8155CAD74FD227CA50BD6A1B77D6EC460F3128
-Sha256: 0ED939A4C6992E5515B61B86E70B556EBE8D200872CADE027A4AED6501655E8D
+MD5sum: 8d615233a850e6a860ae6e2959c4b9d2
+Sha1: 4b8155cad74fd227ca50bd6a1b77d6ec460f3128
+Sha256: 0ed939a4c6992e5515b61b86e70b556ebe8d200872cade027a4aed6501655e8d
 
 Package: com.sbhnkhrmn.turbovpn.pro
 Name: Turbo Vpn : Pro
@@ -810,9 +792,9 @@ Section: Apps PRO
 Version: 2.4.6
 Filename: ./debs/com.sbhnkhrmn.turbovpn.pro_2.4.6_iphoneos-arm.deb
 Size: 4774
-MD5sum: F50B5BF7517215ABA794AF195C9DAEA8
-Sha1: E34D223FDC181B5C6062A97360AA4AD118101EFF
-Sha256: 43BE48FB513A9AA1D762E7B493A9CAF3CB16932243C2F44D83292633879EAC1A
+MD5sum: f50b5bf7517215aba794af195c9daea8
+Sha1: e34d223fdc181b5c6062a97360aa4ad118101eff
+Sha256: 43be48fb513a9aa1d762e7b493a9caf3cb16932243c2f44d83292633879eac1a
 
 Package: com.sbhnkhrmn.vcus.pro
 Name: Vcus : Pro
@@ -829,9 +811,9 @@ Section: Apps PRO
 Version: 1.2.020
 Filename: ./debs/com.sbhnkhrmn.vcus.pro_1.2.020_iphoneos-arm.deb
 Size: 5092
-MD5sum: 3B4FD5AF5B6D96241931EC16F791A0FA
-Sha1: 889AEB1FFFB889B01C1443375B72C31595CE7F22
-Sha256: C93E6887028B61D281F7F7A76AB3AA909DD6418899B7E0DBF99831729829941F
+MD5sum: 3b4fd5af5b6d96241931ec16f791a0fa
+Sha1: 889aeb1fffb889b01c1443375b72c31595ce7f22
+Sha256: c93e6887028b61d281f7f7a76ab3aa909dd6418899b7e0dbf99831729829941f
 
 Package: com.sbhnkhrmn.videoshop.pro
 Name: Video Shop : Pro
@@ -848,9 +830,9 @@ Section: Apps PRO
 Version: 7.7.0.2
 Filename: ./debs/com.sbhnkhrmn.videoshop.pro_7.7.0.2_iphoneos-arm.deb
 Size: 4550
-MD5sum: E15D42B46E3173FCEBB55FF3E98F34B3
-Sha11: CAF08E76DB78F3F2D6B9189FB48348970B5BAF17
-Sha256: 7958FE6C3584852A22EDB6188AAE7522F8AF0763826C4EC7A7F8C2D262EF2362
+MD5sum: e15d42b46e3173fcebb55ff3e98f34b3
+Sha1: caf08e76db78f3f2d6b9189fb48348970b5baf17
+Sha256: 7958fe6c3584852a22edb6188aae7522f8af0763826c4ec7a7f8c2d262ef2362
 
 Package: com.sbhnkhrmn.videoleap.pro
 Name: Videoleap : Pro
@@ -867,9 +849,9 @@ Section: Apps PRO
 Version: 1.12.5
 Filename: ./debs/com.sbhnkhrmn.videoleap.pro_1.12.5_iphoneos-arm.deb
 Size: 4212
-MD5sum: 70F564FE8E8604455B303F47C4445698
-Sha1: A7F9821B7663DFC3D53897E7058361BE50BB2026
-Sha256: 79778D55D363CA5A00C319F08D417BDCCDF3A6E6333CCDB2AF3AEB03C748F3A7
+MD5sum: 70f564fe8e8604455b303f47c4445698
+Sha1: a7f9821b7663dfc3d53897e7058361be50bb2026
+Sha256: 79778d55d363ca5a00c319f08d417bdccdf3a6e6333ccdb2af3aeb03c748f3a7
 
 Package: com.sbhnkhrmn.vivavideo.pro
 Name: VivaVideo : Pro
@@ -886,9 +868,9 @@ Section: Apps PRO
 Version: 7.17.3
 Filename: ./debs/com.sbhnkhrmn.vivavideo.pro_7.17.3_iphoneos-arm.deb
 Size: 4208
-MD5sum: 3EBAFA101C5655239DE57C40B264A513
-Sha1: 3B932A0333FDA3828F7687EF312C299F3C6AA0EF
-Sha256: F58EE2CFEDB4F86BF4A3133BAB1A966CD187E54751EEA5C6B1BEBD7467B0FC1E
+MD5sum: 3ebafa101c5655239de57c40b264a513
+Sha1: 3b932a0333fda3828f7687ef312c299f3c6aa0ef
+Sha256: f58ee2cfedb4f86bf4a3133bab1a966cd187e54751eea5c6b1bebd7467b0fc1e
 
 Package: com.sbhnkhrmn.vpnalpha.pro
 Name: Vpn Alpha : Pro
@@ -905,9 +887,9 @@ Section: Apps PRO
 Version: 1.6
 Filename: ./debs/com.sbhnkhrmn.vpnalpha.pro_1.6_iphoneos-arm.deb
 Size: 4218
-MD5sum: D75EA06C9AFEA7BCDEE4E79D5DC6C0E6
-Sha1: C71C650C0F3BD828F1513945BCD2777E6894CFC5
-Sha256: EBC0E19B61D938692BF9241688F7030EC3A89F9D00590A54C9642F47F363C8FE
+MD5sum: d75ea06c9afea7bcdee4e79d5dc6c0e6
+Sha1: c71c650c0f3bd828f1513945bcd2777e6894cfc5
+Sha256: ebc0e19b61d938692bf9241688f7030ec3a89f9d00590a54c9642f47f363c8fe
 
 Package: com.sbhnkhrmn.vpnbubble.pro
 Name: VPN Bubble : Pro
@@ -924,9 +906,9 @@ Section: Apps PRO
 Version: 1.2
 Filename: ./debs/com.sbhnkhrmn.vpnbubble.pro_1.2_iphoneos-arm.deb
 Size: 4564
-MD5sum: 21F905A368DA7B8F15232CF858486690
-Sha1: 053634851EDAC3A06567C7DA6875ED1FE5E1413B
-Sha256: 8CC57A9BB32346A26E909886B97AA7A1B2B2BD8FD47C1DD580A0C83DD7A10F0E
+MD5sum: 21f905a368da7b8f15232cf858486690
+Sha1: 053634851edac3a06567c7da6875ed1fe5e1413b
+Sha256: 8cc57a9bb32346a26e909886b97aa7a1b2b2bd8fd47c1dd580a0c83dd7a10f0e
 
 Package: com.sbhnkhrmn.vpnintouch.pro
 Name: VPN in Touch : Pro
@@ -943,9 +925,9 @@ Section: Apps PRO
 Version: 5.4.3
 Filename: ./debs/com.sbhnkhrmn.vpnintouch.pro_5.4.3_iphoneos-arm.deb
 Size: 4598
-MD5sum: 99A86FC1E97BA9D27BFBD110A480E596
-Sha1: 53E53506E37D29D563DD334526522343481C51D4
-Sha256: 6BCC72BDDDE45A322576610C922686B766D21AFF7766A060B83519CEF1BDC298
+MD5sum: 99a86fc1e97ba9d27bfbd110a480e596
+Sha1: 53e53506e37d29d563dd334526522343481c51d4
+Sha256: 6bcc72bddde45a322576610c922686b766d21aff7766a060b83519cef1bdc298
 
 Package: com.sbhnkhrmn.vpnprime.pro
 Name: VPN Prime : Pro
@@ -962,9 +944,9 @@ Section: Apps PRO
 Version: 1.7.0
 Filename: ./debs/com.sbhnkhrmn.vpnprime.pro_1.7.0_iphoneos-arm.deb
 Size: 4734
-MD5sum: F63087CB7DB639C45A42ED0D44F11B88
-Sha1: A1C5634EE5A27A951B169D428C94D54D7692D9C3
-Sha256: F25F416B97F5454E71D2B36082C8F660502B9251DC6F5A2C0621D52A729502D0
+MD5sum: f63087cb7db639c45a42ed0d44f11b88
+Sha1: a1c5634ee5a27a951b169d428c94d54d7692d9c3
+Sha256: f25f416b97f5454e71d2b36082c8f660502b9251dc6f5a2c0621d52a729502d0
 
 Package: com.sbhnkhrmn.vpnproxymaster.pro
 Name: Vpn Proxy Master : Pro
@@ -981,9 +963,9 @@ Section: Apps PRO
 Version: 5.3.1
 Filename: ./debs/com.sbhnkhrmn.vpnproxymaster.pro_5.3.1_iphoneos-arm.deb
 Size: 5138
-MD5sum: 0555D2476D706BA765E01AF06E437AC3
-Sha1: 311ED47FF997518127D51E3F10EE3F8DAE4C31E9
-Sha256: 6853BE837BD48C1718240E07F53AC397484D8FA42BEF608FA55E0ED86BEFB755
+MD5sum: 0555d2476d706ba765e01af06e437ac3
+Sha1: 311ed47ff997518127d51e3f10ee3f8dae4c31e9
+Sha256: 6853be837bd48c1718240e07f53ac397484d8fa42bef608fa55e0ed86befb755
 
 Package: com.sbhnkhrmn.wallpapers.apalon.pro
 Name: Wallpapers ( Apalon ) : Pro
@@ -1000,9 +982,9 @@ Section: Apps PRO
 Version: 5.13.0
 Filename: ./debs/com.sbhnkhrmn.wallpapers.apalon.pro_5.13.0_iphoneos-arm.deb
 Size: 4278
-MD5sum: 1231072EE053632D6B4204292F9523FC
-Sha1: 354DB73771ED3E6B84B465371C6BAD556A478CA8
-Sha256: 3DEDC3B74C9AEF6826CF416A68073700211481E357B0963BBC3DA1421169EE8F
+MD5sum: 1231072ee053632d6b4204292f9523fc
+Sha1: 354db73771ed3e6b84b465371c6bad556a478ca8
+Sha256: 3dedc3b74c9aef6826cf416a68073700211481e357b0963bbc3da1421169ee8f
 
 Package: com.sbhnkhrmn.weatherlive.pro
 Name: Weather Live : Pro
@@ -1019,9 +1001,9 @@ Section: Apps PRO
 Version: 6.12.0
 Filename: ./debs/com.sbhnkhrmn.weatherlive.pro_6.12.0_iphoneos-arm.deb
 Size: 5016
-MD5sum: 957ACBFCD9E45D7013656574C93C6FC3
-Sha1: 5888A363F8B3233F36CB20DF399B1025551E476F
-Sha256: 864E0EC63795B353B030128661E353E4988B6CDE556BBA415A27777789BCC16D
+MD5sum: 957acbfcd9e45d7013656574c93c6fc3
+Sha1: 5888a363f8b3233f36cb20df399b1025551e476f
+Sha256: 864e0ec63795b353b030128661e353e4988b6cde556bba415a27777789bcc16d
 
 Package: com.sbhnkhrmn.wpsoffice.pro
 Name: WPS Office : Pro
@@ -1038,9 +1020,9 @@ Section: Apps PRO
 Version: 10.6.1
 Filename: ./debs/com.sbhnkhrmn.wpsoffice.pro_10.6.1_iphoneos-arm.deb
 Size: 7348
-MD5sum: FD3AA5D1EF0C62C765D2BE2FD8D06114
-Sha1: 7A06F673FB20D911BAE3DF5A78E6216C9F7AD88E
-Sha256: 32A40936A2EAF8443375D6987548B29EDBA607B8215725BDFEBCED1D3B434F9B
+MD5sum: fd3aa5d1ef0c62c765d2be2fd8d06114
+Sha1: 7a06f673fb20d911bae3df5a78e6216c9f7ad88e
+Sha256: 32a40936a2eaf8443375d6987548b29edba607b8215725bdfebced1d3b434f9b
 
 Package: com.sbhnkhrmn.youstar.pro
 Name: YouStar ( Video Edit ) : Pro
@@ -1057,6 +1039,497 @@ Section: Apps PRO
 Version: 1.6.1
 Filename: ./debs/com.sbhnkhrmn.youstar.pro_1.6.1_iphoneos-arm.deb
 Size: 4520
-MD5sum: 6694F4AB58332A68E051D74B260065D4
-Sha1: 196966E0269C12723AABA3BD630B06F9AAD6FA08
-Sha256: CAF6CD99BE83E1251DA97A67DF673B666F8F13AA5214C34453E4637FF7B770E7
+MD5sum: 6694f4ab58332a68e051d74b260065d4
+Sha1: 196966e0269c12723aaba3bd630b06f9aad6fa08
+Sha256: caf6cd99be83e1251da97a67df673b666f8f13aa5214c34453e4637ff7b770e7
+
+Package: com.sbhnkhrmn.camera.rotate.bar
+Name: Camera : Rotate Bar
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: Unlocks the landscape screen rotation.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.rotate.bar/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.rotate.bar/index.php
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.camera.rotate.bar_0.0.1_iphoneos-arm.deb
+Size: 5190
+MD5sum: df0412122037d03098d80b1e555039e4
+Sha1: 117061da54ba6532b24c0e9acb17f59e8edb7cbf
+Sha256: cb604f3fdaa48d2fac9b14371ec894372fb3f069f996bfd6da8876739ad0a22c
+
+Package: com.sbhnkhrmn.camera.style.ipad
+Name: Camera : Style / iPad
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: replaces button with ipad style to select.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.style.ipad/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.style.ipad/index.php
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.camera.style.ipad_0.0.1_iphoneos-arm.deb
+Size: 4630
+MD5sum: fdffa32365aea80309f2831de4437760
+Sha1: 7cdb504202804fb1174ae35b595a037af28765e9
+Sha256: 8009861dfefdf0a48fe9e9992d3470db3dae41a6fc5993df075980dafeccd87b
+
+Package: com.sbhnkhrmn.camera.style.ipad
+Name: Camera : Style / iPad
+Depends: mobilesubstrate, firmware (>=12.0)
+Architecture: iphoneos-arm
+Description: replaces button with ipad style to select.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.style.ipad/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.style.ipad/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweak
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.camera.style.ipad_0.0.1_iphoneos-arm.deb
+Size: 4100
+MD5sum: 86e5d6f136637ac5190811ac21ea8ac4
+Sha1: 77be9dae6f02d74fbd8bf9164366a9b8d48da77a
+Sha256: e37a049d091d636830514d75b44f61b3ddd3185532e71e8e3ff361ce3860e435
+
+Package: com.sbhnkhrmn.camera.Transparent.bar
+Name: Camera : Transparent Bar
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: removes the black shade from the buttons.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.Transparent.bar/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/sbhnkhrmn.camera.Transparent.bar/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn     
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.camera.Transparent.bar_0.0.1_iphoneos-arm.deb
+Size: 4444
+MD5sum: 345e136cad723551c2406dd8e96d3dc6
+Sha1: e987ce4b779aedbfb6e7e5bb5e99be453e1f4ff6
+Sha256: fabdfafed1f20cbac47d980c693869c7164f9a9fbf649692b8f1f1b2dda03317
+
+Package: com.sbhnkhrmn.dock.backgroundhidden
+Name: Dock : Background / Hide
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: removes the built-in dock background.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dock.backgroundhidden/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dock.backgroundhidden/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.dock.backgroundhidden_0.0.1_iphoneos-arm.deb
+Size: 4510
+MD5sum: 624779d2efd6474b7a18f9d001345530
+Sha1: cf5fb587e9b356b803668458011fb889c43f3839
+Sha256: 3a1f4549bcb910a031eb7ba819710de4003da8b54939f4381b609d007dbeea2a
+
+Package: com.sbhnkhrmn.dock.stylex
+Name: Dock Style iPhone X
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: iPhone X style Dock now supports iPhone 8
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dock.stylex/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dock.stylex/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.dock.stylex_0.0.1_iphoneos-arm.deb
+Size: 4022
+MD5sum: 311dfe2d53b4767217dba5bdf6314659
+Sha1: 4119e4c38aacd1ff870a5de40267a31126994610
+Sha256: b732da4d5aa84099bc31ef80f96379507267fcbf987ae2b61c04ec61aecd4078
+
+Package: com.sbhnkhrmn.instagram.iglikesshow
+Name: IG : Likes Show
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: It has been activated for the number of likes and countries that do not support Imaging.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.iglikesshow/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.iglikesshow/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 135.0
+Filename: ./debs/com.sbhnkhrmn.instagram.iglikesshow_135.0_iphoneos-arm.deb
+Size: 4026
+MD5sum: 025505f310daa2828a73f5544f282ae0
+Sha1: 2e025e951804de2c28f0a8526c4e7d920ca04420
+Sha256: 6eedf7e32a899017a17c12df5d07f73fd78ff323636289257975624060762753
+
+Package: com.sbhnkhrmn.instagram.story.addmusicshare
+Name: IG : Story Add Music / Share
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Adds a music tag for countries that do not support music sharing.  It adds music to your stories and shares it with that label.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.story.addmusicshare/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.story.addmusicshare/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 135.0
+Filename: ./debs/com.sbhnkhrmn.instagram.story.addmusicshare_135.0_iphoneos-arm.deb
+Size: 4086
+MD5sum: a6a6f266395d999626f88ad5a1286d8a
+Sha1: bafe00e974d2aa3dbae7aac08d7128caf64295ef
+Sha256: 8a09af778f64f227a6364a7da5ab4b5b6880a05d1f7c211a80aaafce155ed328
+
+Package: com.sbhnkhrmn.instagram.story.pictureinpicture
+Name: IG : Story Picture in Picture
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: allows you to select as many pictures as you want and add them to the same screen.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.story.pictureinpicture/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.story.pictureinpicture/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 135.0
+Filename: ./debs/com.sbhnkhrmn.instagram.story.pictureinpicture_135.0_iphoneos-arm.deb
+Size: 4064
+MD5sum: 111e482e4eea7022fd0a0962be1e3d9c
+Sha1: 45865790d53a7e62a9e78544e7cac2e7c6ff56d5
+Sha256: 7b6b7ce8ed9c63cd158408c6d4101ec732defbd653f4566808d80beda9e0768a
+
+Package: com.sbhnkhrmn.instagram.story.viewed
+Name: IG : Story Viewed
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Allows you to view stories secretly. Notification is not delivered when you take a screenshot.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.story.viewed/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.story.viewed/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 135.0
+Filename: ./debs/com.sbhnkhrmn.instagram.story.viewed_135.0_iphoneos-arm.deb
+Size: 4136
+MD5sum: bfef67e7a6805d3979b38b762d716613
+Sha1: e260e4e78fad605bd0b4046f2afdb03d92655160
+Sha256: 576fc5a506b802c64e927b765d19147ff2b12ad54cd79734706f96031a7ce1e6
+
+Package: com.sbhnkhrmn.youtube.ads
+Name: Youtube : Ads Blocker
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: turns off video watching ads. prevents unnecessary pop notifications.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.youtube.ads/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.youtube.ads/index.php
+Homepage : https://apps.apple.com/app/id544007664
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.youtube.ads_0.0.1_iphoneos-arm.deb
+Size: 4322
+MD5sum: 720ac120855c7c142615b491be28492e
+Sha1: c210d3dce1761a3fd3dd0f26eb5eaba8ad406f8b
+Sha256: 83e3ddbc15b6bcd172a3114a9610776e972b7f6fedd22346418d8e873de62988
+
+Package: com.sbhnkhrmn.youtube.backgroundplayback
+Name: Youtube : Background Playback
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: It recognizes by playing videos in the background.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.youtube.backgroundplayback/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.youtube.backgroundplayback/index.php
+Homepage : https://apps.apple.com/app/id544007664
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.youtube.backgroundplayback_0.0.1_iphoneos-arm.deb
+Size: 4678
+MD5sum: 156ae7343ef569b89f45cfdb683e8405
+Sha1: bff8e1e42438905e4f23842c8b8ad7c237c04210
+Sha256: a2adb92e87dbb88e97d8720584158915609d0457b37aecd2827d0d175b3bf68a
+
+Package: com.sbhnkhrmn.wa.addcontactunlimited
+Name: WA : Add Contacts / Unlimited
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Adding contacts is unlimited. 256 or 10000.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wa.addcontactunlimited/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WhatsApp.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.wa.addcontactunlimited/index.php
+Homepage : https://apps.apple.com/app/id310633997
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wa.addcontactunlimited_0.0.1_iphoneos-arm.deb
+Size: 4990
+MD5sum: 76a49466d35886b6ffb0f0113c5bda34
+Sha1: 0178205cfdcc4c921a9068b5581c4fb161cbe457
+Sha256: 8fba877796ea099b6776e5384f4174ba3c60ea913f7b080c38ef0b4530ca01d2
+
+Package: com.sbhnkhrmn.wa.chat.keyboardonappear
+Name: WA : Chat / Keyboard on Appear
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Automatically launches the keyboard when entered in the message page.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wa.chat.keyboardonappear/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WhatsApp.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.wa.chat.keyboardonappear/index.php
+Homepage : https://apps.apple.com/app/id310633997
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wa.chat.keyboardonappear_0.0.1_iphoneos-arm.deb
+Size: 4086
+MD5sum: 25b2244090efabd4cd1da4b8bf0e4de0
+Sha1: 2eb6e9923d2b7c64234c46a1d5a183ab86a74144
+Sha256: 1d8f16f58173f1565688977d1593619b50a2e168205eb361f1ecd6ab0f8a20c1
+
+Package: com.sbhnkhrmn.wa.deletemessagerevoke
+Name: WA : Delete Message Revoke
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: the message is not deleted from you even if the other party says delete the message from everyone.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wa.deletemessagerevoke/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WhatsApp.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.wa.deletemessagerevoke/index.php
+Homepage : https://apps.apple.com/app/id310633997
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wa.deletemessagerevoke_0.0.1_iphoneos-arm.deb
+Size: 4490
+MD5sum: 536d8fee237bde08c8bf1577b6415671
+Sha1: 4b6bedf7d9c3479b4f01e9964a98c99c122a26b2
+Sha256: 9d6dc492bd0c5e84b14f638b8268256205a1b2427875e9201aece6da049b1fd3
+
+Package: com.sbhnkhrmn.wa.deliveryreceipts
+Name: WA : Delivery Receipts
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Your contacts will not see that you received their messages.it will show only one check.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wa.deliveryreceipts/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WhatsApp.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.wa.deliveryreceipts/index.php
+Homepage : https://apps.apple.com/app/id310633997
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wa.deliveryreceipts_0.0.1_iphoneos-arm.deb
+Size: 4318
+MD5sum: 93d3219b95d6ef2976cf276980c4e3a8
+Sha1: f8fb1eafc607f30f7cdaf7a93aae429973717ade
+Sha256: 5ec1c3179ed56bd2a08cfc19b7e11ea10116cb1ed256f9875cb8d00c0b951ed7
+
+Package: com.sbhnkhrmn.wa.oldUpdatesrevoke
+Name: WA : Old Updates Revoke
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: 90 Days Updates Bloke Unlimited
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wa.oldUpdatesrevoke/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WhatsApp.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.wa.oldUpdatesrevoke/index.php
+Homepage : https://apps.apple.com/app/id310633997
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wa.oldUpdatesrevoke_0.0.1_iphoneos-arm.deb
+Size: 4658
+MD5sum: 6c11ea7c82e997fadb537162cafbaeca
+Sha1: 77acfbbc5d52f1e28bba852a6dfb8c10360a7367
+Sha256: 841091c6cf6c0c312c78d6b0fd7794643d6894477258d2fa333c9d727d7df90d
+
+Package: com.sbhnkhrmn.wa.photosandvideosshare
+Name: WhatsApp : Photos and Videos Share Unlimited
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Removes the limit for sharing pictures and videos.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wa.photosandvideosshare/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WhatsApp.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.wa.photosandvideosshare/index.php
+Homepage : https://apps.apple.com/app/id310633997
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wa.photosandvideosshare_0.0.1_iphoneos-arm.deb
+Size: 4432
+MD5sum: 6a7503d164738d73ac6e8de202ebe88f
+Sha1: 483cc2658aec3b68981021c72821515b32f966d0
+Sha256: 32eed2c440413009549389fba587b540518b252c6e56839d9bcfa7a9e85266a7
+
+Package: com.sbhnkhrmn.wa.profile.characteror256
+Name: WA : Profile / Character OR 256
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Profile name character limit changed to 256.Profile Status character limit changed to 256.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wa.profile.characteror256/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WhatsApp.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.wa.profile.characteror256/index.php
+Homepage : https://apps.apple.com/app/id310633997
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wa.profile.characteror256_0.0.1_iphoneos-arm.deb
+Size: 4740
+MD5sum: 287e671ff82ed232bcbdac2354892645
+Sha1: e1bc14c5bc71a69ccc5f077157a41091dfe87d18
+Sha256: 17a00525e425eba6ad1f95779ddc63628334481717de23236623365fdf0e81b7
+
+Package: com.sbhnkhrmn.wa.readreceipts
+Name: WhatsApp : Read Receipts
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: The message is counted as delivered but unread even if the blue click for the report has been turned on in the settings.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wa.readreceipts/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WhatsApp.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.wa.readreceipts/index.php
+Homepage : https://apps.apple.com/app/id310633997
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wa.readreceipts_0.0.1_iphoneos-arm.deb
+Size: 4642
+MD5sum: aef7b9ccd72a2c06ba97730d918c3aca
+Sha1: 5d664730a29c8c4b7163c6bbc4ea210e36b24cbd
+Sha256: 7849a9ad364b8b597c4512ec53a78536b7d75686ff22aa13bf027ce787343a68
+
+Package: com.sbhnkhrmn.wa.senddeliveryreceipts
+Name: WA : Send Delivery Receipts
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Appears as One-Click unless the message content is checked.  According to the content, it is changed to Blue Click.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wa.senddeliveryreceipts/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WhatsApp.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.wa.senddeliveryreceipts/index.php
+Homepage : https://apps.apple.com/app/id310633997
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wa.senddeliveryreceipts_0.0.1_iphoneos-arm.deb
+Size: 4580
+MD5sum: 67b04381d06cdd3794ffa25eecf583f8
+Sha1: 15946ad8acd16204ec06696c36eed81fe24ee701
+Sha256: bbeb2b91a1877cbac65bdd3682c155d7ea79791d7cb7ebe31ccb795ff0c7f84f
+
+Package: com.sbhnkhrmn.wa.story.autoadvancedisable
+Name: WA : Story / Auto Advance Disable
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Disables advancing stories automatically.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wa.story.autoadvancedisable/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WhatsApp.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.wa.story.autoadvancedisable/index.php
+Homepage : https://apps.apple.com/app/id310633997
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wa.story.autoadvancedisable_0.0.1_iphoneos-arm.deb
+Size: 4122
+MD5sum: ee9f129d48ed79e25d59521a61646c33
+Sha1: b10a49802dc155133e80f1be665cfeb7bb24b9f6
+Sha256: e6601a9a6a21561a0ed165eb3b1df0c35a799a9c9e40ef5f9321f002ed546898
+
+Package: com.sbhnkhrmn.wa.story.markviewed
+Name: WA : Story / Mark Viewed
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: The message is counted as delivered but unread even if the blue click for the report has been turned on in the settings.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wa.story.markviewed/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WhatsApp.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.wa.story.markviewed/index.php
+Homepage : https://apps.apple.com/app/id310633997
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wa.story.markviewed_0.0.1_iphoneos-arm.deb
+Size: 4140
+MD5sum: 16af9db20ac2298ac79e9d2f9a582654
+Sha1: 76ee7cbcb4e06f465c4bb08fa3ab05c95d8bd9e4
+Sha256: d15221868abbd5feb039716eea03b9130823d738238d5304efd7198aa7b13834
+
+Package: com.sbhnkhrmn.wa.typingandrecordingindicator
+Name: WA : Typing and Recording / Hide
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: hides the message of writing and recording sound.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wa.typingandrecordingindicator/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WhatsApp.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.wa.typingandrecordingindicator/index.php
+Homepage : https://apps.apple.com/app/id310633997
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wa.typingandrecordingindicator_0.0.1_iphoneos-arm.deb
+Size: 4584
+MD5sum: 406d5d9ea3efaf36dd6301f3ef84134a
+Sha1: d28936830a7ba9d6dc8794aaf0d77e97ec248bf4
+Sha256: 5ff9effb8195612e619a2757b5c9a29acab716bcd8857a3054a015305117f42f
+
+Package: com.sbhnkhrmn.phonedrive.pro
+Name: Phone Drive : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Phone Drive Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.phonedrive.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_PhoneDrive.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.phonedrive.pro/index.php
+Homepage : https://apps.apple.com/app/id434342171
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 7.6.6
+Filename: ./debs/com.sbhnkhrmn.phonedrive.pro_7.6.6_iphoneos-arm.deb
+Size: 4296
+MD5sum: eb05f33c5291b0d93ff7fa5939d2f3df
+Sha1: 1323f5c1b8992ec61fe0129b8fed5b04d460d890
+Sha256: 8c720116c7e22938b58ee2dbe80cf9a08768a12dec6a83d10827242b61371eb9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
