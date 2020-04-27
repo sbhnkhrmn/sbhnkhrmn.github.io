@@ -720,25 +720,6 @@ MD5sum: 9bc8a80d9fa77b4b499f21a1c996cbd6
 Sha1: a0d14f443bbfd62467f86bd4d1bddcb181370190
 Sha256: a7d336b3193f8854b60af071f7937be43ee19de73b6642f50debdebe299bcbbf
 
-Package: com.sbhnkhrmn.tinder.pro
-Name: Tinder : Pro
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: Activates Premium features of Tinder Application.
-Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tinder.pro/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Tinder.png
-Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tinder.pro/index.php
-Homepage : https://apps.apple.com/ua/app/tinder-match-chat-date/id547702041
-Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Section: Tweaks
-Version: 11.10.2
-Filename: ./debs/com.sbhnkhrmn.tinder.pro_11.10.2_iphoneos-arm.deb
-Size: 9244
-MD5sum: 0174f92e3a5b2fcf55227dfde7e983e5
-Sha1: b723737c2312452554d66bb4555718f1536483b9
-Sha256: 9337761e320da4956c19e0e8fdb5d9861332469e7b2bc28ee10dcf6493b405c9
-
 Package: com.sbhnkhrmn.torvpn.pro
 Name: TOR Vpn : Pro
 Architecture: iphoneos-arm
@@ -1515,6 +1496,830 @@ Size: 4296
 MD5sum: eb05f33c5291b0d93ff7fa5939d2f3df
 Sha1: 1323f5c1b8992ec61fe0129b8fed5b04d460d890
 Sha256: 8c720116c7e22938b58ee2dbe80cf9a08768a12dec6a83d10827242b61371eb9
+
+Package: com.sbhnkhrmn.tinder.pro
+Name: Tinder : Pro
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Activates Premium features of Tinder Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tinder.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Tinder.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tinder.pro/index.php
+Homepage : https://apps.apple.com/ua/app/tinder-match-chat-date/id547702041
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 11.10.2
+Filename: ./debs/com.sbhnkhrmn.tinder.pro_11.10.2_iphoneos-arm.deb
+Size: 9246
+MD5sum: 6ec63719f003c4bb7668f050404d2c51
+Sha1: 6f942bcab355b34f950fd02b1b8e34589471288c
+Sha256: 26330ff878d398f5f3b01335f2b57de8c746a1c6125aca6c7877019019c2f803
+
+Package: com.sbhnkhrmn.folder.backgroundblur
+Name: Folder: Background Blur / Disable
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: Removes Folder Background Blur. Cleans the HomeScreen Screen
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.folder.backgroundblur/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.folder.backgroundblur/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.folder.backgroundblur_0.0.1_iphoneos-arm.deb
+Size: 4856
+MD5sum: c254beee37160ab72fbf6c8aa25271ed
+Sha1: 0e6e37175bb45b47a416cbe3457599ac537705e7
+Sha256: c36c70e6ee99d54b4b3a1f7f932a00bc4ffeaaf14074eaa678d965fef810cd4e
+
+Package: com.sbhnkhrmn.folder.iconsbackgroundblur
+Name: Folder: Icons Background Blur / Disable
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: Removes Folder Icons Background Blur. Cleans the HomeScreen Screen.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.folder.iconsbackgroundblur/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.folder.iconsbackgroundblur/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.folder.iconsbackgroundblur_0.0.1_iphoneos-arm.deb
+Size: 4684
+MD5sum: 00069e403506c4225454d22c3957f8a9
+Sha1: d1f0e1cfcce76395ba32c28b8d4d665f57407651
+Sha256: 97da8a312953d36eb36102e8430e7932f38ba86818868ff7b3218f394c7fb203
+
+Package: com.sbhnkhrmn.folder.title.disable
+Name: Folder : Title / Disable
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: Disables folder names.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.folder.title.disable/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.folder.title.disable/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.folder.title.disable_0.0.1_iphoneos-arm.deb
+Size: 4028
+MD5sum: ae85283c8bbf65996a9cff6a466e66e2
+Sha1: 2f294691cf4a309147ee47fa234b44348c74bc1b
+Sha256: 0fc7aac5e404dc95f1cf46bea1203559b402491d3ac3e4fdedd2feb6ae139212
+
+Package: com.sbhnkhrmn.homescreen.dots.disable
+Name: HS : Dots / Disable
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: scroll page dots are disabled.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.dots.disable/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.dots.disable/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.homescreen.dots.disable_0.0.1_iphoneos-arm.deb
+Size: 4160
+MD5sum: 4bbe29eb2b790664e5dda00626a4a80f
+Sha1: 0943a762c705df0978581aed1e406853a8afcdb8
+Sha256: 6820e362e5d39a2e02f0d779b3f02935198570627c8c08deed377d03b7a473ab
+
+Package: com.sbhnkhrmn.homescreen.iconsalphabetically
+Name: HS : Icons Alphabetically
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: arranges the icons in letter order.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.iconsalphabetically/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.iconsalphabetically/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.homescreen.iconsalphabetically_0.0.1_iphoneos-arm.deb
+Size: 4210
+MD5sum: d8259a4fba2816d54ab699a2d12b95ff
+Sha1: 6efdfa2ef3b196c25db9bcdb38586c461235c8ef
+Sha256: 3e0a3547bf4a8bbea993d3fe99295fd2057f414c4cf0e2d3a9bc199a189d816f
+
+Package: com.sbhnkhrmn.homescreen.label.accessory.disable
+Name: HS : Label Accessory / Disable
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: The updated app and Testflight disable the blue and orange notification indicating installed apps.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.label.accessory.disable/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.label.accessory.disable/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.homescreen.label.accessory.disable_0.0.1_iphoneos-arm.deb
+Size: 4346
+MD5sum: bcbe27f2f0350a4284f99bcc51aa18e6
+Sha1: 36fa5855574d17590316a54451b49e6f65e3f41b
+Sha256: a3b44066198d2bb5a30142d0c81e9e0bb249c2bf3234efdb42a983fe3a0da61b
+
+Package: com.sbhnkhrmn.homescreen.label.hidden
+Name: HS : Label / Hidden
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: Hides Application names on Home Screen
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.label.hidden/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.label.hidden/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.homescreen.label.hidden_0.0.1_iphoneos-arm.deb
+Size: 4062
+MD5sum: 363035b6f6e5412b710908bb59e4533a
+Sha1: cfaa067536f5a2ca934d45e9c6fc78efc64a90b7
+Sha256: 2df6d0e3f3b28ceb5c151d6c66cc7b2e493cc1c18ee5d0b1c1e93cf63e187e8d
+
+Package: com.sbhnkhrmn.homescreen.rotation.styleipad
+Name: Rotation : Style / iPad
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: With the direction lock unlocked, the landscape view changes with the ipad style.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.rotation.styleipad/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.rotation.styleipad/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.homescreen.rotation.styleipad_0.0.1_iphoneos-arm.deb
+Size: 4302
+MD5sum: 33edc5ca9aeb66356ad039c219964f98
+Sha1: 9ec8bd22a114efd8e35873fac39c1511c5dea88e
+Sha256: 0d4aecbef5ddbb6bf9a28a8e707f78a90893002dfca005dc8eff1f806656ae6d
+
+Package: com.sbhnkhrmn.homescreen.searchgesture.disable
+Name: HS : Search Gesture / Disable
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: swipe search is disabled on the home screen.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.searchgesture.disable/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.searchgesture.disable/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.homescreen.searchgesture.disable_0.0.1_iphoneos-arm.deb
+Size: 4324
+MD5sum: 2102303f2a6051dccd7ceb35b3284f25
+Sha1: 8ee400c8cd50b09c60a323b8dde8f75ddbfa4229
+Sha256: 9343b71e42fb2f6f6111e80ff48f1fbda918a7b8daf12cc6be6314abe1428a78
+
+Package: com.sbhnkhrmn.homescreen.todaypage
+Name: HS Today Page Disable
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: the home screen also disables the page today.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.todaypage/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.todaypage/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.homescreen.todaypage_0.0.1_iphoneos-arm.deb
+Size: 4520
+MD5sum: 85c537ecf5c1541f1a8025399a4dd92e
+Sha1: af82aad8479b99fb508e0ca8c21faf5aa9da5ddf
+Sha256: a3e9b932c0f1c0bf035b809d915fbf398fe952be3adec23e55b42c9df37506a2
+
+Package: com.sbhnkhrmn.lockscreen.autorotate
+Name: LS : Auto Rotate
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: lock screen rotates like ipad with direction lock unlocked.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.lockscreen.autorotate/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.lockscreen.autorotate/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.lockscreen.autorotate_0.0.1_iphoneos-arm.deb
+Size: 4066
+MD5sum: ef40f2a860016a6c2bc694a3a8b627db
+Sha1: 35118f200e0331c88d75e9ee6fe1017930f5171f
+Sha256: 7c716c70f71dc173d790e9404806339710346b467bfcf4329678a8158e9b1193
+
+Package: com.sbhnkhrmn.lockscreen.lowpoweralert
+Name: LS : Low Power Alert
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description:Low battery alert on the lock screen
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.lockscreen.lowpoweralert/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.lockscreen.lowpoweralert/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.lockscreen.lowpoweralert_0.0.1_iphoneos-arm.deb
+Size: 4038
+MD5sum: 09764aecddc664510e673f2c8d8b11c6
+Sha1: 9944d168cb2cd61773de4d01e6def6295a334501
+Sha256: ad970214c07e4b454472c691808e6dd135b1d4a407b7594f5bc56bce77212c89
+
+Package: com.sbhnkhrmn.lockscren.notification.cameraview.disable
+Name: LS / NC : Camera View Disable
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: Disables camera page from Lock screen and Notification screen.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.lockscren.notification.cameraview.disable/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.lockscren.notification.cameraview.disable/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.lockscren.notification.cameraview.disable_0.0.1_iphoneos-arm.deb
+Size: 4378
+MD5sum: 9da5af589af00f762b5a57eb00b202c9
+Sha1: 0d251ea5488188fcaab81168e769fe3706bd5c1c
+Sha256: e9072bf9eb88947ccbe3a403503b0e1995969385285c90d37493179fc5c99e58
+
+Package: com.sbhnkhrmn.lockscren.notification.todayview.disable
+Name: LS / NC : Today View Disable
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: Disables the page today from the lock screen and Notification screen.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.lockscren.notification.todayview.disable/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.lockscren.notification.todayview.disable/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.lockscren.notification.todayview.disable_0.0.1_iphoneos-arm.deb
+Size: 4166
+MD5sum: dfbfd890f81f8a863d44ef3df83ff080
+Sha1: 95a3b3bf6c965a8d5e60f7e3e4428a4162c102ff
+Sha256: fdb3a954ef82250b8498a1790185ab8dd70dbfa13a19cb47635886e3206ac143
+
+Package: com.sbhnkhrmn.photos.album.selectall
+Name: Photos : Album / Select All
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: Adds a select all button to albums.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.album.selectall/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.album.selectall/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.photos.album.selectall_0.0.1_iphoneos-arm.deb
+Size: 4250
+MD5sum: 6e89ec381d7c7702d70c856855c3211c
+Sha1: 3e395491512580887686e3a7b72c164820269b9c
+Sha256: 8fd14dd5f5c68616d3fb2513ef4ed16ba94b88353cdca43be92e9652b3fcd7f0
+
+Package: com.sbhnkhrmn.photos.album.typesofmedia
+Name: Photos : Album / Types Of Media
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: activates invisible photo types.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.album.typesofmedia/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.album.typesofmedia/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.photos.album.typesofmedia_0.0.1_iphoneos-arm.deb
+Size: 4136
+MD5sum: 9bcfc009e9006fb6b81ed08ffbb7142e
+Sha1: a00c87770b13df61b204b5f86331dfaa63084033
+Sha256: 8c550fd70e503644a0ce2c5618a8d8e56f051785aaca48bdc2a84e85aa847978
+
+Package: com.sbhnkhrmn.photos.13or12albumtab
+Name: Photos : Album Tab 13 or 12
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: Replaces iOS 13 album tab with ios 12 tab.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.13or12albumtab/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dock.backgroundhidden/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.photos.13or12albumtab_0.0.1_iphoneos-arm.deb
+Size: 4650
+MD5sum: 36e81b7ac33ccc985a810d533d8f4214
+Sha1: d0713397592352e027c50f278d9f3ad489528e06
+Sha256: 9aba159fc0bcd76264a96a2119e783549f644a116f22ee577216cd535d239513
+
+Package: com.sbhnkhrmn.photos.13or12photostab
+Name: Photos : Photos Tab 13 or 12
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: Replaces ios 13 photos tab with ios 12 tab.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.13or12photostab/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.13or12photostab/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.photos.13or12photostab_0.0.1_iphoneos-arm.deb
+Size: 4606
+MD5sum: 3f3d30366701e9d6c97e2be4a269e8cc
+Sha1: 2ff097f1e0b7016feeb0f7571f1cef13df00fd95
+Sha256: 4c2072f1ac4c3e27a11f4dd174bde9b72c695d0192676441b6785441b4540ab6
+
+Package: com.sbhnkhrmn.photos.skipdeleteconfirmation
+Name: Photos : Skip Delete Confirmation
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: disables delete confirmation
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.skipdeleteconfirmation/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.skipdeleteconfirmation/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.photos.skipdeleteconfirmation_0.0.1_iphoneos-arm.deb
+Size: 4354
+MD5sum: 1d3b04e6100648fb53c09585e7f29a34
+Sha1: c58f376141931cb180d18b020945c6594903d710
+Sha256: 9ed6fb70afef176966f0e44745e61e01d10b229e292f3039798409631ea21e46
+
+Package: com.sbhnkhrmn.photos.zoom
+Name: Photos : Zoom / Unlimited
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: Removes the zoom lock.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.zoom/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.zoom/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.photos.zoom_0.0.1_iphoneos-arm.deb
+Size: 4348
+MD5sum: 41ff764302c2d853b6c7c89280ff31e2
+Sha1: d640f60f62e5f654e43aba2ab47e7ee95a0fbb38
+Sha256: 7044fbd836f0a7d7cd6837eb5c73ba9b0d9a422604ecc53c93c8fba9cb4742fb
+
+Package: com.sbhnkhrmn.safari.bookmarksbar.favoritesgrid
+Name: Safari : Bookmarks / Favorite Grid Layout
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: raises favorite bookmarks from 4 to 6 frames.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.bookmarksbar.favoritesgrid/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.bookmarksbar.favoritesgrid/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.safari.bookmarksbar.favoritesgrid_0.0.1_iphoneos-arm.deb
+Size: 4518
+MD5sum: ff9f04ae19ceedc00f841432f4956585
+Sha1: 3ad83ca0ecd119baed59196dd16d83e5253f11f6
+Sha256: 58aef3a7481453dfcf507615b0f2a13a7e157e7ac9e75cda26fd059b0d5a6106
+
+Package: com.sbhnkhrmn.safari.bookmarksbar.styleipad
+Name: Safari : Bookmarks Bar - Style / iPad
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: safari inject bookmarks ipad feature. Displays shortcuts as in the desktop application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.bookmarksbar.styleipad/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.bookmarksbar.styleipad/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.safari.bookmarksbar.styleipad_0.0.1_iphoneos-arm.deb
+Size: 4122
+MD5sum: a2bb8091a43aec12027b3bd64873ac15
+Sha1: 07eeeebf4b9b68ca170d8d4c7ef54c41ee82531c
+Sha256: 777ea9937d6f1c51756f976357159881f8dd5d74613634b6c7f3cfa9b5cce701
+
+Package: com.sbhnkhrmn.safari.private
+Name: Safari : Private
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: prevents your data from being exposed like dark mode.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.private/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.private/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.safari.private_0.0.1_iphoneos-arm.deb
+Size: 4078
+MD5sum: 81a47515d50d8c16574bac157d3fd3ab
+Sha1: d723f01f1b69a49306b1afdf9b120e6eb16a933d
+Sha256: bea3e7d63baf7d93aec7e42b7799f69d6bda4c97083985ecd09ae2c8a4e2c3b4
+
+Package: com.sbhnkhrmn.safari.switcher.styleipad
+Name: Safari : Switcher - Style / iPad
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: replaces the page termination screen with ipad style.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.switcher.styleipad/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.switcher.styleipad/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.safari.switcher.styleipad_0.0.1_iphoneos-arm.deb
+Size: 4334
+MD5sum: 3f63eb21f4fd66f46f177caced623e7c
+Sha1: e622c416c5cbc949a01f001a500f29560c1af695
+Sha256: 118fe9e21ed9f4036b643d237e1cf2d94068c69899f88e7d4116af2fc9af5c8a
+
+Package: com.sbhnkhrmn.safari.tabbar.styleipad
+Name: Safari : Tab Bar - Style / iPad
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: Adds ipad style tab bar.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.tabbar.styleipad/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.tabbar.styleipad/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.safari.tabbar.styleipad_0.0.1_iphoneos-arm.deb
+Size: 4238
+MD5sum: 9bf09c26316ac9538da450ffd48837d7
+Sha1: 8796c29ae1943303c1691bf7806cd90f27e3ef83
+Sha256: 8d8a9931634e254b235634b071edcbe35d70c7ad675941129f434eb4b9c2b9d0
+
+Package: com.sbhnkhrmn.safari.tab.count
+Name: Safari : Tab Count
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: In order to speed up safari, the page opening limit has been replaced with 9.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.tab.count/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.tab.count/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.safari.tab.count_0.0.1_iphoneos-arm.deb
+Size: 4034
+MD5sum: 139cdcc3e8f0fb68987541ebfbfce6c0
+Sha1: 9b82c86ba93a469985d4b2098c7717f3d1e99914
+Sha256: c61ad66beda9bc77f2f4516e11074b061f4ab308ec8cb3dcdca14a635ebffbae
+
+Package: com.sbhnkhrmn.statusbar.breadcrumb.disable
+Name: SB Breadcrumb Disable
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: disables the fast return feature in the status bar
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.statusbar.breadcrumb.disable/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.statusbar.breadcrumb.disable/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.statusbar.breadcrumb.disable_0.0.1_iphoneos-arm.deb
+Size: 4050
+MD5sum: d324ed741ebb59d9c1321444754892e4
+Sha1: 6e341aa1555abc86c8545b7d75388404597c4831
+Sha256: fb2650fd447a206cc3f33ed83beda0ef7932f8526223430f98a84de9522ddde2
+
+Package: com.sbhnkhrmn.statusbar.styleipad
+Name: Statusbar : Style / iPad
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: iPad style status bar now supports iPhone
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.statusbar.styleipad/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.statusbar.styleipad/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.statusbar.styleipad_0.0.1_iphoneos-arm.deb
+Size: 4034
+MD5sum: e73ee21c70bfa62fe9099395821d07a3
+Sha1: d5a7159494e746462586fbc3c609b6a65352f855
+Sha256: b7605da25898b7806e57479ccd0fc43a3ebf1a9146b37b86c3d38a483ca7d466
+
+Package: com.sbhnkhrmn.switcher.noblur
+Name: Switcher : Blur / Disable
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: switcher removes background blur. As an extra, floating icons on the background are also removed.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.switcher.noblur/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.switcher.noblur/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.switcher.noblur_0.0.1_iphoneos-arm.deb
+Size: 4296
+MD5sum: cdb1280f662906bcb0462ce1a89454bb
+Sha1: 2bf22c4fea29b9042ac81166341b37fede0518fa
+Sha256: 96bd39f63325a93f741861b3cae5465084369579a0f5608f85140a7545121643
+
+Package: com.sbhnkhrmn.switcher.styleipad
+Name: Switcher : Style / iPad
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: ipad application termination screen now supports iphone.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.switcher.styleipad/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.switcher.styleipad/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.switcher.styleipad_0.0.1_iphoneos-arm.deb
+Size: 4864
+MD5sum: aacbc09bc9de721ac9bed3df028012fe
+Sha1: 835f7f255fe2487c74a71a499655a803538caa68
+Sha256: 49f2ffe489fca6a48a3a4db9dc4d68537999f16f23282791be852f24d9ff2076
+
+Package: com.sbhnkhrmn.antirevoke
+Name: Anti Revoke
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=11.0)
+Description: Sign unlimited duration of applications in jailbreak mode.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.antirevoke/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.antirevoke/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.antirevoke_0.0.1_iphoneos-arm.deb
+Size: 4626
+MD5sum: c0a948ecb4983b9183ceefdfd178c813
+Sha1: 0fe9cc4c7496350e87c6fab665d14ad4b74aafec
+Sha256: bbda2df34761a6284bb4c440f9c7a1b6710347c3456739168989339c425333d9
+
+Package: com.sbhnkhrmn.browser.backgroundplayback
+Name: Browser : Background Playback
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: supports all browsers. Removes Run lock in background.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.browser.backgroundplayback/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.browser.backgroundplayback/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.browser.backgroundplayback_0.0.1_iphoneos-arm.deb
+Size: 4472
+MD5sum: e2fb13bfb8344c1767a4b147bc3e456e
+Sha1: de2b761f61ebb9b7acae0a0f668e57530217d727
+Sha256: 3f025b9a688e8312db6afb521c4b67937f5b805505b2428f89d260f43e852cef
+
+Package: com.sbhnkhrmn.dragdropsupport
+Name: Drag and Drop : Support
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=11.0)
+Description: The iPad feature now supports iPhone. Move by making drag and drop
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dragdropsupport/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dock.backgroundhidden/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.dragdropsupport_0.0.1_iphoneos-arm.deb
+Size: 5258
+MD5sum: 1116edc7dea57fc9a16dc792e35bfeef
+Sha1: 7ed81ccda3818367c4e0c7053cef039fa1dc85ed
+Sha256: 00bbbea2f74d81675bca5cd2c18e6df72790001fe9c7c80b50e03b5433a22b0a
+
+Package: com.sbhnkhrmn.fullswipe
+Name: Full Swipe
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: extends the drawer setting. activates long swipe.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.fullswipe/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.fullswipe/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.fullswipe_0.0.1_iphoneos-arm.deb
+Size: 4288
+MD5sum: 5f793d0738868ef2e9ab5129722455f5
+Sha1: 2e9902826c819d368fa610bc8fcafcefd8753e14
+Sha256: ef7d89df6699a3eb064ec8f97725492608c676792e9c7d8f775dc50f1ea00ee2
+
+Package: com.sbhnkhrmn.homebar.autohide
+Name: HB : Auto Hide Home Affordance
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: Automatically hides the home bar bar.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homebar.autohide/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homebar.autohide/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/
+Size: 4076
+MD5sum: e6d447969e57f646d8e5d4f888eb0bf0
+Sha1: a3768fc3bd8581ef4be63ef0442a2d2f0ed73621
+Sha256: c096282fbef245c915688e8f09836daf8724d0f157c43f252e8c28d9e430c7c7
+
+Package: com.sbhnkhrmn.homegesture.support
+Name: Support : Home Gesture
+Depends: mobilesubstrate, firmware (>=13.0)
+Architecture: iphoneos-arm
+Description: Supports all devices before iphone 8 plus. Adds a home swipe.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homegesture.support/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homegesture.support/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.homegesture.support_0.0.1_iphoneos-arm.deb
+Size: 5198
+MD5sum: 83649a9587810675969739e1f7167880
+Sha1: a8d19bbaad99248a02619faf8193cb1e99ad8c04
+Sha256: d1464ede164ed0acabf4ec08659260c48402a1d31be65700101d23b03036400e
+
+Package: com.sbhnkhrmn.music.allowrecording
+Name: Music : Allow Recording
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: Prevents Music from turning off while recording Video. Sound continues playing. Indispensable feature for story shooters.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.music.allowrecording/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.music.allowrecording/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.music.allowrecording_0.0.1_iphoneos-arm.deb
+Size: 4296
+MD5sum: 0cf1e7d617014b4990f97f46c151e351
+Sha1: c4b722d31ddf1fcfa88889a334dcd7f84af95f84
+Sha256: 25a5f8a6ddde4f5882f0fbb37321dd802f18009a97c17c21de83f4a0350300a3
+
+Package: com.sbhnkhrmn.wallpaper.autorotatadisabled
+Name: Wallpaper : Auto Rotate / Disable
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: The wallpaper will not rotate even if the direction lock is on.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wallpaper.autorotatadisabled/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wallpaper.autorotatadisabled/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wallpaper.autorotatadisabled_0.0.1_iphoneos-arm.deb
+Size: 4138
+MD5sum: 3bce90850095b06d94b490fd1f3565a2
+Sha1: d7fa340763cd7b0538fac6af8aabdc4094c47a78
+Sha256: e4fe1c2fdfd5fd076555fdc4edb854840ba88fa33d4aa5068f53151867631641
+
+Package: com.sbhnkhrmn.wallpaper.parallax.factor
+Name: Wallpaper : Parallax Factor
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: It expands the speed and space of playing wallpaper. scrolling distance increases.
+Depiction:   https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wallpaper.parallax.factor/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wallpaper.parallax.factor/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wallpaper.parallax.factor_0.0.1_iphoneos-arm.deb
+Size: 4192
+MD5sum: 8db269847e6d66c39ad5beb975ccea6b
+Sha1: 64f1d6bbd493dea0b1a98047d2455c6acadf5ff7
+Sha256: 9ba76c36318344b892fceeed9bcdb43d14a990810479c4292f472255b46cd064
+
+Package: com.sbhnkhrmn.statusbar.lteor4g
+Name: LTE or 4G
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: 4G connection appears instead of Lte connection.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.statusbar.lteor4g/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.statusbar.lteor4g/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.statusbar.lteor4g_0.0.1_iphoneos-arm.deb
+Size: 4420
+MD5sum: dcdd9a57f4538ca342184e6ef4506d70
+Sha1: fc6fb52886a0a94f277be5f895250b328fc7aff1
+Sha256: eedbaf6cbd242b32281d03bac9f8ab0079868b4cbde6ed55b3cac0c36fa6b72a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
