@@ -43,7 +43,7 @@ Depends: mobilesubstrate
 Description: Activates Premium features of Add Music Application.
 Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.addmusic.pro/index.html
 Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_AddMusic.png
-Sileodepiction: https://sbhnkhrmn.github.iodepictions/com.sbhnkhrmn.addmusic.pro/index.php
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.addmusic.pro/index.php
 Homepage : https://apps.apple.com/app/id947792997
 Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
@@ -288,9 +288,9 @@ Name: Documents : Pro
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Description: Activates Premium features of Documents Application.
-Depiction: https://sbhnkhrmn.github.iodepictions/com.sbhnkhrmn.documents.pro/index.html
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.documents.pro/index.html
 Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Documents.png
-Sileodepiction: https://sbhnkhrmn.github.iodepictions/com.sbhnkhrmn.documents.pro/index.php
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.documents.pro/index.php
 Homepage : https://apps.apple.com/app/id364901807
 Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
