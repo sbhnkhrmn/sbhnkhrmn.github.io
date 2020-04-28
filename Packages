@@ -41,7 +41,7 @@ Name: Add Music : Pro
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Description: Activates Premium features of Add Music Application.
-Depiction: https://sbhnkhrmn.github.iodepictions/com.sbhnkhrmn.addmusic.pro/index.html
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.addmusic.pro/index.html
 Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_AddMusic.png
 Sileodepiction: https://sbhnkhrmn.github.iodepictions/com.sbhnkhrmn.addmusic.pro/index.php
 Homepage : https://apps.apple.com/app/id947792997
@@ -60,9 +60,9 @@ Name: AdGuard : Pro
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Description: Activates Premium features of AdGuard Application.
-Depiction: https://sbhnkhrmn.github.iodepictions/com.sbhnkhrmn.adguard.pro/index.html
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.adguard.pro/index.html
 Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_AdGuardFree.png
-Sileodepiction: https://sbhnkhrmn.github.iodepictions/com.sbhnkhrmn.adguard.pro/index.php
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.adguard.pro/index.php
 Homepage : https://apps.apple.com/app/id1047223162
 Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
@@ -79,9 +79,9 @@ Name: April : Pro
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Description: Activates Platinum features of April application.
-Depiction: https://sbhnkhrmn.github.iodepictions/com.sbhnkhrmn.april.pro/index.html
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.april.pro/index.html
 Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_April.png
-Sileodepiction: https://sbhnkhrmn.github.iodepictions/com.sbhnkhrmn.april.pro/index.php
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.april.pro/index.php
 Homepage : https://apps.apple.com/app/id1121943475
 Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
@@ -98,9 +98,9 @@ Name: Assembly : Pro
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Description: Activates Premium features of Assembly Application.
-Depiction: https://sbhnkhrmn.github.iodepictions/com.sbhnkhrmn.assembly.pro/index.html
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.assembly.pro/index.html
 Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Assembly.png
-Sileodepiction: https://sbhnkhrmn.github.iodepictions/com.sbhnkhrmn.assembly.pro/index.php
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.assembly.pro/index.php
 Homepage : https://apps.apple.com/app/id1024210402
 Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
@@ -117,9 +117,9 @@ Name: AudioMack : Pro
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Description: Activates Premium features of AudioMack Application.
-Depiction: https://sbhnkhrmn.github.iodepictions/com.sbhnkhrmn.audiomack.pro/index.html
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.audiomack.pro/index.html
 Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_AudioMack.png
-Sileodepiction: https://sbhnkhrmn.github.iodepictions/com.sbhnkhrmn.audiomack.pro/index.php
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.audiomack.pro/index.php
 Homepage : https://apps.apple.com/app/id921765888
 Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
@@ -136,9 +136,9 @@ Name: Bazaart : Pro
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Description: Activates Premium features of Bazaart Application.
-Depiction: https://sbhnkhrmn.github.iodepictions/com.sbhnkhrmn.bazaart.pro/index.html
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.bazaart.pro/index.html
 Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Bazaart.png
-Sileodepiction: https://sbhnkhrmn.github.iodepictions/com.sbhnkhrmn.bazaart.pro/index.php
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.bazaart.pro/index.php
 Homepage : https://apps.apple.com/us/app/bazaart-photo-editor-design/id515094775
 Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
@@ -155,9 +155,9 @@ Name: Bear : Pro
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Description: Activates Premium features of Bear Application.
-Depiction: https://sbhnkhrmn.github.iodepictions/com.sbhnkhrmn.bear.pro/index.html
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.bear.pro/index.html
 Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Bear.png
-Sileodepiction: https://sbhnkhrmn.github.iodepictions/com.sbhnkhrmn.bear.pro/index.php
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.bear.pro/index.php
 Homepage : https://apps.apple.com/app/id1016366447
 Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
