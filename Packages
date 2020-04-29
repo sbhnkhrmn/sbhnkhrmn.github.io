@@ -2276,65 +2276,250 @@ MD5sum: dcdd9a57f4538ca342184e6ef4506d70
 Sha1: fc6fb52886a0a94f277be5f895250b328fc7aff1
 Sha256: eedbaf6cbd242b32281d03bac9f8ab0079868b4cbde6ed55b3cac0c36fa6b72a
 
+Package: com.sbhnkhrmn.hola.vpn.pro
+Name: Hola Vpn : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Hola Vpn Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.hola.vpn.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_HolaVpn.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.hola.vpn.pro/index.php
+Homepage : https://apps.apple.com/us/app/hola-vpn-privacy-security/id903869356
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.21
+Filename: ./debs/com.sbhnkhrmn.hola.vpn.pro_2.21_iphoneos-arm.deb
+Size: 4746
+MD5sum: afcf6b1c5dd3fda834da0e53f8915470
+Sha1: 03ea810d62dd62f7f55c06a2f0a8e8fb87bc695f
+Sha256: 852e0854bfa92c11b7e4b153bfe57471250736aaaf6f8782e40dcb0929b5bef4
 
+Package: com.sbhnkhrmn.iwebtv.pro
+Name: iWeb TV : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of iWebTv Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.iwebtv.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_iWebTV.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.iwebtv.pro/index.php
+Homepage : https://apps.apple.com/us/app/iwebtv-cast-web-videos-to-tv/id999462129
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.8.63
+Filename: ./debs/com.sbhnkhrmn.iwebtv.pro_1.8.63_iphoneos-arm.deb
+Size: 4720
+MD5sum: 050ccbca19605b34c915aaecb12e6be2
+Sha1: 328a9a7a2e31dd5aa13a499ce32dbdd25716731f
+Sha256: 226192c0e5c7feb9eccfe46b5e3fadbb5a3ef5ef6cf1afb61f92d383a0de1c1d
 
+Package: com.sbhnkhrmn.photocast.pro
+Name: Photo Cast : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Photo Cast Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photocast.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_PhotoCast.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photocast.pro/index.php
+Homepage : https://apps.apple.com/us/app/photo-video-cast-to-chromecast/id733144626
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 4.11.3
+Filename: ./debs/com.sbhnkhrmn.photocast.pro_4.11.3_iphoneos-arm.deb
+Size: 4774
+MD5sum: 121ff4ec4d7e0ef631c08b4f40016b89
+Sha1: 48609ada906c476afb14425cb13ec4f06221dfb8
+Sha256: 7bef1ea6c5253a8005a5587b2cfb6190780327dd53fe8e63a6709925a39c1997
 
+Package: com.sbhnkhrmn.rokucast.pro
+Name: Roku Cast: Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Roku Cast Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.rokucast.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_RokuCast.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.rokucast.pro/index.php
+Homepage : https://apps.apple.com/us/app/cast-web-videos-to-roku-tv/id1380510258
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.8.63
+Filename: ./debs/com.sbhnkhrmn.rokucast.pro_1.8.63_iphoneos-arm.deb
+Size: 4544
+MD5sum: 88781124d8aef67649025adf6e98af35
+Sha1: 279dcc8b2439643eb04dbf4433e2efe3e4245ed8
+Sha256: f4b7023c8c58c46d63cf5008be9ce9f312ea6d2e664b95e3ec7c2d023dd1faf0
 
+Package: com.sbhnkhrmn.tvcastfiretv.pro
+Name: Tv Cast ( Fire Tv ): Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Tv Cast Fire Tv Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastfiretv.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_TvCastFireTv.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastfiretv.pro/index.php
+Homepage : https://apps.apple.com/us/app/video-tv-cast-fire-tv-app/id979567301
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.1
+Filename: ./debs/com.sbhnkhrmn.tvcastfiretv.pro_2.1_iphoneos-arm.deb
+Size: 5114
+MD5sum: 44579f7c6dabaa98258f409ec797160f
+Sha1: 0b4546e61bc8ade59adc414f09513279c88b5031
+Sha256: 3313afb97213969b51e9639fdf99f7b2ddf8ced66957754a11561462d2fe9fb4
 
+Package: com.sbhnkhrmn.tvcastc.pro
+Name: Tv Cast C: Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Tv Cast C Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastc.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_TvCastC.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastc.pro/index.php
+Homepage : https://apps.apple.com/us/app/video-tv-cast-chromecast/id907405413
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.2
+Filename: ./debs/com.sbhnkhrmn.tvcastc.pro_2.2_iphoneos-arm.deb
+Size: 5080
+MD5sum: bc501e0b7208081becb4a4f8c8171b0e
+Sha1: e6bbd98ecd39b3066f3e79565792a9a9f54f7879
+Sha256: c124a462d785e91e45689b69a73d92083ed720ffc24a8267b0869769a6d8585d
 
+Package: com.sbhnkhrmn.tvcastdlna.pro
+Name: Tv Cast ( Dlna ): Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Tv Cast Dlna Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastdlna.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_TvCastDlna.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastdlna.pro/index.php
+Homepage : https://apps.apple.com/us/app/video-tv-cast-dlna-upnp-hd/id978357787
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.1
+Filename: ./debs/com.sbhnkhrmn.tvcastdlna.pro_2.1_iphoneos-arm.deb
+Size: 5104
+MD5sum: cbf21046339464e3395f6b7d4d597dc9
+Sha1: 67d9cdda93149c1e6e690297ad5015bcbf9c832d
+Sha256: bb32d7cf4fadf2fa8833b32090140a562f64142db441171e2ce03e50d889afc5
 
+Package: com.sbhnkhrmn.tvcastlg.pro
+Name: Tv Cast LG: Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Tv Cast LG Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastlg.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_TvCastLG.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastlg.pro/index.php
+Homepage : https://apps.apple.com/us/app/video-tv-cast-for-lg-tv/id834494217
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.1
+Filename: ./debs/com.sbhnkhrmn.tvcastlg.pro_2.1_iphoneos-arm.deb
+Size: 5086
+MD5sum: 9dec70e6db04ae7835ce9f5850cd191f
+Sha1: 69988a86bd6a0b78b71e3d47118560265af1d003
+Sha256: 72e306765cc1a0e78fb314d6399ef8246e47aa697c6296c9ed65033ef385db40
 
+Package: com.sbhnkhrmn.tvcastnexus.pro
+Name: Tv Cast ( Nexus ): Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Tv Cast Nexus Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastnexus.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_TvCastNexus.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastnexus.pro/index.php
+Homepage : https://apps.apple.com/us/app/video-tv-cast-google-cast/id987425514
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.1
+Filename: ./debs/com.sbhnkhrmn.tvcastnexus.pro_2.1_iphoneos-arm.deb
+Size: 5112
+MD5sum: b4c04c25c3ee70c68d17127935edfc3f
+Sha1: 8de20c848963a4365b9632a084ea7a4a8eee7c45
+Sha256: f8387f79f8b70f393d02d9773e27db5f17db73b582c71fc3a3595128b935f85b
 
+Package: com.sbhnkhrmn.tvcastroku.pro
+Name: Tv Cast ( Roku ): Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Tv Cast Roku Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastroku.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_TvCastRoku.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastroku.pro/index.php
+Homepage : https://apps.apple.com/us/app/video-tv-cast-roku-player/id969086312
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.1
+Filename: ./debs/com.sbhnkhrmn.tvcastroku.pro_2.1_iphoneos-arm.deb
+Size: 5110
+MD5sum: d3165eb600e4e529d1bc57ae299df4ff
+Sha1: 11500b14c72576bb2692e472ccca62477025416a
+Sha256: a816ed28690098de6560b4cda766e3561ac9275c04f19c4f2e11c2e005da82a3
 
+Package: com.sbhnkhrmn.tvcastsamsung.pro
+Name: Tv Cast ( Samsung ): Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Tv Cast Samsung Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastsamsung.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_TvCastSamsung.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastsamsung.pro/index.php
+Homepage : https://apps.apple.com/us/app/video-tv-cast-samsung-tv/id973895042
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.1.1
+Filename: ./debs/com.sbhnkhrmn.tvcastsamsung.pro_2.1.1_iphoneos-arm.deb
+Size: 5110
+MD5sum: 326c11b749216f022a4c2fc81355c1ee
+Sha1: 9e0d31f961673c028fc4c8cdfe039c2697145e93
+Sha256: f456334cea35ca72daaaa3ebb317028462f2dfa4fe0c1a006b660853787e15d0
 
+Package: com.sbhnkhrmn.tvcastsony.pro
+Name: Tv Cast ( Sony ): Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Tv Cast Sony Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastsony.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_TvCastSony.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastsony.pro/index.php
+Homepage : https://apps.apple.com/us/app/video-tv-cast-for-sony-tv/id1198507569
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.1
+Filename: ./debs/com.sbhnkhrmn.tvcastsony.pro_2.1_iphoneos-arm.deb
+Size: 5106
+MD5sum: b0b3946dedb121b96c1081bd89cd4575
+Sha1: f6d208b6d57e6730ad974c50a2d7f6098a762b0b
+Sha256: e7558f5ffd8dc395cfda5aea06f72cc216f9e5ad063b633eec2e62a0e5e89b0c
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Package: com.sbhnkhrmn.webcast.pro
+Name: Web Cast: Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Web Cast Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.webcast.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_WebCast.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.webcast.pro/index.php
+Homepage : https://apps.apple.com/us/app/cast-web-videos-to-chromecast/id1377825788
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.8.63
+Filename: ./debs/com.sbhnkhrmn.webcast.pro_1.8.63_iphoneos-arm.deb
+Size: 4776
+MD5sum: 25b6395efa574e96dde16fb1ed986c55
+Sha1: 26e4f2c25d56b474dd18e2e57766301378310633
+Sha256: 71524478a682c31135e7bcb582f1ed538d6e82d3c7fc54263efae76e3eef4b67
 
