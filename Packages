@@ -1030,17 +1030,17 @@ Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>=12.0)
 Description: Unlocks the landscape screen rotation.
 Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.rotate.bar/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Camera.png
 Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.rotate.bar/index.php
 Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Section: Tweaks
 Version: 0.0.1
 Filename: ./debs/com.sbhnkhrmn.camera.rotate.bar_0.0.1_iphoneos-arm.deb
-Size: 5190
-MD5sum: df0412122037d03098d80b1e555039e4
-Sha1: 117061da54ba6532b24c0e9acb17f59e8edb7cbf
-Sha256: cb604f3fdaa48d2fac9b14371ec894372fb3f069f996bfd6da8876739ad0a22c
+Size: 5188
+MD5sum: 3e993bbade9d215192be9243c2e7ccf3
+Sha1: e3c8d225a7a1067998d9f16d1829811fd2054cf1
+Sha256: 8dc78cb676d56a16d6233f6aa9550cfdadc3aab0143b6e268b19e0871dd1a57e
 
 Package: com.sbhnkhrmn.camera.style.ipad
 Name: Camera : Style / iPad
@@ -1048,36 +1048,17 @@ Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>=12.0)
 Description: replaces button with ipad style to select.
 Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.style.ipad/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Camera.png
 Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.style.ipad/index.php
 Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Section: Tweaks
 Version: 0.0.1
 Filename: ./debs/com.sbhnkhrmn.camera.style.ipad_0.0.1_iphoneos-arm.deb
-Size: 4630
-MD5sum: fdffa32365aea80309f2831de4437760
-Sha1: 7cdb504202804fb1174ae35b595a037af28765e9
-Sha256: 8009861dfefdf0a48fe9e9992d3470db3dae41a6fc5993df075980dafeccd87b
-
-Package: com.sbhnkhrmn.camera.style.ipad
-Name: Camera : Style / iPad
-Depends: mobilesubstrate, firmware (>=12.0)
-Architecture: iphoneos-arm
-Description: replaces button with ipad style to select.
-Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.style.ipad/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
-Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.style.ipad/index.php
-Homepage : http://www.twitter.com/sbhnkhrmn
-Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Section: Tweak
-Version: 0.0.1
-Filename: ./debs/com.sbhnkhrmn.camera.style.ipad_0.0.1_iphoneos-arm.deb
-Size: 4100
-MD5sum: 86e5d6f136637ac5190811ac21ea8ac4
-Sha1: 77be9dae6f02d74fbd8bf9164366a9b8d48da77a
-Sha256: e37a049d091d636830514d75b44f61b3ddd3185532e71e8e3ff361ce3860e435
+Size: 4628
+MD5sum: 92ffcd972ffe5dae8ed80a0a676b57d1
+Sha1: cb9813b0f9168dce22b9b843e36fa4f5cb621d58
+Sha256: aa1f21a759f158140533ab49d788a1cb1a672c9503e31a75d820b7bdf28fcf21
 
 Package: com.sbhnkhrmn.camera.Transparent.bar
 Name: Camera : Transparent Bar
@@ -1085,7 +1066,7 @@ Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>=12.0)
 Description: removes the black shade from the buttons.
 Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.Transparent.bar/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Camera.png
 Sileodepiction: https://sbhnkhrmn.github.io/depictions/sbhnkhrmn.camera.Transparent.bar/index.php
 Homepage : http://www.twitter.com/sbhnkhrmn     
 Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
@@ -1094,9 +1075,9 @@ Section: Tweaks
 Version: 0.0.1
 Filename: ./debs/com.sbhnkhrmn.camera.Transparent.bar_0.0.1_iphoneos-arm.deb
 Size: 4444
-MD5sum: 345e136cad723551c2406dd8e96d3dc6
-Sha1: e987ce4b779aedbfb6e7e5bb5e99be453e1f4ff6
-Sha256: fabdfafed1f20cbac47d980c693869c7164f9a9fbf649692b8f1f1b2dda03317
+MD5sum: 87d86259309060a19c73d5a975a23f7e
+Sha1: 2dd06fe5f6df2ebf46141e0672d3ff96290a96c5
+Sha256: 3c4edcc82ef76dec85968947557155a08eeb38e4b828e476fa69aab408502013
 
 Package: com.sbhnkhrmn.dock.backgroundhidden
 Name: Dock : Background / Hide
@@ -2522,6 +2503,7 @@ Size: 4678
 MD5sum: a3f442d2a13a05add638c87f2c126c3e
 Sha1: 4a53073668883acc81ebc7734c29266e58198540
 Sha256: 0ccdd1c7f88b6f7a64b5cc879626bb90c2f70e90ae266be6890c1ecac05d33c0
+
 
 
 
