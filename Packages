@@ -1136,82 +1136,6 @@ MD5sum: 311dfe2d53b4767217dba5bdf6314659
 Sha1: 4119e4c38aacd1ff870a5de40267a31126994610
 Sha256: b732da4d5aa84099bc31ef80f96379507267fcbf987ae2b61c04ec61aecd4078
 
-Package: com.sbhnkhrmn.instagram.iglikesshow
-Name: IG : Likes Show
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Description: It has been activated for the number of likes and countries that do not support Imaging.
-Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.iglikesshow/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
-Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.iglikesshow/index.php
-Homepage : http://www.twitter.com/sbhnkhrmn
-Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Section: Tweaks
-Version: 135.0
-Filename: ./debs/com.sbhnkhrmn.instagram.iglikesshow_135.0_iphoneos-arm.deb
-Size: 4026
-MD5sum: 025505f310daa2828a73f5544f282ae0
-Sha1: 2e025e951804de2c28f0a8526c4e7d920ca04420
-Sha256: 6eedf7e32a899017a17c12df5d07f73fd78ff323636289257975624060762753
-
-Package: com.sbhnkhrmn.instagram.story.addmusicshare
-Name: IG : Story Add Music / Share
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Description: Adds a music tag for countries that do not support music sharing.  It adds music to your stories and shares it with that label.
-Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.story.addmusicshare/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
-Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.story.addmusicshare/index.php
-Homepage : http://www.twitter.com/sbhnkhrmn
-Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Section: Tweaks
-Version: 135.0
-Filename: ./debs/com.sbhnkhrmn.instagram.story.addmusicshare_135.0_iphoneos-arm.deb
-Size: 4086
-MD5sum: a6a6f266395d999626f88ad5a1286d8a
-Sha1: bafe00e974d2aa3dbae7aac08d7128caf64295ef
-Sha256: 8a09af778f64f227a6364a7da5ab4b5b6880a05d1f7c211a80aaafce155ed328
-
-Package: com.sbhnkhrmn.instagram.story.pictureinpicture
-Name: IG : Story Picture in Picture
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Description: allows you to select as many pictures as you want and add them to the same screen.
-Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.story.pictureinpicture/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
-Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.story.pictureinpicture/index.php
-Homepage : http://www.twitter.com/sbhnkhrmn
-Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Section: Tweaks
-Version: 135.0
-Filename: ./debs/com.sbhnkhrmn.instagram.story.pictureinpicture_135.0_iphoneos-arm.deb
-Size: 4064
-MD5sum: 111e482e4eea7022fd0a0962be1e3d9c
-Sha1: 45865790d53a7e62a9e78544e7cac2e7c6ff56d5
-Sha256: 7b6b7ce8ed9c63cd158408c6d4101ec732defbd653f4566808d80beda9e0768a
-
-Package: com.sbhnkhrmn.instagram.story.viewed
-Name: IG : Story Viewed
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Description: Allows you to view stories secretly. Notification is not delivered when you take a screenshot.
-Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.story.viewed/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
-Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.story.viewed/index.php
-Homepage : http://www.twitter.com/sbhnkhrmn
-Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Section: Tweaks
-Version: 135.0
-Filename: ./debs/com.sbhnkhrmn.instagram.story.viewed_135.0_iphoneos-arm.deb
-Size: 4136
-MD5sum: bfef67e7a6805d3979b38b762d716613
-Sha1: e260e4e78fad605bd0b4046f2afdb03d92655160
-Sha256: 576fc5a506b802c64e927b765d19147ff2b12ad54cd79734706f96031a7ce1e6
-
 Package: com.sbhnkhrmn.youtube.ads
 Name: Youtube : Ads Blocker
 Architecture: iphoneos-arm
@@ -2522,4 +2446,115 @@ Size: 4776
 MD5sum: 25b6395efa574e96dde16fb1ed986c55
 Sha1: 26e4f2c25d56b474dd18e2e57766301378310633
 Sha256: 71524478a682c31135e7bcb582f1ed538d6e82d3c7fc54263efae76e3eef4b67
+
+Package: com.sbhnkhrmn.instagram.iglikesshow
+Name: IG : Likes Show
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: It has been activated for the number of likes and countries that do not support Imaging.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.iglikesshow/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Instagram.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.iglikesshow/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 135.0
+Filename: ./debs/com.sbhnkhrmn.instagram.iglikesshow_135.0_iphoneos-arm.deb
+Size: 4028
+MD5sum: 7d2b7791e28e3977858ba3fd2165513d
+Sha1: 14e77715fd67db9c9084ddb11aa393dc7d2cdcac
+Sha256: 8808efb9c6d3a59da312269825ef0e5b5d05660b537c57644948e8c718f1c8e5
+
+Package: com.sbhnkhrmn.instagram.story.addmusicshare
+Name: IG : Story Add Music / Share
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Adds a music tag for countries that do not support music sharing.  It adds music to your stories and shares it with that label.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.story.addmusicshare/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Instagram.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.story.addmusicshare/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 135.0
+Filename: ./debs/com.sbhnkhrmn.instagram.story.addmusicshare_135.0_iphoneos-arm.deb
+Size: 4086
+MD5sum: 3a5d420ddcd3715bc36d7263f612a85f
+Sha1: b7d1150c34ea2febf0a4e362f7a8e6ae8876b911
+Sha256: f6b3c6a0330522f368b31b1deaba2e2c2302e203343c99b7a21c6e74394fafe4
+
+Package: com.sbhnkhrmn.instagram.story.pictureinpicture
+Name: IG : Story Picture in Picture
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: allows you to select as many pictures as you want and add them to the same screen.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.story.pictureinpicture/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Instagram.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.story.pictureinpicture/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 135.0
+Filename: ./debs/com.sbhnkhrmn.instagram.story.pictureinpicture_135.0_iphoneos-arm.deb
+Size: 4066
+MD5sum: f998c31aa8af3492707db5061b129514
+Sha1: 21eb9ce75cd439f4053ebe8ca5b1e67b631e7dcd
+Sha256: 9c8857a2c84d925e3a40baa4308561162c59c42031a83b7bcdde64b789e96afc
+
+Package: com.sbhnkhrmn.instagram.story.viewed
+Name: IG : Story Viewed
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Allows you to view stories secretly. Notification is not delivered when you take a screenshot.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.story.viewed/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Instagram.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.story.viewed/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 135.0
+Filename: ./debs/com.sbhnkhrmn.instagram.story.viewed_135.0_iphoneos-arm.deb
+Size: 4138
+MD5sum: 56e5bf7cfa30866f4ca2c6c806b87356
+Sha1: ed9b6743e902314e981070715b4ca02b31e60ddc
+Sha256: e080aa77fdbc2eb7b35a5cc248d8bfa4e82c45183f1d1afe9f13efa146b7b438
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
