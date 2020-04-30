@@ -2504,6 +2504,27 @@ MD5sum: a3f442d2a13a05add638c87f2c126c3e
 Sha1: 4a53073668883acc81ebc7734c29266e58198540
 Sha256: 0ccdd1c7f88b6f7a64b5cc879626bb90c2f70e90ae266be6890c1ecac05d33c0
 
+Package: com.sbhnkhrmn.pubg.background
+Name: Pubg : Background
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: prevents the connection from dropping when you put it in the background.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.pubg.background/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Pubg.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.pubg.background/index.php
+Homepage : https://apps.apple.com/app/id1330123889
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Games
+Version: 0.17.0
+Filename: ./debs/com.sbhnkhrmn.pubg.background_0.17.0_iphoneos-arm.deb
+Size: 4338
+MD5sum: b67ded8604798d6d299cc218c3e2c9f6
+Sha1: bbac2d6f198020503c9959449a753b183186b31f
+Sha256: fd939940ed294a75afcec4a395394498a9f9741fcd9bf164713421cfbb0e6b70
+
+
+
 
 
 
