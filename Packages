@@ -1136,25 +1136,6 @@ MD5sum: 311dfe2d53b4767217dba5bdf6314659
 Sha1: 4119e4c38aacd1ff870a5de40267a31126994610
 Sha256: b732da4d5aa84099bc31ef80f96379507267fcbf987ae2b61c04ec61aecd4078
 
-Package: com.sbhnkhrmn.youtube.ads
-Name: Youtube : Ads Blocker
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>=12.0)
-Description: turns off video watching ads. prevents unnecessary pop notifications.
-Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.youtube.ads/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
-Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.youtube.ads/index.php
-Homepage : https://apps.apple.com/app/id544007664
-Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Section: Tweaks
-Version: 0.0.1
-Filename: ./debs/com.sbhnkhrmn.youtube.ads_0.0.1_iphoneos-arm.deb
-Size: 4322
-MD5sum: 720ac120855c7c142615b491be28492e
-Sha1: c210d3dce1761a3fd3dd0f26eb5eaba8ad406f8b
-Sha256: 83e3ddbc15b6bcd172a3114a9610776e972b7f6fedd22346418d8e873de62988
-
 Package: com.sbhnkhrmn.youtube.backgroundplayback
 Name: Youtube : Background Playback
 Architecture: iphoneos-arm
