@@ -1136,25 +1136,6 @@ MD5sum: 311dfe2d53b4767217dba5bdf6314659
 Sha1: 4119e4c38aacd1ff870a5de40267a31126994610
 Sha256: b732da4d5aa84099bc31ef80f96379507267fcbf987ae2b61c04ec61aecd4078
 
-Package: com.sbhnkhrmn.youtube.backgroundplayback
-Name: Youtube : Background Playback
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>=12.0)
-Description: It recognizes by playing videos in the background.
-Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.youtube.backgroundplayback/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
-Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.youtube.backgroundplayback/index.php
-Homepage : https://apps.apple.com/app/id544007664
-Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Section: Tweaks
-Version: 0.0.1
-Filename: ./debs/com.sbhnkhrmn.youtube.backgroundplayback_0.0.1_iphoneos-arm.deb
-Size: 4678
-MD5sum: 156ae7343ef569b89f45cfdb683e8405
-Sha1: bff8e1e42438905e4f23842c8b8ad7c237c04210
-Sha256: a2adb92e87dbb88e97d8720584158915609d0457b37aecd2827d0d175b3bf68a
-
 Package: com.sbhnkhrmn.wa.addcontactunlimited
 Name: WA : Add Contacts / Unlimited
 Architecture: iphoneos-arm
@@ -2522,6 +2503,29 @@ Size: 4324
 MD5sum: e55d5abab0954c6af8944619a512de3a
 Sha1: 013b5b953c0810258e2beea851b33f28132e5eea
 Sha256: 754e46296c4ae4d49df49b550d68a31efada70b2ef4cf564ab7319909372c63a
+
+Package: com.sbhnkhrmn.youtube.backgroundplayback
+Name: Youtube : Background Playback
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: It recognizes by playing videos in the background.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.youtube.backgroundplayback/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Youtube.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.youtube.backgroundplayback/index.php
+Homepage : https://apps.apple.com/app/id544007664
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.youtube.backgroundplayback_0.0.1_iphoneos-arm.deb
+Size: 4678
+MD5sum: a3f442d2a13a05add638c87f2c126c3e
+Sha1: 4a53073668883acc81ebc7734c29266e58198540
+Sha256: 0ccdd1c7f88b6f7a64b5cc879626bb90c2f70e90ae266be6890c1ecac05d33c0
+
+
+
+
 
 
 
