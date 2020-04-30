@@ -2309,10 +2309,10 @@ Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Section: Apps PRO
 Version: 1.8.63
 Filename: ./debs/com.sbhnkhrmn.iwebtv.pro_1.8.63_iphoneos-arm.deb
-Size: 4720
-MD5sum: 050ccbca19605b34c915aaecb12e6be2
-Sha1: 328a9a7a2e31dd5aa13a499ce32dbdd25716731f
-Sha256: 226192c0e5c7feb9eccfe46b5e3fadbb5a3ef5ef6cf1afb61f92d383a0de1c1d
+Size: 4766
+MD5sum: e654fe337aecb0e7b56d121af8ef08d8
+Sha1: 8828eccc69e0f965a057ce15f85609e73c9713b9
+Sha256: cbcbd80d3ef655bf2a9de20de3ed7115bc8a8da9fdf8d78e5f661836f4ef3358
 
 Package: com.sbhnkhrmn.photocast.pro
 Name: Photo Cast : Pro
@@ -2328,10 +2328,10 @@ Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Section: Apps PRO
 Version: 4.11.3
 Filename: ./debs/com.sbhnkhrmn.photocast.pro_4.11.3_iphoneos-arm.deb
-Size: 4774
-MD5sum: 121ff4ec4d7e0ef631c08b4f40016b89
-Sha1: 48609ada906c476afb14425cb13ec4f06221dfb8
-Sha256: 7bef1ea6c5253a8005a5587b2cfb6190780327dd53fe8e63a6709925a39c1997
+Size: 4722
+MD5sum: edb225f05878c2867f5cc408c2b3e344
+Sha1: 8cde660527138350409e970f8770bbdd1489ec81
+Sha256: 7faf369f843c503b94fa9868d67ac214410c0e4936c7ad4859ebb6cc1d1577c8
 
 Package: com.sbhnkhrmn.rokucast.pro
 Name: Roku Cast: Pro
