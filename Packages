@@ -2542,6 +2542,50 @@ MD5sum: f4bb61f30a4a3efbe2acea12c8f7b14b
 Sha1: 00adbc9b15eabd0224c95bee788d0aeee387febb
 Sha256: 8c05291ecacc7b025344dae91a52be7bc2910ffbcaaa04561bdb226fa72d48fc
 
+Package: com.sbhnkhrmn.screenmirror.chrome.pro
+Name: Screen Mirror (Chrome): Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Screen Mirror Chrome Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.screenmirror.chrome.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_ScreenMirrorChrome.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.screenmirror.chrome.pro/index.php
+Homepage : https://apps.apple.com/tr/app/tv-mirror-for-chromecast/id1449834600?l=tr
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.8
+Filename: ./debs/com.sbhnkhrmn.screenmirror.chrome.pro_1.8_iphoneos-arm.deb
+Size: 4068
+MD5sum: 6b6aadb95810fc4a390d6f94027d1f6b
+Sha1: a8d6f1ad25868e44c39de08f7bdbc27a93b5c49b
+Sha256: 7e7de0480ed087d1ff72999d33aa801b8a30c7d1bcc39c706017e3e6119f3060
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
