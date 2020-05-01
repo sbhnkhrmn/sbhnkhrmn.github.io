@@ -2488,10 +2488,10 @@ Sha256: a62490cd1ec33ee76d2123bbb679a7afdad7bc0da7060316c77c96267a1d88b3
 Package: com.sbhnkhrmn.safari.switcher.styleipad
 Name: Safari : Switcher - Style / iPad
 Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>=11.0)
+Depends: mobilesubstrate, firmware (>=12.0)
 Description: replaces the page termination screen with ipad style.
 Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.switcher.styleipad/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Safari.png
 Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.switcher.styleipad/index.php
 Homepage : http://www.twitter.com/sbhnkhrmn
 Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
@@ -2500,9 +2500,11 @@ Section: Tweaks
 Version: 0.0.1
 Filename: ./debs/com.sbhnkhrmn.safari.switcher.styleipad_0.0.1_iphoneos-arm.deb
 Size: 4334
-MD5sum: d3d8aeb022cad9c08675fe83ded1895b
-Sha1: b5bf1bab9b239db5fabcc1979989f4ed5b513f9a
-Sha256: 8072a100d9d0e0305d0f8ea135e8e875e1466d2d579af0b217b1fcb402b8b703
+MD5sum: 81e0713556f8e0509596cab794af1505
+Sha1: d31bda6cf3605c2b69e54ee36ca71cf68e908556
+Sha256: f69cc2b82523a84ae3c361150042beae1047e16ace81a3c033ff886e7f760e0d
+
+
 
 
 
