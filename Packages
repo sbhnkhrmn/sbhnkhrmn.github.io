@@ -2542,6 +2542,28 @@ MD5sum: 0ca91120081128d2ae3881835ec36013
 Sha1: 8fb25ccd7cb74fff5c333daeab20af88a5cd2c98
 Sha256: bd8fb22eac428ecd67624f0e2666e6f9602844e2f749f8df0d4df902e4f80b00
 
+Package: com.sbhnkhrmn.safari.bookmarksbar.styleipad
+Name: Safari : Bookmarks Bar - Style / iPad
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: safari inject bookmarks ipad feature. Displays shortcuts as in the desktop application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.bookmarksbar.styleipad/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Safari.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.bookmarksbar.styleipad/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.safari.bookmarksbar.styleipad_0.0.1_iphoneos-arm.deb
+Size: 4122
+MD5sum: bd4c160006e87d97bedb1f09e914d0f7
+Sha1: 3f536a7521005534d2c638e12b91c0d5fff08f90
+Sha256: 367294fb65d7256a6a4ef18792cf2a94dd1e04cc6c34d51ad0a2840386783b5a
+
+
+
+
 
 
 
