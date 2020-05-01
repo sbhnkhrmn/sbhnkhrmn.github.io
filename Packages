@@ -2291,9 +2291,9 @@ Section: Games
 Version: 0.17.0
 Filename: ./debs/com.sbhnkhrmn.pubg.background_0.17.0_iphoneos-arm.deb
 Size: 4338
-MD5sum: b67ded8604798d6d299cc218c3e2c9f6
-Sha1: bbac2d6f198020503c9959449a753b183186b31f
-Sha256: fd939940ed294a75afcec4a395394498a9f9741fcd9bf164713421cfbb0e6b70
+MD5sum: 13872b75737913de532d60b2aa2883e4
+Sha1: cf5087938910f4c3bbd12a372d8b0d8ebbcb6ee6
+Sha256: d096d1f98dbc4b63945ca7acd7345171f3484dda81e9825e9e4d933eae4acf82
 
 Package: com.sbhnkhrmn.screenmirror.browser.pro
 Name: Screen Mirror (Browser): Pro
