@@ -1769,7 +1769,7 @@ Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>=13.0)
 Description: raises favorite bookmarks from 4 to 6 frames.
 Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.bookmarksbar.favoritesgrid/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Safari.png
 Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.bookmarksbar.favoritesgrid/index.php
 Homepage : http://www.twitter.com/sbhnkhrmn
 Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
@@ -1777,10 +1777,10 @@ Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Section: Tweaks
 Version: 0.0.1
 Filename: ./debs/com.sbhnkhrmn.safari.bookmarksbar.favoritesgrid_0.0.1_iphoneos-arm.deb
-Size: 4518
-MD5sum: ff9f04ae19ceedc00f841432f4956585
-Sha1: 3ad83ca0ecd119baed59196dd16d83e5253f11f6
-Sha256: 58aef3a7481453dfcf507615b0f2a13a7e157e7ac9e75cda26fd059b0d5a6106
+Size: 4516
+MD5sum: 938bc96eb98308eab747553afc6675f8
+Sha1: 6014a16805ee2886827dd7bc800a7e82b94a6f0b
+Sha256: fa1714d37ea2edd9985f3d166b16912548ec1612a593ba993a5c49c88e0f65fc
 
 Package: com.sbhnkhrmn.safari.bookmarksbar.styleipad
 Name: Safari : Bookmarks Bar - Style / iPad
@@ -2522,6 +2522,27 @@ Size: 4338
 MD5sum: b67ded8604798d6d299cc218c3e2c9f6
 Sha1: bbac2d6f198020503c9959449a753b183186b31f
 Sha256: fd939940ed294a75afcec4a395394498a9f9741fcd9bf164713421cfbb0e6b70
+
+Package: com.sbhnkhrmn.screenmirror.browser.pro
+Name: Screen Mirror (Browser): Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Screen Mirror Browser Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.screenmirror.browser.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_ScreenMirrorBrowser.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.screenmirror.browser.pro/index.php
+Homepage : https://apps.apple.com/tr/app/screen-mirroring-app/id1463795505?l=tr
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.2
+Filename: ./debs/com.sbhnkhrmn.screenmirror.browser.pro_1.2_iphoneos-arm.deb
+Size: 4072
+MD5sum: f4bb61f30a4a3efbe2acea12c8f7b14b
+Sha1: 00adbc9b15eabd0224c95bee788d0aeee387febb
+Sha256: 8c05291ecacc7b025344dae91a52be7bc2910ffbcaaa04561bdb226fa72d48fc
+
+
 
 
 
