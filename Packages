@@ -2523,6 +2523,94 @@ MD5sum: b5e43c22fb81905d7a1d8407f52c68c1
 Sha1: 98888ca8767778e460b4ac3e630373f4e72e7ee1
 Sha256: cb2cc0ce8508a1bbf0df1a1bc2e206af6bc8fc110e7e6c4b5c1f9ad2aa5751d1
 
+Package: com.sbhnkhrmn.photos.album.typesofmedia
+Name: Photos : Album / Types Of Media
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: activates invisible photo types.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.album.typesofmedia/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Photos.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.album.typesofmedia/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.photos.album.typesofmedia_0.0.1_iphoneos-arm.deb
+Size: 4138
+MD5sum: e6e7f07ae899dd3fc92d88f82b0dc48d
+Sha1: ee83d840e548871dcf20d62fdc43d8fc63fbfbe9
+Sha256: 3532440dc58464b6f0db50608d0ab478a3450ac908e73aed7158ea7ddf439e72
+
+Package: com.sbhnkhrmn.photos.skipdeleteconfirmation
+Name: Photos : Skip Delete Confirmation
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: disables delete confirmation
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.skipdeleteconfirmation/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Photos.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.skipdeleteconfirmation/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.photos.skipdeleteconfirmation_0.0.1_iphoneos-arm.deb
+Size: 4354
+MD5sum: 4be8d3cbb7fb524304768aa783ef89e8
+Sha1: f7f444bf0635f1a95b590c0c1beaa6332aa52a90
+Sha256: 4f1ddd2addbfc5233ee2fa7cd3e9c5594ffcf615a24932b8c5e5ed6c4ce3a303
+
+Package: com.sbhnkhrmn.photos.13or12albumtab
+Name: Photos : Album Tab 13 or 12
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: Replaces iOS 13 album tab with ios 12 tab.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.13or12albumtab/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Photos.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dock.backgroundhidden/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.photos.13or12albumtab_0.0.1_iphoneos-arm.deb
+Size: 4650
+MD5sum: a7f7ba6808a80716c2da37620b70062b
+Sha1: 8b0e603a65bd478a42f58731fd4f214e51956730
+Sha256: ac46ab7073a6e2a1ce30e47931c5b4f5f511a487fc07dfcd0b4878199d535d35
+
+Package: com.sbhnkhrmn.photos.13or12photostab
+Name: Photos : Photos Tab 13 or 12
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: Replaces ios 13 photos tab with ios 12 tab.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.13or12photostab/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Photos.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.13or12photostab/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.photos.13or12photostab_0.0.1_iphoneos-arm.deb
+Size: 4604
+MD5sum: 6d0f16d6cf4e99806ac287dbe5baea4f
+Sha1: 6621e74c8ff957a05a9c3a116c7b8f4ae7d366ae
+Sha256: fa21413b41a31bca50dedd1c63657d7870a674a9edee41cf8e17ce35bc8112ed
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
