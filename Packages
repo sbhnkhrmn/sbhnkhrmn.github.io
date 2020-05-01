@@ -2580,6 +2580,27 @@ MD5sum: 54f5c7356ed60358edcde7cae0e9d427
 Sha1: 492ad7be401ef336a866063dbd8c7bfab0ce0a58
 Sha256: 405cf61135e1fb0c6f169fbf846a99243fe2d4082073e0d87fe562e17a715152
 
+Package: com.sbhnkhrmn.screenmirror.roku.pro
+Name: Screen Mirror (Roku): Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Screen Mirror Roku Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.screenmirror.roku.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_ScreenMirrorRoku.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.screenmirror.roku.pro/index.php
+Homepage : https://apps.apple.com/tr/app/screen-mirroring-for-roku/id1453974035?l=tr
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.5
+Filename: ./debs/com.sbhnkhrmn.screenmirror.roku.pro_1.5_iphoneos-arm.deb
+Size: 4072
+MD5sum: a0e2220f457d26cb3b98385c089e439b
+Sha1: f5c00b4504464f1e05e62e471e877efb012f226f
+Sha256: a62490cd1ec33ee76d2123bbb679a7afdad7bc0da7060316c77c96267a1d88b3
+
+
+
 
 
 
