@@ -2580,6 +2580,27 @@ MD5sum: 1e6b23abdaf8ccb2ba77494b9953d9c8
 Sha1: f53d3bd86ecc090b0a5531ae11d3034e67e1ca21
 Sha256: f8acb24cc9479696069d280b05b8bf9ba81957ba6a9d2331e126d97ebc6261b8
 
+Package: com.sbhnkhrmn.safari.tabbar.styleipad
+Name: Safari : Tab Bar - Style / iPad
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: Adds ipad style tab bar.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.tabbar.styleipad/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Safari.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.tabbar.styleipad/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.safari.tabbar.styleipad_0.0.1_iphoneos-arm.deb
+Size: 4240
+MD5sum: 66473f45640c47773bac5726afa8f9f5
+Sha1: 6c4a12709b563342191365624525fdfb4f06aad6
+Sha256: 403d6593e2add4f377454fd3e56315dea5c116dea6906a8a3b03ebe005c89fb4
+
+
+
 
 
 
