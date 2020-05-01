@@ -2,8 +2,7 @@
 
 ## [**AnaSayfa**](https://sbhnkhrmn.github.io/) - 
 ### Açıklamalar ve indirme  
-* 1998 Cam : Pro
-* [**Tweaks Files**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.1998cam.pro_1.6.9_iphoneos-arm.deb) 
+* [**1998 Cam : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.1998cam.pro_1.6.9_iphoneos-arm.deb) 
 * [**Apple Store**](https://apps.apple.com/app/id1450480287)
 * [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.1998cam.pro/index.html)
 ___________________________
@@ -20,11 +19,8 @@ ___________________________
 * [** Download**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)- [**Açıklama ve Görüntü**]()
 * [** Download**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)- [**Açıklama ve Görüntü**]()
 
-daha rahat olur alt  altta olrusa ınsanlar ıcınde goruntu olarakta
 
 ### Follow Me
 * [**Twitter**](https://twitter.com/sbhnkhrmn) - Follow me for current news
 * [**Email**](mailto:khrmn.sbhn@gmail.com) - Open to any questions or concerns.
 
-* yıldız satır demektır
-___ konu ayracı 
