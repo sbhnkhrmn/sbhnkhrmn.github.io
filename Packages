@@ -2599,6 +2599,28 @@ MD5sum: 66473f45640c47773bac5726afa8f9f5
 Sha1: 6c4a12709b563342191365624525fdfb4f06aad6
 Sha256: 403d6593e2add4f377454fd3e56315dea5c116dea6906a8a3b03ebe005c89fb4
 
+Package: com.sbhnkhrmn.photos.zoom
+Name: Photos : Zoom / Unlimited
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: Removes the zoom lock.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.zoom/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Photos.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.zoom/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.photos.zoom_0.0.1_iphoneos-arm.deb
+Size: 4348
+MD5sum: cfc60b5aff9804dc16c80e7ae9c2dc29
+Sha1: 946b6faf49fc43dc09f3fdd47fbc746aa6487571
+Sha256: 91e6f952d6bb0f04b49bfb521f7d906211277fc6aaaa2f763111a43b6015c477
+
+
+
+
 
 
 
