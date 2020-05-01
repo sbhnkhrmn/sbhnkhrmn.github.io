@@ -2504,6 +2504,28 @@ MD5sum: 81e0713556f8e0509596cab794af1505
 Sha1: d31bda6cf3605c2b69e54ee36ca71cf68e908556
 Sha256: f69cc2b82523a84ae3c361150042beae1047e16ace81a3c033ff886e7f760e0d
 
+Package: com.sbhnkhrmn.safari.tab.count
+Name: Safari : Tab Count
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: In order to speed up safari, the page opening limit has been replaced with 9.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.tab.count/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Safari.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.tab.count/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.safari.tab.count_0.0.1_iphoneos-arm.deb
+Size: 4032
+MD5sum: 49b205f66d2b7050c1f313efa9286695
+Sha1: 1606080b16c24fd67f4d7c0117c746d419ae4a89
+Sha256: 0dfa6e5b552d19533df8ce443afdd8fc20d3877aab7348b4fc4c36adc42a6bf8
+
+
+
+
 
 
 
