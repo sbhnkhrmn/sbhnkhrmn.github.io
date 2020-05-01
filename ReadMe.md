@@ -1,12 +1,16 @@
 ![download](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/ikonlar/ReadMe_Sbhnkhrmn.png)
 
-## [**AnaSayfa**](https://sbhnkhrmn.github.io/) - 
+## [**AnaSayfa**](https://sbhnkhrmn.github.io/) 
 ### Açıklamalar ve indirme  
 * [**1998 Cam : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.1998cam.pro_1.6.9_iphoneos-arm.deb) 
 * [**Apple Store**](https://apps.apple.com/app/id1450480287)
 * [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.1998cam.pro/index.html)
 ___________________________
-* [**AccuWeather : Pro.deb Download**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb)- [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.accuweather.pro/index.html)
+* [**AccuWeather : Pro.deb Download**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb)
+* [**Apple Store**](https://apps.apple.com/app/id300048137)
+* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.accuweather.pro/index.html)
+
+___________________________
 * [**Add Music : Pro.deb Download**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.addmusic.pro_6.1-1_iphoneos-arm.deb)- [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.addmusic.pro/index.html)
 * [**AdGuard : Pro.deb Download**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.adguard.pro_3.1.4-1_iphoneos-arm.deb)- [**Açıklama ve Görüntü**]( https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.adguard.pro/index.html)
 * [**April : Pro.deb Download**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.april.pro_2.8.0_iphoneos-arm.deb)- [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.april.pro/index.html)
