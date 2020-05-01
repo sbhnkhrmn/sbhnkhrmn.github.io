@@ -16,10 +16,19 @@
 * [** Download**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)- [**Açıklama ve Görüntü**]()
 * [** Download**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)- [**Açıklama ve Görüntü**]()
 
+Package: com.sbhnkhrmn.1998cam.pro
+Uygulama: 1998 Cam : Pro
+Açıklama: Activates Premium features of 1998 Cam Application.
+Açıklama ve Görüntü: https://sbhnkhrmn.github.io/Açıklama ve Görüntüs/com.sbhnkhrmn.1998cam.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_1998Cam.png
+* [**Apple Store Download**](https://apps.apple.com/app/id1450480287)
+Version: 1.6.9
+.deb Download: https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.1998cam.pro_1.6.9_iphoneos-arm.deb
 
 
 
-
+aynen :) sence bole mı daha kolay yoksa
+packagesın adını degıstıreyım md5 satırlarını ve gereksız satırları sıl deblere 
 
 
 
