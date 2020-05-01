@@ -2523,6 +2523,28 @@ MD5sum: 49b205f66d2b7050c1f313efa9286695
 Sha1: 1606080b16c24fd67f4d7c0117c746d419ae4a89
 Sha256: 0dfa6e5b552d19533df8ce443afdd8fc20d3877aab7348b4fc4c36adc42a6bf8
 
+Package: com.sbhnkhrmn.safari.bookmarksbar.favoritesgrid
+Name: Safari : Bookmarks / Favorite Grid Layout
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: raises favorite bookmarks from 4 to 6 frames.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.bookmarksbar.favoritesgrid/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Safari.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.bookmarksbar.favoritesgrid/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.safari.bookmarksbar.favoritesgrid_0.0.1_iphoneos-arm.deb
+Size: 4516
+MD5sum: 0ca91120081128d2ae3881835ec36013
+Sha1: 8fb25ccd7cb74fff5c333daeab20af88a5cd2c98
+Sha256: bd8fb22eac428ecd67624f0e2666e6f9602844e2f749f8df0d4df902e4f80b00
+
+
+
+
 
 
 
