@@ -1,6 +1,6 @@
 ![download](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/ikonlar/ReadMe_Sbhnkhrmn.png)
 
-## [**Uygualamalar**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/Readme.md) - açıkalaması buraya yazılacak
+## [**AnaSayfa**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/ReadMe.md) - 
 ### Açıklamalar ve indirme  
 * 
 
