@@ -1763,120 +1763,6 @@ MD5sum: 41ff764302c2d853b6c7c89280ff31e2
 Sha1: d640f60f62e5f654e43aba2ab47e7ee95a0fbb38
 Sha256: 7044fbd836f0a7d7cd6837eb5c73ba9b0d9a422604ecc53c93c8fba9cb4742fb
 
-Package: com.sbhnkhrmn.safari.bookmarksbar.favoritesgrid
-Name: Safari : Bookmarks / Favorite Grid Layout
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>=13.0)
-Description: raises favorite bookmarks from 4 to 6 frames.
-Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.bookmarksbar.favoritesgrid/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Safari.png
-Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.bookmarksbar.favoritesgrid/index.php
-Homepage : http://www.twitter.com/sbhnkhrmn
-Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Section: Tweaks
-Version: 0.0.1
-Filename: ./debs/com.sbhnkhrmn.safari.bookmarksbar.favoritesgrid_0.0.1_iphoneos-arm.deb
-Size: 4516
-MD5sum: 938bc96eb98308eab747553afc6675f8
-Sha1: 6014a16805ee2886827dd7bc800a7e82b94a6f0b
-Sha256: fa1714d37ea2edd9985f3d166b16912548ec1612a593ba993a5c49c88e0f65fc
-
-Package: com.sbhnkhrmn.safari.bookmarksbar.styleipad
-Name: Safari : Bookmarks Bar - Style / iPad
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>=13.0)
-Description: safari inject bookmarks ipad feature. Displays shortcuts as in the desktop application.
-Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.bookmarksbar.styleipad/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
-Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.bookmarksbar.styleipad/index.php
-Homepage : http://www.twitter.com/sbhnkhrmn
-Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Section: Tweaks
-Version: 0.0.1
-Filename: ./debs/com.sbhnkhrmn.safari.bookmarksbar.styleipad_0.0.1_iphoneos-arm.deb
-Size: 4122
-MD5sum: a2bb8091a43aec12027b3bd64873ac15
-Sha1: 07eeeebf4b9b68ca170d8d4c7ef54c41ee82531c
-Sha256: 777ea9937d6f1c51756f976357159881f8dd5d74613634b6c7f3cfa9b5cce701
-
-Package: com.sbhnkhrmn.safari.private
-Name: Safari : Private
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>=13.0)
-Description: prevents your data from being exposed like dark mode.
-Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.private/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
-Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.private/index.php
-Homepage : http://www.twitter.com/sbhnkhrmn
-Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Section: Tweaks
-Version: 0.0.1
-Filename: ./debs/com.sbhnkhrmn.safari.private_0.0.1_iphoneos-arm.deb
-Size: 4078
-MD5sum: 81a47515d50d8c16574bac157d3fd3ab
-Sha1: d723f01f1b69a49306b1afdf9b120e6eb16a933d
-Sha256: bea3e7d63baf7d93aec7e42b7799f69d6bda4c97083985ecd09ae2c8a4e2c3b4
-
-Package: com.sbhnkhrmn.safari.switcher.styleipad
-Name: Safari : Switcher - Style / iPad
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>=13.0)
-Description: replaces the page termination screen with ipad style.
-Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.switcher.styleipad/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
-Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.switcher.styleipad/index.php
-Homepage : http://www.twitter.com/sbhnkhrmn
-Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Section: Tweaks
-Version: 0.0.1
-Filename: ./debs/com.sbhnkhrmn.safari.switcher.styleipad_0.0.1_iphoneos-arm.deb
-Size: 4334
-MD5sum: 3f63eb21f4fd66f46f177caced623e7c
-Sha1: e622c416c5cbc949a01f001a500f29560c1af695
-Sha256: 118fe9e21ed9f4036b643d237e1cf2d94068c69899f88e7d4116af2fc9af5c8a
-
-Package: com.sbhnkhrmn.safari.tabbar.styleipad
-Name: Safari : Tab Bar - Style / iPad
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>=13.0)
-Description: Adds ipad style tab bar.
-Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.tabbar.styleipad/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
-Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.tabbar.styleipad/index.php
-Homepage : http://www.twitter.com/sbhnkhrmn
-Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Section: Tweaks
-Version: 0.0.1
-Filename: ./debs/com.sbhnkhrmn.safari.tabbar.styleipad_0.0.1_iphoneos-arm.deb
-Size: 4238
-MD5sum: 9bf09c26316ac9538da450ffd48837d7
-Sha1: 8796c29ae1943303c1691bf7806cd90f27e3ef83
-Sha256: 8d8a9931634e254b235634b071edcbe35d70c7ad675941129f434eb4b9c2b9d0
-
-Package: com.sbhnkhrmn.safari.tab.count
-Name: Safari : Tab Count
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>=13.0)
-Description: In order to speed up safari, the page opening limit has been replaced with 9.
-Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.tab.count/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
-Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.tab.count/index.php
-Homepage : http://www.twitter.com/sbhnkhrmn
-Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Section: Tweaks
-Version: 0.0.1
-Filename: ./debs/com.sbhnkhrmn.safari.tab.count_0.0.1_iphoneos-arm.deb
-Size: 4034
-MD5sum: 139cdcc3e8f0fb68987541ebfbfce6c0
-Sha1: 9b82c86ba93a469985d4b2098c7717f3d1e99914
-Sha256: c61ad66beda9bc77f2f4516e11074b061f4ab308ec8cb3dcdca14a635ebffbae
-
 Package: com.sbhnkhrmn.statusbar.breadcrumb.disable
 Name: SB Breadcrumb Disable
 Architecture: iphoneos-arm
@@ -2598,6 +2484,28 @@ Size: 4072
 MD5sum: a0e2220f457d26cb3b98385c089e439b
 Sha1: f5c00b4504464f1e05e62e471e877efb012f226f
 Sha256: a62490cd1ec33ee76d2123bbb679a7afdad7bc0da7060316c77c96267a1d88b3
+
+Package: com.sbhnkhrmn.safari.switcher.styleipad
+Name: Safari : Switcher - Style / iPad
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=11.0)
+Description: replaces the page termination screen with ipad style.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.switcher.styleipad/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.switcher.styleipad/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.safari.switcher.styleipad_0.0.1_iphoneos-arm.deb
+Size: 4334
+MD5sum: d3d8aeb022cad9c08675fe83ded1895b
+Sha1: b5bf1bab9b239db5fabcc1979989f4ed5b513f9a
+Sha256: 8072a100d9d0e0305d0f8ea135e8e875e1466d2d579af0b217b1fcb402b8b703
+
+
+
 
 
 
