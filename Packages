@@ -2504,6 +2504,27 @@ MD5sum: cfc60b5aff9804dc16c80e7ae9c2dc29
 Sha1: 946b6faf49fc43dc09f3fdd47fbc746aa6487571
 Sha256: 91e6f952d6bb0f04b49bfb521f7d906211277fc6aaaa2f763111a43b6015c477
 
+Package: com.sbhnkhrmn.photos.album.selectall
+Name: Photos : Album / Select All
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: Adds a select all button to albums.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.album.selectall/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Photos.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.album.selectall/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.photos.album.selectall_0.0.1_iphoneos-arm.deb
+Size: 4250
+MD5sum: b5e43c22fb81905d7a1d8407f52c68c1
+Sha1: 98888ca8767778e460b4ac3e630373f4e72e7ee1
+Sha256: cb2cc0ce8508a1bbf0df1a1bc2e206af6bc8fc110e7e6c4b5c1f9ad2aa5751d1
+
+
+
 
 
 
