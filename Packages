@@ -2561,6 +2561,27 @@ MD5sum: bd4c160006e87d97bedb1f09e914d0f7
 Sha1: 3f536a7521005534d2c638e12b91c0d5fff08f90
 Sha256: 367294fb65d7256a6a4ef18792cf2a94dd1e04cc6c34d51ad0a2840386783b5a
 
+Package: com.sbhnkhrmn.safari.private
+Name: Safari : Private
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: prevents your data from being exposed like dark mode.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.private/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Safari.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.private/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.safari.private_0.0.1_iphoneos-arm.deb
+Size: 4078
+MD5sum: 1e6b23abdaf8ccb2ba77494b9953d9c8
+Sha1: f53d3bd86ecc090b0a5531ae11d3034e67e1ca21
+Sha256: f8acb24cc9479696069d280b05b8bf9ba81957ba6a9d2331e126d97ebc6261b8
+
+
+
 
 
 
