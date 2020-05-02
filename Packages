@@ -1814,7 +1814,7 @@ Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Section: System
 Version: 0.0.1
-Filename: ./debs/
+Filename: ./debs/com.sbhnkhrmn.homebar.autohide_0.0.1_iphoneos-arm.deb
 Size: 4076
 MD5sum: e6d447969e57f646d8e5d4f888eb0bf0
 Sha1: a3768fc3bd8581ef4be63ef0442a2d2f0ed73621
