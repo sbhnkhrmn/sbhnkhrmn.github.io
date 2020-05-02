@@ -1,11 +1,10 @@
 ![download](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/ikonlar/ReadMe2_Sbhnkhrmn.png)
 
 ## [**AnaSayfa**](https://sbhnkhrmn.github.io/) 
-### Tweakler ! Açıklamaları ve Bağlantı Linkleri
+### System Tweakler ! Açıklamalar ve İndirme Bağlantıları içerir.
 
-* [**Pro Uygulamalar**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/blob/master/ReadMe/Apps%20PRO.md)
-* [**İnce Ayarlar**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/blob/master/ReadMe/Tweaks.md)
-* [**System Ayarları**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/blob/master/ReadMe/System.md)
+* [****]()
+* [****]()
 ________________________
 
 
