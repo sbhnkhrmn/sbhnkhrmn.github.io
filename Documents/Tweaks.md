@@ -1,7 +1,9 @@
 ![download](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/ikonlar/ReadMe2_Sbhnkhrmn.png)
 
-## [**AnaSayfa**](https://sbhnkhrmn.github.io/) 
+## [**Anasayfa**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io) 
+________________________
 ### İnce Ayar Tweakler ! Açıklamalar ve İndirme Bağlantıları içerir.
+________________________
 
 * [**Camera : Rotate Bar**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.camera.rotate.bar_0.0.1_iphoneos-arm.deb)
 * [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.rotate.bar/index.html)

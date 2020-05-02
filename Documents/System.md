@@ -1,7 +1,9 @@
 ![download](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/ikonlar/ReadMe2_Sbhnkhrmn.png)
 
-## [**AnaSayfa**](https://sbhnkhrmn.github.io/) 
+## [**Anasayfa**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io) 
+________________________
 ### System Tweakler ! Açıklamalar ve İndirme Bağlantıları içerir.
+________________________
 
 * [****]()
 * [****]()
