@@ -1,4 +1,4 @@
-![download](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/ikonlar/ReadMe2_Sbhnkhrmn.png)
+![download](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/ikonlar/Games_Sbhnkhrmn.png)
 
 ## [**Anasayfa**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io) 
 ________________________

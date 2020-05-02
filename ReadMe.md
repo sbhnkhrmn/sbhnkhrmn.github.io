@@ -8,6 +8,7 @@ _______________________
 * [**Pro Uygulamalar**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/blob/master/Documents/Apps%20PRO.md)
 * [**İnce Ayarlar**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/blob/master/Documents/Tweaks.md)
 * [**System Ayarları**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/blob/master/Documents/System.md)
+* [**Games(Oyunlar)**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/blob/master/Documents/Games.md)
 ________________________
 
 ### Jailbreak ! Mağazalar ve Sorunları
