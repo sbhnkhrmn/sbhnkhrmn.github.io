@@ -1,8 +1,9 @@
-![download](https://github.com/sbhnkhrmn/Documents/raw/master/Sileo/ReadMe_Sileo.png)
+![download](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/Documents/Sileo/ReadMe_Sileo.png)
  
-## [**Jailbreak Dökümanları**](https://github.com/sbhnkhrmn/Documents/blob/master/README.md)
+## [**Anasayfa**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io) 
+_______________________
 ### Sileo
-* [**Sileo Nedir**](https://github.com/sbhnkhrmn/Documents/raw/master/Sileo/Sileo.txt)
+* [**Sileo Nedir**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/Documents/Sileo/Sileo.txt)
 * [**Sileo Kurulum**]
 * [**Sileo Sorun ve Çözümleri**]
 * [**Sileo Eklentileri**]
@@ -11,4 +12,3 @@
 ### Takip Et :)
 * [**Twitter**](https://twitter.com/sbhnkhrmn) - Takip et ve Yeniliklerden haberdar Ol.
 * [**Email**](mailto:khrmn.sbhn@gmail.com) - Bana Yazabilir ve Extra Yardım isteyebilirsiniz.
-* [**Donate**](https://paypal.me/SHero) - Hadi bana bi içecek ısmarla.
