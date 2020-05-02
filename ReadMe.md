@@ -15,10 +15,10 @@ ________________________
 * [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.addmusic.pro/index.html)
 ________________________
 * [**AdGuard : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.adguard.pro_3.1.4-1_iphoneos-arm.deb)
-* [**Apple Store**] (https://apps.apple.com/app/id1047223162)
+* [**Apple Store**](https://apps.apple.com/app/id1047223162)
 * [**Açıklama ve Görüntü**]( https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.adguard.pro/index.html)
 ________________________
-* [**April : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.april.pro_2.8.0_iphoneos-arm.deb
+* [**April : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.april.pro_2.8.0_iphoneos-arm.deb)
 * [**Apple Store**] (https://apps.apple.com/app/id1121943475)
 * [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.april.pro/index.html)
 ________________________
