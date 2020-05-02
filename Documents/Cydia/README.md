@@ -1,4 +1,4 @@
-![download](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/Documents/Cydia/ReadMe_Cydia.png)
+![download](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/ikonlar/Cydia/ReadMe_Cydia.png)
 
 ## [**Anasayfa**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io) 
 _______________________

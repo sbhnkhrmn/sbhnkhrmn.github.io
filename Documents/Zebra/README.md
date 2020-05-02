@@ -1,4 +1,4 @@
-![download](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/Documents/Zebra/ReadMe_Zebra.png)
+![download](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/ikonlar/ReadMe_Zebra.png)
 
 ## [**Anasayfa**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io) 
 _______________________
