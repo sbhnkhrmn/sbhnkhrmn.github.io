@@ -88,6 +88,106 @@ ________________________
 * [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homebar.autohide/index.html)
 ________________________
 
+* [**Support : Home Gesture**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.homegesture.support_0.0.1_iphoneos-arm.deb)
+* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homegesture.support/index.html)
+________________________
+
+* [**Music : Allow Recording**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.music.allowrecording_0.0.1_iphoneos-arm.deb)
+* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.music.allowrecording/index.html)
+________________________
+
+* [**Wallpaper : Auto Rotate / Disable**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.wallpaper.autorotatadisabled_0.0.1_iphoneos-arm.deb)
+* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wallpaper.autorotatadisabled/index.html)
+________________________
+
+* [**Wallpaper : Parallax Factor**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.wallpaper.parallax.factor_0.0.1_iphoneos-arm.deb)
+* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wallpaper.parallax.factor/index.html)
+________________________
+
+* [**LTE or 4G**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.statusbar.lteor4g_0.0.1_iphoneos-arm.deb)
+* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.statusbar.lteor4g/index.html)
+________________________
+
+* [**Tweakİsmi**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)
+* [**Açıklama ve Görüntü**]()
+________________________
+
+* [**Tweakİsmi**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)
+* [**Açıklama ve Görüntü**]()
+________________________
+
+* [**Tweakİsmi**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)
+* [**Açıklama ve Görüntü**]()
+________________________
+
+* [**Tweakİsmi**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)
+* [**Açıklama ve Görüntü**]()
+________________________
+
+* [**Tweakİsmi**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)
+* [**Açıklama ve Görüntü**]()
+________________________
+
+* [**Tweakİsmi**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)
+* [**Açıklama ve Görüntü**]()
+________________________
+
+* [**Tweakİsmi**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)
+* [**Açıklama ve Görüntü**]()
+________________________
+
+* [**Tweakİsmi**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)
+* [**Açıklama ve Görüntü**]()
+________________________
+
+* [**Tweakİsmi**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)
+* [**Açıklama ve Görüntü**]()
+________________________
+
+* [**Tweakİsmi**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)
+* [**Açıklama ve Görüntü**]()
+________________________
+
+* [**Tweakİsmi**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)
+* [**Açıklama ve Görüntü**]()
+________________________
+
+* [**Tweakİsmi**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)
+* [**Açıklama ve Görüntü**]()
+________________________
+
+* [**Tweakİsmi**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)
+* [**Açıklama ve Görüntü**]()
+________________________
+
+* [**Tweakİsmi**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)
+* [**Açıklama ve Görüntü**]()
+________________________
+
+* [**Tweakİsmi**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)
+* [**Açıklama ve Görüntü**]()
+________________________
+
+* [**Tweakİsmi**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)
+* [**Açıklama ve Görüntü**]()
+________________________
+
+* [**Tweakİsmi**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)
+* [**Açıklama ve Görüntü**]()
+________________________
+
+* [**Tweakİsmi**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)
+* [**Açıklama ve Görüntü**]()
+________________________
+
+* [**Tweakİsmi**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)
+* [**Açıklama ve Görüntü**]()
+________________________
+
+* [**Tweakİsmi**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)
+* [**Açıklama ve Görüntü**]()
+________________________
+
 * [**Tweakİsmi**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)
 * [**Açıklama ve Görüntü**]()
 ________________________
