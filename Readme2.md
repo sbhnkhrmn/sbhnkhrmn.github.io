@@ -2,9 +2,8 @@
 
 ## [**AnaSayfa**](https://sbhnkhrmn.github.io/) 
 ### Açıklamalar ve İndirme (İnce Ayarlar)
-* [**Tweakİsmi**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)
-* [**Apple Store**]()
-* [**Açıklama ve Görüntü**]()
+* [**Camera : Rotate Bar**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.camera.rotate.bar_0.0.1_iphoneos-arm.deb)
+* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.rotate.bar/index.html)
 ________________________
 
 
