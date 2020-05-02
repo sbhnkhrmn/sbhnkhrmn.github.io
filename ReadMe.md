@@ -18,5 +18,5 @@ ________________________
 ________________________
 
 ### Takip Et
-* [**Twitter**](https://twitter.com/sbhnkhrmn) - Güncel Haberler için Takip etmelisin.
+* [**Twitter**](https://twitter.com/sbhnkhrmn) - Güncel Haberler için Takip Ediniz.
 * [**Email**](mailto:khrmn.sbhn@gmail.com) - Soru ve Sorunlarınız için ulaşın.
