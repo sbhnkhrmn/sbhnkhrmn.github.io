@@ -72,7 +72,7 @@ ________________________
 ________________________
 * [**Facetune 2 : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.facetune2.pro_1.27_iphoneos-arm.deb)
 * [**Apple Store**](https://apps.apple.com/app/id1149994032)
-* [**Açıklama ve Görüntü**](Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.facetune2.pro/index.html)
+* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.facetune2.pro/index.html)
 ________________________
 * [**First Vpn : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.firstvpn.pro_2.3.4_iphoneos-arm.deb)
 * [**Apple Store**](https://apps.apple.com/app/id1403281172)
