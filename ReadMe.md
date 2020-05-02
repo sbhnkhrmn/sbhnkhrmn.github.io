@@ -11,7 +11,7 @@ ___________________________
 * [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.accuweather.pro/index.html)
 ________________________
 * [**Add Music : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.addmusic.pro_6.1-1_iphoneos-arm.deb)
-* [**Apple Store**] (https://apps.apple.com/app/id947792997)
+* [**Apple Store**](https://apps.apple.com/app/id947792997)
 * [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.addmusic.pro/index.html)
 ________________________
 * [**AdGuard : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.adguard.pro_3.1.4-1_iphoneos-arm.deb)
