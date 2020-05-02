@@ -19,11 +19,11 @@ ________________________
 * [**Açıklama ve Görüntü**]( https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.adguard.pro/index.html)
 ________________________
 * [**April : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.april.pro_2.8.0_iphoneos-arm.deb)
-* [**Apple Store**] (https://apps.apple.com/app/id1121943475)
+* [**Apple Store**](https://apps.apple.com/app/id1121943475)
 * [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.april.pro/index.html)
 ________________________
 * [** Assembly : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.assembly.pro_2.3_iphoneos-arm.deb)
-* [**Apple Store**] (https://apps.apple.com/app/id1024210402)
+* [**Apple Store**](https://apps.apple.com/app/id1024210402)
 * [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.assembly.pro/index.html)
 ________________________
 * [** Download**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/)- [**Açıklama ve Görüntü**]()
