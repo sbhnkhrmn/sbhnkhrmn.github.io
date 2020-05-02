@@ -1,7 +1,7 @@
 ![download](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/ikonlar/ReadMe_Sbhnkhrmn.png)
 
 ## [**AnaSayfa**](https://sbhnkhrmn.github.io/) 
-### Açıklamalar ve İndirme  
+### Açıklamalar ve İndirme (Apple Store)
 * [**1998 Cam : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.1998cam.pro_1.6.9_iphoneos-arm.deb) 
 * [**Apple Store**](https://apps.apple.com/app/id1450480287)
 * [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.1998cam.pro/index.html)
