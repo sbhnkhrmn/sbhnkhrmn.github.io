@@ -1,5 +1,5 @@
 ![download](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/ikonlar/ReadMe2_Sbhnkhrmn.png)
-
+_______________________
 ## [**Anasayfa**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io) 
 _______________________
 
@@ -17,7 +17,11 @@ ________________________
 * [**Zebra**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/blob/master/Documents/Zebra/README.md)
 ________________________
 
+### Repoları Otomatik olarak ekler
 
+* [**Add Cydia Repo**](cydia://url/https://cydia.saurik.com/api/share#?source=https://sbhnkhrmn.github.io/)
+* [**Add Sileo Repo**](sileo://source/https://sbhnkhrmn.github.io) 
+________________________
 
 ### Takip Et
 * [**Twitter**](https://twitter.com/sbhnkhrmn) - Güncel Haberler için Takip etmelisin.
