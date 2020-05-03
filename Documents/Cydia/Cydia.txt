@@ -1,1 +1,1 @@
-sssssssssssssss
+Cydia, Jailbreak ile güvenlik zinciri kýrýlmýþ olan bir iOS iþletimi sistemine, çeþitli uygulamalarý ve Tweak özelleþtirmelerini indirmeye yardýmcý olan uygulama maðazasýdýr. iPhone ve iPad için geliþtirilen bir yazýlým olan Cydia, yalnýzca iOS iþletim sistemine sahip olan ve Jailbreak iþlemi gerçekleþtirilen cihazlara yüklenebilmektedir.
