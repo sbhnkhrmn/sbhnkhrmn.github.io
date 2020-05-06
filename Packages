@@ -574,7 +574,7 @@ Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Description: Activates Premium features of Photofox application.
 Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photofox.pro/index.html
-Icon: https://sbhnkhrmn.github.io/ikonlar/
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Photofox.png
 Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photofox.pro/index.php
 Homepage : https://apps.apple.com/tr/app/enlight-photofox-sanat-devi/id1191337894?l=tr
 Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
