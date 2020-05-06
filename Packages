@@ -1370,7 +1370,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Activates Premium features of Tinder Application.
 Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tinder.pro/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Tinder.png
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Tinder.png
 Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tinder.pro/index.php
 Homepage : https://apps.apple.com/ua/app/tinder-match-chat-date/id547702041
 Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
