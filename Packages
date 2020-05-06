@@ -1940,7 +1940,7 @@ Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Description: Activates Premium features of iWebTv Application.
 Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.iwebtv.pro/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_iWebTV.png
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_iWebTv.png
 Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.iwebtv.pro/index.php
 Homepage : https://apps.apple.com/us/app/iwebtv-cast-web-videos-to-tv/id999462129
 Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
