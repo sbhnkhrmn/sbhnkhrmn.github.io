@@ -17,6 +17,25 @@ MD5sum: d119425a822a66f09d9216a9abe33b00
 Sha1: 91475e043c69c418fe9d5cac97d32afc5d8342b9
 Sha256: 174e60ffdfce468aa46bdcb77335df845cede7866d796b2d3906a5776b3e6710
 
+Package: com.sbhnkhrmn.officesuite.pro
+Name: Office Suite : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Office Suite Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.officesuite.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_OfficeSuite.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.officesuite.pro/index.php
+Homepage : https://apps.apple.com/us/app/officesuite-pdf-editor/id924005506
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 7.7
+Filename: ./debs/com.sbhnkhrmn.officesuite.pro_7.7_iphoneos-arm.deb
+Size: 5318
+MD5sum: f5575662b661a5ddcca3e1924ec15eb0
+Sha1: 5731b957255a0b47c33ee319c89c216db0938968
+Sha256: d6c267f6fe59fd3b1912712430927f54dd307db7751ecb5ae276b1096a314eef
+
 Package: com.sbhnkhrmn.accuweather.pro
 Name: AccuWeather : Pro
 Architecture: iphoneos-arm
