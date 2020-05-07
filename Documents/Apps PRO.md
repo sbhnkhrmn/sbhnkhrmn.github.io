@@ -12,9 +12,9 @@ _______________________
 ________________________
 
 ![download](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/ikonlar/AppleStore_AccuWeather.png)
-		* [**AccuWeather : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb)
-		* [**Apple Store**](https://apps.apple.com/app/id300048137)
-		* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.accuweather.pro/index.html)
+* [**AccuWeather : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb)
+* [**Apple Store**](https://apps.apple.com/app/id300048137)
+* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.accuweather.pro/index.html)
 
 ________________________
 
@@ -24,33 +24,54 @@ ________________________
 * [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.addmusic.pro/index.html)
 
 ________________________
+
+![download](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/ikonlar/AppleStore_AdGuardFree.png)
 * [**AdGuard : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.adguard.pro_3.1.4-1_iphoneos-arm.deb)
 * [**Apple Store**](https://apps.apple.com/app/id1047223162)
 * [**Açıklama ve Görüntü**]( https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.adguard.pro/index.html)
+
 ________________________
+
+![download](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/ikonlar/AppleStore_April.png)
 * [**April : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.april.pro_2.8.0_iphoneos-arm.deb)
 * [**Apple Store**](https://apps.apple.com/app/id1121943475)
 * [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.april.pro/index.html)
+
 ________________________
+
+![download](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/ikonlar/AppleStore_Assembly.png)
 * [**Assembly : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.assembly.pro_2.3_iphoneos-arm.deb)
 * [**Apple Store**](https://apps.apple.com/app/id1024210402)
 * [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.assembly.pro/index.html)
+
 ________________________
+
+![download](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/ikonlar/AppleStore_AudioMack.png)
 * [**AudioMack : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.audiomack.pro_5.3.1_iphoneos-arm.deb)
 * [**Apple Store**](https://apps.apple.com/app/id921765888)
 * [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.audiomack.pro/index.html)
+
 ________________________
+
+![download](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/ikonlar/AppleStore_Bazaart.png)
 * [**Bazaart : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.bazaart.pro_6.8.0_iphoneos-arm.deb)
 * [**Apple Store**](https://apps.apple.com/us/app/bazaart-photo-editor-design/id515094775)
 *[**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.bazaart.pro/index.html)
+
 ________________________
+
+![download](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/ikonlar/AppleStore_Bear.png)
 * [**Bear : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.bear.pro_1.7.10_iphoneos-arm.deb)
 * [**Apple Store**](https://apps.apple.com/app/id1016366447)
 * [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.bear.pro/index.html)
+
 ________________________
+
+![download](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/ikonlar/AppleStore_Boom.png)
 * [**Boom : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.boom.pro_2.0.8_iphoneos-arm.deb)
 * [**Apple Store**](https://apps.apple.com/app/id1016366447)
 * [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.boom.pro/index.html)
+
 ________________________
 * [**Calm : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.calm.pro_4.22_iphoneos-arm.deb)
 * [**Apple Store**](https://apps.apple.com/us/app/calm/id571800810)
