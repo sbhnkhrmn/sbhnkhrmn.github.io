@@ -1043,61 +1043,6 @@ MD5sum: 6694f4ab58332a68e051d74b260065d4
 Sha1: 196966e0269c12723aaba3bd630b06f9aad6fa08
 Sha256: caf6cd99be83e1251da97a67df673b666f8f13aa5214c34453e4637ff7b770e7
 
-Package: com.sbhnkhrmn.camera.rotate.bar
-Name: Camera : Rotate Bar
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>=12.0)
-Description: Unlocks the landscape screen rotation.
-Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.rotate.bar/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Camera.png
-Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.rotate.bar/index.php
-Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Section: Tweaks
-Version: 0.0.1
-Filename: ./debs/com.sbhnkhrmn.camera.rotate.bar_0.0.1_iphoneos-arm.deb
-Size: 5188
-MD5sum: 3e993bbade9d215192be9243c2e7ccf3
-Sha1: e3c8d225a7a1067998d9f16d1829811fd2054cf1
-Sha256: 8dc78cb676d56a16d6233f6aa9550cfdadc3aab0143b6e268b19e0871dd1a57e
-
-Package: com.sbhnkhrmn.camera.style.ipad
-Name: Camera : Style / iPad
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>=12.0)
-Description: replaces button with ipad style to select.
-Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.style.ipad/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Camera.png
-Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.style.ipad/index.php
-Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Section: Tweaks
-Version: 0.0.1
-Filename: ./debs/com.sbhnkhrmn.camera.style.ipad_0.0.1_iphoneos-arm.deb
-Size: 4628
-MD5sum: 92ffcd972ffe5dae8ed80a0a676b57d1
-Sha1: cb9813b0f9168dce22b9b843e36fa4f5cb621d58
-Sha256: aa1f21a759f158140533ab49d788a1cb1a672c9503e31a75d820b7bdf28fcf21
-
-Package: com.sbhnkhrmn.camera.Transparent.bar
-Name: Camera : Transparent Bar
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>=12.0)
-Description: removes the black shade from the buttons.
-Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.Transparent.bar/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Camera.png
-Sileodepiction: https://sbhnkhrmn.github.io/depictions/sbhnkhrmn.camera.Transparent.bar/index.php
-Homepage : http://www.twitter.com/sbhnkhrmn     
-Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Section: Tweaks
-Version: 0.0.1
-Filename: ./debs/com.sbhnkhrmn.camera.Transparent.bar_0.0.1_iphoneos-arm.deb
-Size: 4444
-MD5sum: 87d86259309060a19c73d5a975a23f7e
-Sha1: 2dd06fe5f6df2ebf46141e0672d3ff96290a96c5
-Sha256: 3c4edcc82ef76dec85968947557155a08eeb38e4b828e476fa69aab408502013
-
 Package: com.sbhnkhrmn.dock.backgroundhidden
 Name: Dock : Background / Hide
 Architecture: iphoneos-arm
@@ -2617,6 +2562,26 @@ Size: 4604
 MD5sum: 6d0f16d6cf4e99806ac287dbe5baea4f
 Sha1: 6621e74c8ff957a05a9c3a116c7b8f4ae7d366ae
 Sha256: fa21413b41a31bca50dedd1c63657d7870a674a9edee41cf8e17ce35bc8112ed
+
+Package: com.sbhnkhrmn.camera.style.ipad
+Name: Camera : Style / iPad
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: replaces button with ipad style to select.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.style.ipad/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.style.ipad/index.php
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.camera.style.ipad_0.0.1_iphoneos-arm.deb
+Size: 4630
+MD5sum: 07b30ffdfe28561be303fee16a03c35a
+Sha1: 7aff11df15d7ca6066401ec09e48c2c20810dc1e
+Sha256: 38a729501e9f971ce22b1836c966ed3c7ce2e61f1197f10e9c6e396ad46e4ace
+
+
 
 
 
