@@ -2600,6 +2600,25 @@ MD5sum: d143d7da607f76b7131a220d4e28d9d5
 Sha1: b4fef8a1e6b8414899cd43b80c67d4227a3cc483
 Sha256: 4fe2a1b3f4b39955628207de728043e10c32b0631c38cefba014cfd2cb7a91d5
 
+Package: com.sbhnkhrmn.camera.rotate.bar
+Name: Camera : Rotate Bar
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: Unlocks the landscape screen rotation.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.rotate.bar/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.rotate.bar/index.php
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.camera.rotate.bar_0.0.1_iphoneos-arm.deb
+Size: 5186
+MD5sum: 33a6bc4f3a93ad50ba753b9a51f275f6
+Sha1: 883fa47a134222f56f4fc8157a87ec5179639067
+Sha256: 0645827e94e325f996c2bea4f3665e4ca8c41f8c305a6b6071bc098bf0c55745
+
+
 
 
 
