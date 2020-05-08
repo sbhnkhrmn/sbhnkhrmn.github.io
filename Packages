@@ -2569,7 +2569,7 @@ Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>=12.0)
 Description: replaces button with ipad style to select.
 Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.style.ipad/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Camera.png
 Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.style.ipad/index.php
 Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
@@ -2587,7 +2587,7 @@ Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>=12.0)
 Description: removes the black shade from the buttons.
 Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.Transparent.bar/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Camera.png
 Sileodepiction: https://sbhnkhrmn.github.io/depictions/sbhnkhrmn.camera.Transparent.bar/index.php
 Homepage : http://www.twitter.com/sbhnkhrmn     
 Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
@@ -2606,7 +2606,7 @@ Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>=12.0)
 Description: Unlocks the landscape screen rotation.
 Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.rotate.bar/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Camera.png
 Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.rotate.bar/index.php
 Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
