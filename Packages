@@ -50,10 +50,10 @@ Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Section: Apps PRO
 Version: 7.7.1
 Filename: ./debs/com.sbhnkhrmn.officesuite.pro_7.7.1_iphoneos-arm.deb
-Size: 10056
-MD5sum: 0a4c253b17904bfa98690951e9062eb5
-Sha1: 9bf944e163ef54557a75ea63308951973b5520d3
-Sha256: de186768f8c4b4bfade004a91d3652b27a889066c44e4f5cb3588af708f57555
+Size: 9938
+MD5sum: 245ea9eabdedbd73f951baf912ec0c84
+Sha1: 327590f83c329c93ce24dfc78119abd31457d60d
+Sha256: 082655978f7119d7063b93c2cba68dba8c7a07e860434e5a8fc1bc405b82b0bb
 
 Package: com.sbhnkhrmn.accuweather.pro
 Name: AccuWeather : Pro
