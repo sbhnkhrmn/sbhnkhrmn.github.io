@@ -2637,6 +2637,25 @@ MD5sum: 33a6bc4f3a93ad50ba753b9a51f275f6
 Sha1: 883fa47a134222f56f4fc8157a87ec5179639067
 Sha256: 0645827e94e325f996c2bea4f3665e4ca8c41f8c305a6b6071bc098bf0c55745
 
+Package: com.sbhnkhrmn.trilliarden.mematic.pro
+Name: Mematic : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Mematic - The Meme Maker Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.trilliarden.mematic.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Mematic.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.trilliarden.mematic.pro/index.php
+Homepage : https://apps.apple.com/us/app/mematic-the-meme-maker/id491076730
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 3.0.4
+Filename: ./debs/com.sbhnkhrmn.trilliarden.mematic.pro_3.0.4_iphoneos-arm.deb
+Size: 5244
+MD5sum: c89a21d67b8f6b83393932e3624fb637
+Sha1: f03baea486777b3f2638820d91c10ac757b52856
+Sha256: 8ec67fa5357194e4093db39d98cf127fa9b72a3e40f5fe4a5906813b701a3a80
+
 
 
 
