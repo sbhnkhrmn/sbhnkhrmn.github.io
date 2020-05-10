@@ -2675,4 +2675,21 @@ MD5sum: 91cfd0e3148511f5e73fe2b5f2e527a6
 Sha1: 8eb0ab490e9790d3cd57b0266489801c0c81a567
 Sha256: 85016a200bcdf8234e4359484fe7a51ff93c8e31eb0b34bd6cefadfac8d5b577
 
-
+Package: com.sbhnkhrmn.arteditor.pro
+Name: Art Editor : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Art Editor - Poster & Filter Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.arteditor.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_ArtEditor.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.arteditor.pro/index.php
+Homepage : https://apps.apple.com/us/app/art-editor-poster-filter/id1477025845
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 4.1
+Filename: ./debs/com.sbhnkhrmn.arteditor.pro_4.1-1+debug_iphoneos-arm.deb
+Size: 4934
+MD5sum: 02380596270bba2f263eb1abe855c7a9
+Sha1: fcec589c5525b5f2fe064d838969d48f55949b67
+Sha256: ba73ad7663653d991e36dad7da4c70b37a2c23b85056a9f9d16fef22242c0792
