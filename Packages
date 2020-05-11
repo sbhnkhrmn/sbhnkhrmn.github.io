@@ -2693,3 +2693,23 @@ Size: 4934
 MD5sum: 02380596270bba2f263eb1abe855c7a9
 Sha1: fcec589c5525b5f2fe064d838969d48f55949b67
 Sha256: ba73ad7663653d991e36dad7da4c70b37a2c23b85056a9f9d16fef22242c0792
+
+Package: com.tinacinc.smartsamsungtvcast.pro
+Name: Samsung Cast : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of SmartCast - Samsung TV Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.tinacinc.smartsamsungtvcast.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_SmartCast.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.tinacinc.smartsamsungtvcast.pro/index.php
+Homepage : https://apps.apple.com/us/app/smartcast-samsung-tv/id1467613414
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.0.8
+Filename: ./debs/com.tinacinc.smartsamsungtvcast.pro_1.0.8_iphoneos-arm.deb
+Size: 5674
+MD5sum: 10c7b918b3902ac1c8ccb52cafac8d9e
+Sha1: 08c51c2c2808ea9492b81d43b1ba22814e9aef25
+Sha256: de897016c9ba5e90a4fb2c739c810ae61bd1a845d4c55c79857c5c7090991b3f
+
