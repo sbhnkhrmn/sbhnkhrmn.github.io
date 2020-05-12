@@ -2770,3 +2770,23 @@ MD5sum: 416ff806e557fd2bd003823619426f02
 Sha1: 4158f26108fbab697b6198a2c6e0815f26f492cc
 Sha256: 057af7bc0e9a9d49c4c227f016222e65b8eb009726374b97695145c664b11964
 
+Package: com.sbhnkhrmn.creaceed.moviestiller.pro
+Name: Emulsio : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Emulsio - Video Stabilizer Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.creaceed.moviestiller.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Emulsio.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.creaceed.moviestiller.pro/index.php
+Homepage : https://apps.apple.com/us/app/emulsio-video-stabilizer/id397583851
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 3.1.2
+Filename: ./debs/com.sbhnkhrmn.creaceed.moviestiller.pro_3.1.2_iphoneos-arm.deb
+Size: 9392
+MD5sum: ae29e4878f6cdd3c11b5aea31a23c493
+Sha1: 8cef55aace806368c7169bf1c34ba83966914d5d
+Sha256: 4862ee78eae86a413f6659dc9f0b2e32170dcef09065e9237579b996c6402202
+
+
