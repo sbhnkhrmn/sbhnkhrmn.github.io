@@ -2732,4 +2732,24 @@ MD5sum: 47978f8e34bf365c0b5aeee8fe64a3c5
 Sha1: b9ab1362c0612be05184d650943282ab75d93f46
 Sha256: 58e02ab202d08a21107b6591ad8cb1df946939bb0782c5d0ef52c7d40f6f83bc
 
+Package: com.sbhnkhrmn.vstudio.camera360.pro
+Name: Camera360 : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Camera360-Selfie Photo Editor Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.vstudio.camera360.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Camera360.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.vstudio.camera360.pro/index.php
+Homepage : https://apps.apple.com/tr/app/camera360-selfie-photo-editing/id443354861
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 9.9.0
+Filename: ./debs/com.sbhnkhrmn.vstudio.camera360.pro_9.9.0-1+debug_iphoneos-arm.deb
+Size: 6062
+MD5sum: 5973b66e63a0819e6fc3364e0beeee87
+Sha1: 7b41c85228f8cd602ef609f6f6f5e97597ca0d1c
+Sha256: dddad3bfe808976d927643603656847f4878c496de94d7201b2c7e5298361d97
+
+
 
