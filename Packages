@@ -2750,3 +2750,23 @@ Size: 6062
 MD5sum: 5973b66e63a0819e6fc3364e0beeee87
 Sha1: 7b41c85228f8cd602ef609f6f6f5e97597ca0d1c
 Sha256: dddad3bfe808976d927643603656847f4878c496de94d7201b2c7e5298361d97
+
+Package: com.sbhnkhrmn.mobivio.cutecut.pro
+Name: Cute CUT : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Cute CUT - Full Featured Video Editor Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.mobivio.cutecut.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_CuteCUTPro.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.mobivio.cutecut.pro/index.php
+Homepage : https://apps.apple.com/us/app/cute-cut/id583555212
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.8.10
+Filename: ./debs/com.sbhnkhrmn.mobivio.cutecut.pro_1.8.10-1+debug_iphoneos-arm.deb
+Size: 4296
+MD5sum: 416ff806e557fd2bd003823619426f02
+Sha1: 4158f26108fbab697b6198a2c6e0815f26f492cc
+Sha256: 057af7bc0e9a9d49c4c227f016222e65b8eb009726374b97695145c664b11964
+
