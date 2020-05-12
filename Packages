@@ -2789,4 +2789,21 @@ MD5sum: ae29e4878f6cdd3c11b5aea31a23c493
 Sha1: 8cef55aace806368c7169bf1c34ba83966914d5d
 Sha256: 4862ee78eae86a413f6659dc9f0b2e32170dcef09065e9237579b996c6402202
 
-
+Package: com.sbhnkhrmn.aaronray.fontcandy.pro
+Name: Font Candy : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Font Candy Photo & Text Editor Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.aaronray.fontcandy.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_FontCandyPhoto.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.aaronray.fontcandy.pro/index.php
+Homepage : https://apps.apple.com/us/app/font-candy-fotoğraf-editörü/id661971496
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 5.6.2
+Filename: ./debs/com.sbhnkhrmn.aaronray.fontcandy.pro_5.6.2_iphoneos-arm.deb
+Size: 5214
+MD5sum: d465de449d76e0288b1259497893737f
+Sha1: c510e21169bf68939e35f8379bb4aa7c6cceb20b
+Sha256: d9cf8eb1d5d2b625db40573eb28f9272056d8d478c54069c32d4bdaabbc48997
