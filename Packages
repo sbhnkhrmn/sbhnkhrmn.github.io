@@ -2675,25 +2675,6 @@ MD5sum: 91cfd0e3148511f5e73fe2b5f2e527a6
 Sha1: 8eb0ab490e9790d3cd57b0266489801c0c81a567
 Sha256: 85016a200bcdf8234e4359484fe7a51ff93c8e31eb0b34bd6cefadfac8d5b577
 
-Package: com.sbhnkhrmn.arteditor.pro
-Name: Art Editor : Pro
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Description: Activates Premium features of Art Editor - Poster & Filter Application.
-Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.arteditor.pro/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_ArtEditor.png
-Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.arteditor.pro/index.php
-Homepage : https://apps.apple.com/us/app/art-editor-poster-filter/id1477025845
-Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Section: Apps PRO
-Version: 4.1
-Filename: ./debs/com.sbhnkhrmn.arteditor.pro_4.1-1+debug_iphoneos-arm.deb
-Size: 4934
-MD5sum: 02380596270bba2f263eb1abe855c7a9
-Sha1: fcec589c5525b5f2fe064d838969d48f55949b67
-Sha256: ba73ad7663653d991e36dad7da4c70b37a2c23b85056a9f9d16fef22242c0792
-
 Package: com.tinacinc.smartsamsungtvcast.pro
 Name: Samsung Cast : Pro 
 Architecture: iphoneos-arm
@@ -2713,64 +2694,6 @@ MD5sum: 10c7b918b3902ac1c8ccb52cafac8d9e
 Sha1: 08c51c2c2808ea9492b81d43b1ba22814e9aef25
 Sha256: de897016c9ba5e90a4fb2c739c810ae61bd1a845d4c55c79857c5c7090991b3f
 
-Package: com.sbhnkhrmn.quvideo.slideplus.pro
-Name: AutoEdit : Pro
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Description: Activates Premium features of SlidePlus - Slideshow Maker Application.
-Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.quvideo.slideplus.pro/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_SlidePlus.png
-Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.quvideo.slideplus.pro/index.php
-Homepage : https://apps.apple.com/us/app/slayt-yapma-programı-müzikli/id1023346358
-Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Section: Apps PRO
-Version: 3.12.6
-Filename: ./debs/com.sbhnkhrmn.quvideo.slideplus.pro_3.12.6-1+debug_iphoneos-arm.deb
-Size: 8762
-MD5sum: 47978f8e34bf365c0b5aeee8fe64a3c5
-Sha1: b9ab1362c0612be05184d650943282ab75d93f46
-Sha256: 58e02ab202d08a21107b6591ad8cb1df946939bb0782c5d0ef52c7d40f6f83bc
-
-Package: com.sbhnkhrmn.vstudio.camera360.pro
-Name: Camera360 : Pro
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Description: Activates Premium features of Camera360-Selfie Photo Editor Application.
-Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.vstudio.camera360.pro/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Camera360.png
-Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.vstudio.camera360.pro/index.php
-Homepage : https://apps.apple.com/tr/app/camera360-selfie-photo-editing/id443354861
-Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Section: Apps PRO
-Version: 9.9.0
-Filename: ./debs/com.sbhnkhrmn.vstudio.camera360.pro_9.9.0-1+debug_iphoneos-arm.deb
-Size: 6062
-MD5sum: 5973b66e63a0819e6fc3364e0beeee87
-Sha1: 7b41c85228f8cd602ef609f6f6f5e97597ca0d1c
-Sha256: dddad3bfe808976d927643603656847f4878c496de94d7201b2c7e5298361d97
-
-Package: com.sbhnkhrmn.mobivio.cutecut.pro
-Name: Cute CUT : Pro
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Description: Activates Premium features of Cute CUT - Full Featured Video Editor Application.
-Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.mobivio.cutecut.pro/index.html
-Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_CuteCUTPro.png
-Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.mobivio.cutecut.pro/index.php
-Homepage : https://apps.apple.com/us/app/cute-cut/id583555212
-Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
-Section: Apps PRO
-Version: 1.8.10
-Filename: ./debs/com.sbhnkhrmn.mobivio.cutecut.pro_1.8.10-1+debug_iphoneos-arm.deb
-Size: 4296
-MD5sum: 416ff806e557fd2bd003823619426f02
-Sha1: 4158f26108fbab697b6198a2c6e0815f26f492cc
-Sha256: 057af7bc0e9a9d49c4c227f016222e65b8eb009726374b97695145c664b11964
-
-Package: com.sbhnkhrmn.creaceed.moviestiller.pro
 Name: Emulsio : Pro 
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
@@ -2826,4 +2749,24 @@ Size: 8258
 MD5sum: 99b796e585c05d86b0c94d23bf6abdc8
 Sha1: 9ad073d803d426962ba84ccfa74e2f88d4226db0
 Sha256: 7b0b03af473c8f6143bb2f484ff4ae39d93a8c486f7775b190cb0ca832901ca5
+
+Package: com.sbhnkhrmn.vstudio.camera360.pro
+Name: CCamera360 : Pro (Beta)
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Camera360-Selfie Photo Editor Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.vstudio.camera360.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Camera360.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.vstudio.camera360.pro/index.php
+Homepage : https://apps.apple.com/tr/app/camera360-selfie-photo-editing/id443354861
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 9.9.0
+Filename: ./debs/com.sbhnkhrmn.vstudio.camera360.pro_9.9.0_iphoneos-arm.deb
+Size: 6068
+MD5sum: 935834274902ad6ab441d80036195f9e
+Sha1: 9c3a2f5a186e0d5b27ecbbb04263429909fae4c1
+Sha256: f4264a253d03c0eec99c037d345ad5cf8e7b7e0ccc3bece0933b9ba58984ee38
+
 
