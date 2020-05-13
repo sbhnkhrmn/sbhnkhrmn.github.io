@@ -2695,6 +2695,7 @@ MD5sum: 10c7b918b3902ac1c8ccb52cafac8d9e
 Sha1: 08c51c2c2808ea9492b81d43b1ba22814e9aef25
 Sha256: de897016c9ba5e90a4fb2c739c810ae61bd1a845d4c55c79857c5c7090991b3f
 
+Package: com.sbhnkhrmn.creaceed.moviestiller.pro
 Name: Emulsio : Pro 
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
@@ -2708,10 +2709,11 @@ Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Section: Apps PRO
 Version: 3.1.2
 Filename: ./debs/com.sbhnkhrmn.creaceed.moviestiller.pro_3.1.2_iphoneos-arm.deb
-Size: 9392
-MD5sum: ae29e4878f6cdd3c11b5aea31a23c493
-Sha1: 8cef55aace806368c7169bf1c34ba83966914d5d
-Sha256: 4862ee78eae86a413f6659dc9f0b2e32170dcef09065e9237579b996c6402202
+Size: 7140
+MD5sum: f34ac2fa27e89394979db5b43d6b4897
+Sha1: 3f327142f683998958531abf638baf28a12866c8
+Sha256: cea3dca9c91dc5ddacc02f224d3b34698bda10ae89dd434a25947e1f2578c06d
+
 
 Package: com.sbhnkhrmn.aaronray.fontcandy.pro
 Name: Font Candy : Pro 
@@ -2864,5 +2866,25 @@ Size: 5274
 MD5sum: dd9cea203846af8b50c7272b43e387a0
 Sha1: 7d01143482383d9c1052fc8456151462842faa06
 Sha256: 01f4b4793b5feacbef3a1cf28239d4df7224cbcb3a2b0e9e87d1ed559a29e29a
+
+Package: com.sbhnkhrmn.rr.carbon.pro
+Name: Carbon : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Carbon - B&W Filters & Effects  Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.rr.carbon.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Carbon.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.rr.carbon.pro/index.php
+Homepage : https://apps.apple.com/us/app/carbon-siyah-beyaz-filtreler/id1152477906
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 11.11
+Filename: ./debs/com.sbhnkhrmn.rr.carbon.pro_11.11_iphoneos-arm.deb
+Size: 7720
+MD5sum: 137dd5168fde1a54d527de2360d69bdd
+Sha1: 298d6f36fb8d7e42628a59e0b06742616a254b12
+Sha256: 713ccee449faa99c8270d6e4a8a5792cb465261f5679ba4e7b9670a1625e433c
+
 
 
