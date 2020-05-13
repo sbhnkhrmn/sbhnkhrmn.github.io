@@ -2846,4 +2846,23 @@ MD5sum: a5d8128e251754e20af3d1bf61d114fc
 Sha1: f73f8ed48eb61ad8db80ca28e7e8338c213b1a3b
 Sha256: 8e22777687354105e83ee97170209fa968673a49af8ae75bfebb3ad3270c014c
 
+Package: com.sbhnkhrmn.easytigerapps.hypetype.pro
+Name: Hype Type : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Hype-Type: Moving Text Photo-s Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.easytigerapps.hypetype.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_HypeType.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.easytigerapps.hypetype.pro/index.php
+Homepage : https://apps.apple.com/us/app/hype-type-moving-text-photo-s/id1152687277
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.94
+Filename: ./debs/com.sbhnkhrmn.easytigerapps.hypetype.pro_1.94_iphoneos-arm.deb
+Size: 5274
+MD5sum: dd9cea203846af8b50c7272b43e387a0
+Sha1: 7d01143482383d9c1052fc8456151462842faa06
+Sha256: 01f4b4793b5feacbef3a1cf28239d4df7224cbcb3a2b0e9e87d1ed559a29e29a
+
 
