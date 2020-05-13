@@ -2827,5 +2827,23 @@ MD5sum: 2eddfe6b4c4a934c14af045a1a952c3c
 Sha1: 325d9663a98bf49fbe6e3f740afb34d758f34365
 Sha256: a245c664d9d0f13733ccfab8040b1b8f6f412c39836826e59a781377436050ac
 
+Package: com.sbhnkhrmn.tickettothemoon.gradient.pro
+Name: Gradient : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Gradient: Face Symmetry Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tickettothemoon.gradient.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Gradient.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tickettothemoon.gradient.pro/index.php
+Homepage : https://apps.apple.com/us/app/gradient-face-symmetry/id1466097469
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.9.2
+Filename: ./debs/com.sbhnkhrmn.tickettothemoon.gradient.pro_1.9.2_iphoneos-arm.deb
+Size: 4292
+MD5sum: a5d8128e251754e20af3d1bf61d114fc
+Sha1: f73f8ed48eb61ad8db80ca28e7e8338c213b1a3b
+Sha256: 8e22777687354105e83ee97170209fa968673a49af8ae75bfebb3ad3270c014c
 
 
