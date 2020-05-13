@@ -2788,3 +2788,22 @@ MD5sum: b98b6c814ba3263c8d6f24103efc77eb
 Sha1: 97ed6664e97c9392b18225b386a861f5060582f7
 Sha256: 1b3cbc299648bbf03b54c5bf71e1dd4f3aded5580002d61c01e3c7167beaee52
 
+Package: com.sbhnkhrmn.quvideo.slideplus.pro
+Name: AutoEdit : Pro (Beta)
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of SlidePlus - Slideshow Maker Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.quvideo.slideplus.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_SlidePlus.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.quvideo.slideplus.pro/index.php
+Homepage : https://apps.apple.com/us/app/slayt-yapma-programı-müzikli/id1023346358
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 3.12.6
+Filename: ./debs/com.sbhnkhrmn.quvideo.slideplus.pro_3.12.6_iphoneos-arm.deb
+Size: 8758
+MD5sum: 52ee7f01a0d4dc7e28a121e24f936e76
+Sha1: e1c83de07485a066c02b700b84f2467d39af321b
+Sha256: 1d81a3d67d86b27a2671103176489e9d2bea66b8eef83c7f30aaa097d78137ff
+
