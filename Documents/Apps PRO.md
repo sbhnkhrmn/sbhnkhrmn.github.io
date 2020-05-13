@@ -320,41 +320,37 @@ ________________________
 * [**Apple Store**](https://apps.apple.com/us/app/fotor-fotoğraf-düzenleyici/id440159265)
 * [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.everimaging.photoeffectstudio.pro/index.html)
 ________________________
-* [**TweakAdı : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/)
-* [**Apple Store**]()
-* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/)
+* [**Font Candy : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.aaronray.fontcandy.pro_5.6.2_iphoneos-arm.deb)
+* [**Apple Store**](https://apps.apple.com/us/app/font-candy-fotoğraf-editörü/id661971496)
+* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.aaronray.fontcandy.pro/index.html)
 ________________________
-* [**TweakAdı : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/)
-* [**Apple Store**]()
-* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/)
+* [**Emulsio : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.creaceed.moviestiller.pro_3.1.2_iphoneos-arm.deb)
+* [**Apple Store**](https://apps.apple.com/us/app/emulsio-video-stabilizer/id397583851)
+* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.creaceed.moviestiller.pro/index.html)
 ________________________
-* [**TweakAdı : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/)
-* [**Apple Store**]()
-* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/)
+* [**Cute CUT : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.mobivio.cutecut.pro_1.8.10-1+debug_iphoneos-arm.deb)
+* [**Apple Store**](https://apps.apple.com/us/app/cute-cut/id583555212)
+* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.mobivio.cutecut.pro/index.html)
 ________________________
-* [**TweakAdı : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/)
-* [**Apple Store**]()
-* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/)
+* [**AutoEdit : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.quvideo.slideplus.pro_3.12.6-1+debug_iphoneos-arm.deb)
+* [**Apple Store**](https://apps.apple.com/us/app/slayt-yapma-programı-müzikli/id1023346358)
+* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.quvideo.slideplus.pro/index.html)
 ________________________
-* [**TweakAdı : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/)
-* [**Apple Store**]()
-* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/)
+* [**Samsung Cast : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.tinacinc.smartsamsungtvcast.pro_1.0.8_iphoneos-arm.deb)
+* [**Apple Store**](https://apps.apple.com/us/app/smartcast-samsung-tv/id1467613414)
+* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.tinacinc.smartsamsungtvcast.pro/index.html)
 ________________________
-* [**TweakAdı : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/)
-* [**Apple Store**]()
-* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/)
+* [**Art Editor : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.arteditor.pro_4.1-1+debug_iphoneos-arm.deb)
+* [**Apple Store**](https://apps.apple.com/us/app/art-editor-poster-filter/id1477025845)
+* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.arteditor.pro/index.html)
 ________________________
-* [**TweakAdı : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/)
-* [**Apple Store**]()
-* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/)
+* [**AirBrush : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.magicv.AirBrush.pro_4.13.1_iphoneos-arm.deb)
+* [**Apple Store**](https://apps.apple.com/us/app/airbrush-best-photo-editor/id998411110)
+* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.magicv.AirBrush.pro/index.html)
 ________________________
-* [**TweakAdı : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/)
-* [**Apple Store**]()
-* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/)
-________________________
-* [**TweakAdı : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/)
-* [**Apple Store**]()
-* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/)
+* [**Mematic : Pro**](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.trilliarden.mematic.pro_3.0.4_iphoneos-arm.deb)
+* [**Apple Store**](https://apps.apple.com/us/app/mematic-the-meme-maker/id491076730)
+* [**Açıklama ve Görüntü**](https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.trilliarden.mematic.pro/index.html)
 ________________________
 
 
