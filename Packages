@@ -1342,10 +1342,11 @@ Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Section: Apps PRO
 Version: 7.6.6
 Filename: ./debs/com.sbhnkhrmn.phonedrive.pro_7.6.6_iphoneos-arm.deb
-Size: 4296
-MD5sum: eb05f33c5291b0d93ff7fa5939d2f3df
-Sha1: 1323f5c1b8992ec61fe0129b8fed5b04d460d890
-Sha256: 8c720116c7e22938b58ee2dbe80cf9a08768a12dec6a83d10827242b61371eb9
+Size: 4298
+MD5sum: 4ae96faf79b99ed931d75a59f0239089
+Sha1: 8ff1df56d9437abf98a184f256c804ee4f43fa8a
+Sha256: d4397ce7a9e020d71d57e7a8110a71dd4244180a6f369ff63ff07f6c2025bc75
+
 
 Package: com.sbhnkhrmn.tinder.pro
 Name: Tinder : Pro
