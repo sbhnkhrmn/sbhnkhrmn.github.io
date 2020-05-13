@@ -2765,10 +2765,10 @@ Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Section: Apps PRO
 Version: 9.9.0
 Filename: ./debs/com.sbhnkhrmn.vstudio.camera360.pro_9.9.0_iphoneos-arm.deb
-Size: 6068
-MD5sum: 935834274902ad6ab441d80036195f9e
-Sha1: 9c3a2f5a186e0d5b27ecbbb04263429909fae4c1
-Sha256: f4264a253d03c0eec99c037d345ad5cf8e7b7e0ccc3bece0933b9ba58984ee38
+Size: 6060
+MD5sum: b260f6ec1fd3ee7aaa853e86ba15cb04
+Sha1: 9d7615080768db5bf1647a83656561022057d3d8
+Sha256: 477c7ab44bf7567f329e0d21003625c303cf55defa4eac466fdff9e57987fb71
 
 Package: com.sbhnkhrmn.mobivio.cutecut.pro
 Name: Cute CUT : Pro
