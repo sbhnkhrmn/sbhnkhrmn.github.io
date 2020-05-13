@@ -2790,7 +2790,7 @@ Sha1: 97ed6664e97c9392b18225b386a861f5060582f7
 Sha256: 1b3cbc299648bbf03b54c5bf71e1dd4f3aded5580002d61c01e3c7167beaee52
 
 Package: com.sbhnkhrmn.quvideo.slideplus.pro
-Name: AutoEdit : Pro (Beta)
+Name: AutoEdit : Pro
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Description: Activates Premium features of SlidePlus - Slideshow Maker Application.
@@ -2803,10 +2803,10 @@ Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Section: Apps PRO
 Version: 3.12.6
 Filename: ./debs/com.sbhnkhrmn.quvideo.slideplus.pro_3.12.6_iphoneos-arm.deb
-Size: 8758
-MD5sum: 52ee7f01a0d4dc7e28a121e24f936e76
-Sha1: e1c83de07485a066c02b700b84f2467d39af321b
-Sha256: 1d81a3d67d86b27a2671103176489e9d2bea66b8eef83c7f30aaa097d78137ff
+Size: 8750
+MD5sum: 3e26604ca00b878846aca36f1d5a23fc
+Sha1: 1fb03f664c61aeb135195bee84d94f457d03c4cd
+Sha256: 762df0ef1f914c7a81bfb5a6a61baf9319a9ba7742c131ac3911569bf713a198
 
 Package: com.sbhnkhrmn.arteditor.pro
 Name: Art Editor : Pro (Beta)
