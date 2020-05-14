@@ -2905,4 +2905,24 @@ MD5sum: 7349af52ab685752705a9ad8d3c417cf
 Sha1: 22cc5ff456c4a0ca21d55deeda3dc4bf5e4a829c
 Sha256: 11d9945739206421ee5af05c4634229b013b6e5a323d2507c95ec43a9222bfad
 
+Package: com.sbhnkhrmn.in.snap.pro
+Name: InSnap : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of InSnap: Cartoon & Photo Editor Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.in.snap.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_InSnap.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.in.snap.pro/index.php
+Homepage : https://apps.apple.com/us/app/insnap-cartoon-photo-editor/id1473940972
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.8.5
+Filename: ./debs/com.sbhnkhrmn.in.snap.pro_1.8.5_iphoneos-arm.deb
+Size: 4716
+MD5sum: 564e69828d15adffc90d04b407136183
+Sha1: e62990f140e23bf817505355bdda7cefc2cc6e14
+Sha256: efd955377cefbc5ce6fb40778c441a3a38149dbbf185eae3e7f2758f2a78c101
+
+
 
