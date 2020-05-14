@@ -2886,5 +2886,23 @@ MD5sum: 137dd5168fde1a54d527de2360d69bdd
 Sha1: 298d6f36fb8d7e42628a59e0b06742616a254b12
 Sha256: 713ccee449faa99c8270d6e4a8a5792cb465261f5679ba4e7b9670a1625e433c
 
+Package: com.sbhnkhrmn.PhotoEditor.PhotoCollage.inCollage.pro
+Name: inCollage : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Collage Maker - inCollage Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.PhotoEditor.PhotoCollage.inCollage.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_CollageMaker.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.PhotoEditor.PhotoCollage.inCollage.pro/index.php
+Homepage : https://apps.apple.com/us/app/incollage-kolaj-programı/id1446828002
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.6.3
+Filename: ./debs/com.sbhnkhrmn.PhotoEditor.PhotoCollage.inCollage.pro_1.6.3_iphoneos-arm.deb
+Size: 6318
+MD5sum: 7349af52ab685752705a9ad8d3c417cf
+Sha1: 22cc5ff456c4a0ca21d55deeda3dc4bf5e4a829c
+Sha256: 11d9945739206421ee5af05c4634229b013b6e5a323d2507c95ec43a9222bfad
 
 
