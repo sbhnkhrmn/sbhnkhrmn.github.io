@@ -2924,5 +2924,24 @@ MD5sum: 564e69828d15adffc90d04b407136183
 Sha1: e62990f140e23bf817505355bdda7cefc2cc6e14
 Sha256: efd955377cefbc5ce6fb40778c441a3a38149dbbf185eae3e7f2758f2a78c101
 
+Package: com.sbhnkhrmn.click2mobile.collagegramefree.pro
+Name: instaCollageFree : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Collage Maker - LiveCollage Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.click2mobile.collagegramefree.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_LiveCollage.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.click2mobile.collagegramefree.pro/index.php
+Homepage : https://apps.apple.com/us/app/collage-maker-livecollage/id530957474
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 9.11.8
+Filename: ./debs/com.sbhnkhrmn.click2mobile.collagegramefree.pro_9.11.8_iphoneos-arm.deb
+Size: 13624
+MD5sum: aad50507e8968b8988ae80b84c0c17b9
+Sha1: bcfd630a23a8177a36f9d9b86f6c8bae721c84e8
+Sha256: 97aa49e5637f4f0af5f0f28478c5c825c7ed75483b5bd76c16663357266455f2
+
 
 
