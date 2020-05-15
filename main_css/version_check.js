@@ -50,8 +50,8 @@ const VERSION_CHECK_UNSUPPORTED = "⚠ iOS %s -> %s Uyumlu ⚠";
     prerequisite.querySelector("p").innerHTML = message;
 
     if (isBad) {
-        prerequisite.querySelector("p").style.backgroundColor = "#DC143C";
+        prerequisite.querySelector("td").style.backgroundColor = "#DC143C";
     } else {
-        prerequisite.querySelector("p").style.backgroundColor = "#c1e317";
+        prerequisite.querySelector("td").style.backgroundColor = "#c1e317";
     }
 }(document));
