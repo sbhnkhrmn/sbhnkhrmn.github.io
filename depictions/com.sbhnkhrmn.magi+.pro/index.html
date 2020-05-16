@@ -28,6 +28,12 @@
             bottom: 8px;
             right: 16px;
         }
+		.paypal {
+  margin: auto;
+ 
+ 
+  
+}
     </style>
     <link rel="stylesheet" href="https://sbhnkhrmn.github.io/main_css/Tam.css" crossorigin="anonymous">
 </head>
@@ -39,7 +45,7 @@
                 <div style="justify-items: stretch;" class="w-full lg:min-w-1/2 justify-between items-center flex-wrap -mt-1 pt-px flex cydia-hide sileo-hide lg:w-1/2 lg:flex-grow">
                     <div class="labels cydia-hide sileo-hide">
                         <div class="icon-container" style="width: 50px; height: 50px; border-radius: 20%; margin-right: 10px; overflow:hidden;">
-                            <img src="https://sbhnkhrmn.github.io/ikonlar/AppleStore_Magi+.png" style="height: 100%;">
+                            <img src="../../ikonlar/AppleStore_Magi+.png" style="height: 100%;">
                         </div>
                         <div class="info-container">
                             <div class="name">Magi+</div>
@@ -124,10 +130,8 @@
                     </tr>
                     <tr>
                         <td>iOS Version(s)</td>
-                        <td data-min-ios="7.0" data-max-ios="13.4" class="prerequisite">
-                            <td>
-                                <p>Dosya yok.</p>
-                            </td>
+                        <td data-min-ios="7.0" data-max-ios="13.4" class="prerequisite">                           
+                           <p>Dosya yok.</p>
                         </td>
                     </tr>
                 </tbody>
@@ -137,16 +141,15 @@
     <panel class="modern reviews-panel" style="margin-bottom: 0px; paddingmargin-top: 0px;">
     </panel>
     <!-- PAYPAL ODEME -->
-    <div class="mt-15 lead">
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="center">
+    <div class="paypal">
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
             <input type="hidden" name="cmd" value="_donations" />
             <input type="hidden" name="business" value="GSGKLYSXLGWBS" />
             <input type="hidden" name="item_name" value="sbhnkhrmn" />
             <input type="hidden" name="currency_code" value="USD" />
             <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
             <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-        </form>
-        </center>
+        </form>       
     </div>
     <script>
         var d = new Date();
