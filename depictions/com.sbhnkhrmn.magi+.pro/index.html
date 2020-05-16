@@ -64,7 +64,7 @@
 
                                     $(data).find("a").attr("href", function(i, val) {
                                         if (val.match(/\.(jpe?g|png|jpg|gif)$/)) {
-                                            $("body").append("<img src='" + folder + val + "'>");
+                                            $("body").append("<img src='" + val + "'>");
                                             console.lo("dizin", folder + val);
                                         }
                                     });
