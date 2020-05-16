@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> -->
     <script src="https://sbhnkhrmn.github.io/main_css/version_check.js" async=""></script>
     <title>Magi+</title>
     <style>
@@ -56,18 +56,36 @@
                 </div>
                 <ul class="screenshot-viewer" style="margin-top:1.25rem;">
                     <script>
-                        var folder = "./";
+                        // var folder = "./";
 
-                        $.ajax({
-                            url: folder,
-                            success: function(data) {
-                                $(data).find("a").attr("href", function(i, val) {
-                                    if (val.match(/\.(jpe?g|png|gif)$/)) {
-                                        $("body").append("<img src='" + folder + val + "'>");
+                        // $.ajax({
+                        //     url: folder,
+                        //     success: function(data) {
+                        //         $(data).find("a").attr("href", function(i, val) {
+                        //             if (val.match(/\.(jpe?g|png|gif)$/)) {
+                        //                 $("body").append("<img src='" + folder + val + "'>");
+                        //             }
+                        //         });
+                        //     }
+                        // });
+                        var xhr = new XMLHttpRequest();
+                        xhr.open("GET", "/img", true);
+                        xhr.responseType = 'document';
+                        xhr.onload = () => {
+                            if (xhr.status === 200) {
+                                var elements = xhr.response.getElementsByTagName("a");
+                                for (x of elements) {
+                                    if (x.href.match(/\.(jpe?g|png|jpg|gif)$/)) {
+                                        let img = document.createElement("img");
+                                        img.src = x.href;
+                                        document.body.appendChild(img);
                                     }
-                                });
+                                };
+                            } else {
+                                alert('Request failed. Returned status of ' + xhr.status);
                             }
-                        });
+                        }
+                        xhr.send()
                     </script>
                     <!-- <li>
                         <a target="_blank" href="https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/depictions/com.sbhnkhrmn.magi%2B.pro/1.jpg">
