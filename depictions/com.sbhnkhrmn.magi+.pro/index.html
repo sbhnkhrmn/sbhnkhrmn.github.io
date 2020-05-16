@@ -4,8 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> -->
-    <!-- <script src="https://sbhnkhrmn.github.io/main_css/version_check.js" async=""></script> -->
+    <script src="https://sbhnkhrmn.github.io/main_css/version_check.js" async=""></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
     <title>Magi+</title>
     <style>
@@ -58,31 +57,17 @@
                 <ul class="screenshot-viewer" style="margin-top:1.25rem;">
 
                     <script>
-                        $(document).ready(function() {
+                        < script language = "javascript"
+                        type = "text/javascript" >
 
-                            $.ajax({
-                                type: 'GET',
-                                url: './/',
-                                dataType: 'xml',
-                                success: function(xml) {
+                            function AddImage() {
+                                var i = 1;
+                                for (i = 1; i <= 9; i++) {
+                                    deneme = "resim" + i + ".png"
+                                    document.getElementById("resim" + i).innerHTML = "<img src=" + deneme + ">";
 
-                                    $(xml).find('ref').each(function() {
-
-                                        img = $(this).find('image').text();
-                                        title = $(this).find('title').text();
-                                        alt = $(this).find('alt').text();
-
-                                        $('<img />')
-                                            .attr('src', "" + img + "")
-                                            .attr('title', title)
-                                            .attr('alt', alt)
-                                            .width('113px').height('113px')
-
-                                        .appendTo($('#show_images'));
-                                    });
                                 }
-                            });
-                        });
+                            }
                     </script>
                     <div id="show_images" style="width:auto;"></div>
                     <!-- <li>
