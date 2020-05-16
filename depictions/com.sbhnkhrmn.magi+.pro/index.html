@@ -4,8 +4,9 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> -->
     <!-- <script src="https://sbhnkhrmn.github.io/main_css/version_check.js" async=""></script> -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
     <title>Magi+</title>
     <style>
         @font-face {
@@ -55,44 +56,32 @@
                     </div>
                 </div>
                 <ul class="screenshot-viewer" style="margin-top:1.25rem;">
+
                     <script>
                         $(document).ready(function() {
-                            var folder = "sbhnkhrmn.github.io/img/";
-                            $.ajax({
-                                url: folder,
-                                success: function(data) {
 
-                                    $(data).find("a").attr("href", function(i, val) {
-                                        if (val.match(/\.(jpe?g|png|jpg|gif)$/)) {
-                                            $("body").append("<img src='" + val + "'>");
-                                            console.lo("dizin", folder + val);
-                                        }
+                            $.ajax({
+                                type: 'GET',
+                                url: 'https://sbhnkhrmn.github.io/img/images-source.xml',
+                                dataType: 'xml',
+                                success: function(xml) {
+
+                                    $(xml).find('ref').each(function() {
+
+                                        img = $(this).find('image').text();
+                                        title = $(this).find('title').text();
+                                        alt = $(this).find('alt').text();
+
+                                        $('<img />')
+                                            .attr('src', "" + img + "")
+                                            .attr('title', title)
+                                            .attr('alt', alt)
+                                            .width('113px').height('113px')
+
+                                        .appendTo($('#show_images'));
                                     });
-                                    console.log(data);
-                                },
-                                error: function(error) {
-                                    console.log("hata", error);
                                 }
                             });
-                            // var xhr = new xmlhttprequest();
-                            // xhr.open("get", "./img", true);
-                            // xhr.responsetype = 'document';
-                            // xhr.onload = () => {
-                            //     if (xhr.status === 200) {
-                            //         var elements = xhr.response.getelementsbytagname("a");
-                            //         for (x of elements) {
-                            //             if (x.href.match(/\.(jpe?g|png|jpg|gif)$/)) {
-                            //                 let img = document.createelement("img");
-                            //                 img.src = x.href;
-                            //                 document.body.appendchild(img);
-                            //                 console.log(img);
-                            //             }
-                            //         };
-                            //     } else {
-                            //         alert('request failed. returned status of ' + xhr.status);
-                            //     }
-                            // }
-                            // xhr.send()
                         });
                     </script>
                     <div id="show_images" style="width:auto;"></div>
