@@ -35,7 +35,7 @@
     <link rel="stylesheet" href="https://sbhnkhrmn.github.io/main_css/Tam.css" crossorigin="anonymous">
 </head>
 
-<body>
+<body onload="AddImage()">
     <main class="flex-grow flex-no-shrink">
         <link rel="stylesheet" href="https://sbhnkhrmn.github.io/main_css/New_Depictions.css">
         <panel class="modern">
@@ -56,18 +56,16 @@
                 </div>
                 <ul class="screenshot-viewer" style="margin-top:1.25rem;">
 
-                    <script>
-                        < script language = "javascript"
-                        type = "text/javascript" >
 
-                            function AddImage() {
-                                var i = 1;
-                                for (i = 1; i <= 9; i++) {
-                                    deneme = "resim" + i + ".png"
-                                    document.getElementById("resim" + i).innerHTML = "<img src=" + deneme + ">";
+                    <script language="javascript" type="text/javascript">
+                        function AddImage() {
+                            var i = 1;
+                            for (i = 1; i <= 9; i++) {
+                                deneme = "resim" + i + ".png"
+                                document.getElementById("resim" + i).innerHTML = "<img src=" + deneme + ">";
 
-                                }
                             }
+                        }
                     </script>
                     <div id="show_images" style="width:auto;"></div>
                     <!-- <li>
