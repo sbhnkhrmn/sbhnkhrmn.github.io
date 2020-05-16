@@ -85,13 +85,6 @@ legend {
     white-space: normal
 }
 
-.paypal {
-    float: right;
-    width: 300px;
-    border: 3px solid #73AD21;
-    padding: 10px;
-}
-
 textarea {
     overflow: auto
 }
