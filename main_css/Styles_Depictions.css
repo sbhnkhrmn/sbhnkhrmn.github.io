@@ -1516,7 +1516,7 @@ body {
 body,
 main {
     max-width: 768px!important;
-    padding-top: 50px;
+    /* padding-top: 50px; */
     left: 0;
     overflow-x: hidden;
     margin: 0 auto 9px;
