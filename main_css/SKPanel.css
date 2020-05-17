@@ -7,12 +7,13 @@
     padding-right: 6px;
     list-style: none;
     margin-top: auto;
-    margin: auto;
+    /* margin: auto; */
 }
 
 body {
-    background-color: #fff!important;
+    background-color: rgba(255, 0, 0, 0.877)!important;
     text-align: center;
     width: inital!important;
-    min-height: 100%
+    min-height: 100%;
+    margin: auto;
 }
