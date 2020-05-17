@@ -4,3 +4,47 @@ body panel panel-header {
     margin: 0;
     /* padding: 0px 0px; */
 }
+
+header {
+    width: auto;
+    right: 0;
+    left: 0;
+    box-sizing: border-box;
+    background-image: -webkit-gradient(linear, left top, right top, from(#222), to(#424242));
+    background-image: linear-gradient(90deg, #222, #424242);
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .3);
+    border: none!important
+}
+
+header #btn-login {
+    padding: .325rem .75rem;
+    border: 1px solid #000;
+    border-radius: 1rem;
+    -webkit-filter: brightness(5000%);
+    filter: brightness(5000%);
+    border-color: #fff!important;
+    font-weight: 700;
+    color: #fff;
+    -webkit-transform: scale(.95);
+    transform: scale(.95)
+}
+
+header>div {
+    color: green;
+    display: -webkit-box;
+    display: flex;
+    margin: 0 auto;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    align-content: space-between;
+    -webkit-box-align: center;
+    align-items: center
+}
+
+header .nav-label {
+    color: #fff
+}
