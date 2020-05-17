@@ -1,0 +1,19 @@
+.head {
+    width: auto;
+    min-width: 100%;
+    /* margin-left: -6px;
+    margin-right: -6px; */
+    padding-left: 6px;
+    padding-right: 6px;
+    list-style: none;
+    margin-top: auto;
+    /* margin: auto; */
+}
+
+body {
+    background-color: rgba(255, 0, 0, 0.877)!important;
+    text-align: center;
+    width: inital!important;
+    min-height: 100%;
+    margin: auto;
+}
