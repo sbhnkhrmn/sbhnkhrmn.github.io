@@ -117,7 +117,6 @@ body panel.modern {
 
 .information>tbody>tr>td:first-child {
     font-size: 11px;
-    color: #777;
     font-weight: 600;
     text-transform: uppercase;
     margin: 0
@@ -126,7 +125,6 @@ body panel.modern {
 .information>tbody>tr>td:nth-child(2) {
     text-align: left;
     font-size: 16px;
-    color: #111;
     font-weight: 600;
     padding-top: 0;
     padding-bottom: 0;
@@ -639,7 +637,6 @@ a.sub-header {
 .package-header .name {
     font-size: 20px;
     font-weight: 700;
-    color: #000
 }
 
 .package-header .identifier {

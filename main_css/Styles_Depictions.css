@@ -1106,7 +1106,6 @@ body panel panel-body {
     padding: 15px 20px;
     box-shadow: 2px 2px 40px -12px #999;
     font-size: 15px;
-    color: #666
 }
 
 body panel panel-body table tbody tr td {
@@ -1116,7 +1115,6 @@ body panel panel-body table tbody tr td {
     margin: 11px 2px;
     line-height: 1.1;
     text-align: left;
-    color: #111
 }
 
 body panel panel-body table>tbody>tr>td:nth-child(2),
