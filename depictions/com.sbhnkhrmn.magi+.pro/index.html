@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script src="../../main_css/version_check.js" async=""></script>
+    <script src="../../main_css/SKVersion.js" async=""></script>
     <title>Magi+</title>
     <style>
         @font-face {
@@ -14,8 +14,7 @@
             font-style: normal;
         }
     </style>
-    <link rel="stylesheet" href="../../main_css/Styles_Depictions.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
     <style>
         ins {
             background-color: transparent;
@@ -54,12 +53,16 @@
             color: white !important;
         }
     </style>
-    <link rel="stylesheet" href="../../main_css/Tam.css" crossorigin="anonymous">
 </head>
 
 <body>
     <main class="flex-grow flex-no-shrink">
+        <link rel="stylesheet" href="../../main_css/DarkMode.css">
         <link rel="stylesheet" href="../../main_css/New_Depictions.css">
+        <link rel="stylesheet" href="../../main_css/SKPanelHeader.css">
+        <link rel="stylesheet" href="../../main_css/SKPanelHeaderText.css">
+        <link rel="stylesheet" href="../../main_css/SKScreenShot.css">
+        <link rel="stylesheet" href="../../main_css/SKDownloadButton.css">
         <panel class="modern">
             <panel-body style="font-size: 14px;">
                 <div class="package-header">
@@ -122,10 +125,10 @@
 
                 <panel>
                     <panel-header>
-                        <label style="color:red">About</label>
+                        <label>About</label>
                     </panel-header>
                     <!-- Depictions -->
-                    <div>
+                    <header-text>
                         <ul class="list-style-type-none">
                             <li>
                                 Compatible with iOS 9/13!<br>
@@ -136,28 +139,29 @@
                                 <br> - Pro Özellikler.<br>
                             </li>
                         </ul>
-                    </div>
+                    </header-text>
                     <!-- Changelog -->
                     <panel>
                         <panel-header>
-                            <label style="color:red">Changelog</label>
+                            <label>Changelog</label>
                         </panel-header>
-
-                        <!-- Changelog - Text -->
-                        <div>
-                            <ul class="list-style-type-none">
-                                <li>
-                                    v0.0.2 Hata Düzeltmeleri içerir.<br>
-                                </li>
-                            </ul>
-                        </div>
+                        <header-text>
+                            <!-- Changelog - Text -->
+                            <div>
+                                <ul>
+                                    <li>
+                                        v0.0.2 Hata Düzeltmeleri içerir.<br>
+                                    </li>
+                                </ul>
+                            </div>
+                        </header-text>
                     </panel>
                     <!-- Information -->
                     <panel-header>
-                        <label style="color:red">Information</label>
+                        <label>Information</label>
                     </panel-header>
 
-                    <panel class="modern info-panel">
+                    <header-text>
                         <table class="information mt-1" cols="2">
                             <tr>
                                 <td>DEB Version</td>
@@ -173,42 +177,39 @@
                                 <td>Free
                                 </td>
                             </tr>
-                            <tr>
-                                <td>iOS Version</td>
-                                <td data-min-ios="7.0" data-max-ios="13.5" class="prerequisite">
-                                    <p>Dosya yok.</p>
-                                </td>
-                            </tr>
+
+                            <td>iOS Version</td>
+                            <td data-min-ios="7.0" data-max-ios="13.5" class="prerequisite">
+                                <p>Dosya yok.</p>
+                            </td>
+
                         </table>
-                    </panel>
+                    </header-text>
                 </panel>
     </main>
     <!-- PAYPAL payment -->
     <div class="paypal">
-        <div class="paypal">
-            <a target=”_blank” a href="https://www.paypal.me/sbhnkhrmn">
-                <img src="../../ikonlar/skpaypaldonate.png" class="author-photo" /></a>
-        </div>
+        <a target=”_blank” a href="https://www.paypal.me/sbhnkhrmn">
+            <img src="../../ikonlar/skpaypaldonate.png" class="author-photo" />
+        </a>
     </div>
     <!-- Social Media -->
-    <panel>
-        <a target=”_blank” a href="https://sbhnkhrmn.github.io/">
-            <img src="../../ikonlar/skgithub.png" class="author-photo" /></a>
-        <a target=”_blank” a href="https://www.twitter.com/sbhnkhrmn">
-            <img src="../../ikonlar/sktwitter.png" class="author-photo" /></a>
-        <a target=”_blank” a href="https://t.me/sbhnkhrmn">
-            <img src="../../ikonlar/sktelegram.png" class="author-photo" /></a>
-        <a target=”_blank” a href="https://api.whatsapp.com/send?phone=905315863472">
-            <img src="../../ikonlar/skwhatsapp.png" class="author-photo" /></a>
-        <a target=”_blank” a href="mailto:khrmn.sbhn@gmail.com">
-            <img src="../../ikonlar/skemail.png" class="author-photo" /></a>
+    <a target=”_blank” a href="https://sbhnkhrmn.github.io/">
+        <img src="../../ikonlar/skgithub.png" class="author-photo" /></a>
+    <a target=”_blank” a href="https://www.twitter.com/sbhnkhrmn">
+        <img src="../../ikonlar/sktwitter.png" class="author-photo" /></a>
+    <a target=”_blank” a href="https://t.me/sbhnkhrmn">
+        <img src="../../ikonlar/sktelegram.png" class="author-photo" /></a>
+    <a target=”_blank” a href="https://api.whatsapp.com/send?phone=905315863472">
+        <img src="../../ikonlar/skwhatsapp.png" class="author-photo" /></a>
+    <a target=”_blank” a href="mailto:khrmn.sbhn@gmail.com">
+        <img src="../../ikonlar/skemail.png" class="author-photo" /></a>
 
-        <!-- CopyRight-->
+    <!-- CopyRight-->
 
-        <p class="pt-1 text-muted">
-            <label style="color:red"> © Copyright 2020</label> <label>SBHNKHRMN</label> </p>
-        </p>
-    </panel>
+    <p class="pt-1 text-muted">
+        <label style="color:red"> © Copyright 2020</label> <label>SBHNKHRMN</label> </p>
+    </p>
     <!-- Update edit index-->
     <script>
         var d = new Date();
@@ -216,8 +217,9 @@
         document.getElementById("date").innerHTML = n;
     </script>
     <!-- DARKMODE -->
-    <p>Dark Mode</p>
+
     <i onclick="myFunction(this)" class="fa fa-sun-o"></i>
+
     <script>
         function myFunction(x) {
             x.classList.toggle("fa-moon-o");
@@ -225,8 +227,6 @@
             element.classList.toggle("dark-mode");
         }
     </script>
-    </panel>
-    </panel>
 
 </body>
 

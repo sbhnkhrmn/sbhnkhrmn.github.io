@@ -1,0 +1,60 @@
+.screenshot-viewer {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    width: auto;
+    min-width: 100%;
+    white-space: nowrap;
+    margin-left: -6px;
+    margin-right: -6px;
+    padding-left: 6px;
+    padding-right: 6px;
+    list-style: none;
+    margin-top: 15px;
+    -ms-overflow-style: none
+}
+
+.screenshot-viewer>li {
+    padding: 0;
+    display: inline-block;
+    vertical-align: bottom;
+    font-size: 13px;
+    margin: 0 6px
+}
+
+.screenshot-viewer>li:first-child {
+    margin-left: 0
+}
+
+.screenshot-viewer>li:last-child {
+    margin-right: 0
+}
+
+.screenshot-viewer>li img {
+    margin: 0;
+    position: relative;
+    z-index: 1;
+    width: auto;
+    border-radius: 6px!important;
+    overflow: hidden
+}
+
+.screenshot-viewer a {
+    display: block;
+    width: auto;
+    height: 275px
+}
+
+.screenshot-viewer img {
+    height: 100%;
+    width: auto;
+    border-radius: 5px;
+    overflow: hidden;
+    display: inline-block
+}
+
+.screenshot-viewer {
+    overflow-y: hidden;
+    display: block;
+    margin: 0;
+    padding: 0
+}
