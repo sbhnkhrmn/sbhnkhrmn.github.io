@@ -1074,24 +1074,7 @@ body panel {
     width: 100%
 }
 
-body panel panel-header {
-    display: block;
-    text-align: left;
-    font-size: 24px;
-    font-display: auto;
-    font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, -apple-system-font, Helvetica Neue;
-    margin: 12px 12px 13px;
-    padding: 8px 16px 0 14px;
-}
 
-body panel panel-header label {
-    font-weight: 800!important
-}
-
-body panel panel-header>small {
-    display: block;
-    font-size: 13px;
-    margin-top: 5px;
 }
 
 body panel panel-body {
@@ -1249,9 +1232,6 @@ ul {
     padding: 8px 18px
 }
 
-div.header {
-    display: none
-}
 
 @-webkit-keyframes screenshots {
     0% {
@@ -1426,20 +1406,7 @@ panel a {
     margin-bottom: 12px
 }
 
-.review-header,
-.review-list li:last-child {
-    margin-bottom: 0
-}
 
-.review-header {
-    display: -webkit-box;
-    display: flex;
-    flex-wrap: nowrap;
-    -webkit-box-pack: justify;
-    justify-content: space-between;
-    -webkit-box-align: center;
-    align-items: center
-}
 
 .review-title {
     font-size: 14px;
@@ -1464,17 +1431,6 @@ panel a {
     color: #8e8e93
 }
 
-.review-subheader {
-    margin-bottom: 8px;
-    display: -webkit-box;
-    display: flex;
-    flex-wrap: nowrap;
-    -webkit-box-pack: justify;
-    justify-content: space-between;
-    -webkit-box-align: center;
-    align-items: center;
-    margin-top: 2px
-}
 
 .review-date {
     color: #8e8e93;
@@ -1607,17 +1563,6 @@ main {
     font-size: 4px
 }
 
-.changes-header {
-    font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
-    font-weight: 700;
-    float: none;
-    line-height: 1.1;
-    text-align: left;
-    color: #111;
-    margin: 0 2px 6px;
-    font-size: 18px
-}
-
 .change-content {
     font-size: 13px;
     font-weight: 500
@@ -1634,10 +1579,6 @@ body panel>panel-body>table>tbody>tr>td:nth-child(2) {
     padding-bottom: .5px
 }
 
-.changes-header {
-    font-size: 16px;
-    padding-bottom: 0
-}
 
 .form-group {
     display: block;
@@ -1682,36 +1623,6 @@ button.changes-more {
     display: block;
     padding-top: 12px;
     outline: none!important
-}
-
-header {
-    background-image: -webkit-gradient(linear, left top, right top, from(#fff), to(#fff));
-    background-image: linear-gradient(90deg, #fff, #fff);
-    padding: 8px 15px;
-    right: 0;
-    left: 0;
-    z-index: 1030;
-    border-bottom: 1px solid #f4f4f4;
-    top: 0
-}
-
-header>div {
-    max-width: 980px;
-    margin: 0 auto
-}
-
-header a,
-header p {
-    color: #000;
-    line-height: inherit
-}
-
-header a {
-    text-decoration: none!important
-}
-
-header a:hover {
-    opacity: .85
 }
 
 .navbar-brand img {
@@ -1818,40 +1729,12 @@ header a:hover {
     display: none
 }
 
-header {
-    width: auto;
-    position: absolute;
-    top: 0;
-    right: 0;
-    left: 0;
-    border-style: none;
-    padding: .5rem 1rem;
-    z-index: 50;
-    background-image: -webkit-gradient(linear, left top, right top, from(#222), to(#424242));
-    background-image: linear-gradient(90deg, #222, #424242);
-    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .3)
-}
 
-header>div {
-    display: -webkit-box;
-    display: flex;
-    flex-wrap: nowrap;
-    -webkit-box-pack: justify;
-    justify-content: space-between;
-    -webkit-box-align: center;
-    align-items: center;
-    align-content: space-between;
-    margin: 0 auto
-}
 
 .cydia-body main {
     padding-top: .75rem!important
 }
 
-.cydia-body .cydia-hide,
-.cydia-body header {
-    display: none!important
-}
 
 .cydia-body .cydia-show {
     display: inherit
@@ -1866,10 +1749,7 @@ header>div {
     padding-top: .75rem!important
 }
 
-.sileo-body .sileo-hide,
-.sileo-body header {
-    display: none!important
-}
+
 
 .sileo-body .sileo-show {
     display: inherit
@@ -1905,9 +1785,8 @@ main {
     padding: 1.5rem 1rem .5rem
 }
 
-header+main {
-    padding-top: 4.25rem
-}
+
+
 
 @media(min-width:576px) {
     .support-block {

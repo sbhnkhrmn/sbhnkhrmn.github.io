@@ -18,28 +18,6 @@ body main {
     width: 100%
 }
 
-body main,
-body panel panel-header {
-    display: -webkit-box;
-    display: flex;
-    -webkit-box-pack: justify;
-    justify-content: space-between
-}
-
-body panel panel-header {
-    font-size: 22px;
-    padding-left: 0;
-    padding-right: 0;
-    -webkit-box-align: end;
-    align-items: flex-end;
-    margin: 0
-}
-
-body panel panel-header label {
-    display: -webkit-inline-box;
-    display: inline-flex;
-    width: auto
-}
 
 body panel panel-body {
     box-shadow: none;
@@ -129,49 +107,6 @@ body panel.modern {
     margin: .425rem 0 .625rem
 }
 
-header {
-    width: auto;
-    right: 0;
-    left: 0;
-    box-sizing: border-box;
-    background-image: -webkit-gradient(linear, left top, right top, from(#222), to(#424242));
-    background-image: linear-gradient(90deg, #222, #424242);
-    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .3);
-    border: none!important
-}
-
-header #btn-login {
-    padding: .325rem .75rem;
-    border: 1px solid #000;
-    border-radius: 1rem;
-    -webkit-filter: brightness(5000%);
-    filter: brightness(5000%);
-    border-color: #fff!important;
-    font-weight: 700;
-    color: #fff;
-    -webkit-transform: scale(.95);
-    transform: scale(.95)
-}
-
-header>div {
-    color: green;
-    display: -webkit-box;
-    display: flex;
-    margin: 0 auto;
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    -webkit-box-pack: justify;
-    justify-content: space-between;
-    align-content: space-between;
-    -webkit-box-align: center;
-    align-items: center
-}
-
-header .nav-label {
-    color: #fff
-}
 
 .navbar-brand img {
     width: 35px;
@@ -186,19 +121,7 @@ header .nav-label {
     font-weight: 500
 }
 
-a.sub-header {
-    color: #0070c9
-}
 
-.sub-header {
-    line-height: normal;
-    width: auto;
-    text-align: right;
-    font-size: 14px;
-    color: #333;
-    margin-bottom: 1px;
-    font-weight: 600
-}
 
 .change-content {
     display: block;
@@ -245,14 +168,6 @@ a.sub-header {
     display: inline-block
 }
 
-.changes-header {
-    font-size: 11px;
-    font-style: italic;
-    color: #000;
-    font-weight: 600;
-    margin: 0;
-    opacity: .9
-}
 
 .rating-stats-container {
     margin-bottom: 10px;
@@ -632,44 +547,6 @@ a.sub-header {
     }
 }
 
-.package-header .name {
-    font-size: 20px;
-    font-weight: 700;
-}
-
-.package-header .identifier {
-    margin-top: 4px;
-    color: #a6a6a6;
-    font-size: 12px
-}
-
-.package-header .labels {
-    display: -webkit-inline-box;
-    display: inline-flex;
-    -webkit-box-flex: 2;
-    flex-grow: 2;
-    padding-top: 5px
-}
-
-.package-header,
-.package-header .labels {
-    -webkit-box-align: center;
-    align-items: center
-}
-
-.package-header {
-    display: -webkit-box;
-    display: flex;
-    -webkit-box-pack: justify;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-    flex-direction: row;
-    margin-top: -5px;
-    margin-bottom: 1rem;
-    justify-items: stretch
-}
 
 .purchase-button>a {
     letter-spacing: .5px;
@@ -729,19 +606,6 @@ a.sub-header {
     padding: 0
 }
 
-header a {
-    display: -webkit-box;
-    display: flex;
-    -webkit-box-align: center;
-    align-items: center
-}
-
-header .nav-label {
-    line-height: normal;
-    font-size: .9rem;
-    font-weight: 600;
-    opacity: .9
-}
 
 .navbar-brand div {
     color: #fff!important;
@@ -752,10 +616,7 @@ header .nav-label {
     padding-top: .75rem!important
 }
 
-.cydia-body .cydia-hide,
-.cydia-body header {
-    display: none!important
-}
+
 
 .depiction-style .sileo-show,
 .sileo-show {
@@ -766,10 +627,7 @@ header .nav-label {
     padding-top: .75rem!important
 }
 
-.sileo-body .sileo-hide,
-.sileo-body header {
-    display: none!important
-}
+
 
 .sileo-body .sileo-show {
     display: inherit

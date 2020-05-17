@@ -8,8 +8,10 @@
     <script src="../../main_css/SKVersion.js" async=""></script>
     <link rel="stylesheet" href="../../main_css/Styles_Depictions.css">
     <link rel="stylesheet" href="../../main_css/SKDarkMode.css">
-    <!-- <link rel="stylesheet" href="../../main_css/Tam.css" crossorigin="anonymous"> -->
-    <link rel="stylesheet" href="../../main_css/New_Depictions.css">
+    <link rel="stylesheet" href="../../main_css/SKHeader.css">
+    <link rel="stylesheet" href="../../main_css/SKDownloadButton.css">
+    <link rel="stylesheet" href="../../main_css/SKScreenShot.css">
+    <!-- <link rel="stylesheet" href="../../main_css/New_Depictions.css"> -->
 </head>
 
 <body>
@@ -80,13 +82,13 @@
                     </panel-header>
                     <!-- Depictions -->
                     <div>
-                        <ul class="list-style-type-none">
-                            <li>
-                                ios 9 - 13.5!<br>
-                                <br> - Reklamsız ve daha fazlası<br>
-                                <br> - Pro Özellikler.<br>
-                            </li>
-                        </ul>
+
+                        <li>
+                            ios 9 - 13.5!<br>
+                            <br> - Reklamsız ve daha fazlası<br>
+                            <br> - Pro Özellikler.<br>
+                        </li>
+
                     </div>
                     <!-- Changelog -->
                     <panel>
@@ -96,11 +98,11 @@
 
                         <!-- Changelog - Text -->
                         <div>
-                            <ul class="list-style-type-none">
-                                <li>
-                                    v0.0.2 Hata Düzeltmeleri içerir.<br>
-                                </li>
-                            </ul>
+
+                            <li>
+                                v0.0.2 Hata Düzeltmeleri içerir.<br>
+                            </li>
+
                         </div>
                     </panel>
                     <!-- Information -->
@@ -134,6 +136,26 @@
                     </panel>
                 </panel>
     </main>
+    </panel>
+    <!-- Update edit index-->
+    <script>
+        var d = new Date();
+        var n = d.toLocaleDateString();
+        document.getElementById("date").innerHTML = n;
+    </script>
+
+    <!-- DARKMODE -->
+
+    <i onclick="myFunction(this)" class="fa fa-sun-o"></i>
+
+    <script>
+        function myFunction(x) {
+            x.classList.toggle("fa-moon-o");
+            var element = document.body;
+            element.classList.toggle("dark-mode");
+        }
+    </script>
+    </panel>
     <!-- PAYPAL payment -->
     <div class="paypal">
         <div class="paypal">
@@ -159,26 +181,6 @@
         <p class="pt-1 text-muted">
             <label style="color:red"> © Copyright 2020</label> <label>SBHNKHRMN</label> </p>
         </p>
-    </panel>
-    <!-- Update edit index-->
-    <script>
-        var d = new Date();
-        var n = d.toLocaleDateString();
-        document.getElementById("date").innerHTML = n;
-    </script>
-
-    <!-- DARKMODE -->
-
-    <i onclick="myFunction(this)" class="fa fa-sun-o"></i>
-
-    <script>
-        function myFunction(x) {
-            x.classList.toggle("fa-moon-o");
-            var element = document.body;
-            element.classList.toggle("dark-mode");
-        }
-    </script>
-    </panel>
     </panel>
 
 </body>
