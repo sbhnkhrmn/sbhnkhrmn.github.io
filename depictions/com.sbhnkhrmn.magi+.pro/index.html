@@ -15,6 +15,7 @@
         }
     </style>
     <link rel="stylesheet" href="../../main_css/Styles_Depictions.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <meta keep-classes="cydia-body sileo-body">
     <style>
         ins {
@@ -29,6 +30,29 @@
         
         .paypal {
             margin: auto;
+        }
+        /* Dark mode */
+        
+        .fa {
+            font-size: 50px;
+            cursor: pointer;
+            user-select: none;
+        }
+        
+        .fa:hover {
+            color: darkblue;
+        }
+        
+        body {
+            background-color: white !important;
+            ;
+            color: black !important;
+        }
+        
+        .dark-mode {
+            background-color: black !important;
+            ;
+            color: white !important;
         }
     </style>
     <link rel="stylesheet" href="../../main_css/Tam.css" crossorigin="anonymous">
@@ -183,7 +207,7 @@
         <!-- CopyRight-->
 
         <p class="pt-1 text-muted">
-            <label style="color:red"> © Copyright 2020</label> <label style="color:rgb(0, 0, 0)">SBHNKHRMN</label> </p>
+            <label style="color:red"> © Copyright 2020</label> <label>SBHNKHRMN</label> </p>
         </p>
     </panel>
     <!-- Update edit index-->
@@ -191,6 +215,16 @@
         var d = new Date();
         var n = d.toLocaleDateString();
         document.getElementById("date").innerHTML = n;
+    </script>
+    <!-- DARKMODE -->
+    <p>Dark Mode</p>
+    <i onclick="myFunction(this)" class="fa fa-sun-o"></i>
+    <script>
+        function myFunction(x) {
+            x.classList.toggle("fa-moon-o");
+            var element = document.body;
+            element.classList.toggle("dark-mode");
+        }
     </script>
     </panel>
     </panel>

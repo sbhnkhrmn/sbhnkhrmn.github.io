@@ -6,7 +6,6 @@ body {
 }
 
 body main {
-    background-color: #fff;
     overflow: inherit;
     padding-left: 20px;
     padding-right: 20px;
@@ -44,8 +43,6 @@ body panel panel-header label {
 }
 
 body panel panel-body {
-    color: #666;
-    background: #fff;
     box-shadow: none;
     border-radius: 0;
     width: auto;
