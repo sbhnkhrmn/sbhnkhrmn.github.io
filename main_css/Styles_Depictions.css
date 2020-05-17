@@ -1082,7 +1082,6 @@ body panel panel-header {
     font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, -apple-system-font, Helvetica Neue;
     margin: 12px 12px 13px;
     padding: 8px 16px 0 14px;
-    color: #111
 }
 
 body panel panel-header label {
@@ -1093,13 +1092,11 @@ body panel panel-header>small {
     display: block;
     font-size: 13px;
     margin-top: 5px;
-    color: #666
 }
 
 body panel panel-body {
     margin-left: 14px;
     margin-right: 14px;
-    background-color: #fff;
     text-align: left;
     border-radius: 15px;
     overflow: hidden;
@@ -1107,7 +1104,6 @@ body panel panel-body {
     padding: 15px 20px;
     box-shadow: 2px 2px 40px -12px #999;
     font-size: 15px;
-    color: #666
 }
 
 body panel panel-body table tbody tr td {
@@ -1117,7 +1113,6 @@ body panel panel-body table tbody tr td {
     margin: 11px 2px;
     line-height: 1.1;
     text-align: left;
-    color: #111
 }
 
 body panel panel-body table>tbody>tr>td:nth-child(2),
@@ -1133,7 +1128,6 @@ body panel panel-body table>tbody>tr>td:nth-child(2) {
     text-align: right;
     padding-top: 1px;
     padding-bottom: 1px;
-    color: #888
 }
 
 body panel panel-body>table>tbody>tr:first-child td {
@@ -1521,10 +1515,6 @@ body {
 
 body,
 main {
-    background-color: #f4f4f4
-}
-
-main {
     max-width: 768px!important;
     padding-top: 50px;
     left: 0;
@@ -1570,7 +1560,6 @@ main {
     height: 2.25px;
     margin-top: 1.6875px;
     margin-bottom: 1.6875px;
-    background-color: #ececec;
     display: block;
     overflow: hidden;
     border-radius: 1px

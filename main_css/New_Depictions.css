@@ -1,12 +1,10 @@
 body {
-    background-color: #fff!important;
     text-align: center;
     width: inital!important;
     min-height: 100%
 }
 
 body main {
-    background-color: #fff;
     overflow: inherit;
     padding-left: 20px;
     padding-right: 20px;
@@ -44,8 +42,6 @@ body panel panel-header label {
 }
 
 body panel panel-body {
-    color: #666;
-    background: #fff;
     box-shadow: none;
     border-radius: 0;
     width: auto;
@@ -59,7 +55,6 @@ body panel panel-body>table>tbody tr {
 }
 
 body panel panel-body>ul.review-list {
-    color: #333;
     margin-top: 3px;
     padding-right: 0;
     margin-right: 0!important
@@ -120,7 +115,6 @@ body panel.modern {
 
 .information>tbody>tr>td:first-child {
     font-size: 11px;
-    color: #777;
     font-weight: 600;
     text-transform: uppercase;
     margin: 0
@@ -129,7 +123,6 @@ body panel.modern {
 .information>tbody>tr>td:nth-child(2) {
     text-align: left;
     font-size: 16px;
-    color: #111;
     font-weight: 600;
     padding-top: 0;
     padding-bottom: 0;
@@ -642,7 +635,6 @@ a.sub-header {
 .package-header .name {
     font-size: 20px;
     font-weight: 700;
-    color: #000
 }
 
 .package-header .identifier {
