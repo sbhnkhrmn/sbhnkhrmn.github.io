@@ -124,7 +124,7 @@
                         <div>
                             <ul class="list-style-type-none">
                                 <li>
-                                    Hata Düzeltmeleri içerir.<br>
+                                    v0.0.2 Hata Düzeltmeleri içerir.<br>
                                 </li>
                             </ul>
                         </div>
@@ -133,66 +133,65 @@
                     <panel-header>
                         <label style="color:red">Information</label>
                     </panel-header>
-            </panel-body>
-            <panel class="modern info-panel">
-                <!-- <panel-body class="pb-0"> -->
-                <table class="information mt-1" cols="2">
-                    <tr>
-                        <td>DEB Version</td>
-                        <td>0.0.1</td>
-                    </tr>
-                    <tr>
-                        <td>Updated</td>
-                        <td id="date">
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>RESTRICTION</td>
-                        <td>Free
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>iOS Version</td>
-                        <td data-min-ios="7.0" data-max-ios="13.5" class="prerequisite">
-                            <p>Dosya yok.</p>
-                        </td>
-                    </tr>
-                </table>
 
-            </panel>
-            <!-- Social Media -->
-            <panel>
-                <a target=”_blank” a href="https://www.facebook.com/sbhnkhrmn">
-                    <img src="https://sbhnkhrmn.github.io/ikonlar/skfacebook.png" class="author-photo" /></a>
-                <a target=”_blank” a href="https://www.twitter.com/sbhnkhrmn">
-                    <img src="https://sbhnkhrmn.github.io/ikonlar/sktwitter.png" class="author-photo" /></a>
-                </li>
-                <a target=”_blank” a href="http://www.instagram.com/sbhnkhrmn">
-                    <img src="https://sbhnkhrmn.github.io/ikonlar/skinstagram.png" class="author-photo" /></a>
-                </li>
-                <a target=”_blank” a href="https://api.whatsapp.com/send?phone=905315863472">
-                    <img src="https://sbhnkhrmn.github.io/ikonlar/skwhatsapp.png" class="author-photo" /></a>
-                <a target=”_blank” a href="mailto:khrmn.sbhn@gmail.com">
-                    <img src="https://sbhnkhrmn.github.io/ikonlar/skemail.png" class="author-photo" /></a>
-            </panel>
-            <!-- PAYPAL payment -->
-            <panel class="modern reviews-panel" style="margin-bottom: 0px;">
-                <div class="paypal">
-                    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                        <input type="hidden" name="cmd" value="_donations" />
-                        <input type="hidden" name="business" value="GSGKLYSXLGWBS" />
-                        <input type="hidden" name="item_name" value="sbhnkhrmn" />
-                        <input type="hidden" name="currency_code" value="USD" />
-                        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-                        <img alt="" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-                    </form>
-                </div>
-                <!-- Update edit index-->
-                <script>
-                    var d = new Date();
-                    var n = d.toLocaleDateString();
-                    document.getElementById("date").innerHTML = n;
-                </script>
+                    <panel class="modern info-panel">
+                        <table class="information mt-1" cols="2">
+                            <tr>
+                                <td>DEB Version</td>
+                                <td>0.0.1</td>
+                            </tr>
+                            <tr>
+                                <td>Updated</td>
+                                <td id="date">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>RESTRICTION</td>
+                                <td>Free
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>iOS Version</td>
+                                <td data-min-ios="7.0" data-max-ios="13.5" class="prerequisite">
+                                    <p>Dosya yok.</p>
+                                </td>
+                            </tr>
+                        </table>
+                    </panel>
+                </panel>
+    </main>
+    <!-- PAYPAL payment -->
+    <div class="paypal">
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <input type="hidden" name="cmd" value="_donations" />
+            <input type="hidden" name="business" value="GSGKLYSXLGWBS" />
+            <input type="hidden" name="item_name" value="sbhnkhrmn" />
+            <input type="hidden" name="currency_code" value="USD" />
+            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+            <img alt="" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+        </form>
+    </div>
+    <!-- Social Media -->
+    <panel>
+        <a target=”_blank” a href="https://sbhnkhrmn.github.io/">
+            <img src="../../ikonlar/skgithub.png" class="author-photo" /></a>
+        <a target=”_blank” a href="https://www.twitter.com/sbhnkhrmn">
+            <img src="../../ikonlar/sktwitter.png" class="author-photo" /></a>
+        <a target=”_blank” a href="https://api.whatsapp.com/send?phone=905315863472">
+            <img src="../../ikonlar/skwhatsapp.png" class="author-photo" /></a>
+        <a target=”_blank” a href="mailto:khrmn.sbhn@gmail.com">
+            <img src="../../ikonlar/skemail.png" class="author-photo" /></a>
+    </panel>
+    </panel>
+    <!-- Update edit index-->
+    <script>
+        var d = new Date();
+        var n = d.toLocaleDateString();
+        document.getElementById("date").innerHTML = n;
+    </script>
+    </panel>
+    </panel>
+
 </body>
 
 </html>
