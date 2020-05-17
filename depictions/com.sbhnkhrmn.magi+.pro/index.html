@@ -180,6 +180,23 @@
                     </panel>
                 </panel>
     </main>
+    <!-- Update edit index-->
+    <script>
+        var d = new Date();
+        var n = d.toLocaleDateString();
+        document.getElementById("date").innerHTML = n;
+    </script>
+    <!-- DARKMODE -->
+
+    <i onclick="myFunction(this)" class="fa fa-sun-o"></i>
+
+    <script>
+        function myFunction(x) {
+            x.classList.toggle("fa-moon-o");
+            var element = document.body;
+            element.classList.toggle("dark-mode");
+        }
+    </script>
     <!-- PAYPAL payment -->
     <div class="paypal">
         <div class="paypal">
@@ -206,23 +223,7 @@
             <label style="color:red"> © Copyright 2020</label> <label>SBHNKHRMN</label> </p>
         </p>
     </panel>
-    <!-- Update edit index-->
-    <script>
-        var d = new Date();
-        var n = d.toLocaleDateString();
-        document.getElementById("date").innerHTML = n;
-    </script>
-    <!-- DARKMODE -->
 
-    <i onclick="myFunction(this)" class="fa fa-sun-o"></i>
-
-    <script>
-        function myFunction(x) {
-            x.classList.toggle("fa-moon-o");
-            var element = document.body;
-            element.classList.toggle("dark-mode");
-        }
-    </script>
     </panel>
     </panel>
 
