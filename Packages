@@ -2943,5 +2943,25 @@ MD5sum: aad50507e8968b8988ae80b84c0c17b9
 Sha1: bcfd630a23a8177a36f9d9b86f6c8bae721c84e8
 Sha256: 97aa49e5637f4f0af5f0f28478c5c825c7ed75483b5bd76c16663357266455f2
 
+Package: com.sbhnkhrmn.sb.style.bold
+Name: SB : Style / Bold
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: Supports all devices. StatusBar makes the text thicker.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.sb.style.bold/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.sb.style.bold/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.sb.style.bold_0.0.1_iphoneos-arm.deb
+Size: 4028
+MD5sum: 222bd0561b6264da19239153824a1543
+Sha1: c50d52f7aecf467808964d7a9249fb215a43d295
+Sha256: b62a4ace1fa1fe92af9d861bdefe522f3288caa1f0328fffa56a1bf7c431248c
+
+
 
 
