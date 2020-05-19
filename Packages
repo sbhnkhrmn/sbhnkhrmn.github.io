@@ -1842,6 +1842,25 @@ MD5sum: 43928573d117095c59fd84a51532b3e9
 Sha1: 63d82e510181dcdf3ae267cce8e210a024dca6b7
 Sha256: fe12d661991dfed6e584c213d2fd66b9aade4852e78a64590bb219686f253050
 
+Package: com.sbhnkhrmn.cc.rightopen
+Name: CC : Right Open
+Depends: mobilesubstrate, firmware (>=13.0)
+Architecture: iphoneos-arm
+Description: Control Center Right open style iPhone X
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.cc.rightopen/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.cc.rightopen/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.cc.rightopen_0.0.1_iphoneos-arm.deb
+Size: 5358
+MD5sum: 44d4e44d22ff6ebeb75c3d8044d59943
+Sha1: 668b21020d8dace2527ebead33cc416261e182b3
+Sha256: 3f4a67a935394d268209126124a95595d8f29998f9a243a04eb2008178f0329a
+
 Package: com.sbhnkhrmn.music.allowrecording
 Name: Music : Allow Recording
 Architecture: iphoneos-arm
