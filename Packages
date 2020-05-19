@@ -2279,6 +2279,25 @@ MD5sum: e55d5abab0954c6af8944619a512de3a
 Sha1: 013b5b953c0810258e2beea851b33f28132e5eea
 Sha256: 754e46296c4ae4d49df49b550d68a31efada70b2ef4cf564ab7319909372c63a
 
+Package: com.sbhnkhrmn.youtube.backgroundplayback
+Name: Youtube : Background Playback
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: It recognizes by playing videos in the background.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.youtube.backgroundplayback/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.youtube.backgroundplayback/index.php
+Homepage : https://apps.apple.com/app/id544007664
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.youtube.backgroundplayback_0.0.1_iphoneos-arm.deb
+Size: 4678
+MD5sum: 6f1930c99dfe564e3b241d374b095b57
+Sha1: d9b40aff77810397702a52d90cb48fdf777a085a
+Sha256: 7a2bdf3ca35f523d32a00a2884858c29d02e65181ed28a506f7442db48629031
+
 Package: com.sbhnkhrmn.pubg.background
 Name: Pubg : Background
 Architecture: iphoneos-arm
