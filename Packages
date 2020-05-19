@@ -1823,6 +1823,25 @@ MD5sum: 83649a9587810675969739e1f7167880
 Sha1: a8d19bbaad99248a02619faf8193cb1e99ad8c04
 Sha256: d1464ede164ed0acabf4ec08659260c48402a1d31be65700101d23b03036400e
 
+Package: com.sbhnkhrmn.homegesture.support
+Name: Home Gesture : Support
+Depends: mobilesubstrate, firmware (>=13.0)
+Architecture: iphoneos-arm
+Description: Supports all devices before iphone 8 plus. Adds a home swipe.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homegesture.support/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homegesture.support/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.2
+Filename: ./debs/com.sbhnkhrmn.homegesture.support_0.0.2_iphoneos-arm.deb
+Size: 6022
+MD5sum: 43928573d117095c59fd84a51532b3e9
+Sha1: 63d82e510181dcdf3ae267cce8e210a024dca6b7
+Sha256: fe12d661991dfed6e584c213d2fd66b9aade4852e78a64590bb219686f253050
+
 Package: com.sbhnkhrmn.music.allowrecording
 Name: Music : Allow Recording
 Architecture: iphoneos-arm
