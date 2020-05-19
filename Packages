@@ -2962,6 +2962,25 @@ MD5sum: 222bd0561b6264da19239153824a1543
 Sha1: c50d52f7aecf467808964d7a9249fb215a43d295
 Sha256: b62a4ace1fa1fe92af9d861bdefe522f3288caa1f0328fffa56a1bf7c431248c
 
+Package: com.sbhnkhrmn.flex.systemwide
+Name: Alert : Cancel Button / Hide
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: Supports all devices. Alert Cancel Button / Hide
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.flex.systemwide/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.flex.systemwide/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 13.3
+Filename: ./debs/com.sbhnkhrmn.flex.systemwide_13.3_iphoneos-arm.deb
+Size: 4550
+MD5sum: 98db015e53b58e8f79c45e6453286279
+Sha1: 0a32a12e5a32a1f1ed072d3269d80b63d856c8ad
+Sha256: 67491c0cf3d18d93320bd27f60484466cbb7e6494e6aff178b2bc74fa6385cf4
+
 
 
 
