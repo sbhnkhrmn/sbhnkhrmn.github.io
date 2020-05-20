@@ -20,14 +20,15 @@ div {
     padding-right: 0px;
     margin-right: 0px;
     margin-left: 10px;
-    margin-top: 5px;
+    margin-top: 3px;
     margin-bottom: 5px;
     float: left;
+    border: dotted 2px tomato;
 }
 
 .uygulama h1 {
     font-size: 20px;
-    color: black;
+    color: tomato;
     margin: auto;
     margin-left: 70px;
     margin-top: 5px;
@@ -65,7 +66,7 @@ div {
 .button2 {
     float: right;
     margin-left: 10px;
-    margin-top: 5px;
+    margin-top: 4px;
     margin-bottom: 0px;
     margin-right: 10px;
 }
