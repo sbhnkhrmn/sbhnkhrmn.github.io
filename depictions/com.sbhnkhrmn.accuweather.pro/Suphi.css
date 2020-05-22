@@ -1,0 +1,71 @@
+.uygulama button {
+    border: dotted 2px tomato;
+    color: black;
+    border-radius: 50px;
+    height: 25px;
+    font-weight: 600;
+}
+
+
+/* Button Üzerine gelince degisiklik göstermesi */
+
+.uygulama button:hover {
+    background-color: tomato;
+    color: white;
+}
+
+
+/* Button Tıklama */
+
+.uygulama button:active {
+    background-color: rgb(235, 90, 65);
+    color: black;
+}
+
+.site-content,
+body {
+    background: #f9f9f9;
+}
+
+.site-header {
+    background: #fff;
+}
+
+.site-title a:link,
+.site-title a:visited {
+    color: #373737;
+}
+
+.header-social-icons .social-icons-menu li a {
+    color: #373737;
+}
+
+@media (prefers-color-scheme: light) {
+    .site-title a:link,
+    .site-title a:visited,
+    .header-social-icons .social-icons-menu li a {
+        color: #373737;
+    }
+    .site-content,
+    body {
+        background: #f9f9f9;
+    }
+    .site-header {
+        background: #fff;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    .site-title a:link,
+    .site-title a:visited,
+    .header-social-icons .social-icons-menu li a {
+        color: #fff;
+    }
+    .site-content,
+    body {
+        background: #141414;
+    }
+    .site-header {
+        background: #141414;
+    }
+}
