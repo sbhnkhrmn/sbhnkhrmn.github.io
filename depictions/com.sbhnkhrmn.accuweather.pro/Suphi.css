@@ -48,3 +48,30 @@ body {
         background: #141414;
     }
 }
+
+
+/* Buton Tasarımları */
+
+.background-sbhnkhrmn-yellow {
+    background: linear-gradient(to right, #f0b802 50%, rgb(248, 237, 74) 100%);
+    color: white;
+    border-radius: 50px;
+}
+
+.background-sbhnkhrmn-blue {
+    background: linear-gradient(to right, #027df0 50%, rgb(34, 0, 126) 100%);
+    color: white;
+    border-radius: 50px;
+}
+
+.background-sbhnkhrmn-red {
+    background: linear-gradient(to right, #f12b2b 50%, rgb(245, 79, 28) 100%);
+    color: white;
+    border-radius: 50px;
+}
+
+.background-sbhnkhrmn-green {
+    background: linear-gradient(to right, rgb(36, 204, 64) 50%, rgb(0, 109, 18) 100%);
+    color: white;
+    border-radius: 50px;
+}
