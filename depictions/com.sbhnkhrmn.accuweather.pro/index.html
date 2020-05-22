@@ -1,20 +1,20 @@
 ﻿<!doctype html>
-<html lang="tr">
+<html lang="tr-TR" xml:lang="tr">
 
-<head>
-    <meta charset="utf-8">
-    <title>AccuWeather</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-    <link rel="stylesheet" href="./css/bootstrap.css" />
-    <script src="../../main_css/SKVersion.js" async=""></script>
+<html lang="tr-x-mtfrom-en">
+<meta charset="utf-8">
+<title>AccuWeather</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<link rel="stylesheet" href="./css/bootstrap.css" />
+<script src="../../main_css/SKVersion.js" async=""></script>
 </head>
 
 <body>
     <header style="margin-top: 15px">
         <div class="container">
             <div class="row">
-                <div class="col-2">
+                <div class="col-2 col-md">
                     <img style="width: 64px; border-radius: 50px;border-style: dotted; border-color: #ffc107;" src="AppleStore_AccuWeather.png" alt="Uygulama ismi">
                 </div>
                 <div class="col-5" style="padding-left: 15px;padding-top: 3px;">
@@ -126,8 +126,13 @@
         document.getElementById("date").innerHTML = Date();
     </script>
     <script>
-        document.write('<iframe src="http://ir1.sitekodlari.com/sdc1.php" scrolling="no" frameBorder="0" width="300" height="30"></iframe>');
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({
+                pageLanguage: 'en'
+            }, 'google_translate_element');
+        }
     </script>
+    <script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 </body>
 
 
