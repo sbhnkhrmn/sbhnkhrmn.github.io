@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <link rel="stylesheet" href="./css/bootstrap.css" />
+    <script src="../../main_css/SKVersion.js" async=""></script>
 </head>
 
 <body>
@@ -73,51 +74,54 @@
                 </div>
                 <div class="col-5 col-sm">
                     <div class="badge-primary " style="text-align: center;">
-                        <h6>UPDATED</h6>
+                        <h6 style="text-align: ;">UPDATED</h6>
                     </div>
-                    <h6 style="text-align: center;">21.05.2020</h6>
+                    <h6 style="text-align: center;" id="date"></h6>
                 </div>
                 <div class="col-5 col-sm">
                     <div class="badge-danger" style="text-align: center;">
                         <h6>RESTRICTION</h6>
                     </div>
-                    <h6 style="text-align: center;">PAID</h6>
+                    <h6 style="text-align: center;">Free</h6>
                 </div>
                 <div class="col-5 col-sm">
                     <div class="badge-success" style="text-align: center;">
                         <h6>IOS VERSION</h6>
                     </div>
-                    <h6 style="text-align: center;">12-13.0</h6>
+                    <h6 style="text-align: center;" data-min-ios="7.0" data-max-ios="13.5" class="prerequisite">
+                        <p style="text-align: center;">Cihaz Yok !</p>
+                    </h6>
                 </div>
             </div>
         </div>
     </section>
     <footer>
-
-        <div align="center" class="container py-2">
+        <div align="center">
             <div class="col" style="margin-bottom: 5px;">
-                <img src="skpaypaldonate.png" alt="Paypal Ödeme Noktası">
-            </div>
-            <div class="row">
-
-                <div class="col">
-                    <a href="www.github.com" alt="Github">
-                        <img src="skgithub.png" alt="Github"></a>
-
-                    <img src="sktwitter.png" alt="Twitter">
-
-                    <img src="sktelegram.png" alt="Telegram">
-
-                    <img src="skwhatsapp.png" alt="WhatsApp">
-
-                    <img src="skemail.png" alt="E-mail">
-                </div>
+                <a target=”_blank” a href="https://www.paypal.me/sbhnkhrmn">
+                    <img src="skpaypaldonate.png" class="author-photo" /></a>
             </div>
         </div>
-        </div>
-        </div>
+        <div align="center">
+            <div>
+                <a href="https://sbhnkhrmn.github.io/">
+                    <img src="skgithub.png" alt="Github"></a>
+                <a href="https://www.twitter.com/sbhnkhrmn" alt="Github">
+                    <img src="sktwitter.png" alt="Twitter"></a>
+                <a href="https://t.me/sbhnkhrmn">
+                    <img src="sktelegram.png" alt="Telegram"></a>
+                <a href="https://api.whatsapp.com/send?phone=905315863472">
+                    <img src="skwhatsapp.png" alt="WhatsApp"></a>
+                <a href="mailto:khrmn.sbhn@gmail.com">
+                    <img src="skemail.png" alt="E-mail"></a>
+            </div>
         </div>
     </footer>
+    <script>
+        document.getElementById("date").innerHTML = Date();
+    </script>
+
 </body>
+
 
 </html>
