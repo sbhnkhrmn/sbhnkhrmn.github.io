@@ -1,26 +1,4 @@
-.uygulama button {
-    border: dotted 2px tomato;
-    color: black;
-    border-radius: 50px;
-    height: 25px;
-    font-weight: 600;
-}
-
-
-/* Button Üzerine gelince degisiklik göstermesi */
-
-.uygulama button:hover {
-    background-color: tomato;
-    color: white;
-}
-
-
-/* Button Tıklama */
-
-.uygulama button:active {
-    background-color: rgb(235, 90, 65);
-    color: black;
-}
+/* DARK MODE ICIN GEREKLİ AYARLAMALAR */
 
 .site-content,
 body {
@@ -64,6 +42,7 @@ body {
     .site-content,
     body {
         background: #141414;
+        color: white;
     }
     .site-header {
         background: #141414;
