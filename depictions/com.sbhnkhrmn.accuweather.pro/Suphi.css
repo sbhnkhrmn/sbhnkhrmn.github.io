@@ -1,77 +1,147 @@
-/* DARK MODE ICIN GEREKLİ AYARLAMALAR */
-
-.site-content,
-body {
-    background: #f9f9f9;
-}
-
-.site-header {
-    background: #fff;
-}
-
-.site-title a:link,
-.site-title a:visited {
-    color: #373737;
-}
-
-.header-social-icons .social-icons-menu li a {
-    color: #373737;
-}
-
-@media (prefers-color-scheme: light) {
-    .site-title a:link,
-    .site-title a:visited,
-    .header-social-icons .social-icons-menu li a {
-        color: #373737;
-    }
+    /* DARK MODE ICIN GEREKLİ AYARLAMALAR */
+    
     .site-content,
     body {
         background: #f9f9f9;
     }
+    
     .site-header {
         background: #fff;
     }
-}
-
-@media (prefers-color-scheme: dark) {
+    
     .site-title a:link,
-    .site-title a:visited,
-    .header-social-icons .social-icons-menu li a {
-        color: #fff;
+    .site-title a:visited {
+        color: #373737;
     }
-    .site-content,
-    body {
-        background: #141414;
+    
+    .header-social-icons .social-icons-menu li a {
+        color: #373737;
+    }
+    
+    @media (prefers-color-scheme: light) {
+        .site-title a:link,
+        .site-title a:visited,
+        .header-social-icons .social-icons-menu li a {
+            color: #373737;
+        }
+        .site-content,
+        body {
+            background: #f9f9f9;
+        }
+        .site-header {
+            background: #fff;
+        }
+    }
+    
+    @media (prefers-color-scheme: dark) {
+        .site-title a:link,
+        .site-title a:visited,
+        .header-social-icons .social-icons-menu li a {
+            color: #fff;
+        }
+        .site-content,
+        body {
+            background: #141414;
+            color: white;
+        }
+        .site-header {
+            background: #141414;
+        }
+    }
+    /* Buton Tasarımları */
+    
+    .informations {
+        color: white;
+        border-radius: 50px;
+        text-align: center
+    }
+    
+    .background-sbhnkhrmn-yellow {
+        background: linear-gradient(to right, #f0b802 50%, rgb(248, 237, 74) 100%);
+    }
+    
+    .background-sbhnkhrmn-blue {
+        background: linear-gradient(to right, #027df0 50%, rgb(34, 0, 126) 100%);
+    }
+    
+    .background-sbhnkhrmn-red {
+        background: linear-gradient(to right, #f12b2b 50%, rgb(245, 79, 28) 100%);
+    }
+    
+    .background-sbhnkhrmn-green {
+        background: linear-gradient(to right, rgb(36, 204, 64) 50%, rgb(0, 109, 18) 100%);
+    }
+    
+    .informations-sbhnkhrmn-h6 {
+        text-align: center;
+    }
+    
+    .informations-sbhnkhrmn-h3 {
+        color: #f0b802;
+    }
+    /* Header Background ve BOrder Tasarımı*/
+    
+    .border-sbhnkhrmn {
+        border-radius: 50px;
+        border-color: rgb(255, 187, 0);
+        border-bottom-style: dotted;
+        padding-bottom: 15px;
+        padding-top: 0px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    /*____FOOTER DİZAYN___________*/
+    
+    .fa-paypal {
         color: white;
     }
-    .site-header {
-        background: #141414;
+    
+    .fa-github {
+        color: slategrey;
     }
-}
-
-
-/* Buton Tasarımları */
-
-.background-sbhnkhrmn-yellow {
-    background: linear-gradient(to right, #f0b802 50%, rgb(248, 237, 74) 100%);
-    color: white;
-    border-radius: 50px;
-}
-
-.background-sbhnkhrmn-blue {
-    background: linear-gradient(to right, #027df0 50%, rgb(34, 0, 126) 100%);
-    color: white;
-    border-radius: 50px;
-}
-
-.background-sbhnkhrmn-red {
-    background: linear-gradient(to right, #f12b2b 50%, rgb(245, 79, 28) 100%);
-    color: white;
-    border-radius: 50px;
-}
-
-.background-sbhnkhrmn-green {
-    background: linear-gradient(to right, rgb(36, 204, 64) 50%, rgb(0, 109, 18) 100%);
-    color: white;
-    border-radius: 50px;
-}
+    
+    .fa-twitter {
+        color: rgb(39, 134, 230);
+    }
+    
+    .fa-telegram {
+        color: rgb(59, 176, 230);
+    }
+    
+    .fa-whatsapp {
+        color: rgb(116, 211, 60);
+    }
+    
+    .fa-envelope {
+        color: rgb(221, 155, 55);
+    }
+    
+    .donate-sbhnkhrmn {
+        border-radius: 50px;
+        width: 80px;
+        height: 25px;
+        background: linear-gradient(to right, #027df0 50%, rgb(34, 0, 126) 100%);
+    }
+    
+    .donate-card-sbhnkhrmn {
+        font-size: 15px;
+    }
+    
+    .socialmedia-sbhnkhrmn {
+        font-size: 23px;
+    }
+    /*___________________________________*/
+    
+    @media only screen and (max-width: 768px) {
+        /* For mobile phones: */
+        [class*="container"] {
+            width: 100% !important;
+        }
+    }
+    
+    body {
+        margin: 0 auto;
+        max-width: 56em;
+        padding: 1em 0;
+    }
+    /*_________________________*/

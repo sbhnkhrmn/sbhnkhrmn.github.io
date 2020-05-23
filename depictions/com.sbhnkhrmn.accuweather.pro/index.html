@@ -1,19 +1,20 @@
 ﻿<!doctype html>
 <html lang="tr-TR" xml:lang="tr">
-
 <html lang="en-x-mtfrom-tr">
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>AccuWeather</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <link rel="stylesheet" href="./css/bootstrap.css" />
 <link rel="stylesheet" href="./Suphi.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <script src="../../main_css/SKVersion.js" async=""></script>
 </head>
 
 <body>
-    <header style="margin-top: 15px;">
-        <div class="container" align="center">
+    <header class="border-sbhnkhrmn" style="margin-top: 15px;">
+        <div class="container">
             <div class="row">
                 <div class="col-2 col-md" style="height: %80;">
                     <img style="width: 64px; border-radius: 50px;border-style: dotted; border-color: #ffc107;" src="AppleStore_AccuWeather.png" alt="Uygulama ismi">
@@ -27,15 +28,15 @@
                         <div class="row">
                             <div class="col-12">
                                 <div>
-                                    <div style="float: right; margin-bottom: 2px;">
+                                    <div style="margin-bottom: 5px;">
                                         <a href="https:www.google.com.tr">
-                                            <button type="button" class="btn btn-sm btn-outline-warning"> APP Install</button>
+                                            <button type="button" class="btn btn-sm btn-outline-warning">Install</button>
                                         </a>
                                     </div>
                                 </div>
-                                <div style="float:right">
+                                <div>
                                     <a href="https://www.github.com/sbhnkhrmn/sbhnkhrmn.github.io/">
-                                        <button type="button" style="padding-right: 3px; padding-left: 3px;" class="btn-sm btn btn-outline-warning">Deb Download</button>
+                                        <button type="button" style="padding-right: 3px; padding-left: 3px;" class="btn-sm btn btn-outline-warning">Download</button>
                                     </a>
                                 </div>
                             </div>
@@ -45,12 +46,11 @@
             </div>
         </div>
     </header>
-    <hr>
     <section>
         <div class="container">
             <div class="row">
                 <div class="col-12 col-sm">
-                    <h3 style="color: #ffc107;">Descriptions</h3>
+                    <h3 class="informations-sbhnkhrmn-h3">Descriptions</h3>
                     <h6>
                         <li>We did not click on the annoying things for you</li>
                     </h6>
@@ -60,72 +60,79 @@
                     </ul>
                 </div>
                 <div class="col-12 col-sm">
-                    <h3 style="color: #ffc107;">Chanlog</h3>
+                    <h3 class="informations-sbhnkhrmn-h3">Changelog</h3>
                     <h6>
                         <li>v0.0.2 Version Update</li>
                     </h6>
                 </div>
             </div>
         </div>
-
         <div class="container py-4">
             <div>
-                <h3 style="color: #ffc107;">Informations</h3>
+                <h3 class="informations-sbhnkhrmn-h3">Informations</h3>
             </div>
-            <div class="row">
+            <div class="row ">
                 <div class="col-6 col-sm">
-                    <div class="background-sbhnkhrmn-yellow" style="text-align: center; ">
+                    <div class="informations background-sbhnkhrmn-yellow">
                         <h6>DEB VERSION</h6>
                     </div>
-                    <h6 style=" text-align: center; ">0.0.1</h6>
+                    <h6 class="informations-sbhnkhrmn-h6">0.0.1</h6>
                 </div>
                 <div class="col-6 col-sm ">
-                    <div class="background-sbhnkhrmn-blue" style="text-align: center;  ">
+                    <div class="informations background-sbhnkhrmn-blue">
                         <h6>UPDATED</h6>
                     </div>
-                    <h6 style="text-align: center; " id="date "></h6>
+                    <h6 class="informations-sbhnkhrmn-h6" id="date"></h6>
                 </div>
-                <div class="col-6 col-sm ">
-                    <div class="background-sbhnkhrmn-red" style="text-align: center; ">
+                <div class="col-6 col-sm">
+                    <div class="informations background-sbhnkhrmn-red">
                         <h6>RESTRICTION</h6>
                     </div>
-                    <h6 style="text-align: center; ">Free Package</h6>
+                    <h6 class="informations-sbhnkhrmn-h6">Free Package</h6>
                 </div>
                 <div class="col-6 col-sm ">
-                    <div class="background-sbhnkhrmn-green" style="text-align: center;">
-                        <h6>IOS VERSION</h6>
+                    <div class="informations background-sbhnkhrmn-green">
+                        <h6> IOS VERSION</h6>
                     </div>
-                    <h6 style="text-align: center; " data-min-ios="7.0 " data-max-ios="13.5 " class="prerequisite ">
-                        <p style="text-align: center; ">No Device !</p>
+                    <h6 class="informations-sbhnkhrmn-h6" data-min-ios="7.0 " data-max-ios="13.5 " class="prerequisite">
+                        <p style="text-align: center;">No Device !</p>
                     </h6>
                 </div>
             </div>
         </div>
     </section>
+    <main>
+        <div class="container">
+            <div class="row">
+
+            </div>
+        </div>
+    </main>
     <footer>
-        <div align="center ">
-            <div class="col " style="margin-bottom: 5px; ">
-                <a target=”_blank” a href="https://www.paypal.me/sbhnkhrmn ">
-                    <img src="skpaypaldonate.png " class="author-photo " /></a>
+        <div align="center">
+            <div class="donate-sbhnkhrmn">
+                <a href="https://www.paypal.me/sbhnkhrmn"><i class="fa fa-paypal">
+                </i></a>
+            </div>
+            <div class="donate-card-sbhnkhrmn">
+                <i class="fa fa-cc-amex"></i>
+                <i class="fa fa-cc-visa"></i>
+                <i class="fa fa-cc-mastercard"></i>
+                <i class="fa fa-cc-diners-club"></i>
+                <i class="fa fa-cc-stripe"></i>
+            </div>
+            <div class="socialmedia-sbhnkhrmn">
+                <a href="https://sbhnkhrmn.github.io/"><i class="fa fa-github"></i></a>
+                <a href="https://www.twitter.com/sbhnkhrmn"><i class="fa fa-twitter"></i></a>
+                <a href="https://t.me/sbhnkhrmn "><i class="fa fa-telegram"></i></a>
+                <a href="https://api.whatsapp.com/send?phone=905315863472 "> <i class="fa fa-whatsapp"></i></a>
+                <a href="mailto:khrmn.sbhn@gmail.com "><i class="fa fa-envelope"></i></a>
             </div>
         </div>
-        <div align="center ">
-            <div>
-                <a href="https://sbhnkhrmn.github.io/ ">
-                    <img src="skgithub.png " alt="Github "></a>
-                <a href="https://www.twitter.com/sbhnkhrmn ">
-                    <img src="sktwitter.png " alt="Twitter "></a>
-                <a href="https://t.me/sbhnkhrmn ">
-                    <img src="sktelegram.png " alt="Telegram "></a>
-                <a href="https://api.whatsapp.com/send?phone=905315863472 ">
-                    <img src="skwhatsapp.png " alt="WhatsApp "></a>
-                <a href="mailto:khrmn.sbhn@gmail.com ">
-                    <img src="skemail.png " alt="E-mail "></a>
-            </div>
-        </div>
+        <p style="font-size: 12px;text-align: center;color: slategrey;">Copyright 2020 - SÜBHAN KAHRAMAN</p>
     </footer>
     <script>
-        document.getElementById("date ").innerHTML = new Date().toLocaleString('tr-TR', {
+        document.getElementById("date").innerHTML = new Date().toLocaleString('tr-TR', {
             weekday: 'short',
             month: 'long',
             day: '2-digit',
@@ -135,14 +142,6 @@
             second: '2-digit',
         });
     </script>
-    <script>
-        function googleTranslateElementInit() {
-            new google.translate.TranslateElement({
-                pageLanguage: 'en'
-            }, 'google_translate_element');
-        }
-    </script>
-    <script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit "></script>
 </body>
 
 </html>
