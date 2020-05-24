@@ -3038,6 +3038,25 @@ MD5sum: e69763ea4016771552cc03bf0c0a9a2a
 Sha1: 6c2614766d3abd1c8c0aa5d410319c1b662a9b6b
 Sha256: be70476cae4bcb3ec0667d01be75a3d269b965c8e6b05073b3288db6bce9ef2f
 
+Package: com.sbhnkhrmn.cyberlink.youcammakeup.pro
+Name: YouCamMakeup : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of YouCam Makeup-Magic Selfie Cam Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.cyberlink.youcammakeup.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_YouCamMakeup.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.cyberlink.youcammakeup.pro/index.php
+Homepage : https://apps.apple.com/us/app/youcam-makeup-magic-selfie-cam/id863844475
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 5.66.1
+Filename: ./debs/com.sbhnkhrmn.cyberlink.youcammakeup.pro_5.66.1_iphoneos-arm.deb
+Size: 7322
+MD5sum: 3cb47417cd3fcc535da28147f6691736
+Sha1: 50ad297d3623ff5621de30a5b0527adee28879bd
+Sha256: e1c12834ddbab0c5b615ebdb141050f87b66775706bf7d6aaf60de1b3063269e
+
 
 
 
