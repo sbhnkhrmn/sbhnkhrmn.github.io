@@ -32,9 +32,6 @@
                             color: #373737;
                         }
                         .site-content,
-                        body {
-                            background: linear-gradient(to bottom, white 40%, #bfe4e9 60%, #dbf7bb 80%, white 100%);
-                        }
                         .site-header {
                             background: #fff;
                         }
@@ -60,6 +57,9 @@
                         header {
                             background-color: rgb(53, 53, 53);
                         }
+                        .sk-card-black {
+                            background: white;
+                        }
                     }
                     /*GOOGLE TRANSLATE */
                     
@@ -82,36 +82,22 @@
                         border-style: solid;
                     }
                     /*__________________________*/
-                    /* Buton Tasarımları */
+                    /* BAŞLIK RENKLERI - HEADER COLOR */
                     
-                    .informations {
-                        color: white;
-                        border-radius: 50px;
+                    .header-sk-color {
+                        color: #f0b802;
+                    }
+                    /* BİLGİLER - INFORMATIONS AYARLARI */
+                    
+                    .informations-sk-center {
                         text-align: center
                     }
                     
-                    .background-sbhnkhrmn-yellow {
-                        background: linear-gradient(to right, #f0b802 50%, rgb(248, 237, 74) 100%);
+                    .informations-sk-border {
+                        border-radius: 50px;
                     }
                     
-                    .background-sbhnkhrmn-blue {
-                        background: linear-gradient(to right, #027df0 50%, rgb(34, 0, 126) 100%);
-                    }
-                    
-                    .background-sbhnkhrmn-red {
-                        background: linear-gradient(to right, #f12b2b 50%, rgb(245, 79, 28) 100%);
-                    }
-                    
-                    .background-sbhnkhrmn-green {
-                        background: linear-gradient(to right, rgb(36, 204, 64) 50%, rgb(0, 109, 18) 100%);
-                    }
-                    
-                    .informations-sbhnkhrmn-h6 {
-                        text-align: center;
-                    }
-                    
-                    .informations-sbhnkhrmn-h2 {
-                        color: #f0b802;
+                    .informations-sk-fonts {
                         font-family: Impact;
                     }
                     /* Header Background ve BOrder Tasarımı*/
@@ -124,12 +110,25 @@
                     }
                     /*____FOOTER FONT DİZAYN___________*/
                     
+                    .socialmedia-sbhnkhrmn {
+                        font-size: 24px;
+                    }
+                    
+                    .donate-sbhnkhrmn {
+                        width: 80px;
+                        height: 24px;
+                    }
+                    
+                    .donate-card-sbhnkhrmn {
+                        font-size: 15px;
+                    }
+                    
                     .fa-paypal {
                         color: white;
                     }
                     
                     .fa-github {
-                        color: white;
+                        color: rgb(138, 138, 138);
                     }
                     
                     .fa-twitter {
@@ -147,21 +146,6 @@
                     .fa-envelope {
                         color: rgb(221, 155, 55);
                     }
-                    
-                    .donate-sbhnkhrmn {
-                        border-radius: 50px;
-                        width: 80px;
-                        height: 25px;
-                        background: linear-gradient(to right, #027df0 50%, rgb(34, 0, 126) 100%);
-                    }
-                    
-                    .donate-card-sbhnkhrmn {
-                        font-size: 15px;
-                    }
-                    
-                    .socialmedia-sbhnkhrmn {
-                        font-size: 23px;
-                    }
                     /*___________________________________*/
                     
                     body {
@@ -169,27 +153,9 @@
                         max-width: 56em;
                     }
                     /*_________________________*/
-                    /* SVG DOSYALARIM */
-                    
-                    .sk-camera {
-                        background-image: url(camera.svg);
-                    }
-                    
-                    .sk-applestore {
-                        background-image: url(AppleStore.svg);
-                    }
-                    
-                    .sk-cydown {
-                        background-image: url(Cydown.svg);
-                    }
-                    
-                    .sk-icloud {
-                        background-image: url(iCloud.svg);
-                    }
-                    /*____________________________________*/
                     
                     .translate-sbhnkhrmn {
-                        padding-top: 5px;
+                        padding-top: 0px;
                         padding-bottom: 5px;
                     }
                     /*___________________________________________________*/
@@ -212,7 +178,7 @@
                     }
                     
                     .dropbtn {
-                        background-color: rgb(255, 174, 24);
+                        background-color: orange;
                         color: white;
                         padding: 16px;
                         font-size: 16px;
@@ -295,3 +261,59 @@
                     h6 {
                         font-size: 12px !important;
                     }
+                    /* GENEL AYARLAR */
+                    
+                    .sk-text-center {
+                        text-align: center;
+                    }
+                    
+                    .sk-border-radius {
+                        border-radius: 50px;
+                    }
+                    
+                    .sk-header-color {
+                        color: orange;
+                    }
+                    
+                    .sk-header-fonts {
+                        font-family: fantasy;
+                    }
+                    
+                    .sk-fonts {
+                        font-family: monospace;
+                    }
+                    
+                    .sk-card-options {
+                        padding: 15px;
+                        margin-bottom: 10px;
+                        margin-left: 15px;
+                        margin-right: 15px;
+                        margin-top: 2px;
+                    }
+                    /*_______________________*/
+                    /* SBHNKHRMN KART RENKLERİ */
+                    
+                    .sk-card-orange {
+                        background: orange
+                    }
+                    
+                    .sk-card-blue {
+                        background: rgb(0, 140, 255)
+                    }
+                    
+                    .sk-card-red {
+                        background: rgb(253, 47, 47)
+                    }
+                    
+                    .sk-card-green {
+                        background: rgb(53, 194, 53)
+                    }
+                    
+                    .sk-card-gray {
+                        background: gray
+                    }
+                    
+                    .sk-card-black {
+                        background: rgba(83, 83, 83, 0.212);
+                    }
+                    /*__________________________*/
