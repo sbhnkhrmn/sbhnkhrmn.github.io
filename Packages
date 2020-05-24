@@ -3019,6 +3019,25 @@ MD5sum: 98db015e53b58e8f79c45e6453286279
 Sha1: 0a32a12e5a32a1f1ed072d3269d80b63d856c8ad
 Sha256: 67491c0cf3d18d93320bd27f60484466cbb7e6494e6aff178b2bc74fa6385cf4
 
+Package: com.sbhnkhrmn.skyjos.fileexplorerfree.pro
+Name: FileExplorer : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of FE File Explorer: File Manager  Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.skyjos.fileexplorerfree.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_FEFileExplorer.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.skyjos.fileexplorerfree.pro/index.php
+Homepage : https://apps.apple.com/tr/app/fe-file-explorer-file-manager/id510282524
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 9.4.2
+Filename: ./debs/com.sbhnkhrmn.skyjos.fileexplorerfree.pro_9.4.2_iphoneos-arm.deb
+Size: 4068
+MD5sum: e69763ea4016771552cc03bf0c0a9a2a
+Sha1: 6c2614766d3abd1c8c0aa5d410319c1b662a9b6b
+Sha256: be70476cae4bcb3ec0667d01be75a3d269b965c8e6b05073b3288db6bce9ef2f
+
 
 
 
