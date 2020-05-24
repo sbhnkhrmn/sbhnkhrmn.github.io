@@ -4,20 +4,31 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>AccuWeather</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-<link rel="stylesheet" href="./css/bootstrap.css" />
-<link rel="stylesheet" href="./Suphi.css" />
+<!-- <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script> -->
+<link rel="stylesheet" href="./sbhnkhrmn_main/bootstrap.min.css" />
+<link rel="stylesheet" href="./sbhnkhrmn_main/sbhnkhrmn.css" />
+<script src='https://kit.fontawesome.com/a076d05399.js'></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<script src="../../main_css/SKVersion.js" async=""></script>
 </head>
 
 <body>
-    <header class="border-sbhnkhrmn" style="margin-top: 15px;">
+    <header>
+
+        <div class="header-sbhnkhrmn">
+            <div class="container">
+                <div class="row">
+                    <div id="google_translate_element" class="fas fa-language col-5"></div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </header>
+    <nav style="margin-top: 15px;">
         <div class="container">
             <div class="row">
-                <div class="col-2 col-md" style="height: %80;">
-                    <img style="width: 64px; border-radius: 50px;border-style: dotted; border-color: #ffc107;" src="AppleStore_AccuWeather.png" alt="Uygulama ismi">
+                <div class="col-1 col-md">
+                    <div class="spinner-border text-warning sk-camera">
+                    </div>
                 </div>
                 <div class="col-5" style="padding-left: 15px;padding-top: 3px;">
                     <h5 style="color: #ffc107;">AccuWeather</h5>
@@ -45,7 +56,7 @@
                 </div>
             </div>
         </div>
-    </header>
+    </nav>
     <section>
         <div class="container">
             <div class="row">
@@ -142,6 +153,17 @@
             second: '2-digit',
         });
     </script>
+    <script>
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({
+                    pageLanguage: 'tr'
+                },
+                'google_translate_element'
+            );
+        }
+    </script>
+    <script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <script src="../../main_css/SKVersion.js" async=""></script>
 </body>
 
 </html>

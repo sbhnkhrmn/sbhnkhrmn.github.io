@@ -48,6 +48,27 @@
             background: #141414;
         }
     }
+    /*GOOGLE TRANSLATE */
+    
+    .goog-te-banner-frame.skiptranslate {
+        display: none !important;
+    }
+    
+    .goog-logo-link {
+        display: none !important;
+    }
+    
+    .goog-te-gadget {
+        font-size: 0 !important;
+    }
+    
+    .googleDesing {
+        border-color: rgb(255, 217, 3) !important;
+        border-radius: 50px;
+        background-color: transparent;
+        border-style: solid;
+    }
+    /*__________________________*/
     /* Buton Tasarımları */
     
     .informations {
@@ -83,14 +104,10 @@
     
     .border-sbhnkhrmn {
         border-radius: 50px;
-        border-color: rgb(255, 187, 0);
-        border-bottom-style: dotted;
-        padding-bottom: 15px;
-        padding-top: 0px;
-        padding-left: 15px;
-        padding-right: 15px;
+        border-style: dotted;
+        color: orange;
     }
-    /*____FOOTER DİZAYN___________*/
+    /*____FOOTER FONT DİZAYN___________*/
     
     .fa-paypal {
         color: white;
@@ -142,6 +159,35 @@
     body {
         margin: 0 auto;
         max-width: 56em;
-        padding: 1em 0;
     }
     /*_________________________*/
+    /* SVG DOSYALARIM */
+    
+    .sk-camera {
+        background-image: url(*.svg);
+        height: 64px;
+        width: 64px;
+    }
+    
+    .sk-applestore {
+        background-image: url(AppleStore.svg);
+        height: 64px;
+        width: 64px;
+    }
+    
+    .sk-cydown {
+        background-image: url(Cydown.svg);
+        height: 64px;
+        width: 64px;
+    }
+    
+    .sk-icloud {
+        background-image: url(iCloud.svg);
+        height: 64px;
+        width: 64px;
+    }
+    /*____________________________________*/
+    
+    .header-sbhnkhrmn {
+        background-color: rgba(245, 245, 245, 0.13);
+    }
