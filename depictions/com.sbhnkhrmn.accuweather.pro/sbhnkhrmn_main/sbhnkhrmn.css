@@ -1,223 +1,207 @@
-/* HEADER DESKTOP HİDE*/
-
-@media only screen and (min-width: 769px) {
-    #header_desktop {
-        display: none !important;
+    /* HEADER DESKTOP HİDE*/
+    
+    @media only screen and (min-width: 769px) {
+        #header_desktop {
+            display: none !important;
+        }
     }
-}
-
-
-/* DARK MODE ICIN GEREKLİ AYARLAMALAR */
-
-.site-content,
-body {
-    background: #f9f9f9;
-}
-
-.site-header {
-    background: #fff;
-}
-
-.site-title a:link,
-.site-title a:visited {
-    color: #373737;
-}
-
-.header-social-icons .social-icons-menu li a {
-    color: #373737;
-}
-
-@media (prefers-color-scheme: light) {
-    .site-title a:link,
-    .site-title a:visited,
-    .header-social-icons .social-icons-menu li a {
-        color: #373737;
-    }
+    /* DARK MODE ICIN GEREKLİ AYARLAMALAR */
+    
     .site-content,
     body {
-        background: linear-gradient(to bottom, #ffffff 50%, transparent 100%);
+        background: #f9f9f9;
     }
+    
     .site-header {
         background: #fff;
     }
-    header {
-        background-color: rgb(233, 233, 233);
-        height: 40px;
-    }
-}
-
-@media (prefers-color-scheme: dark) {
+    
     .site-title a:link,
-    .site-title a:visited,
-    .header-social-icons .social-icons-menu li a {
-        color: #fff;
+    .site-title a:visited {
+        color: #373737;
     }
-    .site-content,
-    body {
-        background: #141414;
+    
+    .header-social-icons .social-icons-menu li a {
+        color: #373737;
+    }
+    
+    @media (prefers-color-scheme: light) {
+        .site-title a:link,
+        .site-title a:visited,
+        .header-social-icons .social-icons-menu li a {
+            color: #373737;
+        }
+        .site-content,
+        body {
+            background: linear-gradient(to bottom, #ffffff 50%, transparent 100%);
+        }
+        .site-header {
+            background: #fff;
+        }
+        header {
+            background-color: rgb(233, 233, 233);
+        }
+    }
+    
+    @media (prefers-color-scheme: dark) {
+        .site-title a:link,
+        .site-title a:visited,
+        .header-social-icons .social-icons-menu li a {
+            color: #fff;
+        }
+        .site-content,
+        body {
+            background: #141414;
+            color: white;
+        }
+        .site-header {
+            background: #141414;
+        }
+        header {
+            background-color: rgb(53, 53, 53);
+        }
+    }
+    /*GOOGLE TRANSLATE */
+    
+    .goog-te-banner-frame.skiptranslate {
+        display: none !important;
+    }
+    
+    .goog-logo-link {
+        display: none !important;
+    }
+    
+    .goog-te-gadget {
+        font-size: 0 !important;
+    }
+    
+    .googleDesing {
+        border-color: rgb(255, 217, 3) !important;
+        border-radius: 50px;
+        background-color: transparent;
+        border-style: solid;
+    }
+    /*__________________________*/
+    /* Buton Tasarımları */
+    
+    .informations {
+        color: white;
+        border-radius: 50px;
+        text-align: center
+    }
+    
+    .background-sbhnkhrmn-yellow {
+        background: linear-gradient(to right, #f0b802 50%, rgb(248, 237, 74) 100%);
+    }
+    
+    .background-sbhnkhrmn-blue {
+        background: linear-gradient(to right, #027df0 50%, rgb(34, 0, 126) 100%);
+    }
+    
+    .background-sbhnkhrmn-red {
+        background: linear-gradient(to right, #f12b2b 50%, rgb(245, 79, 28) 100%);
+    }
+    
+    .background-sbhnkhrmn-green {
+        background: linear-gradient(to right, rgb(36, 204, 64) 50%, rgb(0, 109, 18) 100%);
+    }
+    
+    .informations-sbhnkhrmn-h6 {
+        text-align: center;
+    }
+    
+    .informations-sbhnkhrmn-h4 {
+        color: #f0b802;
+        font-family: Impact;
+    }
+    /* Header Background ve BOrder Tasarımı*/
+    
+    .border-sbhnkhrmn {
+        border-radius: 50px;
+        color: orange;
+        height: 66px;
+        width: 66px;
+    }
+    /*____FOOTER FONT DİZAYN___________*/
+    
+    .fa-paypal {
         color: white;
     }
-    .site-header {
-        background: #141414;
+    
+    .fa-github {
+        color: slategrey;
     }
-    header {
-        background-color: rgb(53, 53, 53);
-        height: 40px;
+    
+    .fa-twitter {
+        color: rgb(39, 134, 230);
     }
-}
-
-
-/*GOOGLE TRANSLATE */
-
-.goog-te-banner-frame.skiptranslate {
-    display: none !important;
-}
-
-.goog-logo-link {
-    display: none !important;
-}
-
-.goog-te-gadget {
-    font-size: 0 !important;
-}
-
-.googleDesing {
-    border-color: rgb(255, 217, 3) !important;
-    border-radius: 50px;
-    background-color: transparent;
-    border-style: solid;
-}
-
-
-/*__________________________*/
-
-
-/* Buton Tasarımları */
-
-.informations {
-    color: white;
-    border-radius: 50px;
-    text-align: center
-}
-
-.background-sbhnkhrmn-yellow {
-    background: linear-gradient(to right, #f0b802 50%, rgb(248, 237, 74) 100%);
-}
-
-.background-sbhnkhrmn-blue {
-    background: linear-gradient(to right, #027df0 50%, rgb(34, 0, 126) 100%);
-}
-
-.background-sbhnkhrmn-red {
-    background: linear-gradient(to right, #f12b2b 50%, rgb(245, 79, 28) 100%);
-}
-
-.background-sbhnkhrmn-green {
-    background: linear-gradient(to right, rgb(36, 204, 64) 50%, rgb(0, 109, 18) 100%);
-}
-
-.informations-sbhnkhrmn-h6 {
-    text-align: center;
-}
-
-.informations-sbhnkhrmn-h3 {
-    color: #f0b802;
-}
-
-
-/* Header Background ve BOrder Tasarımı*/
-
-.border-sbhnkhrmn {
-    border-radius: 50px;
-    border-style: dotted;
-    color: orange;
-}
-
-
-/*____FOOTER FONT DİZAYN___________*/
-
-.fa-paypal {
-    color: white;
-}
-
-.fa-github {
-    color: slategrey;
-}
-
-.fa-twitter {
-    color: rgb(39, 134, 230);
-}
-
-.fa-telegram {
-    color: rgb(59, 176, 230);
-}
-
-.fa-whatsapp {
-    color: rgb(116, 211, 60);
-}
-
-.fa-envelope {
-    color: rgb(221, 155, 55);
-}
-
-.donate-sbhnkhrmn {
-    border-radius: 50px;
-    width: 80px;
-    height: 25px;
-    background: linear-gradient(to right, #027df0 50%, rgb(34, 0, 126) 100%);
-}
-
-.donate-card-sbhnkhrmn {
-    font-size: 15px;
-}
-
-.socialmedia-sbhnkhrmn {
-    font-size: 23px;
-}
-
-
-/*___________________________________*/
-
-body {
-    margin: 0 auto;
-    max-width: 56em;
-}
-
-
-/*_________________________*/
-
-
-/* SVG DOSYALARIM */
-
-.sk-camera {
-    background-image: url(camera.svg);
-    height: 64px;
-    width: 64px;
-}
-
-.sk-applestore {
-    background-image: url(AppleStore.svg);
-    height: 64px;
-    width: 64px;
-}
-
-.sk-cydown {
-    background-image: url(Cydown.svg);
-    height: 64px;
-    width: 64px;
-}
-
-.sk-icloud {
-    background-image: url(iCloud.svg);
-    height: 64px;
-    width: 64px;
-}
-
-
-/*____________________________________*/
-
-.translate-sbhnkhrmn {
-    padding-top: 5px;
-    padding-bottom: 5px;
-    margin-left: 15px;
-}
+    
+    .fa-telegram {
+        color: rgb(59, 176, 230);
+    }
+    
+    .fa-whatsapp {
+        color: rgb(116, 211, 60);
+    }
+    
+    .fa-envelope {
+        color: rgb(221, 155, 55);
+    }
+    
+    .donate-sbhnkhrmn {
+        border-radius: 50px;
+        width: 80px;
+        height: 25px;
+        background: linear-gradient(to right, #027df0 50%, rgb(34, 0, 126) 100%);
+    }
+    
+    .donate-card-sbhnkhrmn {
+        font-size: 15px;
+    }
+    
+    .socialmedia-sbhnkhrmn {
+        font-size: 23px;
+    }
+    /*___________________________________*/
+    
+    body {
+        margin: 0 auto;
+        max-width: 56em;
+    }
+    /*_________________________*/
+    /* SVG DOSYALARIM */
+    
+    .sk-camera {
+        background-image: url(camera.svg);
+    }
+    
+    .sk-applestore {
+        background-image: url(AppleStore.svg);
+    }
+    
+    .sk-cydown {
+        background-image: url(Cydown.svg);
+    }
+    
+    .sk-icloud {
+        background-image: url(iCloud.svg);
+    }
+    /*____________________________________*/
+    
+    .translate-sbhnkhrmn {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    /*___________________________________________________*/
+    /* HEADER AYARLARI */
+    
+    .pb-3,
+    .py-3 {
+        padding-bottom: 0px!important;
+    }
+    
+    .mt-3,
+    .my-3 {
+        margin-top: 0px!important;
+    }
+    /*__________________________*/
