@@ -13,15 +13,15 @@
 </head>
 
 <body class="sk-fonts">
-    <nav id="sk-desktop-hide">
+    <nav id="sk-desktop-hide" class="sk-card-black">
         <div class="header-sbhnkhrmn btn">
             <div id="google_translate_element" class="border-bottom border-warning pb-2"></div>
         </div>
     </nav>
-    <header>
+    <header class="sk-card-black">
         <div class="p-4 rounded shadow-sm">
             <div class="media text-muted">
-                <img class="spinner-border text-warning border-sbhnkhrmn" style="width: 64px; border-radius: 50px;background-image: url(AppleStore_AccuWeather.png);">
+                <img class="sk-border-radius sk-app-size" src="AppleStore_AccuWeather.png" alt="ACCUWEATHER">
                 <div class="media-body pb-3 mb-0 small lh-125 border-bottom border-warning">
                     <div class="d-flex justify-content-between align-items-center w-100">
                         <strong>
@@ -45,26 +45,26 @@
         <div class="container sk-fonts">
             <div class="row ">
                 <div class="col-12 col-sm shadow-sm">
-                    <h1 class="sk-header-color sk-header-fonts sk-header-margin"><strong class="fas fa-edit"></strong> Descriptions</h1>
-                    <h4>
+                    <h3 class="sk-header-color sk-header-fonts sk-header-margin"><strong class="fas fa-edit"></strong> Descriptions</h3>
+                    <h5>
                         <li>We did not click on the annoying things for you</li>
-                    </h4>
+                    </h5>
                     <ul>
-                        <h4>Professional Weather Forecasts</h4>
-                        <h4>Worldwide Map Information</h4>
+                        <h5>Professional Weather Forecasts</h5>
+                        <h5>Worldwide Map Information</h5>
                     </ul>
                 </div>
                 <div class="col-12 col-sm shadow-sm">
-                    <h2 class="sk-header-color sk-header-fonts sk-header-margin"><strong class="fas fa-clone"></strong> Changelog</h2>
-                    <h4>
+                    <h3 class="sk-header-color sk-header-fonts sk-header-margin"><strong class="fas fa-clone"></strong> Changelog</h3>
+                    <h5>
                         <li>v0.0.2 Version Update</li>
-                    </h4>
+                    </h5>
                 </div>
             </div>
         </div>
         <div class="container shadow-sm">
             <div>
-                <h2 class="sk-header-color sk-header-fonts sk-header-margin"><strong class="fas fa-info-circle"></strong> Informations</h2>
+                <h3 class="sk-header-color sk-header-fonts sk-header-margin"><strong class="fas fa-info-circle"></strong> Informations</h3>
             </div>
             <div class="row ">
                 <div class="col-6 col-sm">
@@ -89,9 +89,9 @@
                     <div class="sk-card-green sk-text-center sk-border-radius">
                         <h4><strong class="	fas fa-check"></strong> IOS VERSION</h4>
                     </div>
-                    <h6 class="sk-text-center" data-min-ios="7.0 " data-max-ios="13.5 " class="prerequisite ">
+                    <h5 class="sk-text-center" data-min-ios="7.0 " data-max-ios="13.5 " class="prerequisite ">
                         <h5 class="sk-text-center">No Device !</h5>
-                    </h6>
+                    </h5>
                 </div>
             </div>
         </div>
@@ -126,7 +126,7 @@
         <div class="sk-card-black sk-text-center">
             <h6><strong class="far fa-copyright"></strong> Copyright 2020 - SÜBHAN KAHRAMAN</h6>
         </div>
-
+        <button onclick="myFunction()">Click Me</button>
     </footer>
     <script>
         document.getElementById("date ").innerHTML = new Date().toLocaleString('tr-TR', {
@@ -145,6 +145,11 @@
                 },
                 'google_translate_element'
             );
+        }
+
+        function myFunction() {
+            var element = document.body;
+            element.classList.toggle("dark-mode");
         }
     </script>
     <script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>

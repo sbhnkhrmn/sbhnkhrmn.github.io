@@ -1,361 +1,375 @@
-                        /* HEADER DESKTOP HİDE*/
-
-                        @media only screen and (min-width: 769px) {
-                            #sk-desktop-hide {
-                                display: none !important;
-                            }
-                        }
-
-                        /* DARK MODE ICIN GEREKLİ AYARLAMALAR */
-
-                        .site-content, body {
-                            background: #f9f9f9;
-                        }
-
-                        .site-header {
-                            background: #fff;
-                        }
-
-                        .site-title a:link, .site-title a:visited {
-                            color: #373737;
-                        }
-
-                        .header-social-icons .social-icons-menu li a {
-                            color: #373737;
-                        }
-
-                        @media (prefers-color-scheme: light) {
-                            .site-title a:link, .site-title a:visited, .header-social-icons .social-icons-menu li a {
-                                color: #373737;
-                            }
-                            .site-content, .site-header {
-                                background: #fff;
-                            }
-                            header {
-                                background-color: rgb(248, 248, 248);
-                            }
-                        }
-
-                        @media (prefers-color-scheme: dark) {
-                            .site-title a:link, .site-title a:visited, .header-social-icons .social-icons-menu li a {
-                                color: #fff;
-                            }
-                            .site-content, body {
-                                background: #141414;
-                                color: white;
-                            }
-                            .site-header {
-                                background: #141414;
-                            }
-                            header {
-                                background-color: rgb(53, 53, 53);
-                            }
-                            nav {
-                                background-color: rgb(53, 53, 53);
-                            }
-                            .sk-card-black {
-                                background: white;
-                            }
-                        }
-
-                        /*GOOGLE TRANSLATE */
-
-                        .goog-te-banner-frame.skiptranslate {
-                            display: none !important;
-                        }
-
-                        .goog-logo-link {
-                            display: none !important;
-                        }
-
-                        .goog-te-gadget {
-                            font-size: 0 !important;
-                        }
-
-                        .googleDesing {
-                            border-color: rgb(255, 217, 3) !important;
-                            border-radius: 50px;
-                            background-color: transparent;
-                            border-style: solid;
-                        }
-
-                        /*__________________________*/
-
-                        /* BAŞLIK RENKLERI - HEADER COLOR */
-
-                        .header-sk-color {
-                            color: #f0b802;
-                        }
-
-                        /* BİLGİLER - INFORMATIONS AYARLARI */
-
-                        .informations-sk-center {
-                            text-align: center
-                        }
-
-                        .informations-sk-border {
-                            border-radius: 50px;
-                        }
-
-                        .informations-sk-fonts {
-                            font-family: Impact;
-                        }
-
-                        /* Header Background ve BOrder Tasarımı*/
-
-                        .sk-app-header {
-                            padding-left: 8px;
-                        }
-
-                        .border-sbhnkhrmn {
-                            border-radius: 50px;
-                            color: orange;
-                            height: 66px;
-                            width: 66px;
-                        }
-
-                        /*____FOOTER FONT DİZAYN___________*/
-
-                        .socialmedia-sbhnkhrmn {
-                            font-size: 24px;
-                        }
-
-                        .donate-sbhnkhrmn {
-                            width: 80px;
-                            height: 24px;
-                            margin: auto;
-                        }
-
-                        .fa-paypal {
-                            color: white;
-                        }
-
-                        .fa-github {
-                            color: rgb(138, 138, 138);
-                        }
-
-                        .fa-twitter {
-                            color: rgb(39, 134, 230);
-                        }
-
-                        .fa-telegram {
-                            color: rgb(59, 176, 230);
-                        }
-
-                        .fa-whatsapp {
-                            color: rgb(116, 211, 60);
-                        }
-
-                        .fa-envelope {
-                            color: rgb(221, 155, 55);
-                        }
-
-                        /*___________________________________*/
-
-                        body {
-                            margin: 0 auto;
-                            max-width: 56em;
-                        }
-
-                        /*_________________________*/
-
-                        .translate-sbhnkhrmn {
-                            margin-top: 0px;
-                            padding-bottom: 5px;
-                        }
-
-                        /*___________________________________________________*/
-
-                        /* HEADER AYARLARI */
-
-                        .pb-3, .py-3 {
-                            padding-bottom: 0px!important;
-                        }
-
-                        .mt-3, .my-3 {
-                            margin-top: 0px!important;
-                        }
-
-                        .p-1 {
-                            margin-left: 15px;
-                            margin-right: 15px;
-                            margin-top: 5px;
-                            margin-bottom: 5px;
-                        }
-
-                        /*__________________________*/
-
-                        /*____________Button ayarları*/
-
-                        .dropdown-content {
-                            right: 0;
-                        }
-
-                        .dropbtn {
-                            background-color: orange;
-                            color: white;
-                            font-size: 16px;
-                            border: none;
-                            cursor: pointer;
-                            padding-left: 10px;
-                            padding-right: 10px;
-                            padding-top: 5px;
-                            padding-bottom: 5px;
-                            margin-top: 10px;
-                        }
-
-                        /* The container <div> - needed to position the dropdown content */
-
-                        .dropdown {
-                            position: relative;
-                            display: inline-block;
-                        }
-
-                        /* Dropdown Content (Hidden by Default) */
-
-                        .dropdown-content {
-                            display: none;
-                            position: absolute;
-                            background-color: #f9f9f9;
-                            min-width: 160px;
-                            box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-                            z-index: 1;
-                        }
-
-                        /* Links inside the dropdown */
-
-                        .dropdown-content a {
-                            color: black;
-                            padding: 12px 16px;
-                            text-decoration: none;
-                            display: block;
-                        }
-
-                        /* Change color of dropdown links on hover */
-
-                        .dropdown-content a:hover {
-                            background-color: #f1f1f1
-                        }
-
-                        /* Show the dropdown menu on hover */
-
-                        .dropdown:hover .dropdown-content {
-                            display: block;
-                        }
-
-                        /* Change the background color of the dropdown button when the dropdown content is shown */
-
-                        .dropdown:hover .dropbtn {
-                            background-color: #f1bb09;
-                        }
-
-                        /*______________________________*/
-
-                        /*_____________Header Paddıng*/
-
-                        .p-4 {
-                            padding: 15px!important;
-                        }
-
-                        .mb-3, .my-3 {
-                            margin-bottom: 5px!important;
-                        }
-
-                        /* ___________________________*/
-
-                        /* SECTIONS AYARLAR */
-
-                        .sk-margin {
-                            margin: 15px;
-                        }
-
-                        body {
-                            top: 0px !important;
-                        }
-
-                        /*_________H DEGERLERİ*/
-
-                        h1 {
-                            font-size: 22px !important;
-                        }
-
-                        h2 {
-                            font-size: 20px !important;
-                        }
-
-                        h3 {
-                            font-size: 28px !important;
-                        }
-
-                        h4 {
-                            font-size: 16px !important;
-                        }
-
-                        h5 {
-                            font-size: 14px !important;
-                        }
-
-                        h6 {
-                            font-size: 12px !important;
-                        }
-
-                        /* GENEL AYARLAR */
-
-                        .sk-text-center {
-                            text-align: center;
-                        }
-
-                        .sk-border-radius {
-                            border-radius: 50px;
-                        }
-
-                        .sk-header-color {
-                            color: orange;
-                        }
-
-                        .sk-header-margin {
-                            margin-top: 5px;
-                            margin-bottom: 10px;
-                        }
-
-                        .sk-header-fonts {
-                            font-family: Arial, sans-serif;
-                        }
-
-                        .sk-card-options {
-                            padding: 15px;
-                            margin-bottom: 10px;
-                            margin-left: 15px;
-                            margin-right: 15px;
-                            margin-top: 2px;
-                        }
-
-                        /*_______________________*/
-
-                        /* SBHNKHRMN KART RENKLERİ */
-
-                        .sk-card-orange {
-                            background: orange
-                        }
-
-                        .sk-card-blue {
-                            background: rgb(0, 140, 255)
-                        }
-
-                        .sk-card-red {
-                            background: rgb(253, 47, 47)
-                        }
-
-                        .sk-card-green {
-                            background: rgb(53, 194, 53)
-                        }
-
-                        .sk-card-gray {
-                            background: gray
-                        }
-
-                        .sk-card-black {
-                            background: rgba(83, 83, 83, 0.212);
-                        }
-
-                        /*__________________________*/
+                       /* HEADER DESKTOP HİDE*/
+                       
+                       @media only screen and (min-width: 769px) {
+                           #sk-desktop-hide {
+                               display: none !important;
+                           }
+                       }
+                       /* DARK MODE ICIN GEREKLİ AYARLAMALAR */
+                       
+                       .site-content,
+                       body {
+                           background: #f9f9f9;
+                       }
+                       
+                       .site-header {
+                           background: #fff;
+                       }
+                       
+                       .site-title a:link,
+                       .site-title a:visited {
+                           color: #373737;
+                       }
+                       
+                       .header-social-icons .social-icons-menu li a {
+                           color: #373737;
+                       }
+                       
+                       @media (prefers-color-scheme: light) {
+                           .site-title a:link,
+                           .site-title a:visited,
+                           .header-social-icons .social-icons-menu li a {
+                               color: #373737;
+                           }
+                           .site-content,
+                           .site-header {
+                               background: #fff;
+                           }
+                           header {
+                               background-color: rgb(248, 248, 248);
+                           }
+                       }
+                       
+                       @media (prefers-color-scheme: dark) {
+                           .site-title a:link,
+                           .site-title a:visited,
+                           .header-social-icons .social-icons-menu li a {
+                               color: #fff;
+                           }
+                           .site-content,
+                           body {
+                               background: #141414;
+                               color: white;
+                           }
+                           .site-header {
+                               background: #141414;
+                           }
+                           header {
+                               background-color: rgb(53, 53, 53);
+                           }
+                           nav {
+                               background-color: rgb(53, 53, 53);
+                           }
+                           .sk-card-black {
+                               background: rgb(49, 49, 49);
+                           }
+                       }
+                       /*DARK MODE MANUEL AYARLAR ICIN */
+                       
+                       body {
+                           padding: 25px;
+                           background-color: white;
+                           color: black;
+                           font-size: 25px;
+                       }
+                       
+                       .dark-mode {
+                           background-color: black;
+                           color: white;
+                       }
+                       /*GOOGLE TRANSLATE */
+                       
+                       .goog-te-banner-frame.skiptranslate {
+                           display: none !important;
+                       }
+                       
+                       .goog-logo-link {
+                           display: none !important;
+                       }
+                       
+                       .goog-te-gadget {
+                           font-size: 0 !important;
+                       }
+                       
+                       .googleDesing {
+                           border-color: rgb(255, 217, 3) !important;
+                           border-radius: 50px;
+                           background-color: transparent;
+                           border-style: solid;
+                       }
+                       /*__________________________*/
+                       /* BAŞLIK RENKLERI - HEADER COLOR */
+                       
+                       .header-sk-color {
+                           color: #f0b802;
+                       }
+                       /* BİLGİLER - INFORMATIONS AYARLARI */
+                       
+                       .informations-sk-center {
+                           text-align: center
+                       }
+                       
+                       .informations-sk-border {
+                           border-radius: 50px;
+                       }
+                       
+                       .informations-sk-fonts {
+                           font-family: Impact;
+                       }
+                       /* Header Background ve BOrder Tasarımı*/
+                       
+                       .sk-app-header {
+                           padding-left: 8px;
+                       }
+                       
+                       .sk-app-size {
+                           height: 64px;
+                           width: 64px;
+                       }
+                       
+                       .border-sbhnkhrmn {
+                           border-radius: 50px;
+                           color: orange;
+                           height: 66px;
+                           width: 66px;
+                       }
+                       
+                       @keyframes spin {
+                           0% {
+                               transform: rotate(0deg);
+                           }
+                           100% {
+                               transform: rotate(360deg);
+                           }
+                       }
+                       /*____FOOTER FONT DİZAYN___________*/
+                       
+                       .socialmedia-sbhnkhrmn {
+                           font-size: 24px;
+                       }
+                       
+                       .donate-sbhnkhrmn {
+                           width: 80px;
+                           height: 24px;
+                           margin: auto;
+                       }
+                       
+                       .fa-paypal {
+                           color: white;
+                       }
+                       
+                       .fa-github {
+                           color: rgb(138, 138, 138);
+                       }
+                       
+                       .fa-twitter {
+                           color: rgb(39, 134, 230);
+                       }
+                       
+                       .fa-telegram {
+                           color: rgb(59, 176, 230);
+                       }
+                       
+                       .fa-whatsapp {
+                           color: rgb(116, 211, 60);
+                       }
+                       
+                       .fa-envelope {
+                           color: rgb(221, 155, 55);
+                       }
+                       /*___________________________________*/
+                       
+                       body {
+                           margin: 0 auto;
+                           max-width: 56em;
+                       }
+                       /*_________________________*/
+                       
+                       .translate-sbhnkhrmn {
+                           margin-top: 0px;
+                           padding-bottom: 5px;
+                       }
+                       /*___________________________________________________*/
+                       /* HEADER AYARLARI */
+                       
+                       .pb-3,
+                       .py-3 {
+                           padding-bottom: 0px!important;
+                       }
+                       
+                       .mt-3,
+                       .my-3 {
+                           margin-top: 0px!important;
+                       }
+                       
+                       .p-1 {
+                           margin-left: 15px;
+                           margin-right: 15px;
+                           margin-top: 5px;
+                           margin-bottom: 5px;
+                       }
+                       /*__________________________*/
+                       /*____________Button ayarları*/
+                       
+                       .dropdown-content {
+                           right: 0;
+                       }
+                       
+                       .dropbtn {
+                           background-color: orange;
+                           font-size: 16px;
+                           border: none;
+                           cursor: pointer;
+                           padding-left: 10px;
+                           padding-right: 10px;
+                           padding-top: 5px;
+                           padding-bottom: 5px;
+                           margin-top: 10px;
+                       }
+                       /* The container <div> - needed to position the dropdown content */
+                       
+                       .dropdown {
+                           position: relative;
+                           display: inline-block;
+                       }
+                       /* Dropdown Content (Hidden by Default) */
+                       
+                       .dropdown-content {
+                           display: none;
+                           position: absolute;
+                           background-color: orange;
+                           min-width: 160px;
+                           box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+                           z-index: 1;
+                       }
+                       /* Links inside the dropdown */
+                       
+                       .dropdown-content a {
+                           padding: 12px 16px;
+                           text-decoration: none;
+                           display: block;
+                           color: white;
+                       }
+                       /* Change color of dropdown links on hover */
+                       
+                       .dropdown-content a:hover {
+                           background-color: rgb(228, 148, 0);
+                       }
+                       /* Show the dropdown menu on hover */
+                       
+                       .dropdown:hover .dropdown-content {
+                           display: block;
+                       }
+                       /* Change the background color of the dropdown button when the dropdown content is shown */
+                       
+                       .dropdown:hover .dropbtn {
+                           background-color: orange;
+                       }
+                       /*______________________________*/
+                       /*_____________Header Paddıng*/
+                       
+                       .p-4 {
+                           padding: 15px!important;
+                       }
+                       
+                       .mb-3,
+                       .my-3 {
+                           margin-bottom: 5px!important;
+                       }
+                       /* ___________________________*/
+                       /* SECTIONS AYARLAR */
+                       
+                       .sk-margin {
+                           margin: 15px;
+                       }
+                       
+                       body {
+                           top: 0px !important;
+                       }
+                       /*_________H DEGERLERİ*/
+                       
+                       h1 {
+                           font-size: 20px !important;
+                           font-weight: 600 !important;
+                       }
+                       
+                       h2 {
+                           font-size: 18px !important;
+                           font-weight: 600 !important;
+                       }
+                       
+                       h3 {
+                           font-size: 16px !important;
+                           font-weight: 700 !important;
+                       }
+                       
+                       h4 {
+                           font-size: 14px !important;
+                       }
+                       
+                       h5 {
+                           font-size: 13px !important;
+                           font-weight: 700 !important;
+                       }
+                       
+                       h6 {
+                           font-size: 12px !important;
+                           font-weight: 500 !important;
+                       }
+                       /* GENEL AYARLAR */
+                       
+                       .sk-text-center {
+                           text-align: center;
+                       }
+                       
+                       .sk-border-radius {
+                           border-radius: 50px;
+                       }
+                       
+                       .sk-header-color {
+                           color: orange;
+                       }
+                       
+                       .sk-header-margin {
+                           margin-top: 5px;
+                           margin-bottom: 10px;
+                       }
+                       
+                       .sk-header-fonts {
+                           font-family: Arial, sans-serif;
+                       }
+                       
+                       .sk-card-options {
+                           padding: 15px;
+                           margin-bottom: 10px;
+                           margin-left: 15px;
+                           margin-right: 15px;
+                           margin-top: 2px;
+                       }
+                       /*_______________________*/
+                       /* SBHNKHRMN KART RENKLERİ */
+                       
+                       .sk-card-orange {
+                           background: orange
+                       }
+                       
+                       .sk-card-blue {
+                           background: rgb(0, 140, 255)
+                       }
+                       
+                       .sk-card-red {
+                           background: rgb(253, 47, 47)
+                       }
+                       
+                       .sk-card-green {
+                           background: rgb(53, 194, 53)
+                       }
+                       
+                       .sk-card-gray {
+                           background: gray
+                       }
+                       
+                       .sk-card-black {
+                           background: rgba(83, 83, 83, 0.212);
+                       }
+                       /*__________________________*/
