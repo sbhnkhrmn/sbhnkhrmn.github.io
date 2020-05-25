@@ -248,6 +248,15 @@
                             margin-bottom: 5px!important;
                         }
                         /* ___________________________*/
+                        /* SECTIONS AYARLAR */
+                        
+                        .sk-margin {
+                            margin: 15px;
+                        }
+                        
+                        body {
+                            top: 0px !important;
+                        }
                         /*_________H DEGERLERİ*/
                         
                         h1 {
@@ -293,7 +302,7 @@
                         }
                         
                         .sk-header-fonts {
-                            font-family: fantasy;
+                            font-family: Arial, sans-serif;
                         }
                         
                         .sk-card-options {

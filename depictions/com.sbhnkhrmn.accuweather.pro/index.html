@@ -1,5 +1,5 @@
 ﻿<!doctype html>
-<html lang="en-EN" xml:lang="en">
+<html lang="tr-TR" xml:lang="tr">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>AccuWeather</title>
@@ -12,9 +12,9 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
-<body>
-    <nav id="header_desktop">
-        <div class="header-sbhnkhrmn">
+<body class="sk-fonts">
+    <nav id="header_desktop" style="margin-left: 15px">
+        <div class="header-sbhnkhrmn btn">
             <div id="google_translate_element" class="border-bottom border-warning pb-2 mb-0"></div>
         </div>
     </nav>
@@ -41,10 +41,10 @@
             </div>
         </div>
     </header>
-    <section>
+    <section class="sk-margin">
         <div class="container sk-fonts">
             <div class="row ">
-                <div class="col-12 col-sm">
+                <div class="col-12 col-sm shadow-sm">
                     <h1 class="sk-header-color sk-header-fonts sk-header-margin"><strong class="fas fa-edit"></strong> Descriptions</h1>
                     <h4>
                         <li>We did not click on the annoying things for you</li>
@@ -54,7 +54,7 @@
                         <h4>Worldwide Map Information</h4>
                     </ul>
                 </div>
-                <div class="col-12 col-sm">
+                <div class="col-12 col-sm shadow-sm">
                     <h2 class="sk-header-color sk-header-fonts sk-header-margin"><strong class="fas fa-clone"></strong> Changelog</h2>
                     <h4>
                         <li>v0.0.2 Version Update</li>
@@ -62,7 +62,7 @@
                 </div>
             </div>
         </div>
-        <div class="container">
+        <div class="container shadow-sm">
             <div>
                 <h2 class="sk-header-color sk-header-fonts sk-header-margin"><strong class="fas fa-info-circle"></strong> Informations</h2>
             </div>
@@ -96,7 +96,7 @@
             </div>
         </div>
     </section>
-    <footer>
+    <footer class="sk-margin">
         <div>
 
             <a href="https://www.paypal.me/sbhnkhrmn" target="_blank">
@@ -141,7 +141,7 @@
 
         function googleTranslateElementInit() {
             new google.translate.TranslateElement({
-                    pageLanguage: 'en'
+                    pageLanguage: ''
                 },
                 'google_translate_element'
             );
