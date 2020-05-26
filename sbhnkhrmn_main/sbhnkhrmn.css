@@ -448,3 +448,11 @@ img {vertical-align: middle;}
   background-color: #f1f1f1;
   color: black;
 }
+
+/*Button Ac kapat etıketı*/
+    .bs-example{
+        margin: 20px;
+    }
+    .accordion .fa{
+        margin-right: 0.5rem;
+    }

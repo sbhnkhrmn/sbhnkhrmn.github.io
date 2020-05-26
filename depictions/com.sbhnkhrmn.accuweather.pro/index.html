@@ -75,6 +75,7 @@
                         <picture class="sbhnkhrmn-picture">
                             <img src="4.png">
                         </picture>
+                        <ul id="fileNames" style="width:auto;"> </ul>
                     </div>
                 </div>
             </div>
@@ -103,12 +104,13 @@
         </div>
         <!-- DEGISIKLIKLER -->
         <div>
-            <div class="container sk-fonts">
+            <div class="container sk-fonts accordion">
                 <div class="sk-card-gray sk-border-radius" href="#sk-open-changelog" data-toggle="collapse"
                     role="button" aria-expanded="false" aria-controls="sk-open-changelog">
-                    <h3 class="sk-header-color sk-header-fonts sk-header-margin">
-                        <strong class="fas fa-clone"></strong>
-                        Changelog
+                    <h3 class="sk-header-color sk-header-fonts sk-header-margin"></h3>
+                    <i class=" fa fa-plus"></i>
+                    <strong class="fas fa-clone"></strong>
+                    Changelog
                     </h3>
                 </div>
                 <div class="col-12 col-sm shadow-sm collapse" id="sk-open-changelog">
@@ -120,11 +122,11 @@
         </div>
         <!-- BILGILER -->
         <div>
-            <div class="container shadow-sm">
+            <div class="container shadow-sm accordion">
                 <div href="#sk-open-informations" data-toggle="collapse" role="button" aria-expanded="false"
                     aria-controls="sk-open-informations">
                     <h3 class="sk-header-color sk-header-fonts sk-header-margin sk-card-gray sk-border-radius">
-                        <strong class="fas fa-info-circle"></strong>
+                        <i class="fas fa-info-circle"></i>
                         Informations
                     </h3>
                 </div>
@@ -189,6 +191,23 @@
             <h6><strong class="far fa-copyright"></strong> Copyright 2020 - SÜBHAN KAHRAMAN</h6>
         </div>
     </footer>
+    <main>
+        <div class="bs-example">
+            <div class="accordion" id="accordionExample">
+                <div class="card">
+                    <div class="card-header" id="headingOne">
+                        <h2 class="mb-0">
+                            <button type="button" class="btn btn-link" data-toggle="collapse"
+                                data-target="#collapseOne"><i class="fa fa-plus"></i> What is HTML?</button>
+                        </h2>
+                    </div>
+                    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </main>
     <!-- JAVA -->
     <script>
         document.getElementById("date").innerHTML = new Date().toLocaleString('tr-TR', {
@@ -221,7 +240,33 @@
             x[slideIndex - 1].style.display = "block";
             setTimeout(carousel, 1500); // 1.5 sanıye anlamına gelir
         }
-        /* RESIMLERI OTOMATIK EKLEME*/
+        /*Button kaydırma*/
+        $(document).ready(function () {
+            // Add minus icon for collapse element which is open by default
+            $(".collapse.show").each(function () {
+                $(this).prev(".card-header").find(".fa").addClass("fa-minus").removeClass("fa-plus");
+            });
+
+            // Toggle plus minus icon on show hide of collapse element
+            $(".collapse").on('show.bs.collapse', function () {
+                $(this).prev(".card-header").find(".fa").removeClass("fa-plus").addClass("fa-minus");
+            }).on('hide.bs.collapse', function () {
+                $(this).prev(".card-header").find(".fa").removeClass("fa-minus").addClass("fa-plus");
+            });
+
+            var folder = "img/";
+            $.ajax({
+                url: folder,
+                success: function (data) {
+
+                    $(data).find("a").attr("href", function (i, val) {
+                        if (val.match(/\.(jpe?g|png|jpg|gif)$/)) {
+                            $("#fileNames").append("<li><img src='" + folder + val + "'></li>");
+                        }
+                    });
+                }
+            });
+        });
     </script>
     <script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 </body>
