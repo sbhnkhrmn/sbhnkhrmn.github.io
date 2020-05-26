@@ -14,18 +14,10 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
-<body class="sk-fonts">
-    <ul id="fileNames" style="width:auto;"></ul>
-
-    <!-- DIL DEGISTIRME -->
-    <nav id="sk-desktop-hide" class="sk-card-black">
-        <div class="header-sbhnkhrmn btn">
-            <div id="google_translate_element" class="border-bottom border-warning pb-2"></div>
-        </div>
-    </nav>
+<body class="sk-fonts sk-text-center">
     <!-- UYGULAMA BASLIK -->
     <header class="warning">
-        <div class="p-4 rounded shadow-sm">
+        <div class="p-4 rounded">
             <div class="media text-muted">
                 <img class="sk-border-radius sk-app-size" src="../../ikonlar/AppleStore_AccuWeather.png"
                     alt="ACCUWEATHER">
@@ -52,7 +44,7 @@
         </div>
     </header>
     <!-- UYGULAMA BOLUMU -->
-    <section class="sk-margin sk-text-center">
+    <section class="sk-margin">
         <!-- RESIMLER -->
         <div>
             <div class="container">
@@ -63,8 +55,8 @@
                         Picture
                     </h3>
                 </div>
-                <div class="sk-text-center collapse" id="sk-open-picture">
-                    <div class="sk-slideshow-container">
+                <div>
+                    <div class="collapse" id="sk-open-picture">
                         <picture class="sbhnkhrmn-picture">
                             <img src="1.png">
                         </picture>
@@ -91,14 +83,17 @@
                         Descriptions
                     </h3>
                 </div>
-
-                <div class="col-12 col-sm shadow-sm collapse" id="sk-open-descriptions">
-                    <h3>
-                        <li>We did not click on the annoying things for you</li>
-                    </h3>
+                <div class="col-12 col-sm collapse" id="sk-open-descriptions">
                     <ul>
-                        <h5>Professional Weather Forecasts</h5>
-                        <h5>Worldwide Map Information</h5>
+                        <h5>
+                            We did not click on the annoying things for you
+                        </h5>
+                        <h5>
+                            Professional Weather Forecasts
+                        </h5>
+                        <h5>
+                            Worldwide Map Information
+                        </h5>
                     </ul>
                 </div>
             </div>
@@ -108,13 +103,12 @@
             <div class="container sk-fonts accordion">
                 <div class="sk-card-gray sk-border-radius" href="#sk-open-changelog" data-toggle="collapse"
                     role="button" aria-expanded="false" aria-controls="sk-open-changelog">
-                    <h3 class="sk-header-color sk-header-fonts sk-header-margin"></h3>
-                    <i class=" fa fa-plus"></i>
-                    <strong class="fas fa-clone"></strong>
-                    Changelog
+                    <h3 class="sk-header-color sk-header-fonts sk-header-margin">
+                        <i class="fas fa-clone"></i>
+                        Changelog
                     </h3>
                 </div>
-                <div class="col-12 col-sm shadow-sm collapse" id="sk-open-changelog">
+                <div class="col-12 col-sm collapse" id="sk-open-changelog">
                     <h5>
                         <li>v0.0.2 Version Update</li>
                     </h5>
@@ -123,7 +117,7 @@
         </div>
         <!-- BILGILER -->
         <div>
-            <div class="container shadow-sm accordion">
+            <div class="container accordion">
                 <div href="#sk-open-informations" data-toggle="collapse" role="button" aria-expanded="false"
                     aria-controls="sk-open-informations">
                     <h3 class="sk-header-color sk-header-fonts sk-header-margin sk-card-gray sk-border-radius">
@@ -133,29 +127,29 @@
                 </div>
                 <div class="row" id="sk-open-informations">
                     <div class="col-6 col-sm">
-                        <div class="sk-card-orange sk-text-center sk-border-radius">
+                        <div class="sk-card-orange sk-border-radius">
                             <h4><strong class="fas fa-box-open"></strong> DEB VERSION</h4>
                         </div>
-                        <h5 class="sk-text-center">0.0.1</h5>
+                        <h5>0.0.1</h5>
                     </div>
                     <div class="col-6 col-sm">
-                        <div class="sk-card-blue sk-text-center sk-border-radius">
+                        <div class="sk-card-blue sk-border-radius">
                             <h4><strong class="far fa-clock"></strong> UPDATED</h4>
                         </div>
-                        <h5 class="sk-text-center" id="date"></h5>
+                        <h5 id="date"></h5>
                     </div>
                     <div class="col-6 col-sm">
-                        <div class="sk-card-red sk-text-center sk-border-radius">
+                        <div class="sk-card-red sk-border-radius">
                             <h4><strong class="fas fa-lira-sign"></strong> RESTRICTION</h4>
                         </div>
-                        <h5 class="sk-text-center">Free Package</h5>
+                        <h5>Free Package</h5>
                     </div>
                     <div class="col-6 col-sm">
-                        <div class="sk-card-green sk-text-center sk-border-radius">
+                        <div class="sk-card-green sk-border-radius">
                             <h4><strong class="fas fa-check"></strong> IOS VERSION</h4>
                         </div>
                         <div id="sk-version-control" data-min-ios="7.0" data-max-ios="13.5">
-                            <h5 class="sk-text-center">No Device !</h5>
+                            <h5>No Device !</h5>
                         </div>
                     </div>
                 </div>
@@ -164,13 +158,14 @@
     </section>
     <!-- SOSYAL MEDYA BOLUMU -->
     <footer class="sk-margin">
+        <!-- PAYPAL -->
         <div>
             <a href="https://www.paypal.me/sbhnkhrmn" target="_blank">
-                <div class="sk-card-blue sk-border-radius donate-sbhnkhrmn sk-text-center">
-                    <strong class="fa fa-paypal sk-text-center"></strong>
+                <div class="sk-card-blue sk-border-radius donate-sbhnkhrmn">
+                    <strong class="fa fa-paypal"></strong>
                 </div>
             </a>
-            <div class="sk-text-center">
+            <div>
                 <div class="donate-card-sbhnkhrmn">
                     <i class="fab fa-cc-apple-pay"></i>
                     <i class="fa fa-cc-visa"></i>
@@ -180,7 +175,8 @@
                 </div>
             </div>
         </div>
-        <div class="socialmedia-sbhnkhrmn sk-text-center">
+        <!-- SOSYAL IKONLAR -->
+        <div class="socialmedia-sbhnkhrmn">
             <a href="https://sbhnkhrmn.github.io/" target="_blank "><i class="fa fa-github"></i></a>
             <a href="https://www.twitter.com/sbhnkhrmn" target="_blank "><i class="fa fa-twitter"></i></a>
             <a href="https://t.me/sbhnkhrmn" target="_blank "><i class="fab fa-telegram"></i></a>
@@ -188,27 +184,11 @@
                     class="fa fa-whatsapp"></i></a>
             <a href="mailto:khrmn.sbhn@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
         </div>
-        <div class="sk-card-black sk-text-center">
+        <!-- Copyright -->
+        <div class="sk-card-black sk-border-radius">
             <h6><strong class="far fa-copyright"></strong> Copyright 2020 - SÜBHAN KAHRAMAN</h6>
         </div>
     </footer>
-    <main>
-        <div class="bs-example">
-            <div class="accordion" id="accordionExample">
-                <div class="card">
-                    <div class="card-header" id="headingOne">
-                        <h2 class="mb-0">
-                            <button type="button" class="btn btn-link" data-toggle="collapse"
-                                data-target="#collapseOne"><i class="fa fa-plus"></i> What is HTML?</button>
-                        </h2>
-                    </div>
-                    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                    </div>
-                </div>
-            </div>
-        </div>
-        </div>
-    </main>
     <!-- JAVA -->
     <script>
         document.getElementById("date").innerHTML = new Date().toLocaleString('tr-TR', {
@@ -220,13 +200,7 @@
             minute: '2-digit',
             second: '2-digit',
         });
-        function googleTranslateElementInit() {
-            new google.translate.TranslateElement({
-                pageLanguage: ''
-            },
-                'google_translate_element'
-            );
-        }
+
         /* RESIMLERI OTOMATIK DEGISTIRME */
         var slideIndex = 1;
         carousel();
@@ -243,35 +217,16 @@
         }
         /*Button kaydırma*/
         $(document).ready(function () {
-            // Add minus icon for collapse element which is open by default
             $(".collapse.show").each(function () {
                 $(this).prev(".card-header").find(".fa").addClass("fa-minus").removeClass("fa-plus");
             });
-
-            // Toggle plus minus icon on show hide of collapse element
             $(".collapse").on('show.bs.collapse', function () {
                 $(this).prev(".card-header").find(".fa").removeClass("fa-plus").addClass("fa-minus");
             }).on('hide.bs.collapse', function () {
                 $(this).prev(".card-header").find(".fa").removeClass("fa-minus").addClass("fa-plus");
             });
-
-            //var folder = "";
-            var folder = window.location.pathname;
-
-            $.ajax({
-                url: folder,
-                success: function (data) {
-
-                    $(data).find("a").attr("href", function (i, val) {
-                        if (val.match(/\.(jpe?g|png|jpg|gif)$/)) {
-                            $("#fileNames").append("<li><img src='" + folder + val + "'></li>");
-                        }
-                    });
-                }
-            });
         });
     </script>
-    <script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 </body>
 
 </html>
