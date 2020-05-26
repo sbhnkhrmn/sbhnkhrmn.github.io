@@ -54,7 +54,8 @@
         <!-- RESIMLER -->
         <div>
             <div class="container">
-                <div class="sk-card-gray sk-border-radius" href="#sk-open-picture" data-toggle="collapse">
+                <div class="sk-card-gray sk-border-radius" href="#sk-open-picture" data-toggle="collapse" role="button"
+                    aria-expanded="false" aria-controls="sk-open-picture">
                     <h3 class="sk-header-color sk-header-fonts sk-header-margin">
                         <strong class="fas fa-photo"></strong>
                         Picture
@@ -81,7 +82,8 @@
         <!-- ACIKLAMALAR -->
         <div>
             <div class="container sk-fonts">
-                <div class="sk-card-gray sk-border-radius" href="#sk-open-descriptions" data-toggle="collapse">
+                <div class="sk-card-gray sk-border-radius" href="#sk-open-descriptions" data-toggle="collapse"
+                    role="button" aria-expanded="false" aria-controls="sk-open-descriptions">
                     <h3 class="sk-header-color sk-header-fonts sk-header-margin">
                         <strong class="fas fa-edit"></strong>
                         Descriptions
@@ -119,7 +121,8 @@
         <!-- BILGILER -->
         <div>
             <div class="container shadow-sm">
-                <div href="#sk-open-informations" data-toggle="collapse">
+                <div href="#sk-open-informations" data-toggle="collapse" role="button" aria-expanded="false"
+                    aria-controls="sk-open-informations">
                     <h3 class="sk-header-color sk-header-fonts sk-header-margin sk-card-gray sk-border-radius">
                         <strong class="fas fa-info-circle"></strong>
                         Informations
@@ -156,25 +159,6 @@
             </div>
         </div>
     </section>
-    <main>
-        <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#multiCollapseExample1" role="button"
-                aria-expanded="false" aria-controls="multiCollapseExample1">Toggle first element</a>
-
-        </p>
-        <div class="row">
-            <div class="col">
-                <div class="collapse multi-collapse" id="multiCollapseExample1">
-                    <div class="card card-body">
-                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid.
-                        Nihil
-                        anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </main>
     <!-- SOSYAL MEDYA BOLUMU -->
     <footer class="sk-margin">
         <div>
@@ -192,7 +176,6 @@
                     <i class="fa fa-cc-stripe"></i>
                 </div>
             </div>
-
         </div>
         <div class="socialmedia-sbhnkhrmn sk-text-center">
             <a href="https://sbhnkhrmn.github.io/" target="_blank "><i class="fa fa-github"></i></a>
@@ -202,12 +185,9 @@
                     class="fa fa-whatsapp"></i></a>
             <a href="mailto:khrmn.sbhn@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
         </div>
-
         <div class="sk-card-black sk-text-center">
             <h6><strong class="far fa-copyright"></strong> Copyright 2020 - SÜBHAN KAHRAMAN</h6>
         </div>
-        <button onclick="darkMode()">Click Me</button>
-
     </footer>
     <!-- JAVA -->
     <script>
@@ -220,7 +200,6 @@
             minute: '2-digit',
             second: '2-digit',
         });
-
         function googleTranslateElementInit() {
             new google.translate.TranslateElement({
                 pageLanguage: ''
@@ -228,22 +207,9 @@
                 'google_translate_element'
             );
         }
-        function darkMode() {
-            var element = document.body;
-            element.classList.toggle("dark-mode", true);
-            window.matchMedia('(prefers-color-scheme: dark)').addListener(e => {
-                if (e.matches) {
-                    document.body.style.backgroundColor = "#fff";
-                } else {
-                    element.classList.toggle("dark-mode", true);
-
-                }
-            });
-        }
         /* RESIMLERI OTOMATIK DEGISTIRME */
         var slideIndex = 1;
         carousel();
-
         function carousel() {
             var i;
             var x = document.getElementsByClassName("sbhnkhrmn-picture");
@@ -256,26 +222,6 @@
             setTimeout(carousel, 1500); // 1.5 sanıye anlamına gelir
         }
         /* RESIMLERI OTOMATIK EKLEME*/
-        $(document).on('click', '.panel-heading span.clickable', function (e) {
-            var $this = $(this);
-            if (!$this.hasClass('panel-collapsed')) {
-                $this.parents('.panel').find('.panel-body').slideUp();
-                $this.addClass('panel-collapsed');
-                $this.find('i').removeClass('glyphicon-chevron-down').addClass('glyphicon-chevron-up');
-
-            } else {
-                $this.parents('.panel').find('.panel-body').slideDown();
-                $this.removeClass('panel-collapsed');
-                $this.find('i').removeClass('glyphicon-chevron-up').addClass('glyphicon-chevron-down');
-
-            }
-        })
-        /*_____DROPDOWN MENU___*/
-
-        $(".dropdown").on("show.bs.dropdown", function (event) {
-            var x = $(event.relatedTarget).text(); // Get the text of the element
-            alert(x);
-        });
     </script>
     <script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 </body>
