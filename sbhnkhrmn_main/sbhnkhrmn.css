@@ -360,7 +360,7 @@ select:active {
                        }
                        
                        .sk-header-color {
-                           color: orange;
+                           color: white;
                        }
                        
                        .sk-header-margin {
@@ -373,11 +373,15 @@ select:active {
                        }
                        
                        .sk-card-options {
-                           padding: 15px;
+                           padding: 5px;
                            margin-bottom: 10px;
-                           margin-left: 15px;
-                           margin-right: 15px;
+                           margin-left: auto;
+                           margin-right: auto;
                            margin-top: 2px;
+                       }
+                       .sk-card-size {
+                           height: 25px;
+                           width: auto;
                        }
                        /*_______________________*/
                        /* SBHNKHRMN KART RENKLERİ */
@@ -399,11 +403,11 @@ select:active {
                        }
                        
                        .sk-card-gray {
-                           background: gray
+                           background: rgb(139, 139, 139)
                        }
                        
                        .sk-card-black {
-                           background: rgba(83, 83, 83, 0.212);
+                           background: rgb(59, 59, 59);
                        }
                        /*__________________________*/
                        * {box-sizing: border-box}
