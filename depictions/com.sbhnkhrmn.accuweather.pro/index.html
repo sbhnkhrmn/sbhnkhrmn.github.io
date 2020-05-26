@@ -254,7 +254,9 @@
                 $(this).prev(".card-header").find(".fa").removeClass("fa-minus").addClass("fa-plus");
             });
 
-            var folder = "/";
+            //var folder = "";
+            var folder = window.location.pathname;
+
             $.ajax({
                 url: folder,
                 success: function (data) {
