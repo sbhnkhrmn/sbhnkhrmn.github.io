@@ -35,7 +35,7 @@
                         <div class="dropdown">
                             <button class="dropbtn"><span class="fas fa-folder-open">Files</span></button>
                             <div class="dropdown-content">
-                                <a class="dropdown-item" target="_blank"
+                                <a class="dropdown-item" target="_self"
                                     href="https://apps.apple.com/tr/app/accuweather-hava-durumu/id300048137?l=tr"><span
                                         class="fas fa-upload"></span> IPA INSTALL</a>
                                 <a class="dropdown-item" target="_blank"
@@ -250,7 +250,8 @@
 
             }
         })
-        /*____________*/
+        /*_____DROPDOWN MENU___*/
+
         $(".dropdown").on("show.bs.dropdown", function (event) {
             var x = $(event.relatedTarget).text(); // Get the text of the element
             alert(x);
