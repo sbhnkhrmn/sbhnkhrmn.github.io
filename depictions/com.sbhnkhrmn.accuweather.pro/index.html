@@ -6,6 +6,7 @@
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <link rel="stylesheet" href="../../sbhnkhrmn_main/bootstrap.min.css" />
 <link rel="stylesheet" href="../../sbhnkhrmn_main/sbhnkhrmn.css" />
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 <script src='https://kit.fontawesome.com/a076d05399.js'></script>
@@ -14,11 +15,13 @@
 </head>
 
 <body class="sk-fonts">
+    <!-- DIL DEGISTIRME -->
     <nav id="sk-desktop-hide" class="sk-card-black">
         <div class="header-sbhnkhrmn btn">
             <div id="google_translate_element" class="border-bottom border-warning pb-2"></div>
         </div>
     </nav>
+    <!-- UYGULAMA BASLIK -->
     <header class="warning">
         <div class="p-4 rounded shadow-sm">
             <div class="media text-muted">
@@ -46,34 +49,46 @@
             </div>
         </div>
     </header>
+    <!-- UYGULAMA BOLUMU -->
     <section class="sk-margin">
-        <h3 class="sk-header-color sk-header-fonts sk-header-margin">
-            <strong class="fas fa-photo"></strong>
-            Picture
-        </h3>
-        <div class="sk-text-center">
-            <div class="sk-slideshow-container">
-                <picture class="sbhnkhrmn-picture">
-                    <img src="1.png">
-                </picture>
-                <picture class="sbhnkhrmn-picture">
-                    <img src="2.png">
-                </picture>
-                <picture class="sbhnkhrmn-picture">
-                    <img src="3.png">
-                </picture>
-                <picture class="sbhnkhrmn-picture">
-                    <img src="4.png">
-                </picture>
+        <!-- RESIMLER -->
+        <div>
+            <div class="container">
+                <div href="#sk-open-picture" data-toggle="collapse">
+                    <h3 class="sk-header-color sk-header-fonts sk-header-margin">
+                        <strong class="fas fa-photo"></strong>
+                        Picture
+                    </h3>
+                </div>
+                <div class="sk-text-center collapse" id="sk-open-picture">
+                    <div class="sk-slideshow-container">
+                        <picture class="sbhnkhrmn-picture">
+                            <img src="1.png">
+                        </picture>
+                        <picture class="sbhnkhrmn-picture">
+                            <img src="2.png">
+                        </picture>
+                        <picture class="sbhnkhrmn-picture">
+                            <img src="3.png">
+                        </picture>
+                        <picture class="sbhnkhrmn-picture">
+                            <img src="4.png">
+                        </picture>
+                    </div>
+                </div>
             </div>
         </div>
-        <div class="container sk-fonts">
-            <div class="row ">
-                <div class="col-12 col-sm shadow-sm">
+        <!-- ACIKLAMALAR -->
+        <div>
+            <div class="container sk-fonts">
+                <div href="#sk-open-descriptions" data-toggle="collapse">
                     <h3 class="sk-header-color sk-header-fonts sk-header-margin">
                         <strong class="fas fa-edit"></strong>
                         Descriptions
                     </h3>
+                </div>
+
+                <div class="col-12 col-sm shadow-sm collapse" id="sk-open-descriptions">
                     <h3>
                         <li>We did not click on the annoying things for you</li>
                     </h3>
@@ -82,25 +97,33 @@
                         <h5>Worldwide Map Information</h5>
                     </ul>
                 </div>
-                <div class="col-12 col-sm shadow-sm">
+            </div>
+        </div>
+        <!-- DEGISIKLIKLER -->
+        <div>
+            <div class="container sk-fonts">
+                <div href="#sk-open-changelog" data-toggle="collapse">
                     <h3 class="sk-header-color sk-header-fonts sk-header-margin">
                         <strong class="fas fa-clone"></strong>
                         Changelog
                     </h3>
+                </div>
+                <div class="col-12 col-sm shadow-sm collapse" id="sk-open-changelog">
                     <h5>
                         <li>v0.0.2 Version Update</li>
                     </h5>
                 </div>
             </div>
         </div>
+        <!-- BILGILER -->
         <div class="container shadow-sm">
-            <div>
+            <div href="#sk-open-informations" data-toggle="collapse">
                 <h3 class="sk-header-color sk-header-fonts sk-header-margin">
                     <strong class="fas fa-info-circle"></strong>
                     Informations
                 </h3>
             </div>
-            <div class="row ">
+            <div class="row" id="sk-open-informations">
                 <div class="col-6 col-sm">
                     <div class="sk-card-orange sk-text-center sk-border-radius">
                         <h4><strong class="fas fa-box-open"></strong> DEB VERSION</h4>
@@ -130,6 +153,7 @@
             </div>
         </div>
     </section>
+    <!-- SOSYAL MEDYA BOLUMU -->
     <footer class="sk-margin">
         <div>
             <a href="https://www.paypal.me/sbhnkhrmn" target="_blank">
@@ -163,6 +187,7 @@
         <button onclick="darkMode()">Click Me</button>
 
     </footer>
+    <!-- JAVA -->
     <script>
         document.getElementById("date").innerHTML = new Date().toLocaleString('tr-TR', {
             weekday: 'short',
@@ -212,7 +237,6 @@
 
     </script>
     <script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
 </body>
 
 </html>
