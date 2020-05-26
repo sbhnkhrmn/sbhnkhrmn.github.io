@@ -1,7 +1,7 @@
 const VERSION_CHECK_SUPPORTED = "iOS %s ile Uyumlu 👍";
 const VERSION_CHECK_UNSUPPORTED = "⚠ iOS %s -> %s Uyumlu ⚠";
 
-(function(document) {
+(function (document) {
 
     "use strict";
 
@@ -21,7 +21,7 @@ const VERSION_CHECK_UNSUPPORTED = "⚠ iOS %s -> %s Uyumlu ⚠";
         return 0;
     }
 
-    var prerequisite = document.querySelector(".prerequisite"),
+    var prerequisite = document.querySelector("#sk-version-control"),
         version = navigator.appVersion.match(/CPU (iPhone )?OS (\d+)_(\d+)(_(\d+))? like/i);
 
     if (!prerequisite || !version) { return; }
@@ -47,11 +47,11 @@ const VERSION_CHECK_UNSUPPORTED = "⚠ iOS %s -> %s Uyumlu ⚠";
 
     var i = 0;
 
-    prerequisite.querySelector("p").innerHTML = message;
+    prerequisite.querySelector("h5").innerHTML = message;
 
-    if (isBad) {
-        prerequisite.querySelector("td").style.backgroundColor = "#DC143C";
-    } else {
-        prerequisite.querySelector("td").style.backgroundColor = "#c1e317";
-    }
+    // if (isBad) {
+    //     prerequisite.querySelector("td").style.backgroundColor = "#DC143C";
+    // } else {
+    //     prerequisite.querySelector("td").style.backgroundColor = "#c1e317";
+    // }
 }(document));

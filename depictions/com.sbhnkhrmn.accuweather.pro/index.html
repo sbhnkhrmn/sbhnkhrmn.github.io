@@ -9,6 +9,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 <script src='https://kit.fontawesome.com/a076d05399.js'></script>
+<script src="./sbhnkhrmn_main/sbhnkhrmn-version.js" async></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
@@ -25,14 +26,23 @@
                 <div class="media-body pb-3 mb-0 small lh-125 border-bottom border-warning">
                     <div class="d-flex justify-content-between align-items-center w-100">
                         <strong>
-                        <h4 style="padding-left: 8px;" class="text-warning">ACCUWEATHER</h4></strong>
+                            <h4 style="padding-left: 8px;" class="text-warning">ACCUWEATHER</h4>
+                        </strong>
                         <div class="dropdown">
                             <button class="dropbtn"><span class="fas fa-folder-open">Files</span></button>
                             <div class="dropdown-content">
-                                <a class="dropdown-item" target="_self" href="https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb"><span class="fas fa-upload"></span> IPA INSTALL</a>
-                                <a class="dropdown-item" target="_parent" href="https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb"><span class="fas fa-download"></span> DEB DOWNLOAD</a>
-                                <a class="dropdown-item" target="_top" href="https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb"><span class="fas fa-download"></span> DEB DOWNLOAD</a>
-                                <a class="dropdown-item" target="framename" href="https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb"><span class="fas fa-download"></span> DEB DOWNLOAD</a>
+                                <a class="dropdown-item" target="_self"
+                                    href="https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb"><span
+                                        class="fas fa-upload"></span> IPA INSTALL</a>
+                                <a class="dropdown-item" target="_parent"
+                                    href="https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb"><span
+                                        class="fas fa-download"></span> DEB DOWNLOAD</a>
+                                <a class="dropdown-item" target="_top"
+                                    href="https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb"><span
+                                        class="fas fa-download"></span> DEB DOWNLOAD</a>
+                                <a class="dropdown-item" target="framename"
+                                    href="https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb"><span
+                                        class="fas fa-download"></span> DEB DOWNLOAD</a>
                             </div>
                         </div>
                     </div>
@@ -45,7 +55,8 @@
         <div class="container sk-fonts">
             <div class="row ">
                 <div class="col-12 col-sm shadow-sm">
-                    <h3 class="sk-header-color sk-header-fonts sk-header-margin"><strong class="fas fa-edit"></strong> Descriptions</h3>
+                    <h3 class="sk-header-color sk-header-fonts sk-header-margin"><strong class="fas fa-edit"></strong>
+                        Descriptions</h3>
                     <h5>
                         <li>We did not click on the annoying things for you</li>
                     </h5>
@@ -55,7 +66,8 @@
                     </ul>
                 </div>
                 <div class="col-12 col-sm shadow-sm">
-                    <h3 class="sk-header-color sk-header-fonts sk-header-margin"><strong class="fas fa-clone"></strong> Changelog</h3>
+                    <h3 class="sk-header-color sk-header-fonts sk-header-margin"><strong class="fas fa-clone"></strong>
+                        Changelog</h3>
                     <h5>
                         <li>v0.0.2 Version Update</li>
                     </h5>
@@ -64,7 +76,8 @@
         </div>
         <div class="container shadow-sm">
             <div>
-                <h3 class="sk-header-color sk-header-fonts sk-header-margin"><strong class="fas fa-info-circle"></strong> Informations</h3>
+                <h3 class="sk-header-color sk-header-fonts sk-header-margin"><strong
+                        class="fas fa-info-circle"></strong> Informations</h3>
             </div>
             <div class="row ">
                 <div class="col-6 col-sm">
@@ -77,7 +90,7 @@
                     <div class="sk-card-blue sk-text-center sk-border-radius">
                         <h4><strong class="far fa-clock"></strong> UPDATED</h4>
                     </div>
-                    <h5 class="sk-text-center" id="date "></h5>
+                    <h5 class="sk-text-center" id="date"></h5>
                 </div>
                 <div class="col-6 col-sm">
                     <div class="sk-card-red sk-text-center sk-border-radius">
@@ -87,18 +100,17 @@
                 </div>
                 <div class="col-6 col-sm">
                     <div class="sk-card-green sk-text-center sk-border-radius">
-                        <h4><strong class="	fas fa-check"></strong> IOS VERSION</h4>
+                        <h4><strong class="fas fa-check"></strong> IOS VERSION</h4>
                     </div>
-                    <h5 class="sk-text-center" data-min-ios="7.0 " data-max-ios="13.5 " class="prerequisite ">
+                    <div id="sk-version-control" data-min-ios="7.0" data-max-ios="13.5">
                         <h5 class="sk-text-center">No Device !</h5>
-                    </h5>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
     <footer class="sk-margin">
         <div>
-
             <a href="https://www.paypal.me/sbhnkhrmn" target="_blank">
                 <div class="sk-card-blue sk-border-radius donate-sbhnkhrmn sk-text-center">
                     <strong class="fa fa-paypal sk-text-center"></strong>
@@ -119,17 +131,19 @@
             <a href="https://sbhnkhrmn.github.io/" target="_blank "><i class="fa fa-github"></i></a>
             <a href="https://www.twitter.com/sbhnkhrmn" target="_blank "><i class="fa fa-twitter"></i></a>
             <a href="https://t.me/sbhnkhrmn" target="_blank "><i class="fab fa-telegram"></i></a>
-            <a href="https://api.whatsapp.com/send?phone=905315863472 " target="_blank"> <i class="fa fa-whatsapp"></i></a>
+            <a href="https://api.whatsapp.com/send?phone=905315863472 " target="_blank"> <i
+                    class="fa fa-whatsapp"></i></a>
             <a href="mailto:khrmn.sbhn@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
         </div>
 
         <div class="sk-card-black sk-text-center">
             <h6><strong class="far fa-copyright"></strong> Copyright 2020 - SÜBHAN KAHRAMAN</h6>
         </div>
-        <button onclick="myFunction()">Click Me</button>
+        <button onclick="darkMode()">Click Me</button>
+
     </footer>
     <script>
-        document.getElementById("date ").innerHTML = new Date().toLocaleString('tr-TR', {
+        document.getElementById("date").innerHTML = new Date().toLocaleString('tr-TR', {
             weekday: 'short',
             month: 'long',
             day: '2-digit',
@@ -141,19 +155,37 @@
 
         function googleTranslateElementInit() {
             new google.translate.TranslateElement({
-                    pageLanguage: ''
-                },
+                pageLanguage: ''
+            },
                 'google_translate_element'
             );
         }
-
-        function myFunction() {
+        function darkMode() {
             var element = document.body;
-            element.classList.toggle("dark-mode");
+            element.classList.toggle("dark-mode", true);
+            window.matchMedia('(prefers-color-scheme: dark)').addListener(e => {
+                if (e.matches) {
+                    document.body.style.backgroundColor = "#fff";
+                } else {
+                    element.classList.toggle("dark-mode", true);
+
+                }
+            });
         }
+
+
+        // function darkMode() {
+        //     var mq = window.matchMedia('(prefers-color-scheme: dark)');
+        //     if (mq.matches) {
+        //         document.body.style.backgroundColor = "#fff";
+        //     } else {
+        //         document.body.style.backgroundColor = "#373737";
+        //     }
+
+        // }
     </script>
     <script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-    <script src="./sbhnkhrmn_main/sbhnkhrmn-version.js" async=" "></script>
+
 </body>
 
 </html>
