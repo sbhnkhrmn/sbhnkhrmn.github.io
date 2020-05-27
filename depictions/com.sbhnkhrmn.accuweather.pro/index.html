@@ -43,16 +43,15 @@
     </header>
     <main>
         <a
-            href="javascript: window.open('https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb', '_system');">Donate
+            href="javascript: window.open('../../debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb', '_system');">Donate
             all your money
             here</a>
         </div>
-        <button class='btn'
-            onclick='window.open("https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb", "_blank");'>Open
-            Google search</button>
+        <button class='btn' target="_self"
+            onclick='window.open("../../debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb'>Ope</button>
         </div>
-        <a href="https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/raw/master/debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb"
-            download>Download HTML document</a>
+        <a href="../../debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb">Download HTML document</a>
+
     </main>
     <!-- UYGULAMA BOLUMU -->
     <section class="sk-margin sk-text-center">
@@ -200,27 +199,14 @@
     </footer>
     <!-- JAVA -->
     <script>
-        document.getElementById("date").innerHTML = new Date().toLocaleString('tr-TR', {
+        document.getElementById("date").innerHTML = new Date().toLocaleString(' tr-TR', {
             weekday: 'short',
-            month: 'long',
-            day: '2-digit',
-            year: 'numeric',
-            hour: '2-digit',
-            minute: '2-digit',
-            second: '2-digit',
-        });
-
-        /* RESIMLERI OTOMATIK DEGISTIRME */
-        var slideIndex = 1;
-        carousel();
-        function carousel() {
-            var i;
-            var x = document.getElementsByClassName("sbhnkhrmn-picture");
-            for (i = 0; i < x.length; i++) {
-                x[i].style.display = "none";
-            }
-            slideIndex++;
-            if (slideIndex > x.length) { slideIndex = 1 }
+            month: 'long', day: '2-digit', year: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit',
+        }); /* RESIMLERI OTOMATIK DEGISTIRME */ var slideIndex = 1; carousel(); function carousel() {
+            var i; var
+                x = document.getElementsByClassName("sbhnkhrmn-picture"); for (i = 0; i < x.length; i++) {
+                    x[i].style.display = "none";
+                } slideIndex++; if (slideIndex > x.length) { slideIndex = 1 }
             x[slideIndex - 1].style.display = "block";
             setTimeout(carousel, 1500); // 1.5 sanıye anlamına gelir
         }
