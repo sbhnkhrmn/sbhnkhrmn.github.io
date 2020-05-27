@@ -1,5 +1,5 @@
 ﻿<!doctype html>
-<html lang="tr-TR" xml:lang="tr">
+<html lang="en-En" xml:lang="en">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>AccuWeather</title>
@@ -17,7 +17,7 @@
 <body class="sk-fonts">
     <!-- UYGULAMA BASLIK -->
     <header class="warning">
-        <div class="p-4 rounded">
+        <div class="p-4 rounded shadow-sm">
             <div class="media text-muted">
                 <img class="sk-border-radius sk-app-size" src="../../ikonlar/AppleStore_AccuWeather.png"
                     alt="ACCUWEATHER">
@@ -27,32 +27,22 @@
                             <h4 style="padding-left: 8px;" class="text-warning">ACCUWEATHER</h4>
                         </strong>
                         <div class="dropdown">
-                            <button class="dropbtn"><span class="fas fa-folder-open">Files</span></button>
+                            <button class="dropbtn"><i class="fas fa-folder-open">Files</i></button>
                             <div class="dropdown-content">
-                                <a class="dropdown-item" target="_self"
-                                    href="https://apps.apple.com/tr/app/accuweather-hava-durumu/id300048137?l=tr"><span
-                                        class="fas fa-upload"></span> IPA INSTALL</a>
-                                <a class="dropdown-item" target="_self"
-                                    href="../../debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb"><span
-                                        class="fas fa-download"></span> DEB DOWNLOAD</a>
+                                <a class="dropdown-item" target="_blank"
+                                    href="https://apps.apple.com/tr/app/accuweather-hava-durumu/id300048137?l=tr"><i
+                                        class="fas fa-upload"></i> IPA INSTALL</a>
+                                <a class="dropdown-item" target="_blank"
+                                    href="../../debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb"><i
+                                        class="fas fa-download"></i> DEB DOWNLOAD</a>
                             </div>
-                            <h5 class="sk-app-header">APP PRO</h5>
                         </div>
                     </div>
+                    <h5 class="sk-app-header">APP PRO</h5>
                 </div>
+            </div>
+        </div>
     </header>
-    <main>
-        <a
-            href="javascript: window.open('../../debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb', '_system');">Donate
-            all your money
-            here</a>
-        </div>
-        <button class='btn' target="_self"
-            onclick='window.open("../../debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb'>Ope</button>
-        </div>
-        <a href="../../debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb">Download HTML document</a>
-
-    </main>
     <!-- UYGULAMA BOLUMU -->
     <section class="sk-margin sk-text-center">
         <!-- RESIMLER -->
@@ -194,12 +184,12 @@
         </div>
         <!-- Copyright -->
         <div class="sk-border-radius">
-            <h6><i class="far fa-copyright"></i> Copyright 2020 - SÜBHAN KAHRAMAN</h6>
+            <h6><i class="far fa-copyright"></i>2020 SÜBHAN KAHRAMAN</h6>
         </div>
     </footer>
     <!-- JAVA -->
     <script>
-        document.getElementById("date").innerHTML = new Date().toLocaleString(' tr-TR', {
+        document.getElementById("date").innerHTML = new Date().toLocaleString('tr-TR', {
             weekday: 'short',
             month: 'long', day: '2-digit', year: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit',
         }); /* RESIMLERI OTOMATIK DEGISTIRME */ var slideIndex = 1; carousel(); function carousel() {
