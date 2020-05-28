@@ -3114,6 +3114,25 @@ MD5sum: 4d9566fb04fff8a76062082f0c4b52d3
 Sha1: 2a61848bce4c4ec51ca3a4ae5bbd68bd208bb5a2
 Sha256: 083e9dc82aa051de62096b2fbb0a6db1ec612b4eb8acd2bedb572548a39fee60
 
+Package: com.sbhnkhrmn.2012gpower.instashaper.pro
+Name: Lighto : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Lighto-Shape Border,Frame Mask Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.2012gpower.instashaper.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Lighto.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.2012gpower.instashaper.pro/index.php
+Homepage : https://apps.apple.com/us/app/lighto-shape-border-frame-mask/id743266937
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.7
+Filename: ./debs/com.sbhnkhrmn.2012gpower.instashaper.pro_2.7_iphoneos-arm.deb
+Size: 6224
+MD5sum: bc6a8645eebf5caba98cd47f5d868b44
+Sha1: 9f9ee5292881974af66794e0de8d1b3b91dbab34
+Sha256: 03cca68fbe45edc0e87e4cd084cd3e1de0a0c48361624a3c75562f43981dfe2c
+
 
 
 
