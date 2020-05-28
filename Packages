@@ -3076,6 +3076,25 @@ MD5sum: 1ca7d706ee5926f2f63e8077505cce8c
 Sha1: c7d3d2b5ad4e64e09f837349b96cf80254e38aa6
 Sha256: d5c54cae54d5d4b8c3a399924d78b492e0405aa1d03a56230d4b5ebce79ddc2f
 
+Package: com.sbhnkhrmn.2012gpower.instaframe.pro
+Name: Mixoo : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Mixoo - Layout Creator & Photo Collage Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.2012gpower.instaframe.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Mixoo.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.2012gpower.instaframe.pro/index.php
+Homepage : https://apps.apple.com/us/app/mixoo-pic-collage-layout/id799442576
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 3.2.1
+Filename: ./debs/com.sbhnkhrmn.2012gpower.instaframe.pro_3.2.1_iphoneos-arm.deb
+Size: 8872
+MD5sum: 74a5d2ecb7e24ba99a963b474b208c0e
+Sha1: 13b55a7e2e0147713a1d7b2df8d05e1ce63ccd0a
+Sha256: 5ed351f4a4d78c9395535c6d5444a116fec544da9a1d99efcb9d83455da59b5f
+
 
 
 
