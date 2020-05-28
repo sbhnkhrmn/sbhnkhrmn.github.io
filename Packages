@@ -3095,6 +3095,25 @@ MD5sum: 74a5d2ecb7e24ba99a963b474b208c0e
 Sha1: 13b55a7e2e0147713a1d7b2df8d05e1ce63ccd0a
 Sha256: 5ed351f4a4d78c9395535c6d5444a116fec544da9a1d99efcb9d83455da59b5f
 
+Package: com.sbhnkhrmn.dci.magzter.pro
+Name: Magzter : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Magzter - Digital Magazines & Newspapers Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dci.magzter.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Magzter.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dci.magzter.pro/index.php
+Homepage : https://apps.apple.com/us/app/magzter-dergi-mağazası/id412163953
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 8.18.1
+Filename: ./debs/com.sbhnkhrmn.dci.magzter.pro_8.18.1_iphoneos-arm.deb
+Size: 4282
+MD5sum: 4d9566fb04fff8a76062082f0c4b52d3
+Sha1: 2a61848bce4c4ec51ca3a4ae5bbd68bd208bb5a2
+Sha256: 083e9dc82aa051de62096b2fbb0a6db1ec612b4eb8acd2bedb572548a39fee60
+
 
 
 
