@@ -3133,6 +3133,25 @@ MD5sum: bc6a8645eebf5caba98cd47f5d868b44
 Sha1: 9f9ee5292881974af66794e0de8d1b3b91dbab34
 Sha256: 03cca68fbe45edc0e87e4cd084cd3e1de0a0c48361624a3c75562f43981dfe2c
 
+Package: com.sbhnkhrmn.MonkeyTaps.Motivation.pro
+Name: Motivation : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Motivation - Positive reminders of the day Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.MonkeyTaps.Motivation.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Motivation.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.MonkeyTaps.Motivation.pro/index.php
+Homepage : https://apps.apple.com/us/app/motivation-daily-quotes/id876080126
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 3.44
+Filename: ./debs/com.sbhnkhrmn.MonkeyTaps.Motivation.pro_3.44_iphoneos-arm.deb
+Size: 5008
+MD5sum: 828a6c8a01f0cf25df1ddb2f9debd63e
+Sha1: 8ae0e724e6ca063487d9ae7fbf7a4395fc1701c4
+Sha256: 22222f7b6e50e7b2a742be7360084b38d3c10f7db1875418db66f0e9edcea05a
+
 
 
 
