@@ -3076,6 +3076,82 @@ MD5sum: 1ca7d706ee5926f2f63e8077505cce8c
 Sha1: c7d3d2b5ad4e64e09f837349b96cf80254e38aa6
 Sha256: d5c54cae54d5d4b8c3a399924d78b492e0405aa1d03a56230d4b5ebce79ddc2f
 
+Package: com.sbhnkhrmn.2012gpower.instaframe.pro
+Name: Mixoo : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Mixoo - Layout Creator & Photo Collage Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.2012gpower.instaframe.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Mixoo.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.2012gpower.instaframe.pro/index.php
+Homepage : https://apps.apple.com/us/app/mixoo-pic-collage-layout/id799442576
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 3.2.1
+Filename: ./debs/com.sbhnkhrmn.2012gpower.instaframe.pro_3.2.1_iphoneos-arm.deb
+Size: 8872
+MD5sum: 74a5d2ecb7e24ba99a963b474b208c0e
+Sha1: 13b55a7e2e0147713a1d7b2df8d05e1ce63ccd0a
+Sha256: 5ed351f4a4d78c9395535c6d5444a116fec544da9a1d99efcb9d83455da59b5f
+
+Package: com.sbhnkhrmn.dci.magzter.pro
+Name: Magzter : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Magzter - Digital Magazines & Newspapers Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dci.magzter.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Magzter.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dci.magzter.pro/index.php
+Homepage : https://apps.apple.com/us/app/magzter-dergi-mağazası/id412163953
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 8.18.1
+Filename: ./debs/com.sbhnkhrmn.dci.magzter.pro_8.18.1_iphoneos-arm.deb
+Size: 4282
+MD5sum: 4d9566fb04fff8a76062082f0c4b52d3
+Sha1: 2a61848bce4c4ec51ca3a4ae5bbd68bd208bb5a2
+Sha256: 083e9dc82aa051de62096b2fbb0a6db1ec612b4eb8acd2bedb572548a39fee60
+
+Package: com.sbhnkhrmn.2012gpower.instashaper.pro
+Name: Lighto : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Lighto-Shape Border,Frame Mask Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.2012gpower.instashaper.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Lighto.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.2012gpower.instashaper.pro/index.php
+Homepage : https://apps.apple.com/us/app/lighto-shape-border-frame-mask/id743266937
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.7
+Filename: ./debs/com.sbhnkhrmn.2012gpower.instashaper.pro_2.7_iphoneos-arm.deb
+Size: 6224
+MD5sum: bc6a8645eebf5caba98cd47f5d868b44
+Sha1: 9f9ee5292881974af66794e0de8d1b3b91dbab34
+Sha256: 03cca68fbe45edc0e87e4cd084cd3e1de0a0c48361624a3c75562f43981dfe2c
+
+Package: com.sbhnkhrmn.MonkeyTaps.Motivation.pro
+Name: Motivation : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Motivation - Positive reminders of the day Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.MonkeyTaps.Motivation.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Motivation.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.MonkeyTaps.Motivation.pro/index.php
+Homepage : https://apps.apple.com/us/app/motivation-daily-quotes/id876080126
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 3.44
+Filename: ./debs/com.sbhnkhrmn.MonkeyTaps.Motivation.pro_3.44_iphoneos-arm.deb
+Size: 5008
+MD5sum: 828a6c8a01f0cf25df1ddb2f9debd63e
+Sha1: 8ae0e724e6ca063487d9ae7fbf7a4395fc1701c4
+Sha256: 22222f7b6e50e7b2a742be7360084b38d3c10f7db1875418db66f0e9edcea05a
+
 
 
 
