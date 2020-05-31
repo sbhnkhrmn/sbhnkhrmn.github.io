@@ -210,7 +210,9 @@ select:active {
 .fa-envelope {
   color: rgb(221, 155, 55);
 }
-
+.fa-upload {
+  color: white;
+}
 /*___________________________________*/
 
 body {
