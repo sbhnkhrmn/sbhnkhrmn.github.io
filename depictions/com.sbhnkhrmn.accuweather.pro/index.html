@@ -15,6 +15,7 @@
 </head>
 
 <body class="sk-fonts">
+
     <!-- UYGULAMA BASLIK -->
     <header class="warning">
         <div class="p-4 rounded shadow-sm">
@@ -55,20 +56,16 @@
                         Picture
                     </h1>
                 </div>
-                <div>
-                    <div class="collapse" id="sk-open-picture">
-                        <picture class="sbhnkhrmn-picture">
-                            <img src="1.png">
-                        </picture>
-                        <picture class="sbhnkhrmn-picture">
-                            <img src="2.png">
-                        </picture>
-                        <picture class="sbhnkhrmn-picture">
-                            <img src="3.png">
-                        </picture>
-                        <picture class="sbhnkhrmn-picture">
-                            <img src="4.png">
-                        </picture>
+                <div class="row collapse hover-shadow sk-margin" id="sk-open-picture">
+                    <div class="column">
+                        <a target="_self" src="1.png" alt="SBHNKHRMN"></a>
+                        <img src="1.png" style="width:200%" class="sbhnkhrmn-picture">
+                    </div>
+                    <div class="column">
+                        <img src="2.png" style="width:200%" class="sbhnkhrmn-picture">
+                    </div>
+                    <div class="column">
+                        <img src="3.png" style="width:200%" class="sbhnkhrmn-picture">
                     </div>
                 </div>
             </div>
@@ -83,7 +80,7 @@
                         Descriptions
                     </h1>
                 </div>
-                <div class="col-12 col-sm collapse" id="sk-open-descriptions">
+                <div class="col-12 col-sm collapse hover-shadow" id="sk-open-descriptions">
                     <h5>
                         We did not click on the annoying things for you
                     </h5>
@@ -106,7 +103,7 @@
                         Changelog
                     </h1>
                 </div>
-                <div class="col-12 col-sm collapse" id="sk-open-changelog">
+                <div class="col-12 col-sm collapse hover-shadow" id="sk-open-changelog">
                     <h5>
                         <li>v0.0.2 Version Update</li>
                     </h5>
@@ -210,6 +207,43 @@
                 $(this).prev(".card-header").find(".fa").removeClass("fa-minus").addClass("fa-plus");
             });
         });
+        /* REISMLER*/
+        function openModal() {
+            document.getElementById("myModal").style.display = "block";
+        }
+
+        function closeModal() {
+            document.getElementById("myModal").style.display = "none";
+        }
+
+        var slideIndex = 1;
+        showSlides(slideIndex);
+
+        function plusSlides(n) {
+            showSlides(slideIndex += n);
+        }
+
+        function currentSlide(n) {
+            showSlides(slideIndex = n);
+        }
+
+        function showSlides(n) {
+            var i;
+            var slides = document.getElementsByClassName("mySlides");
+            var dots = document.getElementsByClassName("demo");
+            var captionText = document.getElementById("caption");
+            if (n > slides.length) { slideIndex = 1 }
+            if (n < 1) { slideIndex = slides.length }
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            for (i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace(" active", "");
+            }
+            slides[slideIndex - 1].style.display = "block";
+            dots[slideIndex - 1].className += " active";
+            captionText.innerHTML = dots[slideIndex - 1].alt;
+        }
     </script>
 </body>
 
