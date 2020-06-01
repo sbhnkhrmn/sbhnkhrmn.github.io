@@ -1,29 +1,29 @@
 {
-  "HTML-EN": [
+  "HTMLEN": [
     {
       "Description": "DESCRIPTIONS",
       "Informations": "INFORMATIONS",
       "Picture": "PICTURE",
       "Changlog": "CHANGLOG",
-      "Deb Version": "DEB VERSION",
+      "DebVersion": "DEB VERSION",
       "Restriction": "RESTRICTION",
-      "IOS Version": "IOS VERSION",
+      "IOSVersion": "IOS VERSION",
       "Updated": "UPDATED",
-      "App PRO": "APP PRO",
+      "AppPRO": "APP PRO",
       "Install": "INSTALL"
     }
   ],
-  "HTML-TR": [
+  "HTMLTR": [
     {
       "Description": "AÇIKLAMA",
       "Informations": "BİLGİ",
       "Picture": "RESİMLER",
       "Changlog": "DEĞİŞİM GÜNLÜĞÜ",
-      "Deb Version": "DEB VERSIYON",
+      "DebVersion": "DEB VERSIYON",
       "Restriction": "KISITLAMA",
-      "IOS Version": "IOS VERSIYON",
+      "IOSVersion": "IOS VERSIYON",
       "Updated": "GÜNCELLEME",
-      "App PRO": "PRO UYGULAMA",
+      "AppPRO": "PRO UYGULAMA",
       "Install": "YÜKLE"
     }
   ],
