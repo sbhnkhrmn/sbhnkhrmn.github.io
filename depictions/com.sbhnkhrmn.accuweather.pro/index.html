@@ -2,8 +2,9 @@
 <html lang="en-En" xml:lang="en">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AccuWeather</title>
+<title id="Name"></title>
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
 <link rel="stylesheet" href="../../sbhnkhrmn_main/bootstrap.min.css" />
 <link rel="stylesheet" href="../../sbhnkhrmn_main/sbhnkhrmn.css" />
 
@@ -11,6 +12,7 @@
 <script src="../../sbhnkhrmn_main/bootstrap.min.js"></script>
 <script src='https://kit.fontawesome.com/a076d05399.js'></script>
 <script src="../../sbhnkhrmn_main/sbhnkhrmn-version.js" async></script>
+<script src="../../sbhnkhrmn_main/sbhnkhrmn-genel.js" async></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
@@ -19,19 +21,18 @@
     <header class="warning">
         <div class="p-4 rounded shadow-sm">
             <div class="media text-muted">
-                <img class="sk-border-radius sk-app-size zoom" src="../../ikonlar/AppleStore_AccuWeather.png"
-                    alt="ACCUWEATHER">
+                <img class="sk-border-radius sk-app-size zoom" src="../../ikonlar/AppleStore_AccuWeather.png">
                 <div class="media-body pb-3 mb-0 small lh-125 border-bottom border-warning">
                     <div class="d-flex justify-content-between align-items-center w-100">
                         <strong>
-                            <h4 style="padding-left: 8px;" class="text-warning zoom">ACCUWEATHER</h4>
-                            <h5 class="sk-app-header">APP PRO</h5>
+                            <h4 id="Name" style="padding-left: 8px;" class="text-warning zoom"></h4>
+                            <h5 id="Section" class="sk-app-header"></h5>
                         </strong>
                         <a href="https://apps.apple.com/tr/app/accuweather-hava-durumu/id300048137?l=tr"
                             target="_blank">
                             <div class="btn-sm sk-card-orange">
                                 <i class="fas fa-upload">
-                                    <strong> INSTALL</strong>
+                                    <strong id="Install"></strong>
                                 </i>
                             </div>
                         </a>
@@ -47,9 +48,9 @@
             <div class="container">
                 <div class="sk-card-gray sk-border-radius" href="#sk-open-picture" data-toggle="collapse" role="button"
                     aria-expanded="false" aria-controls="sk-open-picture">
-                    <h1 class="sk-header-color sk-header-fonts sk-header-margin">
+                    <h1 id="Picture" class="sk-header-color sk-header-fonts sk-header-margin">
                         <i class="fas fa-photo"></i>
-                        Picture
+
                     </h1>
                 </div>
                 <div id="sk-open-picture" class="collapse" style="margin-bottom: 10px;">
@@ -81,30 +82,13 @@
             <div class=" container sk-fonts">
                 <div class="sk-card-gray sk-border-radius" href="#sk-open-descriptions" data-toggle="collapse"
                     role="button" aria-expanded="false" aria-controls="sk-open-descriptions">
-                    <h1 class="sk-header-color sk-header-fonts sk-header-margin">
+                    <h1 id="DescriptionDiv" class="sk-header-color sk-header-fonts sk-header-margin">
                         <i class="fas fa-edit"></i>
-                        Descriptions
+
                     </h1>
                 </div>
                 <div class="col-12 col-sm collapse" id="sk-open-descriptions">
-                    <h5 class="w3-animate-top">
-                        • Mevcut durum hava durumu gözlemleri
-                    </h5>
-                    <h5>
-                        • Hava durumu tahmini özet ve ayrıntılar
-                    </h5>
-                    <h5>
-                        • Yerel / Kısa dönemli görünüm tahminleri
-                    </h5>
-                    <h5>
-                        • Radar animasyonu ve uydu görüntüleri
-                    </h5>
-                    <h5>
-                        • Videolar
-                    </h5>
-                    <h5>
-                        • Ve daha fazlası
-                    </h5>
+                    <h5 id="Description" class="w3-animate-top"></h5>
                 </div>
             </div>
         </div>
@@ -113,16 +97,15 @@
             <div class="container sk-fonts accordion">
                 <div class="sk-card-gray sk-border-radius" href="#sk-open-changelog" data-toggle="collapse"
                     role="button" aria-expanded="false" aria-controls="sk-open-changelog">
-                    <h1 class="sk-header-color sk-header-fonts sk-header-margin">
+                    <h1 id="Changelog" class="sk-header-color sk-header-fonts sk-header-margin">
                         <i class="fas fa-clone"></i>
-                        Changelog
                     </h1>
                 </div>
                 <div class="col-12 col-sm collapse" id="sk-open-changelog">
                     <h5>
                         <a href="https://sbhnkhrmn.github.io/debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb"
                             target="_blank">
-                            <strong>Ver: 13.0.5</strong></a>
+                            <strong id="Version"></strong></a>
                         <p>PRO ALL Features</p>
                     </h5>
                 </div>
@@ -133,27 +116,27 @@
             <div class="container accordion">
                 <div href="#sk-open-informations" data-toggle="collapse" role="button" aria-expanded="false"
                     aria-controls="sk-open-informations">
-                    <h1 class="sk-header-color sk-header-fonts sk-header-margin sk-card-gray sk-border-radius">
+                    <h1 id="Informations"
+                        class="sk-header-color sk-header-fonts sk-header-margin sk-card-gray sk-border-radius">
                         <i class="fas fa-info-circle"></i>
-                        Informations
                     </h1>
                 </div>
                 <div class="row" id="sk-open-informations">
                     <div class="col-6 col-sm">
                         <div class="sk-card-orange sk-border-radius">
-                            <h4><i class="fas fa-box-open"></i> DEB VERSION</h4>
+                            <h4 id="DebVersion"><i class="fas fa-box-open"></i></h4>
                         </div>
-                        <h5>13.0.5</h5>
+                        <h5 id="Version"></h5>
                     </div>
                     <div class="col-6 col-sm">
                         <div class="sk-card-red sk-border-radius">
-                            <h4><i class="fas fa-lira-sign"></i> RESTRICTION</h4>
+                            <h4 id="Restriction"><i class="fas fa-lira-sign"></i></h4>
                         </div>
                         <h5>Free Package</h5>
                     </div>
                     <div class="col-6 col-sm">
                         <div class="sk-card-green sk-border-radius">
-                            <h4><i class="fas fa-check"></i> IOS VERSION</h4>
+                            <h4 id="IOSVersion"><i class="fas fa-check"></i></h4>
                         </div>
                         <div id="sk-version-control" data-min-ios="7.0" data-max-ios="13.5">
                             <h5>No Device !</h5>
@@ -161,7 +144,7 @@
                     </div>
                     <div class="col-6 col-sm">
                         <div class="sk-card-blue sk-border-radius">
-                            <h4><i class="far fa-clock"></i> UPDATED</h4>
+                            <h4 id="Updated"><i class="far fa-clock"></i></h4>
                         </div>
                         <h5 id="date"></h5>
                     </div>
@@ -230,6 +213,7 @@
                 $(this).prev(".card-header").find(".fa").removeClass("fa-minus").addClass("fa-plus");
             });
         });
+
     </script>
 </body>
 
