@@ -60,5 +60,15 @@
       "Section": "Apps PRO",
       "Version": "13.0.5"
     }
+  ],
+  "ChangelogerEN": [
+    {
+      "Changelog": "App Pro Unlock Features."
+    }
+  ],
+  "ChangelogerTR": [
+    {
+      "Changelog": "Uygulamanın Tüm Kilitleri İptal Edildi."
+    }
   ]
 }

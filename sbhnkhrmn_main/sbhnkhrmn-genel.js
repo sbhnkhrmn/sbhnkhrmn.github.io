@@ -1,13 +1,14 @@
 $(document).ready(function () {
   $.ajax({
     type: "GET",
-    url:
-      "https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.accuweather.pro/Accuweather.json",
+    url: "../../../SBHNKHRMN.json",
     dataType: "json",
     success: function (data) {
-      var userLang = navigator.language || navigator.userLanguage;
+      var userLang = navigator.languages
+        ? navigator.languages[0]
+        : navigator.language || navigator.userLanguage;
       if (userLang == "tr") {
-        $.each(data.HTMLTR, function (key, value) {
+        $.each(data.HTMLTR, function (_key, value) {
           $("#DescriptionDiv").append(value.Description);
           $("#Informations").append(value.Informations);
           $("#Picture").append(value.Picture);
@@ -19,7 +20,7 @@ $(document).ready(function () {
           $("#AppPRO").append(value.AppPRO);
           $("#Install").append(value.Install);
         });
-        $.each(data.TR, function (key, value) {
+        $.each(data.TR, function (_key, value) {
           $("#Package").append(value.Package);
           $("#Name").append(value.Name);
           $("#Architecture").append(value.Architecture);
@@ -36,9 +37,12 @@ $(document).ready(function () {
           $("#Section").append(value.Section);
           $("#Version").append(value.Version);
         });
+        $.each(data.ChangelogerTR, function (_key, value) {
+          $("#Changelog").append(value.Changelog);
+        });
         return;
       }
-      $.each(data.HTMLEN, function (key, value) {
+      $.each(data.HTMLEN, function (_key, value) {
         $("#DescriptionDiv").append(value.Description);
         $("#Informations").append(value.Informations);
         $("#Picture").append(value.Picture);
@@ -50,7 +54,7 @@ $(document).ready(function () {
         $("#AppPRO").append(value.AppPRO);
         $("#Install").append(value.Install);
       });
-      $.each(data.EN, function (key, value) {
+      $.each(data.EN, function (_key, value) {
         $("#Package").append(value.Package);
         $("#Name").append(value.Name);
         $("#Architecture").append(value.Architecture);
@@ -66,6 +70,9 @@ $(document).ready(function () {
         $("#Author").append(value.Author);
         $("#Section").append(value.Section);
         $("#Version").append(value.Version);
+      });
+      $.each(data.ChangelogerEN, function (_key, value) {
+        $("#Changelog").append(value.Changelog);
       });
     },
   });
