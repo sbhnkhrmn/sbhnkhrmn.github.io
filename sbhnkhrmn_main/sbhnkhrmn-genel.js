@@ -1,7 +1,7 @@
 $(document).ready(function () {
   $.ajax({
     type: "GET",
-    url: "../../SBHNKHRMN.json",
+    url: "../SBHNKHRMN.json",
     dataType: "json",
     success: function (data) {
       var userLang = navigator.languages
