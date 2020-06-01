@@ -1,0 +1,64 @@
+{
+  "HTML-EN": [
+    {
+      "Description": "DESCRIPTIONS",
+      "Informations": "INFORMATIONS",
+      "Picture": "PICTURE",
+      "Changlog": "CHANGLOG",
+      "Deb Version": "DEB VERSION",
+      "Restriction": "RESTRICTION",
+      "IOS Version": "IOS VERSION",
+      "Updated": "UPDATED",
+      "App PRO": "APP PRO",
+      "Install": "INSTALL"
+    }
+  ],
+  "HTML-TR": [
+    {
+      "Description": "AÇIKLAMA",
+      "Informations": "BİLGİ",
+      "Picture": "RESİMLER",
+      "Changlog": "DEĞİŞİM GÜNLÜĞÜ",
+      "Deb Version": "DEB VERSIYON",
+      "Restriction": "KISITLAMA",
+      "IOS Version": "IOS VERSIYON",
+      "Updated": "GÜNCELLEME",
+      "App PRO": "PRO UYGULAMA",
+      "Install": "YÜKLE"
+    }
+  ],
+  "EN": [
+    {
+      "Package": "com.sbhnkhrmn.accuweather.pro",
+      "Name": "AccuWeather : Pro",
+      "Architecture": "iphoneos-arm",
+      "Depends": "mobilesubstrate",
+      "Description": "Activates Platinum features of Accuweather application.",
+      "Depiction": "https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.accuweather.pro/index.html",
+      "Icon": "https://sbhnkhrmn.github.io/ikonlar/AppleStore_AccuWeather.png",
+      "Sileodepiction": "https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.accuweather.pro/index.php",
+      "Homepage": "https://apps.apple.com/app/id300048137",
+      "Maintainer": "SBHNKHRMN <khrmn.sbhn@gmail.com>",
+      "Author": "SBHNKHRMN <khrmn.sbhn@gmail.com>",
+      "Section": "Apps PRO",
+      "Version": "13.0.5"
+    }
+  ],
+  "TR": [
+    {
+      "Package": "com.sbhnkhrmn.accuweather.pro",
+      "Name": "AccuWeather : Pro",
+      "Architecture": "iphoneos-arm",
+      "Depends": "mobilesubstrate",
+      "Description": "AccuWeather Uygulamasına Premium Özellikler Ekler.",
+      "Depiction": "https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.accuweather.pro/index.html",
+      "Icon": "https://sbhnkhrmn.github.io/ikonlar/AppleStore_AccuWeather.png",
+      "Sileodepiction": "https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.accuweather.pro/index.php",
+      "Homepage": "https://apps.apple.com/app/id300048137",
+      "Maintainer": "SBHNKHRMN <khrmn.sbhn@gmail.com>",
+      "Author": "SBHNKHRMN <khrmn.sbhn@gmail.com>",
+      "Section": "Apps PRO",
+      "Version": "13.0.5"
+    }
+  ]
+}
