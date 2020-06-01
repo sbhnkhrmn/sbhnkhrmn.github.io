@@ -1,5 +1,6 @@
 $(document).ready(function () {
-  var path = window.location.hostname + "/SBHNKHRMN.json";
+  var path =
+    window.location.pathname.replace("index.html", "") + "/SBHNKHRMN.json";
   debugger;
   $.ajax({
     type: "GET",
