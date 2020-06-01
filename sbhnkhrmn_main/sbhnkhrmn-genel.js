@@ -1,7 +1,9 @@
 $(document).ready(function () {
+  var path = window.location.pathname + "/SBHNKHRMN.json";
+  debugger;
   $.ajax({
     type: "GET",
-    url: "../SBHNKHRMN.json",
+    url: path,
     dataType: "json",
     success: function (data) {
       var userLang = navigator.languages
