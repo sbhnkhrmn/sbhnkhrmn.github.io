@@ -1,5 +1,5 @@
 $(document).ready(function () {
-  var path = window.location.pathname + "/SBHNKHRMN.json";
+  var path = window.location.hostname + "/SBHNKHRMN.json";
   debugger;
   $.ajax({
     type: "GET",
