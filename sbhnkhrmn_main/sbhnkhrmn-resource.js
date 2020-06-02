@@ -89,23 +89,25 @@ $(document).ready(function () {
       });
     },
   });
-  var folder = window.location.pathname
-    .replace("index.html", "")
-    .replace("/", " ")
-    .trim();
+  var folder = window.location.pathname.replace("index.html", "");
+
   debugger;
   $.ajax({
     url: folder,
     success: function (data) {
-      $(data)
-        .find("a")
-        .attr("href", function (i, val) {
-          var imageRegex = /([^s]+(?=.(jpg|gif|png)).2)/gm;
-          debugger;
-          if (val.match(imageRegex)) {
-            $("#foto").append("<img src='" + folder + val + "'>");
-          }
-        });
+      $.each(data, function (_key, value) {
+        debugger;
+        $("#foto").attr("src", value);
+      });
+
+      // .find("a")
+      // .attr("href", function (i, val) {
+      //   var imageRegex = /([^s]+(?=.(jpg|gif|png)).2)/gm;
+
+      //   if (val.match(imageRegex)) {
+      //     $("#foto").append("<img src='" + folder + val + "'>");
+      //   }
+      // });
     },
   });
 });
