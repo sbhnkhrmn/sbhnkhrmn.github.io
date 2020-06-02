@@ -89,4 +89,18 @@ $(document).ready(function () {
       });
     },
   });
+  var folder = window.location.pathname.replace("index.html", "");
+  debugger;
+  $.ajax({
+    url: folder,
+    success: function (data) {
+      $(data)
+        .find("a")
+        .attr("href", function (i, val) {
+          if (val.match(/\.(jpe?g|png|jpg|gif)$/)) {
+            $("#foto").append("<img src='" + folder + val + "'>");
+          }
+        });
+    },
+  });
 });
