@@ -6,7 +6,7 @@
       "Picture": "ScreenView",
       "Changelog": "Changelog",
       "DebVersion": "DEB Version",
-      "Restriction": "Restriction",
+      "Sized": "Size",
       "IOSVersion": "IOS Version",
       "Updated": "Updated",
       "AppPRO": "APP PRO",
@@ -20,7 +20,7 @@
       "Picture": "Resim",
       "Changelog": "Değişim Günlüğü",
       "DebVersion": "Deb Versiyon",
-      "Restriction": "Kısıtlama",
+      "Sized": "Boyut",
       "IOSVersion": "IOS Versiyon",
       "Updated": "Güncelleme",
       "AppPRO": "Pro Uygulama",
@@ -41,7 +41,9 @@
       "Maintainer": "SBHNKHRMN <khrmn.sbhn@gmail.com>",
       "Author": "SBHNKHRMN <khrmn.sbhn@gmail.com>",
       "Section": "Apps PRO",
-      "Version": "13.0.5"
+      "Version": "13.0.5",
+      "Filename": "./debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb",
+      "Size": "4918"
     }
   ],
   "TR": [
@@ -58,7 +60,9 @@
       "Maintainer": "SBHNKHRMN <khrmn.sbhn@gmail.com>",
       "Author": "SBHNKHRMN <khrmn.sbhn@gmail.com>",
       "Section": "Apps PRO",
-      "Version": "13.0.5"
+      "Version": "13.0.5",
+      "Filename": "./debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb",
+      "Size": "4918"
     }
   ],
   "ChangelogerEN": [
@@ -74,11 +78,6 @@
   "Page": [
     {
       "Title": "AccuWeather"
-    }
-  ],
-  "Deb": [
-    {
-      "DebFile": "/debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb"
     }
   ]
 }

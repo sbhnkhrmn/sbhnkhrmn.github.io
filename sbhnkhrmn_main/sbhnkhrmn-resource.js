@@ -15,7 +15,7 @@ $(document).ready(function () {
           $("#Picture").append(value.Picture);
           $("#Changelog").append(value.Changelog);
           $("#DebVersion").append(value.DebVersion);
-          $("#Restriction").append(value.Restriction);
+          $("#Sized").append(value.Sized);
           $("#IOSVersion").append(value.IOSVersion);
           $("#Updated").append(value.Updated);
           $("#AppPRO").append(value.AppPRO);
@@ -37,6 +37,8 @@ $(document).ready(function () {
           $("#Author").append(value.Author);
           $("#Section").append(value.Section);
           $("#Version").append(value.Version);
+          $("#Filename").append(value.Filename);
+          $("#Size").append(value.Size);
         });
         $.each(data.ChangelogerTR, function (_key, value) {
           $("#Changeloger").append(value.Changeloger);
@@ -55,7 +57,7 @@ $(document).ready(function () {
         $("#Picture").append(value.Picture);
         $("#Changelog").append(value.Changelog);
         $("#DebVersion").append(value.DebVersion);
-        $("#Restriction").append(value.Restriction);
+        $("#Sized").append(value.Sized);
         $("#IOSVersion").append(value.IOSVersion);
         $("#Updated").append(value.Updated);
         $("#AppPRO").append(value.AppPRO);
@@ -77,40 +79,39 @@ $(document).ready(function () {
         $("#Author").append(value.Author);
         $("#Section").append(value.Section);
         $("#Version").append(value.Version);
+        $("#Filename").append(value.Filename);
+        $("#Size").append(value.Size);
       });
       $.each(data.ChangelogerEN, function (_key, value) {
         $("#Changeloger").append(value.Changeloger);
-      });
-      $.each(data.Deb, function (_key, value) {
-        $("#DebFile").attr("href", value.DebFile).attr("target", "_blank");
       });
       $.each(data.Page, function (_key, value) {
         $("#Title").append(value.Title);
       });
     },
   });
-
-  var folderPath =
-    "https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/tree/master/depictions/com.sbhnkhrmn.accuweather.pro/";
-  $.ajax({
-    url: folderPath,
-    type: "GET",
-    crossDomain: true,
-    crossOrigin: null,
-    headers: {
-      "Access-Control-Allow-Origin": "*",
-      "Access-Control-Allow-Headers": "*",
-      "Access-Control-Allow-Methods": "POST, GET, OPTIONS",
-    },
-    success: function (data) {
-      debugger;
-      $(data)
-        .find("a")
-        .attr("href", function (i, val) {
-          if (val.match(/\.(jpe?g|png|jpg|gif)$/)) {
-            $("#foto").append("<img src='" + folder + val + "'>");
-          }
-        });
-    },
-  });
+https://raw.githubusercontent.com/sbhnkhrmn/sbhnkhrmn.github.io/master/depictions/com.sbhnkhrmn.accuweather.pro/4.png
+  // var folderPath =
+  //   "https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/tree/master/depictions/com.sbhnkhrmn.accuweather.pro/";
+  // $.ajax({
+  //   url: folderPath,
+  //   type: "GET",
+  //   crossDomain: true,
+  //   crossOrigin: null,
+  //   headers: {
+  //     "Access-Control-Allow-Origin": "*",
+  //     "Access-Control-Allow-Headers": "*",
+  //     "Access-Control-Allow-Methods": "POST, GET, OPTIONS",
+  //   },
+  //   success: function (data) {
+  //     debugger;
+  //     $(data)
+  //       .find("a")
+  //       .attr("href", function (i, val) {
+  //         if (val.match(/\.(jpe?g|png|jpg|gif)$/)) {
+  //           $("#foto").append("<img src='" + folder + val + "'>");
+  //         }
+  //       });
+  //   },
+  // });
 });
