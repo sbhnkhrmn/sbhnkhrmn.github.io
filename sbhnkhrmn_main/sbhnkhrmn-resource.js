@@ -79,7 +79,6 @@ $(document).ready(function () {
         $("#Section").append(value.Section);
         $("#Version").append(value.Version);
         $("#Filename").attr("href", value.Filename).attr("target", "_blank");
-        });
         $("#Size").append(value.Size);
       });
       $.each(data.ChangelogerEN, function (_key, value) {
