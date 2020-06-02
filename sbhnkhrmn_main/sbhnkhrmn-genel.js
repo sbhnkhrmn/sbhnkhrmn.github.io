@@ -41,6 +41,12 @@ $(document).ready(function () {
         $.each(data.ChangelogerTR, function (_key, value) {
           $("#Changelog").append(value.Changelog);
         });
+        $.each(data.Deb, function (_key, value) {
+          $("#DebFile").attr("href", value.DebFile).attr("target", "_blank");
+        });
+        $.each(data.Page, function (_key, value) {
+          $("#Title").append(value.Title);
+        });
         return;
       }
       $.each(data.HTMLEN, function (_key, value) {
@@ -74,6 +80,12 @@ $(document).ready(function () {
       });
       $.each(data.ChangelogerEN, function (_key, value) {
         $("#Changelog").append(value.Changelog);
+      });
+      $.each(data.Deb, function (_key, value) {
+        $("#DebFile").attr("href", value.DebFile).attr("target", "_blank");
+      });
+      $.each(data.Page, function (_key, value) {
+        $("#Title").append(value.Title);
       });
     },
   });

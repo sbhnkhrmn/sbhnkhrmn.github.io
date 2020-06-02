@@ -70,5 +70,15 @@
     {
       "Changelog": "Uygulamanın Tüm Kilitleri İptal Edildi."
     }
+  ],
+  "Page": [
+    {
+      "Title": "AccuWeather"
+    }
+  ],
+  "Deb": [
+    {
+      "DebFile": "../debs/com.sbhnkhrmn.accuweather.pro.deb"
+    }
   ]
 }
