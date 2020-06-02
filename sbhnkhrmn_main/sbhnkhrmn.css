@@ -199,7 +199,7 @@ select:active {
   color: rgb(39, 134, 230);
 }
 
-.fa-telegram {
+.fa-telegram-plane {
   color: rgb(59, 176, 230);
 }
 
@@ -210,7 +210,7 @@ select:active {
 .fa-envelope {
   color: rgb(221, 155, 55);
 }
-.fa-upload {
+.fa-cloud-download-alt {
   color: white;
 }
 /*___________________________________*/
