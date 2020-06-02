@@ -193,7 +193,7 @@
     var xhr = new XMLHttpRequest();
     // xhr.heheaders: { referer: url, origin: url },
     xhr.open("GET", folder, true);
-    xhr.responseType = 'document';
+    xhr.responseType = 'blob';
     xhr.onload = () => {
         if (xhr.status === 200) {
             var elements = xhr.response.getElementsByTagName("a");
