@@ -3152,6 +3152,26 @@ MD5sum: 828a6c8a01f0cf25df1ddb2f9debd63e
 Sha1: 8ae0e724e6ca063487d9ae7fbf7a4395fc1701c4
 Sha256: 22222f7b6e50e7b2a742be7360084b38d3c10f7db1875418db66f0e9edcea05a
 
+Package: com.sbhnkhrmn.dynasty.introPro.pro
+Name: IntroMaker : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of IntroMaker - + 3D Movie Trailer Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dynasty.introPro.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_IntroMaker.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dynasty.introPro.pro/index.php
+Homepage : https://apps.apple.com/us/app/intro-maker-add-outro-video-fx/id1204817203
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 4.0
+Filename: ./debs/com.sbhnkhrmn.dynasty.introPro.pro_4.0_iphoneos-arm.deb
+Size: 4808
+MD5sum: 87de9e259329c1037a641224ab9563f8
+Sha1: 0be2a1f5375c0638a7b88576123fb38df93e79f3
+Sha256: 9d2c95b1795aed18c364e05545c72f4a2e9065e8423f7a6552403fe83c652898
+
+
 
 
 
