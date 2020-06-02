@@ -89,4 +89,25 @@ $(document).ready(function () {
       });
     },
   });
+
+  var folderPath =
+    "https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/tree/master/depictions/com.sbhnkhrmn.accuweather.pro";
+  $.ajax({
+    url: folderPath,
+    headers: {
+      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Allow-Headers": "*",
+      "Access-Control-Allow-Methods": "POST, GET, OPTIONS",
+    },
+    success: function (data) {
+      $(data)
+        .find("a")
+        .attr("href", function (i, val) {
+          debugger;
+          if (val.match(/\.(jpe?g|png|jpg|gif)$/)) {
+            $("#foto").append("<img src='" + folder + val + "'>");
+          }
+        });
+    },
+  });
 });
