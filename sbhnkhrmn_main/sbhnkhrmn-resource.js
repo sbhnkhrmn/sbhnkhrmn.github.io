@@ -89,7 +89,10 @@ $(document).ready(function () {
       });
     },
   });
-  var folder = window.location.pathname.replace("index.html", "");
+  var folder = window.location.pathname
+    .replace("index.html", "")
+    .replace("/", " ")
+    .trim();
   debugger;
   $.ajax({
     url: folder,
