@@ -3171,6 +3171,26 @@ MD5sum: 87de9e259329c1037a641224ab9563f8
 Sha1: 0be2a1f5375c0638a7b88576123fb38df93e79f3
 Sha256: 9d2c95b1795aed18c364e05545c72f4a2e9065e8423f7a6552403fe83c652898
 
+Package: com.sbhnkhrmn.limepresso.logomaker.pro
+Name: Logo Shop : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of LogoMakerShop - Symbol Creator & Font Design Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.limepresso.logomaker.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_LogoMakerShop.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.limepresso.logomaker.pro/index.php
+Homepage : https://apps.apple.com/us/app/logo-maker-shop/id1190077343
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.510.1
+Filename: ./debs/com.sbhnkhrmn.limepresso.logomaker.pro_1.510.1_iphoneos-arm.deb
+Size: 5874
+MD5sum: e0966431ce819bc0b366406bcca29d90
+Sha1: af1ab3b414f7bee8811a562fe22b8d9c1caf87b5
+Sha256: 7e9e1dbdfb9bb2f7ad1507e1db49b83a42fb568f870678a1837686220643c43d
+
+
 
 
 
