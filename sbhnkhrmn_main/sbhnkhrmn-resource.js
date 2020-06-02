@@ -43,7 +43,6 @@ $(document).ready(function () {
         $.each(data.ChangelogerTR, function (_key, value) {
           $("#Changeloger").append(value.Changeloger);
         });
-        $.each(data.Deb, function (_key, value) {
           $("#Filename").attr("href", value.Filename).attr("target", "_blank");
         });
         $.each(data.Page, function (_key, value) {
@@ -79,8 +78,7 @@ $(document).ready(function () {
         $("#Author").append(value.Author);
         $("#Section").append(value.Section);
         $("#Version").append(value.Version);
-        $.each(data.Deb, function (_key, value) {
-          $("#Filename").attr("href", value.Filename).attr("target", "_blank");
+        $("#Filename").attr("href", value.Filename).attr("target", "_blank");
         });
         $("#Size").append(value.Size);
       });
