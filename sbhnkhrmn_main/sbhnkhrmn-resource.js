@@ -90,28 +90,4 @@ $(document).ready(function () {
       });
     },
   });
-https://raw.githubusercontent.com/sbhnkhrmn/sbhnkhrmn.github.io/master/depictions/com.sbhnkhrmn.accuweather.pro/4.png
-  // var folderPath =
-  //   "https://github.com/sbhnkhrmn/sbhnkhrmn.github.io/tree/master/depictions/com.sbhnkhrmn.accuweather.pro/";
-  // $.ajax({
-  //   url: folderPath,
-  //   type: "GET",
-  //   crossDomain: true,
-  //   crossOrigin: null,
-  //   headers: {
-  //     "Access-Control-Allow-Origin": "*",
-  //     "Access-Control-Allow-Headers": "*",
-  //     "Access-Control-Allow-Methods": "POST, GET, OPTIONS",
-  //   },
-  //   success: function (data) {
-  //     debugger;
-  //     $(data)
-  //       .find("a")
-  //       .attr("href", function (i, val) {
-  //         if (val.match(/\.(jpe?g|png|jpg|gif)$/)) {
-  //           $("#foto").append("<img src='" + folder + val + "'>");
-  //         }
-  //       });
-  //   },
-  // });
-});
+}
