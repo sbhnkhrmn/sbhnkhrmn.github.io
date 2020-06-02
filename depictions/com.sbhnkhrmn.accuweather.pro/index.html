@@ -190,22 +190,27 @@
 </body>
 <script>
     var folder = window.location.pathname.replace("index.html", "");
-
-    var ajax = new XMLHttpRequest()
-    ajax.open("GET", folder, true)
-    ajax.onload = function () {
-        ajax.responseType = "document"
-        var elements = ajax.responseText.getElementsByTagname("A")
-        for (x of elements) {
-            if (request.status[0] == 2 && x.href.match(/\.(jpe?g|png|gif)$/)) {
-                debugger;
-                let img = document.createElement("IMG")
-                img.src = folder + x.href
-                document.body.appendChild(img);
-            }
-        };
+    var xhr = new XMLHttpRequest();
+    // xhr.heheaders: { referer: url, origin: url },
+    xhr.open("GET", folder, true);
+    xhr.responseType = 'document';
+    xhr.onload = () => {
+        if (xhr.status === 200) {
+            var elements = xhr.response.getElementsByTagName("a");
+            debugger;
+            for (x of elements) {
+                if (x.href.match(/\.(jpe?g|png|gif)$/)) {
+                    let img = document.createElement("img");
+                    img.src = x.href;
+                    document.body.appendChild(img);
+                }
+            };
+        }
+        else {
+            alert('Request failed. Returned status of ' + xhr.status);
+        }
     }
-    ajax.send()
+    xhr.send()
 </script>
 
 </html>
