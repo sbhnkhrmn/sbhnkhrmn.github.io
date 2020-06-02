@@ -39,7 +39,7 @@ $(document).ready(function () {
           $("#Version").append(value.Version);
         });
         $.each(data.ChangelogerTR, function (_key, value) {
-          $("#Changelog").append(value.Changelog);
+          $("#Changeloger").append(value.Changeloger);
         });
         $.each(data.Deb, function (_key, value) {
           $("#DebFile").attr("href", value.DebFile).attr("target", "_blank");
@@ -79,7 +79,7 @@ $(document).ready(function () {
         $("#Version").append(value.Version);
       });
       $.each(data.ChangelogerEN, function (_key, value) {
-        $("#Changelog").append(value.Changelog);
+        $("#Changeloger").append(value.Changeloger);
       });
       $.each(data.Deb, function (_key, value) {
         $("#DebFile").attr("href", value.DebFile).attr("target", "_blank");

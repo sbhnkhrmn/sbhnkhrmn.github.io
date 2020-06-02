@@ -63,12 +63,12 @@
   ],
   "ChangelogerEN": [
     {
-      "Changelog": "App Pro Unlock Features."
+      "Changeloger": "App Pro Unlock Features."
     }
   ],
   "ChangelogerTR": [
     {
-      "Changelog": "Uygulamanın Tüm Kilitleri İptal Edildi."
+      "Changeloger": "Uygulamanın Tüm Kilitleri İptal Edildi."
     }
   ],
   "Page": [
@@ -78,7 +78,7 @@
   ],
   "Deb": [
     {
-      "DebFile": "../debs/com.sbhnkhrmn.accuweather.pro.deb"
+      "DebFile": "/debs/com.sbhnkhrmn.accuweather.pro.deb"
     }
   ]
 }
