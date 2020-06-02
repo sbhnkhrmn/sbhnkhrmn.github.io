@@ -97,7 +97,8 @@ $(document).ready(function () {
       $(data)
         .find("a")
         .attr("href", function (i, val) {
-          if (val.match(/\.(jpe?g|png|jpg|gif)$/)) {
+          var pattern = new RegExp("/.(jpe?g|png|jpg|gif)$/");
+          if (val.match(pattern)) {
             $("#foto").append("<img src='" + folder + val + "'>");
           }
         });
