@@ -83,7 +83,7 @@ $(document).ready(function () {
         $("#Changeloger").append(value.Changeloger);
       });
       $.each(data.Photo, function (_key, value) {
-        $("#photo1").attr("src", value.photo1).attr("style", "width:40%;");
+        $("#photo1").attr("src", value.photo1);
       });
       $.each(data.Page, function (_key, value) {
         $("#Title").append(value.Title);
