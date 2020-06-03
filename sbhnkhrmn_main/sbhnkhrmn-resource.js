@@ -82,6 +82,12 @@ $(document).ready(function () {
       $.each(data.ChangelogerEN, function (_key, value) {
         $("#Changeloger").append(value.Changeloger);
       });
+      $.each(data.Photo, function (_key, value) {
+                $("#photo1")
+                  .attr("src", value.photo1)
+          .attr("style", "width:40%;"));
+      $("#photo1").attr("href", value.Homepage).attr("target", "_blank");
+      });
       $.each(data.Page, function (_key, value) {
         $("#Title").append(value.Title);
       });
