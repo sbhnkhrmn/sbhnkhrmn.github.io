@@ -3228,4 +3228,23 @@ MD5sum: a2c3e9a090587fc3a21f4fec27c166a0
 Sha1: 72d5dff296c29e947346d1fda1b999afeef417b4
 Sha256: 2fc8601cea6f49b997e08b851def1aa6ea46f82878b1ff254714f8e7c1a8ce34
 
+Package: com.sbhnkhrmn.kinemaster.app.pro
+Name: KineMaster : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of KineMaster  - Add Music to Video & Photo Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.kinemaster.app.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_KineMaster.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.kinemaster.app.pro/index.php
+Homepage : https://apps.apple.com/us/app/kinemaster-video-editor/id1223932558
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 4.13.15
+Filename: ./debs/com.sbhnkhrmn.kinemaster.app.pro_4.13.15_iphoneos-arm.deb
+Size: 5788
+MD5sum: 931027b98c088111546662e4f74688a4
+Sha1: b56221d911e296e351b0de7b498c2053dfd77e91
+Sha256: d1cd92cb7fd1d49b87a7ff54142709c021356c8959b412375762336003ba5372
+
 
