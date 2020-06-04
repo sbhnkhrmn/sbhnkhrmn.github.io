@@ -3209,4 +3209,23 @@ MD5sum: b88a656ba298938f80584c1e3078490d
 Sha1: 2f05868ba82eacbf066b1ea12b2151e8c0e9172f
 Sha256: f1c0a573b6e0a6dfa1c3598843a216eb4dd355fb24f73a0e83c73ae18d4d1ebc
 
+Package: com.sbhnkhrmn.modernist.maskstudio.pro
+Name: Mask Studio : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Mask Studio - Live FaceMasks & Video Effects Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.modernist.maskstudio.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_MaskStudio.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.modernist.maskstudio.pro/index.php
+Homepage : https://apps.apple.com/il/app/mask-studio/id1457952897
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.1
+Filename: ./debs/com.sbhnkhrmn.modernist.maskstudio.pro_1.1_iphoneos-arm.deb
+Size: 4810
+MD5sum: a2c3e9a090587fc3a21f4fec27c166a0
+Sha1: 72d5dff296c29e947346d1fda1b999afeef417b4
+Sha256: 2fc8601cea6f49b997e08b851def1aa6ea46f82878b1ff254714f8e7c1a8ce34
+
 
