@@ -3189,3 +3189,24 @@ Size: 5874
 MD5sum: e0966431ce819bc0b366406bcca29d90
 Sha1: af1ab3b414f7bee8811a562fe22b8d9c1caf87b5
 Sha256: 7e9e1dbdfb9bb2f7ad1507e1db49b83a42fb568f870678a1837686220643c43d
+
+Package: com.sbhnkhrmn.tasnim.slideshowmaker.pro
+Name: Slideshow : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Slideshow - Make Photo Video Slide Show Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tasnim.slideshowmaker.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Slideshow.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tasnim.slideshowmaker.pro/index.php
+Homepage : https://apps.apple.com/us/app/slideshow-maker-photo-w-music/id1119493669
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 4.3
+Filename: ./debs/com.sbhnkhrmn.tasnim.slideshowmaker.pro_4.3_iphoneos-arm.deb
+Size: 5208
+MD5sum: b88a656ba298938f80584c1e3078490d
+Sha1: 2f05868ba82eacbf066b1ea12b2151e8c0e9172f
+Sha256: f1c0a573b6e0a6dfa1c3598843a216eb4dd355fb24f73a0e83c73ae18d4d1ebc
+
+
