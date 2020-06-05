@@ -37,7 +37,7 @@ $(document).ready(function () {
           $("#Author").append(value.Author);
           $("#Section").append(value.Section);
           $("#Version").append(value.Version);
-          $("#Filename").attr("href", value.Filename).attr("target", "_blank");
+          $("#Filename").attr("href", value.Filename).attr("target", "_open");
           $("#Size").append(value.Size);
         });
         $.each(data.ChangelogerTR, function (_key, value) {
@@ -76,7 +76,7 @@ $(document).ready(function () {
         $("#Author").append(value.Author);
         $("#Section").append(value.Section);
         $("#Version").append(value.Version);
-        $("#Filename").attr("href", value.Filename).attr("target", "_blank");
+        $("#Filename").attr("href", value.Filename).attr("target", "_open");
         $("#Size").append(value.Size);
       });
       $.each(data.ChangelogerEN, function (_key, value) {
