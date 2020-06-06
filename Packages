@@ -3247,4 +3247,43 @@ MD5sum: 931027b98c088111546662e4f74688a4
 Sha1: b56221d911e296e351b0de7b498c2053dfd77e91
 Sha256: d1cd92cb7fd1d49b87a7ff54142709c021356c8959b412375762336003ba5372
 
+Package: com.sbhnkhrmn.tang.ivideofree.pro
+Name: PerfectVideoLite : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Perfect Video Editor, Collage Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tang.ivideofree.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_PerfectVideoLite.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tang.ivideofree.pro/index.php
+Homepage : https://apps.apple.com/us/app/perfect-video-editor-collage/id633335631
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 8.1.0
+Filename: ./debs/com.sbhnkhrmn.tang.ivideofree.pro_8.1.0_iphoneos-arm.deb
+Size: 4802
+MD5sum: bd34778b04ed82e10fbabe7120211462
+Sha1: 46cba9b435a6c1d227ab56d73fae925a6292f817
+Sha256: f70cb34e2b1aa9566071ae623a9ffccc59b16ff26e65ee1715149fc2a19cbad3
+
+Package: com.sbhnkhrmn.pixite.union.pro
+Name: Union : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Union - Combine & Edit Photos Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.pixite.union.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Union.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.pixite.union.pro/index.php
+Homepage : https://apps.apple.com/us/app/union-combine-edit-photos/id849145835
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.6.9
+Filename: ./debs/com.sbhnkhrmn.pixite.union.pro_1.6.9_iphoneos-arm.deb
+Size: 4304
+MD5sum: 0a72dce96b18b211af977c19fd9cdf72
+Sha1: 7d14a66a4546869f77b77290420ca0b47f9e354c
+Sha256: 453b0faf61d7c8c3177bc0288a6234631a86caca2d5759b1d654bd2ce6c02e85
+
+
 
