@@ -89,8 +89,9 @@ $(document).ready(function () {
 
         for (let index = 1; index < count.length; index++) {
           debugger;
-          $("#foto").html($("#pic").attr("src", count[index]).attr("target", "_blank")); 
-          // $("#SourcesImg").attr("src", value.Path).attr("style", "width:40%");          
+          $("#foto").add("a".attr("src", count[index]).attr("target", "_blank")); 
+          // $("#SourcesImg").attr("src", value.Path).attr("style", "width:40%");   
+          // append($("#pic").attr("src", count[index]).attr("target", "_blank")       
         }
 
       });
