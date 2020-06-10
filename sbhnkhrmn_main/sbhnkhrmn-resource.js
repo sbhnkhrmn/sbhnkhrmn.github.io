@@ -8,7 +8,7 @@ $(document).ready(function () {
       var userLang = navigator.languages
         ? navigator.languages[0]
         : navigator.language || navigator.userLanguage;
-      if (userLang === "tr-TR") {
+      if (userLang == "tr-TR") {
         $.each(data.HTMLTR, function (_key, value) {
           $("#DescriptionDiv").append(value.Description);
           $("#Informations").append(value.Informations);
