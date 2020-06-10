@@ -66,74 +66,6 @@ body {
   }
 }
 
-.dark-mode {
-  background: #141414;
-  color: white;
-}
-
-/*DARK MODE MANUEL AYARLAR ICIN */
-
-/*GOOGLE TRANSLATE */
-
-#google_translate_element select {
-  font: 400 12px/1.3 sans-serif;
-  -webkit-appearance: none;
-  appearance: none;
-  color: var(--baseFg);
-  border: 1px solid var(--baseFg);
-  line-height: 1;
-  outline: 0;
-  padding: 0.65em 2.5em 0.55em 0.75em;
-  border-radius: var(--radius);
-  background-color: var(--baseBg);
-  background-image: linear-gradient(var(--baseFg), var(--baseFg)),
-    linear-gradient(-135deg, transparent 50%, var(--accentBg) 50%),
-    linear-gradient(-225deg, transparent 50%, var(--accentBg) 50%),
-    linear-gradient(var(--accentBg) 42%, var(--accentFg) 42%);
-  background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
-  background-size: 1px 100%, 20px 22px, 20px 22px, 20px 100%;
-  background-position: right 20px center, right bottom, right bottom,
-    right bottom;
-}
-
-select:hover {
-  background-image: linear-gradient(var(--accentFg), var(--accentFg)),
-    linear-gradient(-135deg, transparent 50%, var(--accentFg) 50%),
-    linear-gradient(-225deg, transparent 50%, var(--accentFg) 50%),
-    linear-gradient(var(--accentFg) 42%, var(--accentBg) 42%);
-}
-
-select:active {
-  background-image: linear-gradient(var(--accentFg), var(--accentFg)),
-    linear-gradient(-135deg, transparent 50%, var(--accentFg) 50%),
-    linear-gradient(-225deg, transparent 50%, var(--accentFg) 50%),
-    linear-gradient(var(--accentFg) 42%, var(--accentBg) 42%);
-  color: var(--accentBg);
-  border-color: var(--accentFg);
-  background-color: var(--accentFg);
-}
-
-.goog-te-banner-frame.skiptranslate {
-  display: none !important;
-}
-
-.goog-logo-link {
-  display: none !important;
-}
-
-.goog-te-gadget {
-  font-size: 0 !important;
-}
-
-.googleDesing {
-  border-color: rgb(255, 217, 3) !important;
-  border-radius: 50px;
-  background-color: transparent;
-  border-style: solid;
-}
-
-/*__________________________*/
-
 /* BAŞLIK RENKLERI - HEADER COLOR */
 
 .header-sk-color {
@@ -172,15 +104,6 @@ select:active {
   width: 66px;
 }
 
-@keyframes spin {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(360deg);
-  }
-}
-
 /*____FOOTER FONT DİZAYN___________*/
 
 .socialmedia-sbhnkhrmn {
@@ -217,17 +140,11 @@ select:active {
 
 body {
   margin: 0 auto;
-  max-width: 56em;
+  /* max-width: 56em; */
+  top: 0px !important;
 }
 
-/*_________________________*/
-
-.translate-sbhnkhrmn {
-  margin-top: 0px;
-  padding-bottom: 5px;
-}
-
-/*___________________________________________________*/
+/*___________________________________*/
 
 /* HEADER AYARLARI */
 
@@ -247,8 +164,6 @@ body {
   margin-top: 5px;
   margin-bottom: 5px;
 }
-
-/*__________________________*/
 
 /*____________Button ayarları*/
 
@@ -313,7 +228,6 @@ body {
   background-color: orange;
 }
 
-/*______________________________*/
 
 /*_____________Header Paddıng*/
 
@@ -332,10 +246,6 @@ body {
 
 .sk-margin {
   margin: 15px;
-}
-
-body {
-  top: 0px !important;
 }
 
 /*_________H DEGERLERİ*/
@@ -412,8 +322,6 @@ h6 {
   margin: auto;
 }
 
-/*_______________________*/
-
 /* SBHNKHRMN KART RENKLERİ */
 
 .sk-card-orange {
@@ -442,40 +350,8 @@ h6 {
 
 /*__________________________*/
 
-/* Next & previous buttons */
 
-.prev,
-.next {
-  cursor: pointer;
-  position: absolute;
-  top: 50%;
-  width: auto;
-  padding: 16px;
-  margin-top: -22px;
-  color: white;
-  font-weight: bold;
-  font-size: 18px;
-  transition: 0.6s ease;
-  border-radius: 0 3px 3px 0;
-  user-select: none;
-}
-
-/* Position the "next button" to the right */
-
-.next {
-  right: 0;
-  border-radius: 3px 0 0 3px;
-}
-
-/* On hover, add a grey background color */
-
-.prev:hover,
-.next:hover {
-  background-color: #f1f1f1;
-  color: black;
-}
-
-/* REISMLER */
+/* RESIMLER */
 
 * {
   box-sizing: border-box;
@@ -554,4 +430,3 @@ img {
   transform: scale(1.07); /* SBHNKHRMN*/
 }
 
-/*_________________*/
