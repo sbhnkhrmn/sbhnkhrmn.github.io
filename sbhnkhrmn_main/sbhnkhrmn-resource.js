@@ -92,8 +92,8 @@ $(document).ready(function () {
       $.each(data.Page, function (_key, value) {
         $("#Title").append(value.Title);
       });
-      $.each(data.Page, function (_key, value) {
-        $("#dates").append(value.dates);
+      $.each(data.dates, function (_key, value) {
+        $("#date").append(value.date);
       });
     },
   });
