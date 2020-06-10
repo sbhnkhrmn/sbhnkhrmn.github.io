@@ -1,5 +1,5 @@
 
-const fileWithoutDate = new File([], 'SBHNKHRMN.json').lastModified.toLocaleString("tr-TR", {
+const lastModifiedDate = new File([], 'SBHNKHRMN.json').lastModified.toLocaleString("tr-TR", {
   weekday: "short",
   month: "long",
   day: "2-digit",
