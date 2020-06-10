@@ -89,9 +89,6 @@ $(document).ready(function () {
           }
         }
       });
-      $.each(data.Dates, function (_key, value) {
-        $("#Datesk").append(value.Datesk);
-      });
       $.each(data.Page, function (_key, value) {
         $("#Title").append(value.Title);
       });
