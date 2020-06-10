@@ -88,7 +88,7 @@ $(document).ready(function () {
         var count = value.Path.split(',');
         for (let index = 0; index < count.length; index++) {
           debugger;
-          $('#foto').append("<a href='" + index + ".png'><img id=" + i + "  src='" + index + ".png'></a>");
+          $('#foto').append("<a href='" + index + ".png'><img id=" + index + "  src='" + index + ".png'></a>");
 
 
           // $("#SourcesImg").attr("src", value.Path).attr("style", "width:40%");   
