@@ -82,12 +82,14 @@ $(document).ready(function () {
         });
       }
 
+   
+
       $.each(data.Images, function (_key, value) {
         var count = value.Path.split(',');
 
         for (let index = 1; index < count.length; index++) {
           debugger;
-          $("picture").append($("a").attr("href", index + ".png").attr("target", "_blank")); 
+          $("#foto").append($("a").attr("src", index[count]).attr("target", "_blank")); 
           // $("#SourcesImg").attr("src", value.Path).attr("style", "width:40%");          
         }
 
