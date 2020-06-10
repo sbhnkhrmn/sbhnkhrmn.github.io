@@ -85,7 +85,7 @@ $(document).ready(function () {
         var count = value.Path.split(',');
         if (count) {
           debugger;
-          for (let index = 0; index <= count.length; index++) {
+          for (let index = 0; index <= count.length - 1; index++) {
             $('#foto').append('<a href="' + count[index] + '"><img style="width:40%" src="' + count[index] + '"/></a>');
           }
         }
