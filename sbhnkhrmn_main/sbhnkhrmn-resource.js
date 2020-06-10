@@ -85,6 +85,12 @@ $(document).ready(function () {
       $.each(data.Page, function (_key, value) {
         $("#Title").append(value.Title);
       });
+      $.each(data.Images, function (_key, value) {
+        $("#LinkImages").attr("href", value.Path).attr("target", "_blank");
+        $("#SourcesImg")
+        .attr("src", value.Path)
+        .attr("style", "width:40%");
+      });
     },
   });
 });

@@ -85,5 +85,10 @@
     {
       "Title": "AccuWeather"
     }
+  ],
+  "Images": [
+    {
+      "Path": "1.png"
+    }
   ]
 }
