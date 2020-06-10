@@ -95,6 +95,6 @@ $(document).ready(function () {
       $.each(date.Dates, function (_key, value) {
         $("#Datesk").append(value.Datesk);
       });
-    },
+    }
   });
 });
