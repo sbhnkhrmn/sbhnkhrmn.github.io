@@ -84,9 +84,8 @@ $(document).ready(function () {
       $.each(data.Images, function (_key, value) {
         var count = value.Path.split(',');
         if (count) {
-          debugger;
           for (let index = 0; index <= count.length - 1; index++) {
-            $('#foto').append('<a href="' + count[index] + '"><img style="width:40%" src="' + count[index] + '"/></a>');
+            $('#foto').append('<a href="' + count[index] + '"><img style="width:40%;margin-left:2px;margin-right:2px" src="' + count[index] + '"/></a>');
           }
         }
       });
