@@ -81,11 +81,18 @@ $(document).ready(function () {
           $("#Changeloger").append(value.Changeloger);
         });
       }
+
+
+
       $.each(data.Images, function (_key, value) {
         var count = value.Path.split(',');
-        for (let index = 1; index <= count.length; index++) {        
-          $('#foto').append("<a href='" + index + ".png'><img id=" + index + "style='width:40%;margin:2px' src='" + index + ".png'></a>");           
+        for (let index = 1; index <= count.length; index++) {
+          
+          $('#foto').append('a').attr("href",count[index]).append('img').attr('src',count[index]).attr('style','width:40%');
+          // $("#SourcesImg").attr("src", value.Path).attr("style", "width:40%");   
+          // append($("#pic").attr("src", count[index]).attr("target", "_blank")       
         }
+
       });
       $.each(data.Page, function (_key, value) {
         $("#Title").append(value.Title);
