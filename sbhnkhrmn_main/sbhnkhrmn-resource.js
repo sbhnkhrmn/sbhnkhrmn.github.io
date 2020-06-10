@@ -87,7 +87,7 @@ $(document).ready(function () {
 
         for (let index = 1; index < count.length; index++) {
           debugger;
-          $("picture a").attr("href", index + ".png").attr("target", "_blank");
+          $("picture").append($("a").attr("href", index + ".png").attr("target", "_blank")); 
           // $("#SourcesImg").attr("src", value.Path).attr("style", "width:40%");          
         }
 
