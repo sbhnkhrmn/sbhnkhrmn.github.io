@@ -86,7 +86,7 @@ $(document).ready(function () {
 
       $.each(data.Images, function (_key, value) {
         var count = value.Path.split(',');
-        for (let index = 1; index < count.length - 1; index++) {
+        for (let index = 1; index <= count.length; index++) {
           debugger;
           $('#foto').append("<a href='" + index + ".png'><img id=" + index + "  src='" + index + ".png'></a>");
 
