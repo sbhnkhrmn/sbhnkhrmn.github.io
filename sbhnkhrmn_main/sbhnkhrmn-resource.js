@@ -82,13 +82,11 @@ $(document).ready(function () {
         });
       }
 
-
-
       $.each(data.Images, function (_key, value) {
         var count = value.Path.split(',');
         for (let index = 1; index <= count.length; index++) {
-          
-          $('#foto').append('a').attr("href",count[index]).append('img').attr('src',count[index]).attr('style','width:40%');
+
+          $('#foto').append('<a href="' + count[index] + '"><img src="' + count[index] + '"/></a>');
           // $("#SourcesImg").attr("src", value.Path).attr("style", "width:40%");   
           // append($("#pic").attr("src", count[index]).attr("target", "_blank")       
         }
