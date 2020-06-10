@@ -1,5 +1,6 @@
 
-const lastModifiedDate = new File([], 'SBHNKHRMN.json').lastModifiedDate.toLocaleString("tr-TR", {
+const path = window.location.pathname.replace("index.html", "SBHNKHRMN.json");
+const lastModifiedDate = new File([], path).lastModifiedDate.toLocaleString("tr-TR", {
   weekday: "short",
   month: "long",
   day: "2-digit",
