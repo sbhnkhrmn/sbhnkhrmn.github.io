@@ -1,4 +1,5 @@
-document.getElementById("date").innerHTML = new Date().toLocaleString("tr-TR", {
+
+const fileWithoutDate = new File([], 'SBHNKHRMN.json').lastModified.toLocaleString("tr-TR", {
   weekday: "short",
   month: "long",
   day: "2-digit",
@@ -7,3 +8,4 @@ document.getElementById("date").innerHTML = new Date().toLocaleString("tr-TR", {
   minute: "2-digit",
   second: "2-digit",
 });
+document.getElementById("date").innerHTML = lastModifiedDate
