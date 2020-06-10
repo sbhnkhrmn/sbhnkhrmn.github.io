@@ -82,9 +82,15 @@ $(document).ready(function () {
         });
       }
 
-      $.each(data.Images, function (_key, value) {
-        $("#LinkImages").attr("href", value.Path).attr("target", "_blank");
-        $("#SourcesImg").attr("src", value.Path).attr("style", "width:40%");
+      $.each(data.Images, function (_key, value) { 
+        var count = value.Path.split(',');
+       
+        for (let index = 1; index < count.length; index++) {
+          debugger;
+          $("picture a").attr("href", value.Path).attr("target", "_blank");
+          // $("#SourcesImg").attr("src", value.Path).attr("style", "width:40%");          
+        }
+      
       });
       $.each(data.Page, function (_key, value) {
         $("#Title").append(value.Title);
