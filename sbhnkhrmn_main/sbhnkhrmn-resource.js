@@ -82,14 +82,15 @@ $(document).ready(function () {
         });
       }
 
-   
+
 
       $.each(data.Images, function (_key, value) {
         var count = value.Path.split(',');
-
-        for (let index = 1; index < count.length; index++) {
+        for (let index = 0; index < count.length; index++) {
           debugger;
-          $("#foto").add("a").attr("src", count[index]).attr("target", "_blank"); 
+          $('#foto').append("<a href='" + index + ".png'><img id=" + i + "  src='" + index + ".png'></a>");
+
+
           // $("#SourcesImg").attr("src", value.Path).attr("style", "width:40%");   
           // append($("#pic").attr("src", count[index]).attr("target", "_blank")       
         }
