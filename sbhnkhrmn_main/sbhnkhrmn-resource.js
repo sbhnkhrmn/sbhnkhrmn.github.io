@@ -93,7 +93,7 @@ $(document).ready(function () {
         $("#Title").append(value.Title);
       });
       $.each(date.Dates, function (_key, value) {
-        $("#date").append(value.date);
+        $("#Datesk").append(value.Datesk);
       });
     },
   });
