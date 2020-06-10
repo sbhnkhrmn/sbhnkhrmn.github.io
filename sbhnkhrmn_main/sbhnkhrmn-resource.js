@@ -5,6 +5,7 @@ $(document).ready(function () {
     url: path,
     dataType: "json",
     success: function (data) {
+      debugger;
       var userLang = navigator.languages
         ? navigator.languages[0]
         : navigator.language || navigator.userLanguage;
