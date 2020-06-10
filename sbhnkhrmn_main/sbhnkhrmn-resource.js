@@ -86,10 +86,9 @@ $(document).ready(function () {
 
       $.each(data.Images, function (_key, value) {
         var count = value.Path.split(',');
-        for (let index = 1; index < count.length; index++) {
+        for (let index = 1; index < count.length - 1; index++) {
           debugger;
           $('#foto').append("<a href='" + index + ".png'><img id=" + index + "  src='" + index + ".png'></a>");
-
 
           // $("#SourcesImg").attr("src", value.Path).attr("style", "width:40%");   
           // append($("#pic").attr("src", count[index]).attr("target", "_blank")       
