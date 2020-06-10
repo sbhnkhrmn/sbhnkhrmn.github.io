@@ -92,7 +92,7 @@ $(document).ready(function () {
       $.each(data.Page, function (_key, value) {
         $("#Title").append(value.Title);
       });
-      $.each(Dates.dates, function (_key, value) {
+      $.each(date.Dates, function (_key, value) {
         $("#date").append(value.date);
       });
     },
