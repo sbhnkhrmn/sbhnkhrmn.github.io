@@ -1,12 +1,4 @@
 
-const path = window.location.pathname.replace("index.html", "SBHNKHRMN.json");
-const lastModifiedDate = new File([], path).lastModifiedDate.toLocaleString("tr-TR", {
-  weekday: "short",
-  month: "long",
-  day: "2-digit",
-  year: "numeric",
-  hour: "2-digit",
-  minute: "2-digit",
-  second: "2-digit",
-});
-document.getElementById("date").innerHTML = lastModifiedDate
+const jsonFile = window.location.pathname.replace("index.html", "SBHNKHRMN.json");
+const lastModifiedDate = new File([], jsonFile).lastModified
+document.getElementById("date").innerHTML = new Date(lastModifiedDate);
