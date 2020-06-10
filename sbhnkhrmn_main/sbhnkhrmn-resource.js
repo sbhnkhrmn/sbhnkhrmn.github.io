@@ -81,14 +81,15 @@ $(document).ready(function () {
           $("#Changeloger").append(value.Changeloger);
         });
       }
-
-      // $.each(data.Images, function (_key, value) {
-      //   var count = value.Path.split(',');
-      //   debugger;
-      //   for (let index = 1; index < count.length; index++) {
-      //     $('#foto').append('<a href="' + count[index] + '"><img style="width:40%" src="' + count[index] + '"/></a>');             
-      //   }
-      // });
+      $.each(data.Images, function (_key, value) {
+        var count = value.Path.split(',');
+        if (count) {
+          debugger;
+          for (let index = 0; index <= count.length; index++) {
+            $('#foto').append('<a href="' + count[index] + '"><img style="width:40%" src="' + count[index] + '"/></a>');
+          }
+        }
+      });
       $.each(data.Page, function (_key, value) {
         $("#Title").append(value.Title);
       });
