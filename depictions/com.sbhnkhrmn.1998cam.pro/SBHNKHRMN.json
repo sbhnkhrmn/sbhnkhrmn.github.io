@@ -41,8 +41,8 @@
      "Maintainer": "SBHNKHRMN <khrmn.sbhn@gmail.com>",
      "Author": "SBHNKHRMN <khrmn.sbhn@gmail.com>",
      "Section": "Apps PRO",
-     "Version": "13.0.5",
-     "Filename": "./debs/com.sbhnkhrmn.1998cam.pro_1.6.9_iphoneos-arm.deb",
+     "Version": "1.6.9",
+     "Filename": "/debs/com.sbhnkhrmn.1998cam.pro_1.6.9_iphoneos-arm.deb",
      "Size": "4478",
      "MD5sum": "d119425a822a66f09d9216a9abe33b00",
      "Sha1": "ff1dff584c20fc2f32a94562aca5b5d9006fc14e",
@@ -63,8 +63,8 @@
       "Maintainer": "SBHNKHRMN <khrmn.sbhn@gmail.com>",
       "Author": "SBHNKHRMN <khrmn.sbhn@gmail.com>",
       "Section": "Apps PRO",
-      "Version": "13.0.5",
-      "Filename": "./debs/com.sbhnkhrmn.1998cam.pro_1.6.9_iphoneos-arm.deb",
+      "Version": "1.6.9",
+      "Filename": "/debs/com.sbhnkhrmn.1998cam.pro_1.6.9_iphoneos-arm.deb",
       "Size": "4478",
       "MD5sum": "d119425a822a66f09d9216a9abe33b00",
       "Sha1": "ff1dff584c20fc2f32a94562aca5b5d9006fc14e",
@@ -73,12 +73,12 @@
   ],
   "ChangelogerEN": [
     {
-      "Changeloger": "13.0.5 App Pro Unlock Features."
+      "Changeloger": "1.6.9 App Pro Unlock Features."
     }
   ],
   "ChangelogerTR": [
     {
-      "Changeloger": "13.0.5 Uygulamanın Tüm Kilitleri İptal Edildi."
+      "Changeloger": "1.6.9 Uygulamanın Tüm Kilitleri İptal Edildi."
     }
   ],
   "Page": [
@@ -93,7 +93,7 @@
   ],
   "Dates" : [
     {
-      "Datesk": "13/06/2020 02:56"
+      "Datesk": "13/06/2020 03:02"
     }
   ]
 }
