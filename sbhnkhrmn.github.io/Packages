@@ -1,0 +1,3308 @@
+Package: com.sbhnkhrmn.1998cam.pro
+Name: 1998 Cam : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of 1998 Cam Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.1998cam.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_1998Cam.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.1998cam.pro/index.php
+Homepage : https://apps.apple.com/app/id1450480287
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.6.9
+Filename: ./debs/com.sbhnkhrmn.1998cam.pro_1.6.9_iphoneos-arm.deb
+Size: 4478
+MD5sum: d119425a822a66f09d9216a9abe33b00
+Sha1: 91475e043c69c418fe9d5cac97d32afc5d8342b9
+Sha256: 174e60ffdfce468aa46bdcb77335df845cede7866d796b2d3906a5776b3e6710
+
+Package: com.sbhnkhrmn.officesuite.pro
+Name: Office Suite : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Office Suite Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.officesuite.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_OfficeSuite.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.officesuite.pro/index.php
+Homepage : https://apps.apple.com/us/app/officesuite-pdf-editor/id924005506
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 7.7
+Filename: ./debs/com.sbhnkhrmn.officesuite.pro_7.7_iphoneos-arm.deb
+Size: 5318
+MD5sum: f5575662b661a5ddcca3e1924ec15eb0
+Sha1: 5731b957255a0b47c33ee319c89c216db0938968
+Sha256: d6c267f6fe59fd3b1912712430927f54dd307db7751ecb5ae276b1096a314eef
+
+Package: com.sbhnkhrmn.officesuite.pro
+Name: Office Suite : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Office Suite Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.officesuite.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_OfficeSuite.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.officesuite.pro/index.php
+Homepage : https://apps.apple.com/us/app/officesuite-pdf-editor/id924005506
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 7.7.1
+Filename: ./debs/com.sbhnkhrmn.officesuite.pro_7.7.1_iphoneos-arm.deb
+Size: 9938
+MD5sum: 245ea9eabdedbd73f951baf912ec0c84
+Sha1: 327590f83c329c93ce24dfc78119abd31457d60d
+Sha256: 082655978f7119d7063b93c2cba68dba8c7a07e860434e5a8fc1bc405b82b0bb
+
+Package: com.sbhnkhrmn.accuweather.pro
+Name: AccuWeather : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Platinum features of Accuweather application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.accuweather.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_AccuWeather.png
+Sileodepiction:https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.accuweather.pro/index.php
+Homepage : https://apps.apple.com/app/id300048137
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 13.0.5
+Filename: ./debs/com.sbhnkhrmn.accuweather.pro_13.0.5_iphoneos-arm.deb
+Size: 4918
+MD5sum: c0db194e6f46f0813a098a9f9fdf9bc0
+Sha1: ff1dff584c20fc2f32a94562aca5b5d9006fc14e
+Sha256: be991722388e7f13cc8967a0f6e2299415fa613f39a72fc2ea33c75dd057b68e
+
+Package: com.sbhnkhrmn.addmusic.pro
+Name: Add Music : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Add Music Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.addmusic.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_AddMusic.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.addmusic.pro/index.php
+Homepage : https://apps.apple.com/app/id947792997
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 6.1
+Filename: ./debs/com.sbhnkhrmn.addmusic.pro_6.1-1_iphoneos-arm.deb
+Size: 4774
+MD5sum: f6573313d785d847fee84be69145576c
+Sha1: 18839aeb4540f9912db2baa11a639805b7e0e956
+Sha256: 6fbff30f9b37eafafca49ac51776758a202121eb4d7689ab3a1484a865defd63
+
+Package: com.sbhnkhrmn.adguard.pro
+Name: AdGuard : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of AdGuard Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.adguard.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_AdGuardFree.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.adguard.pro/index.php
+Homepage : https://apps.apple.com/app/id1047223162
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 3.1.4
+Filename: ./debs/com.sbhnkhrmn.adguard.pro_3.1.4-1_iphoneos-arm.deb
+Size: 4510
+MD5sum: 27724066b46f093cfb15ae0c6c4877a5
+Sha1: 0b03a1d9277306dffcacf5221888b430fdf419aa
+Sha256: 5386cf34244001e68107df8acafc8d26c029178cb757d2781f11d605c442e78a
+
+Package: com.sbhnkhrmn.april.pro
+Name: April : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Platinum features of April application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.april.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_April.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.april.pro/index.php
+Homepage : https://apps.apple.com/app/id1121943475
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.8.0
+Filename: ./debs/com.sbhnkhrmn.april.pro_2.8.0_iphoneos-arm.deb
+Size: 4878
+MD5sum: ffce427c4e07c1d41764e7ec5366854d
+Sha1: d82d9843d83a20d10718c34686c9d276d60c278f
+Sha256: 88f4f2ed2f1187b070bfa25ecc2623c4182fce91b61c0986708405450cc1bdee
+
+Package: com.sbhnkhrmn.assembly.pro
+Name: Assembly : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Assembly Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.assembly.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Assembly.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.assembly.pro/index.php
+Homepage : https://apps.apple.com/app/id1024210402
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.3
+Filename: ./debs/com.sbhnkhrmn.assembly.pro_2.3_iphoneos-arm.deb
+Size: 4450
+MD5sum: 0eba6b4906a0b98dc9aaf1871cf91984
+Sha1: 90762453775be58cb894d053b13be9b7bc785ae4
+Sha256: 25d0af4f5aa807c754774b181ce1f1ef588945ec497e39c101ddb7adc38573d2
+
+Package: com.sbhnkhrmn.audiomack.pro
+Name: AudioMack : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of AudioMack Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.audiomack.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_AudioMack.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.audiomack.pro/index.php
+Homepage : https://apps.apple.com/app/id921765888
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 5.3.1
+Filename: ./debs/com.sbhnkhrmn.audiomack.pro_5.3.1_iphoneos-arm.deb
+Size: 4790
+MD5sum: dbb98a0ce327ed5112e5d76601c22239
+Sha1: ba089c0126b4ee1c6c1536f384a13e38200b860a
+Sha256: e38d290755222ef8430c8c6f98a86c93e98cce622315bbba120304bdf433c1b6
+
+Package: com.sbhnkhrmn.bazaart.pro
+Name: Bazaart : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Bazaart Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.bazaart.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Bazaart.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.bazaart.pro/index.php
+Homepage : https://apps.apple.com/us/app/bazaart-photo-editor-design/id515094775
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 6.8.0
+Filename: ./debs/com.sbhnkhrmn.bazaart.pro_6.8.0_iphoneos-arm.deb
+Size: 4256
+MD5sum: 5406e4ed2c3731434b5f8e3ff8ca7d3f
+Sha1: 8540607798276f4e28d633c638f7e22ad821639b
+Sha256: 7d72cdb1d1498ab7b65c02beee508535e8ce98ca4e1e1d48afba7dfb37865dcb
+
+Package: com.sbhnkhrmn.bear.pro
+Name: Bear : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Bear Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.bear.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Bear.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.bear.pro/index.php
+Homepage : https://apps.apple.com/app/id1016366447
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.7.10
+Filename: ./debs/com.sbhnkhrmn.bear.pro_1.7.10_iphoneos-arm.deb
+Size: 4482
+MD5sum: 672fef75ce8cd6907bff50f56f34ba22
+Sha1: c7b7fd4aa687b29695772440caad78e9dcf4fff8
+Sha256: 5a4236f581ace3002d4cb02672a6c2babd937537708456e02b03bf2765182b32
+
+Package: com.sbhnkhrmn.boom.pro
+Name: Boom : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Boom Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.boom.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Boom.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.boom.pro/index.php
+Homepage : https://apps.apple.com/app/id1016366447
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.0.8
+Filename: ./debs/com.sbhnkhrmn.boom.pro_2.0.8_iphoneos-arm.deb
+Size: 4078
+MD5sum: a7e80ef1a19146b930fa3e51bf249686
+Sha1: e8f6fc0631caef87e37324bd79c967f73c010d17
+Sha256: b876f3a490d5aee79696a2679102aaed9f6e19b900e65058a42b767f3a469e92
+
+Package: com.sbhnkhrmn.calm.pro
+Name: Calm : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Platinum features of Calm application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.calm.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Calm.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.calm.pro/index.php
+Homepage : https://apps.apple.com/us/app/calm/id571800810
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 4.22
+Filename: ./debs/com.sbhnkhrmn.calm.pro_4.22_iphoneos-arm.deb
+Size: 4058
+MD5sum: 7ac674dc858245be3c3ebd432d741ff7
+Sha1: a7b8028329b7f9ebdd580ed7f108e23b7befd162
+Sha256: 4fcc488fecdc15b19db83caeb3dc2d08f2bf700f2a5e6c3332b0dec7db028dec
+
+Package: com.sbhnkhrmn.cheetahkey.pro
+Name: AR Emoji Custom Keyboard : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Platinum features of CheetahKey application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.cheetahkey.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Cheetahkey.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.cheetahkey.pro/index.php
+Homepage : https://apps.apple.com/us/app/ar-emoji-custom-keyboard/id1249925656
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.15.2
+Filename: ./debs/com.sbhnkhrmn.cheetahkey.pro_1.15.2_iphoneos-arm.deb
+Size: 4082
+MD5sum: c4bf1f286c84de2c71de47661a551f1a
+Sha1: 2644715cefb3edefad057c0ec3cf62b217abfe47
+Sha256: 84c8bce73efc47441599ebf0e827cb3e3048ae7fcae6c1e2620739ad77f19369
+
+Package: com.sbhnkhrmn.clarity.pro
+Name: Clarity : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Platinum features of Clarity application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.clarity.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Clarity.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.clarity.pro/index.php
+Homepage : https://apps.apple.com/us/app/clarity-wallpaper/id1233738041
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 5.0.1
+Filename: ./debs/com.sbhnkhrmn.clarity.pro_5.0.1_iphoneos-arm.deb
+Size: 4934
+MD5sum: 36c11a63d0bb336d483b916fd7cc8a59
+Sha1: be3902ce9bae272aaf8d489f4f9ae1886b2d523b
+Sha256: 483343c575140a5baa43d942916949d96cd2e735387e388253b28ba3fc37398f
+
+Package: com.sbhnkhrmn.coloringbookforme.pro
+Name: Coloring Book for Me : Pro
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Activates Premium features of Coloring Book for Me Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.coloringbookforme.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_ColoringBookforme.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.coloringbookforme.pro/index.php
+Homepage : https://apps.apple.com/app/id1093108529
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 4.24.3
+Filename: ./debs/com.sbhnkhrmn.coloringbookforme.pro_4.24.3_iphoneos-arm.deb
+Size: 5808
+MD5sum: c1fb8dac1e632f5e3b0cbd34055c7efe
+Sha1: 36b49a9dba98999865921d36ab7b6ed4d73d01f0
+Sha256: 82cdbfcf3b047048d0d92e7a93a6ca94eaf94fe22cd996d53f30c9ac499eee2f
+
+Package: com.sbhnkhrmn.ddvpn.pro
+Name: DD Vpn : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Platinum features of DD Vpn application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.ddvpn.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_DDVpn.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.ddvpn.pro/index.php
+Homepage : https://apps.apple.com/tr/app/ddvpn-fast-unlimited-vpn/id1455483945?l=tr
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.0.3
+Filename: ./debs/com.sbhnkhrmn.ddvpn.pro_2.0.3_iphoneos-arm.deb
+Size: 4492
+MD5sum: 804883df1c99513e67491ec1c72cffee
+Sha1: 999dc1009f492ee8a57743815899c7f88f6fe700
+Sha256: d2b6bfbd750a3a6acd8362c82d164a93c265af8c7d37217aeeeb9670ad1bfcdd
+
+Package: com.sbhnkhrmn.documents.pro
+Name: Documents : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Documents Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.documents.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Documents.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.documents.pro/index.php
+Homepage : https://apps.apple.com/app/id364901807
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 7.1.3
+Filename: ./debs/com.sbhnkhrmn.documents.pro_7.1.3_iphoneos-arm.deb
+Size: 4782
+MD5sum: 50395c431b051ea6674668d44af28853
+Sha1: 29ab4dfa7c17a94bd39769784974ac5edf33d5c2
+Sha256: b2648dfbcfe9405c619f7e39a1ec41fc678db19778ab76fd604b6695ec58e0d7
+
+Package: com.sbhnkhrmn.dualingo.pro
+Name: Dualingo : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Dualingo Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dualingo.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Dualingo.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dualingo.pro/index.php
+Homepage : https://apps.apple.com/app//id570060128
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 6.57.0
+Filename: ./debs/com.sbhnkhrmn.dualingo.pro_6.57.0_iphoneos-arm.deb
+Size: 5634
+MD5sum: 121e1c501d47557af67dc16b3b43115b
+Sha1: 17dbd398c6767f9931318f96897f8681cb20e5e5
+Sha256: 3c5f5558bfb88c8ebda5d69a1600fc03854aeb0d478ab173bc034f12819c12fc
+
+Package: com.sbhnkhrmn.facetune2.pro
+Name: Facetune 2 : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Facetune 2 Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.facetune2.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Facetune2.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.facetune2.pro/index.php
+Homepage : https://apps.apple.com/app/id1149994032
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.27
+Filename: ./debs/com.sbhnkhrmn.facetune2.pro_1.27_iphoneos-arm.deb
+Size: 4046
+MD5sum: 4b1b2c82d84d6421871bf3ca699ea70f
+Sha1: d45dafa222276c8da686b45e58d30d1d6d5dcd56
+Sha256: a3317b672b1d602232cc4a29f2efea7b4c5e8f347afec5c6d7d183b763d18dcd
+
+Package: com.sbhnkhrmn.firstvpn.pro
+Name: First Vpn : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of First Vpn Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.firstvpn.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_FirstVpn.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.firstvpn.pro/index.php
+Homepage : https://apps.apple.com/app/id1403281172
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.3.4
+Filename: ./debs/com.sbhnkhrmn.firstvpn.pro_2.3.4_iphoneos-arm.deb
+Size: 4916
+MD5sum: 2b262f328b89c3a4ab08260750762be3
+Sha1: 29c098471b93f3e16c86b2af1cb0b6e3cb47c977
+Sha256: 9276d8961124fe0ce0d727d8977434e61d9bef7e8159ad6fd93c149910243319
+
+Package: com.sbhnkhrmn.focos.pro
+Name: Focos : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Focos Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.focos.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Focos.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.focos.pro/index.php
+Homepage : https://apps.apple.com/app/id1274938524
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.2
+Filename: ./debs/com.sbhnkhrmn.focos.pro_2.2_iphoneos-arm.deb
+Size: 4566
+MD5sum: 5b12d29c827ccfdb22cfbcd41c2dba54
+Sha1: 3e25f7a501cacc07595a09745d72515c7764fd13
+Sha256: 72f9af028823943324623028339169db6198a9306ddfd4a3d5a75ddce473a2dc
+
+Package: com.sbhnkhrmn.habitat.pro
+Name: Habitat : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Platinum features of Habitat application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.habitat.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Habitat.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.habitat.pro/index.php
+Homepage : https://apps.apple.com/app/id594111557
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 4.6
+Filename: ./debs/com.sbhnkhrmn.habitat.pro_4.6_iphoneos-arm.deb
+Size: 4020
+MD5sum: 665aefb49f6d6a9bd696f1071b7c6240
+Sha1: ae09299853ecdb7b9b3f3d8022c00474ac2a7944
+Sha256: ccf0b8ee5520a1b417f83a3c76b078c1bf02a1df6bb373c3d47ad28fed8d149f
+
+Package: com.sbhnkhrmn.hotspotvpn.pro
+Name: HotSpot Vpn : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Platinum features of HotSpot Vpn application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.hotspotvpn.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_HotspotVpn.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.hotspotvpn.pro/index.php
+Homepage : https://apps.apple.com/app/id1465675505
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.2.8
+Filename: ./debs/com.sbhnkhrmn.hotspotvpn.pro_1.2.8_iphoneos-arm.deb
+Size: 4852
+MD5sum: 23893efeb8cc7f818eaa8a5f3b80f490
+Sha1: 7810e33607691a3dfc2bd6f30378d6da468bfc17
+Sha256: 2cf2b771c5fac773be48ed4ea44ddc1be9269a7daeb108eb96708e8261f22edb
+
+Package: com.sbhnkhrmn.infuse6.pro
+Name: Infuse : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Infuse 6 Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.infuse6.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Infuse6.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.infuse6.pro/index.php
+Homepage : https://apps.apple.com/app/id1136220934
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 6.3.3
+Filename: ./debs/com.sbhnkhrmn.infuse6.pro_6.3.3_iphoneos-arm.deb
+Size: 4632
+MD5sum: 785546d39d3dc37f1dae1248de2cb291
+Sha1: 85291ffa3cc0619316cdcf972bfeae44093cc6ab
+Sha256: 5ff4434dad66076d03a7eb7fb15f76396eb3080c427427f8868375a82fbad9ec
+
+Package: com.sbhnkhrmn.inmessage.pro
+Name: InMessage : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of InMessage Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.inmessage.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_InMessage.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.inmessage.pro/index.php
+Homepage : https://apps.apple.com/app/id555260595
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 3.3.5
+Filename: ./debs/com.sbhnkhrmn.inmessage.pro_3.3.5_iphoneos-arm.deb
+Size: 6202
+MD5sum: b7e646cd071fceb00baded209a42d6ed
+Sha1: fef811a190157223f6e4e3eb83978d7863717145
+Sha256: bc0c80e43673161cad3e82bc64ab943ea02dad92b48d70af9ada7de601600e32
+
+Package: com.sbhnkhrmn.inshot.pro
+Name: InShot : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of InShot Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.inshot.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_InShot.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.inshot.pro/index.php
+Homepage : https://apps.apple.com/app/id997362197
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.42.1
+Filename: ./debs/com.sbhnkhrmn.inshot.pro_1.42.1_iphoneos-arm.deb
+Size: 4552
+MD5sum: 4c7b2a2ddcfe520ec4df2fdfcc36d456
+Sha1: f24a3d8fcc2e2a0409eab6c401d4ca5db354a0d0
+Sha256: da6316124d7997125ee0865c420b7fa183e5ac85e4d568065310b8b7d086351c
+
+Package: com.sbhnkhrmn.mackolik.pro
+Name: Mackolik : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Mackolik Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.mackolik.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Mackolik.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.mackolik.pro/index.php
+Homepage : https://apps.apple.com/app/id398157427
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 3.4.7
+Filename: ./debs/com.sbhnkhrmn.mackolik.pro_3.4.7_iphoneos-arm.deb
+Size: 4886
+MD5sum: 46cbb2a464d17a2e0ad1fb31049c475f
+Sha1: 12872bf450a0829c5ab45ecbf3551ef282571df5
+Sha256: 272561ab9d422e2209b0304b0c1bae2506cdffd805691d68a8765403b2bf0956
+
+Package: com.sbhnkhrmn.magi+.pro
+Name: Magi+ : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Bazaart Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.magi+.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Magi+.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.magi+.pro/index.php
+Homepage : https://apps.apple.com/app/id1454351172
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.2.0
+Filename: ./debs/com.sbhnkhrmn.magi+.pro_2.2.0_iphoneos-arm.deb
+Size: 4934
+MD5sum: 829fc0092434ab58c79a320a1c871393
+Sha1: 53e16f14758924eb432259d29e4f68d5f92955a7
+Sha256: 85ea3ab4052348d063e69ded89bea8ed5f1a4bff85ffb275a27cfe84ac1f36ae
+
+Package: com.sbhnkhrmn.memrise.pro
+Name: Memrise : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of MemRise Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.memrise.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Memrise.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.memrise.pro/index.php
+Homepage : https://apps.apple.com/app/id635966718
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 3.1.25
+Filename: ./debs/com.sbhnkhrmn.memrise.pro_3.1.25_iphoneos-arm.deb
+Size: 5472
+MD5sum: 55e4ab2887341fe42bb1176bc415d281
+Sha1: b6f4a42e0f0f4a02c49ef4ddf3dfe5dc3f4a107e
+Sha256: aeac7da719fbb27c51c8e0bf60076ac3bb60eb654afc95a872c0f98c0a1061b6
+
+Package: com.sbhnkhrmn.peachy.pro
+Name: Peachy : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Platinum features of Peachy application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.peachy.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Peachy.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.peachy.pro/index.php
+Homepage : https://apps.apple.com/app/id1390423469
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.12.0
+Filename: ./debs/com.sbhnkhrmn.peachy.pro_1.12.0_iphoneos-arm.deb
+Size: 4568
+MD5sum: 76b77d00866a8f50f87d7399cade86c9
+Sha1: a9deae7c96bd7c939859716da8e0658984be2704
+Sha256: 5254f41910e45b443aa0d94ee211407c54a0a4cdfafbc46c130d45c2a3faa922
+
+Package: com.sbhnkhrmn.photovault.pro
+Name: Photo Vault : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Photo Vault Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photovault.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_PhotoVault.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photovault.pro/index.php
+Homepage : https://apps.apple.com/app/id417571834
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 10.5
+Filename: ./debs/com.sbhnkhrmn.photovault.pro_10.5_iphoneos-arm.deb
+Size: 4510
+MD5sum: f59a171373e72008149490a8b2551c0d
+Sha1: 49ab0bc0a17432de10a61cf8e195656c365da3c5
+Sha256: 309d80b9772e1570464c55ac168eaf64c2bd21551e1cd1df9dc783ce3b507a7a
+
+Package: com.sbhnkhrmn.photofox.pro
+Name: Photofox : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Photofox application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photofox.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Photofox.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photofox.pro/index.php
+Homepage : https://apps.apple.com/tr/app/enlight-photofox-sanat-devi/id1191337894?l=tr
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.2.4
+Filename: ./debs/com.sbhnkhrmn.photofox.pro_2.2.4_iphoneos-arm.deb
+Size: 4270
+MD5sum: baf99c9308eade6769cd0395a6e1f0db
+Sha1: 16b643ad67dfe6584741912d48fbc5cb744cc968
+Sha256: 6cc51c28f22863d8ee5147af328b38e7c834b5fb7745da7b754c541e5358be6b
+
+Package: com.sbhnkhrmn.psexpress.pro
+Name: PS Express : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of PS Express Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.psexpress.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_PsExpress.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.psexpress.pro/index.php
+Homepage : https://apps.apple.com/app/id331975235
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 20.10.0
+Filename: ./debs/com.sbhnkhrmn.psexpress.pro_20.10.0_iphoneos-arm.deb
+Size: 5660
+MD5sum: 3c18e5ee8275548933d6f9662d858c15
+Sha1: 3f70528fc0f19fc7ee8b2dc5a18697dfe2ada156
+Sha256: 962a36af21147a5c3b29c51141dba10a1e64ca204b6536b4bf0fa633402b3984
+
+Package: com.sbhnkhrmn.qrscanner.pro
+Name: Qr Scanner : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Qr Scanner Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.qrscanner.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_QrScanner.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.qrscanner.pro/index.php
+Homepage : https://apps.apple.com/app/id1034292767
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.2
+Filename: ./debs/com.sbhnkhrmn.qrscanner.pro_1.2_iphoneos-arm.deb
+Size: 6336
+MD5sum: 4fb36ddd23e628e2b3b8b482cb2cc40f
+Sha1: a1bf94ee6fb42412a01219898b67bf2fab40f85e
+Sha256: b7c15f99b90411a0c69ff3ea00167d29e9ef1cdeefe735510a398102faf8a893
+
+Package: com.sbhnkhrmn.quickshot.pro
+Name: Quickshot : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Quickshot application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.quickshot.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_QuickShot.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.quickshot.pro/index.php
+Homepage : https://apps.apple.com/tr/app/enlight-quickshot/id1254875992?l=tr
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.5.6
+Filename: ./debs/com.sbhnkhrmn.quickshot.pro_1.5.6_iphoneos-arm.deb
+Size: 4072
+MD5sum: 7bd4076b3cda3434234bb30d38abe432
+Sha1: d79213a355e78a6b71691dcc032e58576044d569
+Sha256: ed77a2eee705a6702bbcfb270e9e7e0ffa431eb615148e5bb6ef096f10f24e52
+
+Package: com.sbhnkhrmn.ripl.pro
+Name: Ripl : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Ripl Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.ripl.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Ripl.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.ripl.pro/index.php
+Homepage : https://apps.apple.com/app/id1030906799
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 4.0.20
+Filename: ./debs/com.sbhnkhrmn.ripl.pro_4.0.20_iphoneos-arm.deb
+Size: 5136
+MD5sum: b04e7159a38ab93bf2d58babddd03878
+Sha1: b7ef71c3144bcab07900a2de4ccc67c141c1254e
+Sha256: 503abde2cd01370db2bf8a8e8dd6ce8fb9e3bef820c062538e8d83c8083f00fa
+
+Package: com.sbhnkhrmn.scannertranslator.pro
+Name: ScannerTranslator : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Scanner Translator Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.scannertranslator.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_ScannerTranslator.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.scannertranslator.pro/index.php
+Homepage : https://apps.apple.com/app/id845139175
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 5.0
+Filename: ./debs/com.sbhnkhrmn.scannertranslator.pro_5.0_iphoneos-arm.deb
+Size: 7368
+MD5sum: d7058f7b62bc4c65e604e77833b81cc4
+Sha1: 3fc0a1029e4389fba00910ce53091f8b421ac195
+Sha256: 0be3d9bbb3aac8fd0ed67a80d40b25833015c76a05f152944b319160472a441a
+
+Package: com.sbhnkhrmn.skecthes.pro
+Name: Skecthes : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Skecthes Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.skecthes.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Skecthes.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.skecthes.pro/index.php
+Homepage : https://apps.apple.com/app/id641900855
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 23.8
+Filename: ./debs/com.sbhnkhrmn.skecthes.pro_23.8_iphoneos-arm.deb
+Size: 4030
+MD5sum: b3f649ac8eba464f9b393d86933199f1
+Sha1: b1d992f70018b3923cd12eb7071dc0d5e79e4952
+Sha256: 0d41c6ee5394b36cf4c7700c85273879d8390a3bc2d1d90b3f606fca0b152a0b
+
+Package: com.sbhnkhrmn.starvpn.pro
+Name: Star Vpn : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Star Vpn Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.starvpn.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_StarVpn.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.starvpn.pro/index.php
+Homepage : https://apps.apple.com/app/id1115864690
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 3.1.0
+Filename: ./debs/com.sbhnkhrmn.starvpn.pro_3.1.0_iphoneos-arm.deb
+Size: 5172
+MD5sum: 9bc8a80d9fa77b4b499f21a1c996cbd6
+Sha1: a0d14f443bbfd62467f86bd4d1bddcb181370190
+Sha256: a7d336b3193f8854b60af071f7937be43ee19de73b6642f50debdebe299bcbbf
+
+Package: com.sbhnkhrmn.torvpn.pro
+Name: TOR Vpn : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of TOR Vpn Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.torvpn.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_TorVpn.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.torvpn.pro/index.php
+Homepage : https://apps.apple.com/app/id1227411543
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.1.1
+Filename: ./debs/com.sbhnkhrmn.torvpn.pro_2.1.1_iphoneos-arm.deb
+Size: 5736
+MD5sum: c2aaadb93baf7c1e7fd4db86c6f15534
+Sha1: c27e94fc6c458698ea706f4d343312eeeed039d7
+Sha256: bdcd775f40d7b4e3b08bf790a0058b0d56ad45101119bb6ae085effd5c40dbfc
+
+Package: com.sbhnkhrmn.translatephoto.pro
+Name: Translate Photo : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Translate Photo Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.translatephoto.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_TranslatePhoto.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.translatephoto.pro/index.php
+Homepage : https://apps.apple.com/app/id896187714
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 4.5
+Filename: ./debs/com.sbhnkhrmn.translatephoto.pro_4.5_iphoneos-arm.deb
+Size: 6364
+MD5sum: 8d615233a850e6a860ae6e2959c4b9d2
+Sha1: 4b8155cad74fd227ca50bd6a1b77d6ec460f3128
+Sha256: 0ed939a4c6992e5515b61b86e70b556ebe8d200872cade027a4aed6501655e8d
+
+Package: com.sbhnkhrmn.turbovpn.pro
+Name: Turbo Vpn : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Turbo Vpn Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.turbovpn.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_TurboVpn.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.turbovpn.pro/index.php
+Homepage : https://apps.apple.com/app/id1365309175
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.4.6
+Filename: ./debs/com.sbhnkhrmn.turbovpn.pro_2.4.6_iphoneos-arm.deb
+Size: 4774
+MD5sum: f50b5bf7517215aba794af195c9daea8
+Sha1: e34d223fdc181b5c6062a97360aa4ad118101eff
+Sha256: 43be48fb513a9aa1d762e7b493a9caf3cb16932243c2f44d83292633879eac1a
+
+Package: com.sbhnkhrmn.vcus.pro
+Name: Vcus : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Vcus application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.vcus.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Vcus.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.vcus.pro/index.php
+Homepage : https://apps.apple.com/app/id1445969821
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.2.020
+Filename: ./debs/com.sbhnkhrmn.vcus.pro_1.2.020_iphoneos-arm.deb
+Size: 5092
+MD5sum: 3b4fd5af5b6d96241931ec16f791a0fa
+Sha1: 889aeb1fffb889b01c1443375b72c31595ce7f22
+Sha256: c93e6887028b61d281f7f7a76ab3aa909dd6418899b7e0dbf99831729829941f
+
+Package: com.sbhnkhrmn.videoshop.pro
+Name: Video Shop : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Video Shop Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.videoshop.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_VideoShop.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.videoshop.pro/index.php
+Homepage : https://apps.apple.com/app/id615563599
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 7.7.0.2
+Filename: ./debs/com.sbhnkhrmn.videoshop.pro_7.7.0.2_iphoneos-arm.deb
+Size: 4550
+MD5sum: e15d42b46e3173fcebb55ff3e98f34b3
+Sha1: caf08e76db78f3f2d6b9189fb48348970b5baf17
+Sha256: 7958fe6c3584852a22edb6188aae7522f8af0763826c4ec7a7f8c2d262ef2362
+
+Package: com.sbhnkhrmn.videoleap.pro
+Name: Videoleap : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Videoleap application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.videoleap.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Videoleap.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.videoleap.pro/index.php
+Homepage : https://apps.apple.com/app/id1255135442
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.12.5
+Filename: ./debs/com.sbhnkhrmn.videoleap.pro_1.12.5_iphoneos-arm.deb
+Size: 4212
+MD5sum: 70f564fe8e8604455b303f47c4445698
+Sha1: a7f9821b7663dfc3d53897e7058361be50bb2026
+Sha256: 79778d55d363ca5a00c319f08d417bdccdf3a6e6333ccdb2af3aeb03c748f3a7
+
+Package: com.sbhnkhrmn.vivavideo.pro
+Name: VivaVideo : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of vivaVideo Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.vivavideo.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_VivaVideo.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.vivavideo.pro/index.php
+Homepage : https://apps.apple.com/app/id738897668
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 7.17.3
+Filename: ./debs/com.sbhnkhrmn.vivavideo.pro_7.17.3_iphoneos-arm.deb
+Size: 4208
+MD5sum: 3ebafa101c5655239de57c40b264a513
+Sha1: 3b932a0333fda3828f7687ef312c299f3c6aa0ef
+Sha256: f58ee2cfedb4f86bf4a3133bab1a966cd187e54751eea5c6b1bebd7467b0fc1e
+
+Package: com.sbhnkhrmn.vpnalpha.pro
+Name: Vpn Alpha : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Vpn Alpha application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.vpnalpha.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_VpnAlpha.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.vpnalpha.pro/index.php
+Homepage : https://apps.apple.com/app/id1234979591
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.6
+Filename: ./debs/com.sbhnkhrmn.vpnalpha.pro_1.6_iphoneos-arm.deb
+Size: 4218
+MD5sum: d75ea06c9afea7bcdee4e79d5dc6c0e6
+Sha1: c71c650c0f3bd828f1513945bcd2777e6894cfc5
+Sha256: ebc0e19b61d938692bf9241688f7030ec3a89f9d00590a54c9642f47f363c8fe
+
+Package: com.sbhnkhrmn.vpnbubble.pro
+Name: VPN Bubble : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of VPN Bubble application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.vpnbubble.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_VpnBubble.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.vpnbubble.pro/index.php
+Homepage : https://apps.apple.com/app/id1477034811
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.2
+Filename: ./debs/com.sbhnkhrmn.vpnbubble.pro_1.2_iphoneos-arm.deb
+Size: 4564
+MD5sum: 21f905a368da7b8f15232cf858486690
+Sha1: 053634851edac3a06567c7da6875ed1fe5e1413b
+Sha256: 8cc57a9bb32346a26e909886b97aa7a1b2b2bd8fd47c1dd580a0c83dd7a10f0e
+
+Package: com.sbhnkhrmn.vpnintouch.pro
+Name: VPN in Touch : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Platinum features of VPNinTouch application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.vpnintouch.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_VpnTouch.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.vpnintouch.pro/index.php
+Homepage : https://apps.apple.com/app/id464241430
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 5.4.3
+Filename: ./debs/com.sbhnkhrmn.vpnintouch.pro_5.4.3_iphoneos-arm.deb
+Size: 4598
+MD5sum: 99a86fc1e97ba9d27bfbd110a480e596
+Sha1: 53e53506e37d29d563dd334526522343481c51d4
+Sha256: 6bcc72bddde45a322576610c922686b766d21aff7766a060b83519cef1bdc298
+
+Package: com.sbhnkhrmn.vpnprime.pro
+Name: VPN Prime : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of VPNPrime application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.vpnprime.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_VpnPrime.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.vpnprime.pro/index.php
+Homepage : https://apps.apple.com/app/id1248773446
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.7.0
+Filename: ./debs/com.sbhnkhrmn.vpnprime.pro_1.7.0_iphoneos-arm.deb
+Size: 4734
+MD5sum: f63087cb7db639c45a42ed0d44f11b88
+Sha1: a1c5634ee5a27a951b169d428c94d54d7692d9c3
+Sha256: f25f416b97f5454e71d2b36082c8f660502b9251dc6f5a2c0621d52a729502d0
+
+Package: com.sbhnkhrmn.vpnproxymaster.pro
+Name: Vpn Proxy Master : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Vpn Proxy Master Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.vpnproxymaster.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_VpnProxyMaster.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.vpnproxymaster.pro/index.php
+Homepage : https://apps.apple.com/app/id1025707485
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 5.3.1
+Filename: ./debs/com.sbhnkhrmn.vpnproxymaster.pro_5.3.1_iphoneos-arm.deb
+Size: 5138
+MD5sum: 0555d2476d706ba765e01af06e437ac3
+Sha1: 311ed47ff997518127d51e3f10ee3f8dae4c31e9
+Sha256: 6853be837bd48c1718240e07f53ac397484d8fa42bef608fa55e0ed86befb755
+
+Package: com.sbhnkhrmn.wallpapers.apalon.pro
+Name: Wallpapers ( Apalon ) : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Wallpapers ( Apalon ) Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wallpapers.apalon.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WallpaperApolon.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wallpapers.apalon.pro/index.php
+Homepage : https://apps.apple.com/app/id749046891
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 5.13.0
+Filename: ./debs/com.sbhnkhrmn.wallpapers.apalon.pro_5.13.0_iphoneos-arm.deb
+Size: 4278
+MD5sum: 1231072ee053632d6b4204292f9523fc
+Sha1: 354db73771ed3e6b84b465371c6bad556a478ca8
+Sha256: 3dedc3b74c9aef6826cf416a68073700211481e357b0963bbc3da1421169ee8f
+
+Package: com.sbhnkhrmn.weatherlive.pro
+Name: Weather Live : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Weather Live Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.weatherlive.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WeatherLive.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.weatherlive.pro/index.php
+Homepage : https://apps.apple.com/app/id749083919
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 6.12.0
+Filename: ./debs/com.sbhnkhrmn.weatherlive.pro_6.12.0_iphoneos-arm.deb
+Size: 5016
+MD5sum: 957acbfcd9e45d7013656574c93c6fc3
+Sha1: 5888a363f8b3233f36cb20df399b1025551e476f
+Sha256: 864e0ec63795b353b030128661e353e4988b6cde556bba415a27777789bcc16d
+
+Package: com.sbhnkhrmn.wpsoffice.pro
+Name: WPS Office : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of WPS Office Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wpsoffice.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WpsOffice.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wpsoffice.pro/index.php
+Homepage : https://apps.apple.com/app/wps-office/id1491101673
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 10.6.1
+Filename: ./debs/com.sbhnkhrmn.wpsoffice.pro_10.6.1_iphoneos-arm.deb
+Size: 7348
+MD5sum: fd3aa5d1ef0c62c765d2be2fd8d06114
+Sha1: 7a06f673fb20d911bae3df5a78e6216c9f7ad88e
+Sha256: 32a40936a2eaf8443375d6987548b29edba607b8215725bdfebced1d3b434f9b
+
+Package: com.sbhnkhrmn.youstar.pro
+Name: YouStar ( Video Edit ) : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of YouStar Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.youstar.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_YouStarEdit.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.youstar.pro/index.php
+Homepage : https://apps.apple.com/app/id1116760985
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.6.1
+Filename: ./debs/com.sbhnkhrmn.youstar.pro_1.6.1_iphoneos-arm.deb
+Size: 4520
+MD5sum: 6694f4ab58332a68e051d74b260065d4
+Sha1: 196966e0269c12723aaba3bd630b06f9aad6fa08
+Sha256: caf6cd99be83e1251da97a67df673b666f8f13aa5214c34453e4637ff7b770e7
+
+Package: com.sbhnkhrmn.dock.backgroundhidden
+Name: Dock : Background / Hide
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: removes the built-in dock background.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dock.backgroundhidden/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dock.backgroundhidden/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.dock.backgroundhidden_0.0.1_iphoneos-arm.deb
+Size: 4510
+MD5sum: 624779d2efd6474b7a18f9d001345530
+Sha1: cf5fb587e9b356b803668458011fb889c43f3839
+Sha256: 3a1f4549bcb910a031eb7ba819710de4003da8b54939f4381b609d007dbeea2a
+
+Package: com.sbhnkhrmn.dock.stylex
+Name: Dock Style iPhone X
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: iPhone X style Dock now supports iPhone 8
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dock.stylex/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dock.stylex/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.dock.stylex_0.0.1_iphoneos-arm.deb
+Size: 4022
+MD5sum: 311dfe2d53b4767217dba5bdf6314659
+Sha1: 4119e4c38aacd1ff870a5de40267a31126994610
+Sha256: b732da4d5aa84099bc31ef80f96379507267fcbf987ae2b61c04ec61aecd4078
+
+Package: com.sbhnkhrmn.wa.addcontactunlimited
+Name: WA : Add Contacts / Unlimited
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Adding contacts is unlimited. 256 or 10000.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wa.addcontactunlimited/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WhatsApp.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.wa.addcontactunlimited/index.php
+Homepage : https://apps.apple.com/app/id310633997
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wa.addcontactunlimited_0.0.1_iphoneos-arm.deb
+Size: 4990
+MD5sum: 76a49466d35886b6ffb0f0113c5bda34
+Sha1: 0178205cfdcc4c921a9068b5581c4fb161cbe457
+Sha256: 8fba877796ea099b6776e5384f4174ba3c60ea913f7b080c38ef0b4530ca01d2
+
+Package: com.sbhnkhrmn.wa.chat.keyboardonappear
+Name: WA : Chat / Keyboard on Appear
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Automatically launches the keyboard when entered in the message page.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wa.chat.keyboardonappear/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WhatsApp.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.wa.chat.keyboardonappear/index.php
+Homepage : https://apps.apple.com/app/id310633997
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wa.chat.keyboardonappear_0.0.1_iphoneos-arm.deb
+Size: 4086
+MD5sum: 25b2244090efabd4cd1da4b8bf0e4de0
+Sha1: 2eb6e9923d2b7c64234c46a1d5a183ab86a74144
+Sha256: 1d8f16f58173f1565688977d1593619b50a2e168205eb361f1ecd6ab0f8a20c1
+
+Package: com.sbhnkhrmn.wa.deletemessagerevoke
+Name: WA : Delete Message Revoke
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: the message is not deleted from you even if the other party says delete the message from everyone.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wa.deletemessagerevoke/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WhatsApp.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.wa.deletemessagerevoke/index.php
+Homepage : https://apps.apple.com/app/id310633997
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wa.deletemessagerevoke_0.0.1_iphoneos-arm.deb
+Size: 4490
+MD5sum: 536d8fee237bde08c8bf1577b6415671
+Sha1: 4b6bedf7d9c3479b4f01e9964a98c99c122a26b2
+Sha256: 9d6dc492bd0c5e84b14f638b8268256205a1b2427875e9201aece6da049b1fd3
+
+Package: com.sbhnkhrmn.wa.deliveryreceipts
+Name: WA : Delivery Receipts
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Your contacts will not see that you received their messages.it will show only one check.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wa.deliveryreceipts/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WhatsApp.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.wa.deliveryreceipts/index.php
+Homepage : https://apps.apple.com/app/id310633997
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wa.deliveryreceipts_0.0.1_iphoneos-arm.deb
+Size: 4318
+MD5sum: 93d3219b95d6ef2976cf276980c4e3a8
+Sha1: f8fb1eafc607f30f7cdaf7a93aae429973717ade
+Sha256: 5ec1c3179ed56bd2a08cfc19b7e11ea10116cb1ed256f9875cb8d00c0b951ed7
+
+Package: com.sbhnkhrmn.wa.oldUpdatesrevoke
+Name: WA : Old Updates Revoke
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: 90 Days Updates Bloke Unlimited
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wa.oldUpdatesrevoke/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WhatsApp.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.wa.oldUpdatesrevoke/index.php
+Homepage : https://apps.apple.com/app/id310633997
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wa.oldUpdatesrevoke_0.0.1_iphoneos-arm.deb
+Size: 4658
+MD5sum: 6c11ea7c82e997fadb537162cafbaeca
+Sha1: 77acfbbc5d52f1e28bba852a6dfb8c10360a7367
+Sha256: 841091c6cf6c0c312c78d6b0fd7794643d6894477258d2fa333c9d727d7df90d
+
+Package: com.sbhnkhrmn.wa.photosandvideosshare
+Name: WhatsApp : Photos and Videos Share Unlimited
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Removes the limit for sharing pictures and videos.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wa.photosandvideosshare/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WhatsApp.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.wa.photosandvideosshare/index.php
+Homepage : https://apps.apple.com/app/id310633997
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wa.photosandvideosshare_0.0.1_iphoneos-arm.deb
+Size: 4432
+MD5sum: 6a7503d164738d73ac6e8de202ebe88f
+Sha1: 483cc2658aec3b68981021c72821515b32f966d0
+Sha256: 32eed2c440413009549389fba587b540518b252c6e56839d9bcfa7a9e85266a7
+
+Package: com.sbhnkhrmn.wa.profile.characteror256
+Name: WA : Profile / Character OR 256
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Profile name character limit changed to 256.Profile Status character limit changed to 256.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wa.profile.characteror256/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WhatsApp.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.wa.profile.characteror256/index.php
+Homepage : https://apps.apple.com/app/id310633997
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wa.profile.characteror256_0.0.1_iphoneos-arm.deb
+Size: 4740
+MD5sum: 287e671ff82ed232bcbdac2354892645
+Sha1: e1bc14c5bc71a69ccc5f077157a41091dfe87d18
+Sha256: 17a00525e425eba6ad1f95779ddc63628334481717de23236623365fdf0e81b7
+
+Package: com.sbhnkhrmn.wa.readreceipts
+Name: WhatsApp : Read Receipts
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: The message is counted as delivered but unread even if the blue click for the report has been turned on in the settings.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wa.readreceipts/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WhatsApp.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.wa.readreceipts/index.php
+Homepage : https://apps.apple.com/app/id310633997
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wa.readreceipts_0.0.1_iphoneos-arm.deb
+Size: 4642
+MD5sum: aef7b9ccd72a2c06ba97730d918c3aca
+Sha1: 5d664730a29c8c4b7163c6bbc4ea210e36b24cbd
+Sha256: 7849a9ad364b8b597c4512ec53a78536b7d75686ff22aa13bf027ce787343a68
+
+Package: com.sbhnkhrmn.wa.senddeliveryreceipts
+Name: WA : Send Delivery Receipts
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Appears as One-Click unless the message content is checked.  According to the content, it is changed to Blue Click.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wa.senddeliveryreceipts/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WhatsApp.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.wa.senddeliveryreceipts/index.php
+Homepage : https://apps.apple.com/app/id310633997
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wa.senddeliveryreceipts_0.0.1_iphoneos-arm.deb
+Size: 4580
+MD5sum: 67b04381d06cdd3794ffa25eecf583f8
+Sha1: 15946ad8acd16204ec06696c36eed81fe24ee701
+Sha256: bbeb2b91a1877cbac65bdd3682c155d7ea79791d7cb7ebe31ccb795ff0c7f84f
+
+Package: com.sbhnkhrmn.wa.story.autoadvancedisable
+Name: WA : Story / Auto Advance Disable
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Disables advancing stories automatically.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wa.story.autoadvancedisable/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WhatsApp.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.wa.story.autoadvancedisable/index.php
+Homepage : https://apps.apple.com/app/id310633997
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wa.story.autoadvancedisable_0.0.1_iphoneos-arm.deb
+Size: 4122
+MD5sum: ee9f129d48ed79e25d59521a61646c33
+Sha1: b10a49802dc155133e80f1be665cfeb7bb24b9f6
+Sha256: e6601a9a6a21561a0ed165eb3b1df0c35a799a9c9e40ef5f9321f002ed546898
+
+Package: com.sbhnkhrmn.wa.story.markviewed
+Name: WA : Story / Mark Viewed
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: The message is counted as delivered but unread even if the blue click for the report has been turned on in the settings.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wa.story.markviewed/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WhatsApp.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.wa.story.markviewed/index.php
+Homepage : https://apps.apple.com/app/id310633997
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wa.story.markviewed_0.0.1_iphoneos-arm.deb
+Size: 4140
+MD5sum: 16af9db20ac2298ac79e9d2f9a582654
+Sha1: 76ee7cbcb4e06f465c4bb08fa3ab05c95d8bd9e4
+Sha256: d15221868abbd5feb039716eea03b9130823d738238d5304efd7198aa7b13834
+
+Package: com.sbhnkhrmn.wa.typingandrecordingindicator
+Name: WA : Typing and Recording / Hide
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: hides the message of writing and recording sound.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wa.typingandrecordingindicator/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WhatsApp.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.wa.typingandrecordingindicator/index.php
+Homepage : https://apps.apple.com/app/id310633997
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wa.typingandrecordingindicator_0.0.1_iphoneos-arm.deb
+Size: 4584
+MD5sum: 406d5d9ea3efaf36dd6301f3ef84134a
+Sha1: d28936830a7ba9d6dc8794aaf0d77e97ec248bf4
+Sha256: 5ff9effb8195612e619a2757b5c9a29acab716bcd8857a3054a015305117f42f
+
+Package: com.sbhnkhrmn.phonedrive.pro
+Name: Phone Drive : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Phone Drive Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.phonedrive.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_PhoneDrive.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.phonedrive.pro/index.php
+Homepage : https://apps.apple.com/app/id434342171
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 7.6.6
+Filename: ./debs/com.sbhnkhrmn.phonedrive.pro_7.6.6_iphoneos-arm.deb
+Size: 4298
+MD5sum: 4ae96faf79b99ed931d75a59f0239089
+Sha1: 8ff1df56d9437abf98a184f256c804ee4f43fa8a
+Sha256: d4397ce7a9e020d71d57e7a8110a71dd4244180a6f369ff63ff07f6c2025bc75
+
+
+Package: com.sbhnkhrmn.tinder.pro
+Name: Tinder : Pro
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Activates Premium features of Tinder Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tinder.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Tinder.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tinder.pro/index.php
+Homepage : https://apps.apple.com/ua/app/tinder-match-chat-date/id547702041
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 11.10.2
+Filename: ./debs/com.sbhnkhrmn.tinder.pro_11.10.2_iphoneos-arm.deb
+Size: 9246
+MD5sum: 6ec63719f003c4bb7668f050404d2c51
+Sha1: 6f942bcab355b34f950fd02b1b8e34589471288c
+Sha256: 26330ff878d398f5f3b01335f2b57de8c746a1c6125aca6c7877019019c2f803
+
+Package: com.sbhnkhrmn.folder.backgroundblur
+Name: Folder: Background Blur / Disable
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: Removes Folder Background Blur. Cleans the HomeScreen Screen
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.folder.backgroundblur/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.folder.backgroundblur/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.folder.backgroundblur_0.0.1_iphoneos-arm.deb
+Size: 4856
+MD5sum: c254beee37160ab72fbf6c8aa25271ed
+Sha1: 0e6e37175bb45b47a416cbe3457599ac537705e7
+Sha256: c36c70e6ee99d54b4b3a1f7f932a00bc4ffeaaf14074eaa678d965fef810cd4e
+
+Package: com.sbhnkhrmn.folder.iconsbackgroundblur
+Name: Folder: Icons Background Blur / Disable
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: Removes Folder Icons Background Blur. Cleans the HomeScreen Screen.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.folder.iconsbackgroundblur/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.folder.iconsbackgroundblur/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.folder.iconsbackgroundblur_0.0.1_iphoneos-arm.deb
+Size: 4684
+MD5sum: 00069e403506c4225454d22c3957f8a9
+Sha1: d1f0e1cfcce76395ba32c28b8d4d665f57407651
+Sha256: 97da8a312953d36eb36102e8430e7932f38ba86818868ff7b3218f394c7fb203
+
+Package: com.sbhnkhrmn.folder.title.disable
+Name: Folder : Title / Disable
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: Disables folder names.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.folder.title.disable/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.folder.title.disable/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.folder.title.disable_0.0.1_iphoneos-arm.deb
+Size: 4028
+MD5sum: ae85283c8bbf65996a9cff6a466e66e2
+Sha1: 2f294691cf4a309147ee47fa234b44348c74bc1b
+Sha256: 0fc7aac5e404dc95f1cf46bea1203559b402491d3ac3e4fdedd2feb6ae139212
+
+Package: com.sbhnkhrmn.homescreen.dots.disable
+Name: HS : Dots / Disable
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: scroll page dots are disabled.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.dots.disable/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.dots.disable/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.homescreen.dots.disable_0.0.1_iphoneos-arm.deb
+Size: 4160
+MD5sum: 4bbe29eb2b790664e5dda00626a4a80f
+Sha1: 0943a762c705df0978581aed1e406853a8afcdb8
+Sha256: 6820e362e5d39a2e02f0d779b3f02935198570627c8c08deed377d03b7a473ab
+
+Package: com.sbhnkhrmn.homescreen.iconsalphabetically
+Name: HS : Icons Alphabetically
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: arranges the icons in letter order.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.iconsalphabetically/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.iconsalphabetically/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.homescreen.iconsalphabetically_0.0.1_iphoneos-arm.deb
+Size: 4210
+MD5sum: d8259a4fba2816d54ab699a2d12b95ff
+Sha1: 6efdfa2ef3b196c25db9bcdb38586c461235c8ef
+Sha256: 3e0a3547bf4a8bbea993d3fe99295fd2057f414c4cf0e2d3a9bc199a189d816f
+
+Package: com.sbhnkhrmn.homescreen.label.accessory.disable
+Name: HS : Label Accessory / Disable
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: The updated app and Testflight disable the blue and orange notification indicating installed apps.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.label.accessory.disable/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.label.accessory.disable/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.homescreen.label.accessory.disable_0.0.1_iphoneos-arm.deb
+Size: 4346
+MD5sum: bcbe27f2f0350a4284f99bcc51aa18e6
+Sha1: 36fa5855574d17590316a54451b49e6f65e3f41b
+Sha256: a3b44066198d2bb5a30142d0c81e9e0bb249c2bf3234efdb42a983fe3a0da61b
+
+Package: com.sbhnkhrmn.homescreen.label.hidden
+Name: HS : Label / Hidden
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: Hides Application names on Home Screen
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.label.hidden/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.label.hidden/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.homescreen.label.hidden_0.0.1_iphoneos-arm.deb
+Size: 4062
+MD5sum: 363035b6f6e5412b710908bb59e4533a
+Sha1: cfaa067536f5a2ca934d45e9c6fc78efc64a90b7
+Sha256: 2df6d0e3f3b28ceb5c151d6c66cc7b2e493cc1c18ee5d0b1c1e93cf63e187e8d
+
+Package: com.sbhnkhrmn.homescreen.rotation.styleipad
+Name: Rotation : Style / iPad
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: With the direction lock unlocked, the landscape view changes with the ipad style.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.rotation.styleipad/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.rotation.styleipad/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.homescreen.rotation.styleipad_0.0.1_iphoneos-arm.deb
+Size: 4302
+MD5sum: 33edc5ca9aeb66356ad039c219964f98
+Sha1: 9ec8bd22a114efd8e35873fac39c1511c5dea88e
+Sha256: 0d4aecbef5ddbb6bf9a28a8e707f78a90893002dfca005dc8eff1f806656ae6d
+
+Package: com.sbhnkhrmn.homescreen.searchgesture.disable
+Name: HS : Search Gesture / Disable
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: swipe search is disabled on the home screen.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.searchgesture.disable/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.searchgesture.disable/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.homescreen.searchgesture.disable_0.0.1_iphoneos-arm.deb
+Size: 4324
+MD5sum: 2102303f2a6051dccd7ceb35b3284f25
+Sha1: 8ee400c8cd50b09c60a323b8dde8f75ddbfa4229
+Sha256: 9343b71e42fb2f6f6111e80ff48f1fbda918a7b8daf12cc6be6314abe1428a78
+
+Package: com.sbhnkhrmn.homescreen.todaypage
+Name: HS Today Page Disable
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: the home screen also disables the page today.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.todaypage/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homescreen.todaypage/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.homescreen.todaypage_0.0.1_iphoneos-arm.deb
+Size: 4520
+MD5sum: 85c537ecf5c1541f1a8025399a4dd92e
+Sha1: af82aad8479b99fb508e0ca8c21faf5aa9da5ddf
+Sha256: a3e9b932c0f1c0bf035b809d915fbf398fe952be3adec23e55b42c9df37506a2
+
+Package: com.sbhnkhrmn.lockscreen.autorotate
+Name: LS : Auto Rotate
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: lock screen rotates like ipad with direction lock unlocked.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.lockscreen.autorotate/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.lockscreen.autorotate/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.lockscreen.autorotate_0.0.1_iphoneos-arm.deb
+Size: 4066
+MD5sum: ef40f2a860016a6c2bc694a3a8b627db
+Sha1: 35118f200e0331c88d75e9ee6fe1017930f5171f
+Sha256: 7c716c70f71dc173d790e9404806339710346b467bfcf4329678a8158e9b1193
+
+Package: com.sbhnkhrmn.lockscreen.lowpoweralert
+Name: LS : Low Power Alert
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description:Low battery alert on the lock screen
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.lockscreen.lowpoweralert/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.lockscreen.lowpoweralert/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.lockscreen.lowpoweralert_0.0.1_iphoneos-arm.deb
+Size: 4038
+MD5sum: 09764aecddc664510e673f2c8d8b11c6
+Sha1: 9944d168cb2cd61773de4d01e6def6295a334501
+Sha256: ad970214c07e4b454472c691808e6dd135b1d4a407b7594f5bc56bce77212c89
+
+Package: com.sbhnkhrmn.lockscren.notification.cameraview.disable
+Name: LS / NC : Camera View Disable
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: Disables camera page from Lock screen and Notification screen.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.lockscren.notification.cameraview.disable/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.lockscren.notification.cameraview.disable/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.lockscren.notification.cameraview.disable_0.0.1_iphoneos-arm.deb
+Size: 4378
+MD5sum: 9da5af589af00f762b5a57eb00b202c9
+Sha1: 0d251ea5488188fcaab81168e769fe3706bd5c1c
+Sha256: e9072bf9eb88947ccbe3a403503b0e1995969385285c90d37493179fc5c99e58
+
+Package: com.sbhnkhrmn.lockscren.notification.todayview.disable
+Name: LS / NC : Today View Disable
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: Disables the page today from the lock screen and Notification screen.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.lockscren.notification.todayview.disable/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.lockscren.notification.todayview.disable/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.lockscren.notification.todayview.disable_0.0.1_iphoneos-arm.deb
+Size: 4166
+MD5sum: dfbfd890f81f8a863d44ef3df83ff080
+Sha1: 95a3b3bf6c965a8d5e60f7e3e4428a4162c102ff
+Sha256: fdb3a954ef82250b8498a1790185ab8dd70dbfa13a19cb47635886e3206ac143
+
+Package: com.sbhnkhrmn.statusbar.breadcrumb.disable
+Name: SB Breadcrumb Disable
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: disables the fast return feature in the status bar
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.statusbar.breadcrumb.disable/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.statusbar.breadcrumb.disable/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.statusbar.breadcrumb.disable_0.0.1_iphoneos-arm.deb
+Size: 4050
+MD5sum: d324ed741ebb59d9c1321444754892e4
+Sha1: 6e341aa1555abc86c8545b7d75388404597c4831
+Sha256: fb2650fd447a206cc3f33ed83beda0ef7932f8526223430f98a84de9522ddde2
+
+Package: com.sbhnkhrmn.statusbar.styleipad
+Name: Statusbar : Style / iPad
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: iPad style status bar now supports iPhone
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.statusbar.styleipad/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.statusbar.styleipad/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.statusbar.styleipad_0.0.1_iphoneos-arm.deb
+Size: 4034
+MD5sum: e73ee21c70bfa62fe9099395821d07a3
+Sha1: d5a7159494e746462586fbc3c609b6a65352f855
+Sha256: b7605da25898b7806e57479ccd0fc43a3ebf1a9146b37b86c3d38a483ca7d466
+
+Package: com.sbhnkhrmn.switcher.noblur
+Name: Switcher : Blur / Disable
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: switcher removes background blur. As an extra, floating icons on the background are also removed.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.switcher.noblur/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.switcher.noblur/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.switcher.noblur_0.0.1_iphoneos-arm.deb
+Size: 4296
+MD5sum: cdb1280f662906bcb0462ce1a89454bb
+Sha1: 2bf22c4fea29b9042ac81166341b37fede0518fa
+Sha256: 96bd39f63325a93f741861b3cae5465084369579a0f5608f85140a7545121643
+
+Package: com.sbhnkhrmn.switcher.styleipad
+Name: Switcher : Style / iPad
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: ipad application termination screen now supports iphone.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.switcher.styleipad/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.switcher.styleipad/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.switcher.styleipad_0.0.1_iphoneos-arm.deb
+Size: 4864
+MD5sum: aacbc09bc9de721ac9bed3df028012fe
+Sha1: 835f7f255fe2487c74a71a499655a803538caa68
+Sha256: 49f2ffe489fca6a48a3a4db9dc4d68537999f16f23282791be852f24d9ff2076
+
+Package: com.sbhnkhrmn.antirevoke
+Name: Anti Revoke
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=11.0)
+Description: Sign unlimited duration of applications in jailbreak mode.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.antirevoke/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.antirevoke/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.antirevoke_0.0.1_iphoneos-arm.deb
+Size: 4626
+MD5sum: c0a948ecb4983b9183ceefdfd178c813
+Sha1: 0fe9cc4c7496350e87c6fab665d14ad4b74aafec
+Sha256: bbda2df34761a6284bb4c440f9c7a1b6710347c3456739168989339c425333d9
+
+Package: com.sbhnkhrmn.browser.backgroundplayback
+Name: Browser : Background Playback
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: supports all browsers. Removes Run lock in background.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.browser.backgroundplayback/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.browser.backgroundplayback/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.browser.backgroundplayback_0.0.1_iphoneos-arm.deb
+Size: 4472
+MD5sum: e2fb13bfb8344c1767a4b147bc3e456e
+Sha1: de2b761f61ebb9b7acae0a0f668e57530217d727
+Sha256: 3f025b9a688e8312db6afb521c4b67937f5b805505b2428f89d260f43e852cef
+
+Package: com.sbhnkhrmn.dragdropsupport
+Name: Drag and Drop : Support
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=11.0)
+Description: The iPad feature now supports iPhone. Move by making drag and drop
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dragdropsupport/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dock.backgroundhidden/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.dragdropsupport_0.0.1_iphoneos-arm.deb
+Size: 5258
+MD5sum: 1116edc7dea57fc9a16dc792e35bfeef
+Sha1: 7ed81ccda3818367c4e0c7053cef039fa1dc85ed
+Sha256: 00bbbea2f74d81675bca5cd2c18e6df72790001fe9c7c80b50e03b5433a22b0a
+
+Package: com.sbhnkhrmn.fullswipe
+Name: Full Swipe
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: extends the drawer setting. activates long swipe.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.fullswipe/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.fullswipe/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.fullswipe_0.0.1_iphoneos-arm.deb
+Size: 4288
+MD5sum: 5f793d0738868ef2e9ab5129722455f5
+Sha1: 2e9902826c819d368fa610bc8fcafcefd8753e14
+Sha256: ef7d89df6699a3eb064ec8f97725492608c676792e9c7d8f775dc50f1ea00ee2
+
+Package: com.sbhnkhrmn.homebar.autohide
+Name: HB : Auto Hide Home Affordance
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: Automatically hides the home bar bar.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homebar.autohide/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homebar.autohide/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.homebar.autohide_0.0.1_iphoneos-arm.deb
+Size: 4076
+MD5sum: e6d447969e57f646d8e5d4f888eb0bf0
+Sha1: a3768fc3bd8581ef4be63ef0442a2d2f0ed73621
+Sha256: c096282fbef245c915688e8f09836daf8724d0f157c43f252e8c28d9e430c7c7
+
+Package: com.sbhnkhrmn.homegesture.support
+Name: Support : Home Gesture
+Depends: mobilesubstrate, firmware (>=13.0)
+Architecture: iphoneos-arm
+Description: Supports all devices before iphone 8 plus. Adds a home swipe.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homegesture.support/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homegesture.support/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.homegesture.support_0.0.1_iphoneos-arm.deb
+Size: 5198
+MD5sum: 83649a9587810675969739e1f7167880
+Sha1: a8d19bbaad99248a02619faf8193cb1e99ad8c04
+Sha256: d1464ede164ed0acabf4ec08659260c48402a1d31be65700101d23b03036400e
+
+Package: com.sbhnkhrmn.homegesture.support
+Name: Home Gesture : Support
+Depends: mobilesubstrate, firmware (>=13.0)
+Architecture: iphoneos-arm
+Description: Supports all devices before iphone 8 plus. Adds a home swipe.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homegesture.support/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.homegesture.support/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.2
+Filename: ./debs/com.sbhnkhrmn.homegesture.support_0.0.2_iphoneos-arm.deb
+Size: 6022
+MD5sum: 43928573d117095c59fd84a51532b3e9
+Sha1: 63d82e510181dcdf3ae267cce8e210a024dca6b7
+Sha256: fe12d661991dfed6e584c213d2fd66b9aade4852e78a64590bb219686f253050
+
+Package: com.sbhnkhrmn.cc.rightopen
+Name: CC : Right Open
+Depends: mobilesubstrate, firmware (>=13.0)
+Architecture: iphoneos-arm
+Description: Control Center Right open style iPhone X
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.cc.rightopen/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.cc.rightopen/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.cc.rightopen_0.0.1_iphoneos-arm.deb
+Size: 5358
+MD5sum: 44d4e44d22ff6ebeb75c3d8044d59943
+Sha1: 668b21020d8dace2527ebead33cc416261e182b3
+Sha256: 3f4a67a935394d268209126124a95595d8f29998f9a243a04eb2008178f0329a
+
+Package: com.sbhnkhrmn.music.allowrecording
+Name: Music : Allow Recording
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: Prevents Music from turning off while recording Video. Sound continues playing. Indispensable feature for story shooters.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.music.allowrecording/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.music.allowrecording/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.music.allowrecording_0.0.1_iphoneos-arm.deb
+Size: 4296
+MD5sum: 0cf1e7d617014b4990f97f46c151e351
+Sha1: c4b722d31ddf1fcfa88889a334dcd7f84af95f84
+Sha256: 25a5f8a6ddde4f5882f0fbb37321dd802f18009a97c17c21de83f4a0350300a3
+
+Package: com.sbhnkhrmn.wallpaper.autorotatadisabled
+Name: Wallpaper : Auto Rotate / Disable
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: The wallpaper will not rotate even if the direction lock is on.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wallpaper.autorotatadisabled/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wallpaper.autorotatadisabled/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wallpaper.autorotatadisabled_0.0.1_iphoneos-arm.deb
+Size: 4138
+MD5sum: 3bce90850095b06d94b490fd1f3565a2
+Sha1: d7fa340763cd7b0538fac6af8aabdc4094c47a78
+Sha256: e4fe1c2fdfd5fd076555fdc4edb854840ba88fa33d4aa5068f53151867631641
+
+Package: com.sbhnkhrmn.wallpaper.parallax.factor
+Name: Wallpaper : Parallax Factor
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: It expands the speed and space of playing wallpaper. scrolling distance increases.
+Depiction:   https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wallpaper.parallax.factor/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.wallpaper.parallax.factor/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.wallpaper.parallax.factor_0.0.1_iphoneos-arm.deb
+Size: 4192
+MD5sum: 8db269847e6d66c39ad5beb975ccea6b
+Sha1: 64f1d6bbd493dea0b1a98047d2455c6acadf5ff7
+Sha256: 9ba76c36318344b892fceeed9bcdb43d14a990810479c4292f472255b46cd064
+
+Package: com.sbhnkhrmn.statusbar.lteor4g
+Name: LTE or 4G
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: 4G connection appears instead of Lte connection.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.statusbar.lteor4g/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.statusbar.lteor4g/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.statusbar.lteor4g_0.0.1_iphoneos-arm.deb
+Size: 4420
+MD5sum: dcdd9a57f4538ca342184e6ef4506d70
+Sha1: fc6fb52886a0a94f277be5f895250b328fc7aff1
+Sha256: eedbaf6cbd242b32281d03bac9f8ab0079868b4cbde6ed55b3cac0c36fa6b72a
+
+Package: com.sbhnkhrmn.hola.vpn.pro
+Name: Hola Vpn : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Hola Vpn Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.hola.vpn.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_HolaVpn.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.hola.vpn.pro/index.php
+Homepage : https://apps.apple.com/us/app/hola-vpn-privacy-security/id903869356
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.21
+Filename: ./debs/com.sbhnkhrmn.hola.vpn.pro_2.21_iphoneos-arm.deb
+Size: 4746
+MD5sum: afcf6b1c5dd3fda834da0e53f8915470
+Sha1: 03ea810d62dd62f7f55c06a2f0a8e8fb87bc695f
+Sha256: 852e0854bfa92c11b7e4b153bfe57471250736aaaf6f8782e40dcb0929b5bef4
+
+Package: com.sbhnkhrmn.iwebtv.pro
+Name: iWeb TV : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of iWebTv Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.iwebtv.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_iWebTv.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.iwebtv.pro/index.php
+Homepage : https://apps.apple.com/us/app/iwebtv-cast-web-videos-to-tv/id999462129
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.8.63
+Filename: ./debs/com.sbhnkhrmn.iwebtv.pro_1.8.63_iphoneos-arm.deb
+Size: 4766
+MD5sum: e654fe337aecb0e7b56d121af8ef08d8
+Sha1: 8828eccc69e0f965a057ce15f85609e73c9713b9
+Sha256: cbcbd80d3ef655bf2a9de20de3ed7115bc8a8da9fdf8d78e5f661836f4ef3358
+
+Package: com.sbhnkhrmn.photocast.pro
+Name: Photo Cast : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Photo Cast Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photocast.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_PhotoCast.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photocast.pro/index.php
+Homepage : https://apps.apple.com/us/app/photo-video-cast-to-chromecast/id733144626
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 4.11.3
+Filename: ./debs/com.sbhnkhrmn.photocast.pro_4.11.3_iphoneos-arm.deb
+Size: 4722
+MD5sum: edb225f05878c2867f5cc408c2b3e344
+Sha1: 8cde660527138350409e970f8770bbdd1489ec81
+Sha256: 7faf369f843c503b94fa9868d67ac214410c0e4936c7ad4859ebb6cc1d1577c8
+
+Package: com.sbhnkhrmn.rokucast.pro
+Name: Roku Cast: Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Roku Cast Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.rokucast.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_RokuCast.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.rokucast.pro/index.php
+Homepage : https://apps.apple.com/us/app/cast-web-videos-to-roku-tv/id1380510258
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.8.63
+Filename: ./debs/com.sbhnkhrmn.rokucast.pro_1.8.63_iphoneos-arm.deb
+Size: 4544
+MD5sum: 88781124d8aef67649025adf6e98af35
+Sha1: 279dcc8b2439643eb04dbf4433e2efe3e4245ed8
+Sha256: f4b7023c8c58c46d63cf5008be9ce9f312ea6d2e664b95e3ec7c2d023dd1faf0
+
+Package: com.sbhnkhrmn.tvcastfiretv.pro
+Name: Tv Cast ( Fire Tv ): Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Tv Cast Fire Tv Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastfiretv.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_TvCastFireTv.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastfiretv.pro/index.php
+Homepage : https://apps.apple.com/us/app/video-tv-cast-fire-tv-app/id979567301
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.1
+Filename: ./debs/com.sbhnkhrmn.tvcastfiretv.pro_2.1_iphoneos-arm.deb
+Size: 5114
+MD5sum: 44579f7c6dabaa98258f409ec797160f
+Sha1: 0b4546e61bc8ade59adc414f09513279c88b5031
+Sha256: 3313afb97213969b51e9639fdf99f7b2ddf8ced66957754a11561462d2fe9fb4
+
+Package: com.sbhnkhrmn.tvcastc.pro
+Name: Tv Cast C: Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Tv Cast C Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastc.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_TvCastC.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastc.pro/index.php
+Homepage : https://apps.apple.com/us/app/video-tv-cast-chromecast/id907405413
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.2
+Filename: ./debs/com.sbhnkhrmn.tvcastc.pro_2.2_iphoneos-arm.deb
+Size: 5080
+MD5sum: bc501e0b7208081becb4a4f8c8171b0e
+Sha1: e6bbd98ecd39b3066f3e79565792a9a9f54f7879
+Sha256: c124a462d785e91e45689b69a73d92083ed720ffc24a8267b0869769a6d8585d
+
+Package: com.sbhnkhrmn.tvcastdlna.pro
+Name: Tv Cast ( Dlna ): Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Tv Cast Dlna Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastdlna.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_TvCastDlna.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastdlna.pro/index.php
+Homepage : https://apps.apple.com/us/app/video-tv-cast-dlna-upnp-hd/id978357787
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.1
+Filename: ./debs/com.sbhnkhrmn.tvcastdlna.pro_2.1_iphoneos-arm.deb
+Size: 5104
+MD5sum: cbf21046339464e3395f6b7d4d597dc9
+Sha1: 67d9cdda93149c1e6e690297ad5015bcbf9c832d
+Sha256: bb32d7cf4fadf2fa8833b32090140a562f64142db441171e2ce03e50d889afc5
+
+Package: com.sbhnkhrmn.tvcastlg.pro
+Name: Tv Cast LG: Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Tv Cast LG Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastlg.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_TvCastLG.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastlg.pro/index.php
+Homepage : https://apps.apple.com/us/app/video-tv-cast-for-lg-tv/id834494217
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.1
+Filename: ./debs/com.sbhnkhrmn.tvcastlg.pro_2.1_iphoneos-arm.deb
+Size: 5086
+MD5sum: 9dec70e6db04ae7835ce9f5850cd191f
+Sha1: 69988a86bd6a0b78b71e3d47118560265af1d003
+Sha256: 72e306765cc1a0e78fb314d6399ef8246e47aa697c6296c9ed65033ef385db40
+
+Package: com.sbhnkhrmn.tvcastnexus.pro
+Name: Tv Cast ( Nexus ): Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Tv Cast Nexus Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastnexus.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_TvCastNexus.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastnexus.pro/index.php
+Homepage : https://apps.apple.com/us/app/video-tv-cast-google-cast/id987425514
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.1
+Filename: ./debs/com.sbhnkhrmn.tvcastnexus.pro_2.1_iphoneos-arm.deb
+Size: 5112
+MD5sum: b4c04c25c3ee70c68d17127935edfc3f
+Sha1: 8de20c848963a4365b9632a084ea7a4a8eee7c45
+Sha256: f8387f79f8b70f393d02d9773e27db5f17db73b582c71fc3a3595128b935f85b
+
+Package: com.sbhnkhrmn.tvcastroku.pro
+Name: Tv Cast ( Roku ): Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Tv Cast Roku Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastroku.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_TvCastRoku.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastroku.pro/index.php
+Homepage : https://apps.apple.com/us/app/video-tv-cast-roku-player/id969086312
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.1
+Filename: ./debs/com.sbhnkhrmn.tvcastroku.pro_2.1_iphoneos-arm.deb
+Size: 5110
+MD5sum: d3165eb600e4e529d1bc57ae299df4ff
+Sha1: 11500b14c72576bb2692e472ccca62477025416a
+Sha256: a816ed28690098de6560b4cda766e3561ac9275c04f19c4f2e11c2e005da82a3
+
+Package: com.sbhnkhrmn.tvcastsamsung.pro
+Name: Tv Cast ( Samsung ): Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Tv Cast Samsung Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastsamsung.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_TvCastSamsung.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastsamsung.pro/index.php
+Homepage : https://apps.apple.com/us/app/video-tv-cast-samsung-tv/id973895042
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.1.1
+Filename: ./debs/com.sbhnkhrmn.tvcastsamsung.pro_2.1.1_iphoneos-arm.deb
+Size: 5110
+MD5sum: 326c11b749216f022a4c2fc81355c1ee
+Sha1: 9e0d31f961673c028fc4c8cdfe039c2697145e93
+Sha256: f456334cea35ca72daaaa3ebb317028462f2dfa4fe0c1a006b660853787e15d0
+
+Package: com.sbhnkhrmn.tvcastsony.pro
+Name: Tv Cast ( Sony ): Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Tv Cast Sony Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastsony.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_TvCastSony.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tvcastsony.pro/index.php
+Homepage : https://apps.apple.com/us/app/video-tv-cast-for-sony-tv/id1198507569
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.1
+Filename: ./debs/com.sbhnkhrmn.tvcastsony.pro_2.1_iphoneos-arm.deb
+Size: 5106
+MD5sum: b0b3946dedb121b96c1081bd89cd4575
+Sha1: f6d208b6d57e6730ad974c50a2d7f6098a762b0b
+Sha256: e7558f5ffd8dc395cfda5aea06f72cc216f9e5ad063b633eec2e62a0e5e89b0c
+
+Package: com.sbhnkhrmn.webcast.pro
+Name: Web Cast: Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Web Cast Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.webcast.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_WebCast.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.webcast.pro/index.php
+Homepage : https://apps.apple.com/us/app/cast-web-videos-to-chromecast/id1377825788
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.8.63
+Filename: ./debs/com.sbhnkhrmn.webcast.pro_1.8.63_iphoneos-arm.deb
+Size: 4776
+MD5sum: 25b6395efa574e96dde16fb1ed986c55
+Sha1: 26e4f2c25d56b474dd18e2e57766301378310633
+Sha256: 71524478a682c31135e7bcb582f1ed538d6e82d3c7fc54263efae76e3eef4b67
+
+Package: com.sbhnkhrmn.instagram.iglikesshow
+Name: IG : Likes Show
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: It has been activated for the number of likes and countries that do not support Imaging.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.iglikesshow/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Instagram.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.iglikesshow/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 135.0
+Filename: ./debs/com.sbhnkhrmn.instagram.iglikesshow_135.0_iphoneos-arm.deb
+Size: 4028
+MD5sum: 7d2b7791e28e3977858ba3fd2165513d
+Sha1: 14e77715fd67db9c9084ddb11aa393dc7d2cdcac
+Sha256: 8808efb9c6d3a59da312269825ef0e5b5d05660b537c57644948e8c718f1c8e5
+
+Package: com.sbhnkhrmn.instagram.story.addmusicshare
+Name: IG : Story Add Music / Share
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Adds a music tag for countries that do not support music sharing.  It adds music to your stories and shares it with that label.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.story.addmusicshare/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Instagram.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.story.addmusicshare/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 135.0
+Filename: ./debs/com.sbhnkhrmn.instagram.story.addmusicshare_135.0_iphoneos-arm.deb
+Size: 4086
+MD5sum: 3a5d420ddcd3715bc36d7263f612a85f
+Sha1: b7d1150c34ea2febf0a4e362f7a8e6ae8876b911
+Sha256: f6b3c6a0330522f368b31b1deaba2e2c2302e203343c99b7a21c6e74394fafe4
+
+Package: com.sbhnkhrmn.instagram.story.pictureinpicture
+Name: IG : Story Picture in Picture
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: allows you to select as many pictures as you want and add them to the same screen.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.story.pictureinpicture/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Instagram.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.story.pictureinpicture/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 135.0
+Filename: ./debs/com.sbhnkhrmn.instagram.story.pictureinpicture_135.0_iphoneos-arm.deb
+Size: 4066
+MD5sum: f998c31aa8af3492707db5061b129514
+Sha1: 21eb9ce75cd439f4053ebe8ca5b1e67b631e7dcd
+Sha256: 9c8857a2c84d925e3a40baa4308561162c59c42031a83b7bcdde64b789e96afc
+
+Package: com.sbhnkhrmn.instagram.story.viewed
+Name: IG : Story Viewed
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Allows you to view stories secretly. Notification is not delivered when you take a screenshot.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.story.viewed/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Instagram.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.instagram.story.viewed/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 135.0
+Filename: ./debs/com.sbhnkhrmn.instagram.story.viewed_135.0_iphoneos-arm.deb
+Size: 4138
+MD5sum: 56e5bf7cfa30866f4ca2c6c806b87356
+Sha1: ed9b6743e902314e981070715b4ca02b31e60ddc
+Sha256: e080aa77fdbc2eb7b35a5cc248d8bfa4e82c45183f1d1afe9f13efa146b7b438
+
+Package: com.sbhnkhrmn.youtube.ads
+Name: YouTube : Ads Blocker 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: turns off video watching ads. prevents unnecessary pop notifications.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.youtube.ads/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Youtube.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.youtube.ads/index.php
+Homepage : https://apps.apple.com/app/id544007664
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.youtube.ads_0.0.1_iphoneos-arm.deb
+Size: 4324
+MD5sum: e55d5abab0954c6af8944619a512de3a
+Sha1: 013b5b953c0810258e2beea851b33f28132e5eea
+Sha256: 754e46296c4ae4d49df49b550d68a31efada70b2ef4cf564ab7319909372c63a
+
+Package: com.sbhnkhrmn.youtube.backgroundplayback
+Name: Youtube : Background Playback
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: It recognizes by playing videos in the background.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.youtube.backgroundplayback/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.youtube.backgroundplayback/index.php
+Homepage : https://apps.apple.com/app/id544007664
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.youtube.backgroundplayback_0.0.1_iphoneos-arm.deb
+Size: 4678
+MD5sum: 6f1930c99dfe564e3b241d374b095b57
+Sha1: d9b40aff77810397702a52d90cb48fdf777a085a
+Sha256: 7a2bdf3ca35f523d32a00a2884858c29d02e65181ed28a506f7442db48629031
+
+Package: com.sbhnkhrmn.pubg.background
+Name: Pubg : Background
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: prevents the connection from dropping when you put it in the background.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.pubg.background/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_Pubg.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.pubg.background/index.php
+Homepage : https://apps.apple.com/app/id1330123889
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Games
+Version: 0.17.0
+Filename: ./debs/com.sbhnkhrmn.pubg.background_0.17.0_iphoneos-arm.deb
+Size: 4338
+MD5sum: 13872b75737913de532d60b2aa2883e4
+Sha1: cf5087938910f4c3bbd12a372d8b0d8ebbcb6ee6
+Sha256: d096d1f98dbc4b63945ca7acd7345171f3484dda81e9825e9e4d933eae4acf82
+
+Package: com.sbhnkhrmn.screenmirror.browser.pro
+Name: Screen Mirror (Browser): Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Screen Mirror Browser Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.screenmirror.browser.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_ScreenMirrorBrowser.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.screenmirror.browser.pro/index.php
+Homepage : https://apps.apple.com/tr/app/screen-mirroring-app/id1463795505?l=tr
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.2
+Filename: ./debs/com.sbhnkhrmn.screenmirror.browser.pro_1.2_iphoneos-arm.deb
+Size: 4072
+MD5sum: f4bb61f30a4a3efbe2acea12c8f7b14b
+Sha1: 00adbc9b15eabd0224c95bee788d0aeee387febb
+Sha256: 8c05291ecacc7b025344dae91a52be7bc2910ffbcaaa04561bdb226fa72d48fc
+
+Package: com.sbhnkhrmn.screenmirror.chrome.pro
+Name: Screen Mirror (Chrome): Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Screen Mirror Chrome Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.screenmirror.chrome.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_ScreenMirrorChrome.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.screenmirror.chrome.pro/index.php
+Homepage : https://apps.apple.com/tr/app/tv-mirror-for-chromecast/id1449834600?l=tr
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.8
+Filename: ./debs/com.sbhnkhrmn.screenmirror.chrome.pro_1.8_iphoneos-arm.deb
+Size: 4068
+MD5sum: 6b6aadb95810fc4a390d6f94027d1f6b
+Sha1: a8d6f1ad25868e44c39de08f7bdbc27a93b5c49b
+Sha256: 7e7de0480ed087d1ff72999d33aa801b8a30c7d1bcc39c706017e3e6119f3060
+
+Package: com.sbhnkhrmn.screenmirror.firetv.pro
+Name: Screen Mirror (FireTv): Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Screen Mirror FireTV Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.screenmirror.firetv.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_ScreenMirrorFireTv.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.screenmirror.firetv.pro/index.php
+Homepage : https://apps.apple.com/tr/app/screen-mirroring-for-fire-tv/id1454508199?l=tr
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.3
+Filename: ./debs/com.sbhnkhrmn.screenmirror.firetv.pro_1.3_iphoneos-arm.deb
+Size: 4086
+MD5sum: 54f5c7356ed60358edcde7cae0e9d427
+Sha1: 492ad7be401ef336a866063dbd8c7bfab0ce0a58
+Sha256: 405cf61135e1fb0c6f169fbf846a99243fe2d4082073e0d87fe562e17a715152
+
+Package: com.sbhnkhrmn.screenmirror.roku.pro
+Name: Screen Mirror (Roku): Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Screen Mirror Roku Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.screenmirror.roku.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_ScreenMirrorRoku.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.screenmirror.roku.pro/index.php
+Homepage : https://apps.apple.com/tr/app/screen-mirroring-for-roku/id1453974035?l=tr
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.5
+Filename: ./debs/com.sbhnkhrmn.screenmirror.roku.pro_1.5_iphoneos-arm.deb
+Size: 4072
+MD5sum: a0e2220f457d26cb3b98385c089e439b
+Sha1: f5c00b4504464f1e05e62e471e877efb012f226f
+Sha256: a62490cd1ec33ee76d2123bbb679a7afdad7bc0da7060316c77c96267a1d88b3
+
+Package: com.sbhnkhrmn.safari.switcher.styleipad
+Name: Safari : Switcher - Style / iPad
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: replaces the page termination screen with ipad style.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.switcher.styleipad/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Safari.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.switcher.styleipad/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.safari.switcher.styleipad_0.0.1_iphoneos-arm.deb
+Size: 4334
+MD5sum: 81e0713556f8e0509596cab794af1505
+Sha1: d31bda6cf3605c2b69e54ee36ca71cf68e908556
+Sha256: f69cc2b82523a84ae3c361150042beae1047e16ace81a3c033ff886e7f760e0d
+
+Package: com.sbhnkhrmn.safari.tab.count
+Name: Safari : Tab Count
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: In order to speed up safari, the page opening limit has been replaced with 9.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.tab.count/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Safari.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.tab.count/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.safari.tab.count_0.0.1_iphoneos-arm.deb
+Size: 4032
+MD5sum: 49b205f66d2b7050c1f313efa9286695
+Sha1: 1606080b16c24fd67f4d7c0117c746d419ae4a89
+Sha256: 0dfa6e5b552d19533df8ce443afdd8fc20d3877aab7348b4fc4c36adc42a6bf8
+
+Package: com.sbhnkhrmn.safari.bookmarksbar.favoritesgrid
+Name: Safari : Bookmarks / Favorite Grid Layout
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: raises favorite bookmarks from 4 to 6 frames.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.bookmarksbar.favoritesgrid/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Safari.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.bookmarksbar.favoritesgrid/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.safari.bookmarksbar.favoritesgrid_0.0.1_iphoneos-arm.deb
+Size: 4516
+MD5sum: 0ca91120081128d2ae3881835ec36013
+Sha1: 8fb25ccd7cb74fff5c333daeab20af88a5cd2c98
+Sha256: bd8fb22eac428ecd67624f0e2666e6f9602844e2f749f8df0d4df902e4f80b00
+
+Package: com.sbhnkhrmn.safari.bookmarksbar.styleipad
+Name: Safari : Bookmarks Bar - Style / iPad
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: safari inject bookmarks ipad feature. Displays shortcuts as in the desktop application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.bookmarksbar.styleipad/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Safari.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.bookmarksbar.styleipad/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.safari.bookmarksbar.styleipad_0.0.1_iphoneos-arm.deb
+Size: 4122
+MD5sum: bd4c160006e87d97bedb1f09e914d0f7
+Sha1: 3f536a7521005534d2c638e12b91c0d5fff08f90
+Sha256: 367294fb65d7256a6a4ef18792cf2a94dd1e04cc6c34d51ad0a2840386783b5a
+
+Package: com.sbhnkhrmn.safari.private
+Name: Safari : Private
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: prevents your data from being exposed like dark mode.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.private/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Safari.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.private/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.safari.private_0.0.1_iphoneos-arm.deb
+Size: 4078
+MD5sum: 1e6b23abdaf8ccb2ba77494b9953d9c8
+Sha1: f53d3bd86ecc090b0a5531ae11d3034e67e1ca21
+Sha256: f8acb24cc9479696069d280b05b8bf9ba81957ba6a9d2331e126d97ebc6261b8
+
+Package: com.sbhnkhrmn.safari.tabbar.styleipad
+Name: Safari : Tab Bar - Style / iPad
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: Adds ipad style tab bar.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.tabbar.styleipad/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Safari.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.safari.tabbar.styleipad/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.safari.tabbar.styleipad_0.0.1_iphoneos-arm.deb
+Size: 4240
+MD5sum: 66473f45640c47773bac5726afa8f9f5
+Sha1: 6c4a12709b563342191365624525fdfb4f06aad6
+Sha256: 403d6593e2add4f377454fd3e56315dea5c116dea6906a8a3b03ebe005c89fb4
+
+Package: com.sbhnkhrmn.photos.zoom
+Name: Photos : Zoom / Unlimited
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: Removes the zoom lock.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.zoom/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Photos.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.zoom/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.photos.zoom_0.0.1_iphoneos-arm.deb
+Size: 4348
+MD5sum: cfc60b5aff9804dc16c80e7ae9c2dc29
+Sha1: 946b6faf49fc43dc09f3fdd47fbc746aa6487571
+Sha256: 91e6f952d6bb0f04b49bfb521f7d906211277fc6aaaa2f763111a43b6015c477
+
+Package: com.sbhnkhrmn.photos.album.selectall
+Name: Photos : Album / Select All
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: Adds a select all button to albums.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.album.selectall/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Photos.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.album.selectall/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.photos.album.selectall_0.0.1_iphoneos-arm.deb
+Size: 4250
+MD5sum: b5e43c22fb81905d7a1d8407f52c68c1
+Sha1: 98888ca8767778e460b4ac3e630373f4e72e7ee1
+Sha256: cb2cc0ce8508a1bbf0df1a1bc2e206af6bc8fc110e7e6c4b5c1f9ad2aa5751d1
+
+Package: com.sbhnkhrmn.photos.album.typesofmedia
+Name: Photos : Album / Types Of Media
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: activates invisible photo types.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.album.typesofmedia/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Photos.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.album.typesofmedia/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.photos.album.typesofmedia_0.0.1_iphoneos-arm.deb
+Size: 4138
+MD5sum: e6e7f07ae899dd3fc92d88f82b0dc48d
+Sha1: ee83d840e548871dcf20d62fdc43d8fc63fbfbe9
+Sha256: 3532440dc58464b6f0db50608d0ab478a3450ac908e73aed7158ea7ddf439e72
+
+Package: com.sbhnkhrmn.photos.skipdeleteconfirmation
+Name: Photos : Skip Delete Confirmation
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: disables delete confirmation
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.skipdeleteconfirmation/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Photos.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.skipdeleteconfirmation/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.photos.skipdeleteconfirmation_0.0.1_iphoneos-arm.deb
+Size: 4354
+MD5sum: 4be8d3cbb7fb524304768aa783ef89e8
+Sha1: f7f444bf0635f1a95b590c0c1beaa6332aa52a90
+Sha256: 4f1ddd2addbfc5233ee2fa7cd3e9c5594ffcf615a24932b8c5e5ed6c4ce3a303
+
+Package: com.sbhnkhrmn.photos.13or12albumtab
+Name: Photos : Album Tab 13 or 12
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: Replaces iOS 13 album tab with ios 12 tab.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.13or12albumtab/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Photos.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dock.backgroundhidden/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.photos.13or12albumtab_0.0.1_iphoneos-arm.deb
+Size: 4650
+MD5sum: a7f7ba6808a80716c2da37620b70062b
+Sha1: 8b0e603a65bd478a42f58731fd4f214e51956730
+Sha256: ac46ab7073a6e2a1ce30e47931c5b4f5f511a487fc07dfcd0b4878199d535d35
+
+Package: com.sbhnkhrmn.photos.13or12photostab
+Name: Photos : Photos Tab 13 or 12
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: Replaces ios 13 photos tab with ios 12 tab.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.13or12photostab/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Photos.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photos.13or12photostab/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.photos.13or12photostab_0.0.1_iphoneos-arm.deb
+Size: 4604
+MD5sum: 6d0f16d6cf4e99806ac287dbe5baea4f
+Sha1: 6621e74c8ff957a05a9c3a116c7b8f4ae7d366ae
+Sha256: fa21413b41a31bca50dedd1c63657d7870a674a9edee41cf8e17ce35bc8112ed
+
+Package: com.sbhnkhrmn.camera.style.ipad
+Name: Camera : Style / iPad
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: replaces button with ipad style to select.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.style.ipad/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Camera.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.style.ipad/index.php
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.camera.style.ipad_0.0.1_iphoneos-arm.deb
+Size: 4630
+MD5sum: 07b30ffdfe28561be303fee16a03c35a
+Sha1: 7aff11df15d7ca6066401ec09e48c2c20810dc1e
+Sha256: 38a729501e9f971ce22b1836c966ed3c7ce2e61f1197f10e9c6e396ad46e4ace
+
+Package: com.sbhnkhrmn.camera.Transparent.bar
+Name: Camera : Transparent Bar
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: removes the black shade from the buttons.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.Transparent.bar/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Camera.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/sbhnkhrmn.camera.Transparent.bar/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn     
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.camera.Transparent.bar_0.0.1_iphoneos-arm.deb
+Size: 4446
+MD5sum: d143d7da607f76b7131a220d4e28d9d5
+Sha1: b4fef8a1e6b8414899cd43b80c67d4227a3cc483
+Sha256: 4fe2a1b3f4b39955628207de728043e10c32b0631c38cefba014cfd2cb7a91d5
+
+Package: com.sbhnkhrmn.camera.rotate.bar
+Name: Camera : Rotate Bar
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=12.0)
+Description: Unlocks the landscape screen rotation.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.rotate.bar/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_Camera.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.camera.rotate.bar/index.php
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.camera.rotate.bar_0.0.1_iphoneos-arm.deb
+Size: 5186
+MD5sum: 33a6bc4f3a93ad50ba753b9a51f275f6
+Sha1: 883fa47a134222f56f4fc8157a87ec5179639067
+Sha256: 0645827e94e325f996c2bea4f3665e4ca8c41f8c305a6b6071bc098bf0c55745
+
+Package: com.sbhnkhrmn.trilliarden.mematic.pro
+Name: Mematic : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Mematic - The Meme Maker Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.trilliarden.mematic.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Mematic.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.trilliarden.mematic.pro/index.php
+Homepage : https://apps.apple.com/us/app/mematic-the-meme-maker/id491076730
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 3.0.4
+Filename: ./debs/com.sbhnkhrmn.trilliarden.mematic.pro_3.0.4_iphoneos-arm.deb
+Size: 5244
+MD5sum: c89a21d67b8f6b83393932e3624fb637
+Sha1: f03baea486777b3f2638820d91c10ac757b52856
+Sha256: 8ec67fa5357194e4093db39d98cf127fa9b72a3e40f5fe4a5906813b701a3a80
+
+Package: com.sbhnkhrmn.magicv.AirBrush.pro
+Name: AirBrush : Pro / Purchased (Beta)
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of AirBrush - Best Photo Editor Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.magicv.AirBrush.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_AirBrush.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.magicv.AirBrush.pro/index.php
+Homepage : https://apps.apple.com/us/app/airbrush-best-photo-editor/id998411110
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 4.13.1
+Filename: ./debs/com.sbhnkhrmn.magicv.AirBrush.pro_4.13.1_iphoneos-arm.deb
+Size: 4344
+MD5sum: 91cfd0e3148511f5e73fe2b5f2e527a6
+Sha1: 8eb0ab490e9790d3cd57b0266489801c0c81a567
+Sha256: 85016a200bcdf8234e4359484fe7a51ff93c8e31eb0b34bd6cefadfac8d5b577
+
+Package: com.tinacinc.smartsamsungtvcast.pro
+Name: Samsung Cast : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of SmartCast - Samsung TV Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.tinacinc.smartsamsungtvcast.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_SmartCast.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.tinacinc.smartsamsungtvcast.pro/index.php
+Homepage : https://apps.apple.com/us/app/smartcast-samsung-tv/id1467613414
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.0.8
+Filename: ./debs/com.tinacinc.smartsamsungtvcast.pro_1.0.8_iphoneos-arm.deb
+Size: 5674
+MD5sum: 10c7b918b3902ac1c8ccb52cafac8d9e
+Sha1: 08c51c2c2808ea9492b81d43b1ba22814e9aef25
+Sha256: de897016c9ba5e90a4fb2c739c810ae61bd1a845d4c55c79857c5c7090991b3f
+
+Package: com.sbhnkhrmn.creaceed.moviestiller.pro
+Name: Emulsio : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Emulsio - Video Stabilizer Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.creaceed.moviestiller.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Emulsio.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.creaceed.moviestiller.pro/index.php
+Homepage : https://apps.apple.com/us/app/emulsio-video-stabilizer/id397583851
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 3.1.2
+Filename: ./debs/com.sbhnkhrmn.creaceed.moviestiller.pro_3.1.2_iphoneos-arm.deb
+Size: 7140
+MD5sum: f34ac2fa27e89394979db5b43d6b4897
+Sha1: 3f327142f683998958531abf638baf28a12866c8
+Sha256: cea3dca9c91dc5ddacc02f224d3b34698bda10ae89dd434a25947e1f2578c06d
+
+
+Package: com.sbhnkhrmn.aaronray.fontcandy.pro
+Name: Font Candy : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Font Candy Photo & Text Editor Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.aaronray.fontcandy.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_FontCandyPhoto.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.aaronray.fontcandy.pro/index.php
+Homepage : https://apps.apple.com/us/app/font-candy-fotoğraf-editörü/id661971496
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 5.6.2
+Filename: ./debs/com.sbhnkhrmn.aaronray.fontcandy.pro_5.6.2_iphoneos-arm.deb
+Size: 5214
+MD5sum: d465de449d76e0288b1259497893737f
+Sha1: c510e21169bf68939e35f8379bb4aa7c6cceb20b
+Sha256: d9cf8eb1d5d2b625db40573eb28f9272056d8d478c54069c32d4bdaabbc48997
+
+Package: com.sbhnkhrmn.everimaging.photoeffectstudio.pro
+Name: Fotor : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Fotor - Photo & Poster Editor Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.everimaging.photoeffectstudio.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Fotor.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.everimaging.photoeffectstudio.pro/index.php
+Homepage : https://apps.apple.com/us/app/fotor-fotoğraf-düzenleyici/id440159265
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 9.1.3
+Filename: ./debs/com.sbhnkhrmn.everimaging.photoeffectstudio.pro_9.1.3_iphoneos-arm.deb
+Size: 8258
+MD5sum: 99b796e585c05d86b0c94d23bf6abdc8
+Sha1: 9ad073d803d426962ba84ccfa74e2f88d4226db0
+Sha256: 7b0b03af473c8f6143bb2f484ff4ae39d93a8c486f7775b190cb0ca832901ca5
+
+Package: com.sbhnkhrmn.vstudio.camera360.pro
+Name: CCamera360 : Pro (Beta)
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Camera360-Selfie Photo Editor Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.vstudio.camera360.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Camera360.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.vstudio.camera360.pro/index.php
+Homepage : https://apps.apple.com/tr/app/camera360-selfie-photo-editing/id443354861
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 9.9.0
+Filename: ./debs/com.sbhnkhrmn.vstudio.camera360.pro_9.9.0_iphoneos-arm.deb
+Size: 6060
+MD5sum: b260f6ec1fd3ee7aaa853e86ba15cb04
+Sha1: 9d7615080768db5bf1647a83656561022057d3d8
+Sha256: 477c7ab44bf7567f329e0d21003625c303cf55defa4eac466fdff9e57987fb71
+
+Package: com.sbhnkhrmn.mobivio.cutecut.pro
+Name: Cute CUT : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Cute CUT - Full Featured Video Editor Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.mobivio.cutecut.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_CuteCUTPro.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.mobivio.cutecut.pro/index.php
+Homepage : https://apps.apple.com/us/app/cute-cut/id583555212
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.8.10
+Filename: ./debs/com.sbhnkhrmn.mobivio.cutecut.pro_1.8.10_iphoneos-arm.deb
+Size: 4264
+MD5sum: b98b6c814ba3263c8d6f24103efc77eb
+Sha1: 97ed6664e97c9392b18225b386a861f5060582f7
+Sha256: 1b3cbc299648bbf03b54c5bf71e1dd4f3aded5580002d61c01e3c7167beaee52
+
+Package: com.sbhnkhrmn.quvideo.slideplus.pro
+Name: AutoEdit : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of SlidePlus - Slideshow Maker Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.quvideo.slideplus.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_SlidePlus.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.quvideo.slideplus.pro/index.php
+Homepage : https://apps.apple.com/us/app/slayt-yapma-programı-müzikli/id1023346358
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 3.12.6
+Filename: ./debs/com.sbhnkhrmn.quvideo.slideplus.pro_3.12.6_iphoneos-arm.deb
+Size: 8750
+MD5sum: 3e26604ca00b878846aca36f1d5a23fc
+Sha1: 1fb03f664c61aeb135195bee84d94f457d03c4cd
+Sha256: 762df0ef1f914c7a81bfb5a6a61baf9319a9ba7742c131ac3911569bf713a198
+
+Package: com.sbhnkhrmn.arteditor.pro
+Name: Art Editor : Pro (Beta)
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Art Editor - Poster & Filter Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.arteditor.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_ArtEditor.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.arteditor.pro/index.php
+Homepage : https://apps.apple.com/us/app/art-editor-poster-filter/id1477025845
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 4.1
+Filename: ./debs/com.sbhnkhrmn.arteditor.pro_4.1_iphoneos-arm.deb
+Size: 4924
+MD5sum: 2eddfe6b4c4a934c14af045a1a952c3c
+Sha1: 325d9663a98bf49fbe6e3f740afb34d758f34365
+Sha256: a245c664d9d0f13733ccfab8040b1b8f6f412c39836826e59a781377436050ac
+
+Package: com.sbhnkhrmn.tickettothemoon.gradient.pro
+Name: Gradient : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Gradient: Face Symmetry Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tickettothemoon.gradient.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Gradient.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tickettothemoon.gradient.pro/index.php
+Homepage : https://apps.apple.com/us/app/gradient-face-symmetry/id1466097469
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.9.2
+Filename: ./debs/com.sbhnkhrmn.tickettothemoon.gradient.pro_1.9.2_iphoneos-arm.deb
+Size: 4292
+MD5sum: a5d8128e251754e20af3d1bf61d114fc
+Sha1: f73f8ed48eb61ad8db80ca28e7e8338c213b1a3b
+Sha256: 8e22777687354105e83ee97170209fa968673a49af8ae75bfebb3ad3270c014c
+
+Package: com.sbhnkhrmn.easytigerapps.hypetype.pro
+Name: Hype Type : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Hype-Type: Moving Text Photo-s Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.easytigerapps.hypetype.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_HypeType.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.easytigerapps.hypetype.pro/index.php
+Homepage : https://apps.apple.com/us/app/hype-type-moving-text-photo-s/id1152687277
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.94
+Filename: ./debs/com.sbhnkhrmn.easytigerapps.hypetype.pro_1.94_iphoneos-arm.deb
+Size: 5274
+MD5sum: dd9cea203846af8b50c7272b43e387a0
+Sha1: 7d01143482383d9c1052fc8456151462842faa06
+Sha256: 01f4b4793b5feacbef3a1cf28239d4df7224cbcb3a2b0e9e87d1ed559a29e29a
+
+Package: com.sbhnkhrmn.rr.carbon.pro
+Name: Carbon : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Carbon - B&W Filters & Effects  Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.rr.carbon.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Carbon.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.rr.carbon.pro/index.php
+Homepage : https://apps.apple.com/us/app/carbon-siyah-beyaz-filtreler/id1152477906
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 11.11
+Filename: ./debs/com.sbhnkhrmn.rr.carbon.pro_11.11_iphoneos-arm.deb
+Size: 7720
+MD5sum: 137dd5168fde1a54d527de2360d69bdd
+Sha1: 298d6f36fb8d7e42628a59e0b06742616a254b12
+Sha256: 713ccee449faa99c8270d6e4a8a5792cb465261f5679ba4e7b9670a1625e433c
+
+Package: com.sbhnkhrmn.PhotoEditor.PhotoCollage.inCollage.pro
+Name: inCollage : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Collage Maker - inCollage Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.PhotoEditor.PhotoCollage.inCollage.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_CollageMaker.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.PhotoEditor.PhotoCollage.inCollage.pro/index.php
+Homepage : https://apps.apple.com/us/app/incollage-kolaj-programı/id1446828002
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.6.3
+Filename: ./debs/com.sbhnkhrmn.PhotoEditor.PhotoCollage.inCollage.pro_1.6.3_iphoneos-arm.deb
+Size: 6318
+MD5sum: 7349af52ab685752705a9ad8d3c417cf
+Sha1: 22cc5ff456c4a0ca21d55deeda3dc4bf5e4a829c
+Sha256: 11d9945739206421ee5af05c4634229b013b6e5a323d2507c95ec43a9222bfad
+
+Package: com.sbhnkhrmn.in.snap.pro
+Name: InSnap : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of InSnap: Cartoon & Photo Editor Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.in.snap.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_InSnap.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.in.snap.pro/index.php
+Homepage : https://apps.apple.com/us/app/insnap-cartoon-photo-editor/id1473940972
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.8.5
+Filename: ./debs/com.sbhnkhrmn.in.snap.pro_1.8.5_iphoneos-arm.deb
+Size: 4716
+MD5sum: 564e69828d15adffc90d04b407136183
+Sha1: e62990f140e23bf817505355bdda7cefc2cc6e14
+Sha256: efd955377cefbc5ce6fb40778c441a3a38149dbbf185eae3e7f2758f2a78c101
+
+Package: com.sbhnkhrmn.click2mobile.collagegramefree.pro
+Name: instaCollageFree : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Collage Maker - LiveCollage Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.click2mobile.collagegramefree.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_LiveCollage.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.click2mobile.collagegramefree.pro/index.php
+Homepage : https://apps.apple.com/us/app/collage-maker-livecollage/id530957474
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 9.11.8
+Filename: ./debs/com.sbhnkhrmn.click2mobile.collagegramefree.pro_9.11.8_iphoneos-arm.deb
+Size: 13624
+MD5sum: aad50507e8968b8988ae80b84c0c17b9
+Sha1: bcfd630a23a8177a36f9d9b86f6c8bae721c84e8
+Sha256: 97aa49e5637f4f0af5f0f28478c5c825c7ed75483b5bd76c16663357266455f2
+
+Package: com.sbhnkhrmn.sb.style.bold
+Name: SB : Style / Bold
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: Supports all devices. StatusBar makes the text thicker.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.sb.style.bold/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.sb.style.bold/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 0.0.1
+Filename: ./debs/com.sbhnkhrmn.sb.style.bold_0.0.1_iphoneos-arm.deb
+Size: 4028
+MD5sum: 222bd0561b6264da19239153824a1543
+Sha1: c50d52f7aecf467808964d7a9249fb215a43d295
+Sha256: b62a4ace1fa1fe92af9d861bdefe522f3288caa1f0328fffa56a1bf7c431248c
+
+Package: com.sbhnkhrmn.flex.systemwide
+Name: Alert : Cancel Button / Hide
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>=13.0)
+Description: Supports all devices. Alert Cancel Button / Hide
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.flex.systemwide/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/Apple_System.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.flex.systemwide/index.php
+Homepage : http://www.twitter.com/sbhnkhrmn
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: System
+Version: 13.3
+Filename: ./debs/com.sbhnkhrmn.flex.systemwide_13.3_iphoneos-arm.deb
+Size: 4550
+MD5sum: 98db015e53b58e8f79c45e6453286279
+Sha1: 0a32a12e5a32a1f1ed072d3269d80b63d856c8ad
+Sha256: 67491c0cf3d18d93320bd27f60484466cbb7e6494e6aff178b2bc74fa6385cf4
+
+Package: com.sbhnkhrmn.skyjos.fileexplorerfree.pro
+Name: FileExplorer : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of FE File Explorer: File Manager  Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.skyjos.fileexplorerfree.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_FEFileExplorer.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.skyjos.fileexplorerfree.pro/index.php
+Homepage : https://apps.apple.com/tr/app/fe-file-explorer-file-manager/id510282524
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 9.4.2
+Filename: ./debs/com.sbhnkhrmn.skyjos.fileexplorerfree.pro_9.4.2_iphoneos-arm.deb
+Size: 4068
+MD5sum: e69763ea4016771552cc03bf0c0a9a2a
+Sha1: 6c2614766d3abd1c8c0aa5d410319c1b662a9b6b
+Sha256: be70476cae4bcb3ec0667d01be75a3d269b965c8e6b05073b3288db6bce9ef2f
+
+Package: com.sbhnkhrmn.cyberlink.youcammakeup.pro
+Name: YouCamMakeup : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of YouCam Makeup-Magic Selfie Cam Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.cyberlink.youcammakeup.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_YouCamMakeup.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.cyberlink.youcammakeup.pro/index.php
+Homepage : https://apps.apple.com/us/app/youcam-makeup-magic-selfie-cam/id863844475
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 5.66.1
+Filename: ./debs/com.sbhnkhrmn.cyberlink.youcammakeup.pro_5.66.1_iphoneos-arm.deb
+Size: 7322
+MD5sum: 3cb47417cd3fcc535da28147f6691736
+Sha1: 50ad297d3623ff5621de30a5b0527adee28879bd
+Sha256: e1c12834ddbab0c5b615ebdb141050f87b66775706bf7d6aaf60de1b3063269e
+
+Package: com.sbhnkhrmn.apalonapps.warmlightfree.pro
+Name: WarmlightFree : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Warmlight - Picture Editor Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.apalonapps.warmlightfree.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Warmlight.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.apalonapps.warmlightfree.pro/index.php
+Homepage : https://apps.apple.com/us/app/warmlight-picture-editor/id1413765537
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.3
+Filename: ./debs/com.sbhnkhrmn.apalonapps.warmlightfree.pro_1.3_iphoneos-arm.deb
+Size: 4994
+MD5sum: 1ca7d706ee5926f2f63e8077505cce8c
+Sha1: c7d3d2b5ad4e64e09f837349b96cf80254e38aa6
+Sha256: d5c54cae54d5d4b8c3a399924d78b492e0405aa1d03a56230d4b5ebce79ddc2f
+
+Package: com.sbhnkhrmn.2012gpower.instaframe.pro
+Name: Mixoo : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Mixoo - Layout Creator & Photo Collage Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.2012gpower.instaframe.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Mixoo.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.2012gpower.instaframe.pro/index.php
+Homepage : https://apps.apple.com/us/app/mixoo-pic-collage-layout/id799442576
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 3.2.1
+Filename: ./debs/com.sbhnkhrmn.2012gpower.instaframe.pro_3.2.1_iphoneos-arm.deb
+Size: 8872
+MD5sum: 74a5d2ecb7e24ba99a963b474b208c0e
+Sha1: 13b55a7e2e0147713a1d7b2df8d05e1ce63ccd0a
+Sha256: 5ed351f4a4d78c9395535c6d5444a116fec544da9a1d99efcb9d83455da59b5f
+
+Package: com.sbhnkhrmn.dci.magzter.pro
+Name: Magzter : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Magzter - Digital Magazines & Newspapers Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dci.magzter.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Magzter.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dci.magzter.pro/index.php
+Homepage : https://apps.apple.com/us/app/magzter-dergi-mağazası/id412163953
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 8.18.1
+Filename: ./debs/com.sbhnkhrmn.dci.magzter.pro_8.18.1_iphoneos-arm.deb
+Size: 4282
+MD5sum: 4d9566fb04fff8a76062082f0c4b52d3
+Sha1: 2a61848bce4c4ec51ca3a4ae5bbd68bd208bb5a2
+Sha256: 083e9dc82aa051de62096b2fbb0a6db1ec612b4eb8acd2bedb572548a39fee60
+
+Package: com.sbhnkhrmn.2012gpower.instashaper.pro
+Name: Lighto : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Lighto-Shape Border,Frame Mask Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.2012gpower.instashaper.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Lighto.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.2012gpower.instashaper.pro/index.php
+Homepage : https://apps.apple.com/us/app/lighto-shape-border-frame-mask/id743266937
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.7
+Filename: ./debs/com.sbhnkhrmn.2012gpower.instashaper.pro_2.7_iphoneos-arm.deb
+Size: 6224
+MD5sum: bc6a8645eebf5caba98cd47f5d868b44
+Sha1: 9f9ee5292881974af66794e0de8d1b3b91dbab34
+Sha256: 03cca68fbe45edc0e87e4cd084cd3e1de0a0c48361624a3c75562f43981dfe2c
+
+Package: com.sbhnkhrmn.MonkeyTaps.Motivation.pro
+Name: Motivation : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Motivation - Positive reminders of the day Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.MonkeyTaps.Motivation.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Motivation.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.MonkeyTaps.Motivation.pro/index.php
+Homepage : https://apps.apple.com/us/app/motivation-daily-quotes/id876080126
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 3.44
+Filename: ./debs/com.sbhnkhrmn.MonkeyTaps.Motivation.pro_3.44_iphoneos-arm.deb
+Size: 5008
+MD5sum: 828a6c8a01f0cf25df1ddb2f9debd63e
+Sha1: 8ae0e724e6ca063487d9ae7fbf7a4395fc1701c4
+Sha256: 22222f7b6e50e7b2a742be7360084b38d3c10f7db1875418db66f0e9edcea05a
+
+Package: com.sbhnkhrmn.dynasty.introPro.pro
+Name: IntroMaker : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of IntroMaker - + 3D Movie Trailer Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dynasty.introPro.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_IntroMaker.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.dynasty.introPro.pro/index.php
+Homepage : https://apps.apple.com/us/app/intro-maker-add-outro-video-fx/id1204817203
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 4.0
+Filename: ./debs/com.sbhnkhrmn.dynasty.introPro.pro_4.0_iphoneos-arm.deb
+Size: 4808
+MD5sum: 87de9e259329c1037a641224ab9563f8
+Sha1: 0be2a1f5375c0638a7b88576123fb38df93e79f3
+Sha256: 9d2c95b1795aed18c364e05545c72f4a2e9065e8423f7a6552403fe83c652898
+
+Package: com.sbhnkhrmn.limepresso.logomaker.pro
+Name: Logo Shop : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of LogoMakerShop - Symbol Creator & Font Design Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.limepresso.logomaker.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_LogoMakerShop.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.limepresso.logomaker.pro/index.php
+Homepage : https://apps.apple.com/us/app/logo-maker-shop/id1190077343
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.510.1
+Filename: ./debs/com.sbhnkhrmn.limepresso.logomaker.pro_1.510.1_iphoneos-arm.deb
+Size: 5874
+MD5sum: e0966431ce819bc0b366406bcca29d90
+Sha1: af1ab3b414f7bee8811a562fe22b8d9c1caf87b5
+Sha256: 7e9e1dbdfb9bb2f7ad1507e1db49b83a42fb568f870678a1837686220643c43d
+
+Package: com.sbhnkhrmn.tasnim.slideshowmaker.pro
+Name: Slideshow : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Slideshow - Make Photo Video Slide Show Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tasnim.slideshowmaker.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Slideshow.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tasnim.slideshowmaker.pro/index.php
+Homepage : https://apps.apple.com/us/app/slideshow-maker-photo-w-music/id1119493669
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 4.3
+Filename: ./debs/com.sbhnkhrmn.tasnim.slideshowmaker.pro_4.3_iphoneos-arm.deb
+Size: 5208
+MD5sum: b88a656ba298938f80584c1e3078490d
+Sha1: 2f05868ba82eacbf066b1ea12b2151e8c0e9172f
+Sha256: f1c0a573b6e0a6dfa1c3598843a216eb4dd355fb24f73a0e83c73ae18d4d1ebc
+
+Package: com.sbhnkhrmn.modernist.maskstudio.pro
+Name: Mask Studio : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Mask Studio - Live FaceMasks & Video Effects Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.modernist.maskstudio.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_MaskStudio.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.modernist.maskstudio.pro/index.php
+Homepage : https://apps.apple.com/il/app/mask-studio/id1457952897
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.1
+Filename: ./debs/com.sbhnkhrmn.modernist.maskstudio.pro_1.1_iphoneos-arm.deb
+Size: 4810
+MD5sum: a2c3e9a090587fc3a21f4fec27c166a0
+Sha1: 72d5dff296c29e947346d1fda1b999afeef417b4
+Sha256: 2fc8601cea6f49b997e08b851def1aa6ea46f82878b1ff254714f8e7c1a8ce34
+
+Package: com.sbhnkhrmn.kinemaster.app.pro
+Name: KineMaster : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of KineMaster  - Add Music to Video & Photo Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.kinemaster.app.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_KineMaster.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.kinemaster.app.pro/index.php
+Homepage : https://apps.apple.com/us/app/kinemaster-video-editor/id1223932558
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 4.13.15
+Filename: ./debs/com.sbhnkhrmn.kinemaster.app.pro_4.13.15_iphoneos-arm.deb
+Size: 5788
+MD5sum: 931027b98c088111546662e4f74688a4
+Sha1: b56221d911e296e351b0de7b498c2053dfd77e91
+Sha256: d1cd92cb7fd1d49b87a7ff54142709c021356c8959b412375762336003ba5372
+
+Package: com.sbhnkhrmn.tang.ivideofree.pro
+Name: PerfectVideoLite : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Perfect Video Editor, Collage Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tang.ivideofree.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_PerfectVideoLite.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.tang.ivideofree.pro/index.php
+Homepage : https://apps.apple.com/us/app/perfect-video-editor-collage/id633335631
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 8.1.0
+Filename: ./debs/com.sbhnkhrmn.tang.ivideofree.pro_8.1.0_iphoneos-arm.deb
+Size: 4802
+MD5sum: bd34778b04ed82e10fbabe7120211462
+Sha1: 46cba9b435a6c1d227ab56d73fae925a6292f817
+Sha256: f70cb34e2b1aa9566071ae623a9ffccc59b16ff26e65ee1715149fc2a19cbad3
+
+Package: com.sbhnkhrmn.pixite.union.pro
+Name: Union : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Union - Combine & Edit Photos Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.pixite.union.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Union.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.pixite.union.pro/index.php
+Homepage : https://apps.apple.com/us/app/union-combine-edit-photos/id849145835
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.6.9
+Filename: ./debs/com.sbhnkhrmn.pixite.union.pro_1.6.9_iphoneos-arm.deb
+Size: 4304
+MD5sum: 0a72dce96b18b211af977c19fd9cdf72
+Sha1: 7d14a66a4546869f77b77290420ca0b47f9e354c
+Sha256: 453b0faf61d7c8c3177bc0288a6234631a86caca2d5759b1d654bd2ce6c02e85
+
+Package: com.sbhnkhrmn.apalonapps.pdffree.pro
+Name: Scanner for Me : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Scanner for Me: Scan documents Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.apalonapps.pdffree.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_ScannerForme.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.apalonapps.pdffree.pro/index.php
+Homepage : https://apps.apple.com/us/app/scanner-for-me-scan-documents/id1017261655
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.1.1
+Filename: ./debs/com.sbhnkhrmn.apalonapps.pdffree.pro_2.1.1_iphoneos-arm.deb
+Size: 4800
+MD5sum: 656c6b88f1c8124bdce0bcebd82b5575
+Sha1: d62b04b5b4c1859051847b3f10235645f2a28a4b
+Sha256: 0da993f26dc7a5177e9b4a5719d54c4673098009b4a31c72452c882c0f544f26
+
+
+
