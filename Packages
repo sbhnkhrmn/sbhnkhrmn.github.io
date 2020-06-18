@@ -3304,5 +3304,23 @@ MD5sum: 656c6b88f1c8124bdce0bcebd82b5575
 Sha1: d62b04b5b4c1859051847b3f10235645f2a28a4b
 Sha256: 0da993f26dc7a5177e9b4a5719d54c4673098009b4a31c72452c882c0f544f26
 
+Package: com.sbhnkhrmn.lexwarelabs.goodmorning.pro
+Name: Sleep Cycle : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Sleep Cycle: Sounds, Stories & Smart Alarm Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.lexwarelabs.goodmorning.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppStore_SleepCycle.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.lexwarelabs.goodmorning.pro/index.php
+Homepage : https://apps.apple.com/us/app/sleep-cycle-sleep-tracker/id320606217
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 6.8.1
+Filename: ./debs/com.sbhnkhrmn.lexwarelabs.goodmorning.pro_6.8.1_iphoneos-arm.deb
+Size: 7008
+MD5sum: 808dccd14c3460f361c32453bbc4808e
+Sha1: 9f9c6cce7df5aa19267997b7a61635ce6987cc2b
+Sha256: cdd6fffd90810d2001528ce8f9baabfa01d6586eb97d2290fd40f32a5b76be8a
 
 
