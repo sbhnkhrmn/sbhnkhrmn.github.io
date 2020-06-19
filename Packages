@@ -3418,6 +3418,25 @@ MD5sum: 41acf7689cdd132c9b1d0070b65e63d1
 Sha1: a7ae49d3a8bfbab777cc36a87249979fa908e37f
 Sha256: a8d18dea382fda2143c9fba531f87d395d3bc476f96a214c0dcdccdd01105ae2
 
+Package: com.sbhnkhrmn.atistudios.MondlyLanguages.pro
+Name: Mondly : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Mondly: Learn 33 Languages Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.atistudios.MondlyLanguages.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Mondly.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.atistudios.MondlyLanguages.pro/index.php
+Homepage : https://apps.apple.com/us/app/mondly-learn-33-languages/id987873536
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 7.5.2
+Filename: ./debs/com.sbhnkhrmn.atistudios.MondlyLanguages.pro_7.5.2_iphoneos-arm.deb
+Size: 15326
+MD5sum: 1b3c57f6938bf85b8ddc6b1db30fc7e8
+Sha1: ba0d4d36938867c472d7d3cad20d3650a0e8bf47
+Sha256: 4fd87e27c2f198797f38e758eadf42a9a9a8b2b808cf0b439d0a75595d59c826
+
 
 
 
