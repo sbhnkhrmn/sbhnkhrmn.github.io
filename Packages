@@ -3380,5 +3380,45 @@ MD5sum: 076547647ca0b84319b7e98fb28f27da
 Sha1: d432f558f8483fb6e20bd8b1b1faaf8126477906
 Sha256: 2bb074b24fb6d65fd2128f7146dcda842f1e37ff673eef6a5892d0134f92ccba
 
+Package: com.sbhnkhrmn.frontierdesign.videofxlive.pro
+Name: VideoFX Live : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of VideoFX : Live video effects Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.frontierdesign.videofxlive.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppStore_VideoFX.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.frontierdesign.videofxlive.pro/index.php
+Homepage : https://apps.apple.com/us/app/videofx-live/id478338333
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 9.0.3
+Filename: ./debs/com.sbhnkhrmn.frontierdesign.videofxlive.pro_9.0.3_iphoneos-arm.deb
+Size: 4436
+MD5sum: 80c3df51b5b4f31aa6300180c861cf16
+Sha1: 7588f31210a9f2bac5fd4932c3dd2ec24e851264
+Sha256: 1310081ba1ca672cf9009683e02070b85b2cf265698de954429da8aafa989b1c
+
+Package: com.sbhnkhrmn.ryzenrise.presetsforlightroom.pro
+Name: Koloro : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Koloro : Lr Presets for Photos & Videos Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.ryzenrise.presetsforlightroom.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppStore_Koloro.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.ryzenrise.presetsforlightroom.pro/index.php
+Homepage : https://apps.apple.com/us/app/presets-for-lightroom-koloro/id1452824333
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 5.0.3
+Filename: ./debs/com.sbhnkhrmn.ryzenrise.presetsforlightroom.pro_5.0.3_iphoneos-arm.deb
+Size: 5180
+MD5sum: 41acf7689cdd132c9b1d0070b65e63d1
+Sha1: a7ae49d3a8bfbab777cc36a87249979fa908e37f
+Sha256: a8d18dea382fda2143c9fba531f87d395d3bc476f96a214c0dcdccdd01105ae2
+
+
+
 
 
