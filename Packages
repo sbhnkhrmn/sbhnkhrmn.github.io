@@ -3437,6 +3437,65 @@ MD5sum: 1b3c57f6938bf85b8ddc6b1db30fc7e8
 Sha1: ba0d4d36938867c472d7d3cad20d3650a0e8bf47
 Sha256: 4fd87e27c2f198797f38e758eadf42a9a9a8b2b808cf0b439d0a75595d59c826
 
+Package: com.sbhnkhrmn.vfulup.vpn.pro
+Name: VPN Freedom : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of VPN Freedom Türkiye Sınırsız + Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.vfulup.vpn.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_VPNFreedom.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.vfulup.vpn.pro/index.php
+Homepage : https://apps.apple.com/tr/app/vpn-freedom-türkiye-sınırsız/id1463204312?l=tr
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.1.6
+Filename: ./debs/com.sbhnkhrmn.vfulup.vpn.pro_1.1.6_iphoneos-arm.deb
+Size: 4886
+MD5sum: 64a0a232d306f029d704115167b8b880
+Sha1: 0e012b425e44b216d116a1628158a7411894ce4d
+Sha256: a88ff6dbb22675143010e7d280fc9ba54cd68021607dc55b801519628ee14a30
+
+Package: com.sbhnkhrmn.yunfang.photogrid.pro
+Name: PhotoGrid : Pro (Beta) 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of PhotoGrid Video Collage maker Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.yunfang.photogrid.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_PhotoGrid.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.yunfang.photogrid.pro/index.php
+Homepage : https://apps.apple.com/us/app/photogrid-video-collage-maker/id543577420
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 7.5.71
+Filename: ./debs/com.sbhnkhrmn.yunfang.photogrid.pro_7.5.71_iphoneos-arm.deb
+Size: 5446
+MD5sum: 44d8cb4d3c14bece034025ba8963d0f4
+Sha1: f5610309589445d315b5fc0722c2dacd7e7f72e0
+Sha256: f1b414135096f20528a210768548a281ba79d899f6345bdcf502ffd1c0c40db2
+
+Package: com.sbhnkhrmn.cardinalblue.piccollage.pro
+Name: PicCollage : Pro (Beta)
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of PicCollage : Create with Video, GIFs & Text Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.cardinalblue.piccollage.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_PicCollage.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.cardinalblue.piccollage.pro/index.php
+Homepage : https://apps.apple.com/us/app/piccollage-photo-grid-editor/id448639966
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 7.64.1
+Filename: ./debs/com.sbhnkhrmn.cardinalblue.piccollage.pro_7.64.1_iphoneos-arm.deb
+Size: 5532
+MD5sum: a36dfafcc69bcf3c2ee938b4c45a1b6e
+Sha1: 59e86037c0370ef4a1d1032bce7af7cf5b72c470
+Sha256: aba22007fa53c28f0ebe931505dff7222668d9d0035bec81fa1e6799c862d112
+
+
+
 
 
 
