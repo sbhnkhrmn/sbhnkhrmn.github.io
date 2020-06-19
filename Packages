@@ -3361,4 +3361,24 @@ MD5sum: 51f2b2e9bcec21a643dfd10a5250cea7
 Sha1: ab2bdb9d15b0eca699c64f5f13479e9b37d36815
 Sha256: 0a1447a3af9753d4809f20f55564dd3ec747aaf65c337a7c92192d0b0818a45b
 
+Package: com.sbhnkhrmn.2012gpower.phototext.free.pro
+Name: PicSee : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of PicSee - Add Text Over Picture Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.2012gpower.phototext.free.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppStore_PicSee.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.2012gpower.phototext.free.pro/index.php
+Homepage : https://apps.apple.com/us/app/picsee-add-text-over-picture/id595086167
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 6.2
+Filename: ./debs/com.sbhnkhrmn.2012gpower.phototext.free.pro_6.2_iphoneos-arm.deb
+Size: 4514
+MD5sum: 076547647ca0b84319b7e98fb28f27da
+Sha1: d432f558f8483fb6e20bd8b1b1faaf8126477906
+Sha256: 2bb074b24fb6d65fd2128f7146dcda842f1e37ff673eef6a5892d0134f92ccba
+
+
 
