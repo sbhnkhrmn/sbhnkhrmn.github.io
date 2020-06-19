@@ -3323,4 +3323,22 @@ MD5sum: 808dccd14c3460f361c32453bbc4808e
 Sha1: 9f9c6cce7df5aa19267997b7a61635ce6987cc2b
 Sha256: cdd6fffd90810d2001528ce8f9baabfa01d6586eb97d2290fd40f32a5b76be8a
 
+Package: com.sbhnkhrmn.slidebox.Slidebox.pro
+Name: Slidebox : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Slidebox - Photo Manager Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.slidebox.Slidebox.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppStore_Slidebox.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.slidebox.Slidebox.pro/index.php
+Homepage : https://apps.apple.com/us/app/slidebox-photo-manager/id984305203
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.22.0
+Filename: ./debs/com.sbhnkhrmn.slidebox.Slidebox.pro_2.22.0_iphoneos-arm.deb
+Size: 4838
+MD5: c91ab4e14565f233fbbdced4a322796c
+SHA-1: ed83872e32c540f837d5b525abf7f9110d10d155
+SHA-256: 11f281b23dc74fed87c770632fab670460560f96214c02cb5104194f465aea7d
 
