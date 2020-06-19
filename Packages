@@ -3338,7 +3338,27 @@ Section: Apps PRO
 Version: 2.22.0
 Filename: ./debs/com.sbhnkhrmn.slidebox.Slidebox.pro_2.22.0_iphoneos-arm.deb
 Size: 4838
-MD5: c91ab4e14565f233fbbdced4a322796c
-SHA-1: ed83872e32c540f837d5b525abf7f9110d10d155
-SHA-256: 11f281b23dc74fed87c770632fab670460560f96214c02cb5104194f465aea7d
+MD5sum: c91ab4e14565f233fbbdced4a322796c
+Sha1: ed83872e32c540f837d5b525abf7f9110d10d155
+Sha256: 11f281b23dc74fed87c770632fab670460560f96214c02cb5104194f465aea7d
+
+Package: com.sbhnkhrmn.candidate.moviemaster.pro
+Name: Movie Master : Pro  
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Movie Master - Film Maker Pro Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.candidate.moviemaster.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppStore_MovieMaster.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.candidate.moviemaster.pro/index.php
+Homepage : https://apps.apple.com/us/app/movie-master-film-maker-pro/id1450713896
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.4.23
+Filename: ./debs/com.sbhnkhrmn.candidate.moviemaster.pro_2.4.23_iphoneos-arm.deb
+Size: 4332
+MD5sum: 51f2b2e9bcec21a643dfd10a5250cea7
+Sha1: ab2bdb9d15b0eca699c64f5f13479e9b37d36815
+Sha256: 0a1447a3af9753d4809f20f55564dd3ec747aaf65c337a7c92192d0b0818a45b
+
 
