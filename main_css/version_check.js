@@ -1,5 +1,5 @@
-const VERSION_CHECK_SUPPORTED = "iOS %s ile Uyumlu 👍";
-const VERSION_CHECK_UNSUPPORTED = "⚠ iOS %s -> %s Uyumlu ⚠";
+const VERSION_CHECK_SUPPORTED = "UYUMLU";
+const VERSION_CHECK_UNSUPPORTED = "UYUMSUZ";
 
 (function(document) {
 
