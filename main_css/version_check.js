@@ -1,5 +1,5 @@
 const VERSION_CHECK_SUPPORTED = "UYUMLU";
-const VERSION_CHECK_UNSUPPORTED = "UYUMSUZ";
+const VERSION_CHECK_UNSUPPORTED = "Destekliyor";
 
 (function(document) {
 
