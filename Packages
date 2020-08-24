@@ -3531,3 +3531,22 @@ Size: 5130
 MD5sum: 6979748d7adb73426b0c410a132fc0c7
 Sha1: ecc3056b9ad3ec56a6b2412257399f4d2e37cfcd
 Sha256: 499e4095bc17d50a312cbfba984ff9e679b74449463ea128e5f33928cee5e47b
+
+Package: com.sbhnkhrmn.com.focoslive
+Name:Focos Live : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Video Camera with Big Aperture Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.com.focoslive/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_FocosLive.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.com.focoslive/index.php
+Homepage : https://apps.apple.com/us/app/focos-live/id1461690085
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.0.2
+Filename: ./debs/com.sbhnkhrmn.com.focoslive_1.0.2_iphoneos-arm.deb
+Size: 5308
+MD5sum: 179c42904c6186dbd9037c78877dd8c2
+Sha1: d32ce556a82a3ded6b4fc53c0f3b2343aee83b1f
+Sha256: 06176517b55a778995e19461f7e927e89e5152d00288b3d5c85de2189029fea7
