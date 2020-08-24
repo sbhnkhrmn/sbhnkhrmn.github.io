@@ -3513,6 +3513,26 @@ MD5sum: 0d2cd097f1368702cfd309298470543d
 Sha1: 3d3d0be8262fdb9f6854fc7489e80a3288b56c21
 Sha256: dc719a8337a2684264e4457ab5ff70b3c75055dcd89aa4b96abe5003dd03302d
 
+Package: com.sbhnkhrmn.video.vue.global
+Name: VUE : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of make cool TikTok Youtube video Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.video.vue.global/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_VUE.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.video.vue.global/index.php
+Homepage : https://apps.apple.com/us/app/vue-video-editor-movie-maker/id1458609369
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.9.18
+Filename: ./debs/com.sbhnkhrmn.video.vue.global_2.9.18_iphoneos-arm.deb
+Size: 5130
+MD5sum: 6979748d7adb73426b0c410a132fc0c7
+Sha1: ecc3056b9ad3ec56a6b2412257399f4d2e37cfcd
+Sha256: 499e4095bc17d50a312cbfba984ff9e679b74449463ea128e5f33928cee5e47b
+
+
 
 
 
