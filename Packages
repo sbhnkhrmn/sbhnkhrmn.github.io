@@ -3494,6 +3494,26 @@ MD5sum: a36dfafcc69bcf3c2ee938b4c45a1b6e
 Sha1: 59e86037c0370ef4a1d1032bce7af7cf5b72c470
 Sha256: aba22007fa53c28f0ebe931505dff7222668d9d0035bec81fa1e6799c862d112
 
+Package: com.sbhnkhrmn.lightricks.Enlight-Quickart
+Name: Quickart : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Effects & Filters in a tap Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.lightricks.Enlight-Quickart/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Quickart.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.lightricks.Enlight-Quickart/index.php
+Homepage : https://apps.apple.com/us/app/quickart-one-tap-photo-editor/id1503066339
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.0.4
+Filename: ./debs/com.sbhnkhrmn.lightricks.Enlight-Quickart_1.0.4_iphoneos-arm.deb
+Size: 4798
+MD5sum: 0d2cd097f1368702cfd309298470543d
+Sha1: 3d3d0be8262fdb9f6854fc7489e80a3288b56c21
+Sha256: dc719a8337a2684264e4457ab5ff70b3c75055dcd89aa4b96abe5003dd03302d
+
+
 
 
 
