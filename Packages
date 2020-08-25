@@ -3550,3 +3550,24 @@ Size: 5308
 MD5sum: 179c42904c6186dbd9037c78877dd8c2
 Sha1: d32ce556a82a3ded6b4fc53c0f3b2343aee83b1f
 Sha256: 06176517b55a778995e19461f7e927e89e5152d00288b3d5c85de2189029fea7
+
+Package: com.sbhnkhrmn.me.mrrmrr.mrrmrr
+Name: MRRMRR : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Live FaceMasks & Video Selfies Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.me.mrrmrr.mrrmrr/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_MRRMRR.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.me.mrrmrr.mrrmrr/index.php
+Homepage : https://apps.apple.com/app/apple-store/id1102411061
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 4.3.4
+Filename: ./debs/com.sbhnkhrmn.me.mrrmrr.mrrmrr_4.3.4_iphoneos-arm.deb
+Size: 5602
+MD5sum: 8b0ba4395d5d0ba247b4e9710fe4811d
+Sha1: 2946eb5af17bdffae49869333b94d44f14db3445
+Sha256: 827540d91748cc9bc38bc9498b6166d07cce6eb4b0c624e58b198b0515d2d2e9
+
+
