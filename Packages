@@ -3570,4 +3570,21 @@ MD5sum: 8b0ba4395d5d0ba247b4e9710fe4811d
 Sha1: 2946eb5af17bdffae49869333b94d44f14db3445
 Sha256: 827540d91748cc9bc38bc9498b6166d07cce6eb4b0c624e58b198b0515d2d2e9
 
-
+Package: com.sbhnkhrmn.blink.academy.protake
+Name: Protake : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features ofProtake - Mobile Cinema Camera Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.blink.academy.protake/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Protake.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.blink.academy.protake/index.php
+Homepage : https://apps.apple.com/us/app/protake-mobile-cinema-camera/id1498431506
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.0.9
+Filename: ./debs/com.sbhnkhrmn.blink.academy.protake_1.0.9_iphoneos-arm.deb
+Size: 4540
+MD5sum: d1ec88a3f9b5dc49728cd3b6807b7012
+Sha1: 523b4947462149e6e426e7a5b4519108d41987c1
+Sha256: 791bacb201399cafbd914715c9868b8b81e2c575f10ee35ba2b605794052cfc9
