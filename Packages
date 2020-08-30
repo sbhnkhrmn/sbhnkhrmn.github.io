@@ -3588,3 +3588,79 @@ Size: 4540
 MD5sum: d1ec88a3f9b5dc49728cd3b6807b7012
 Sha1: 523b4947462149e6e426e7a5b4519108d41987c1
 Sha256: 791bacb201399cafbd914715c9868b8b81e2c575f10ee35ba2b605794052cfc9
+
+Package: com.sbhnkhrmn.easytigerapps.fused
+Name: Fused : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Overlay Photo And Video Layer Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.easytigerapps.fused/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Fused.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.easytigerapps.fused/index.php
+Homepage : https://apps.apple.com/us/app/arka-plan-birle%C5%9Ftirme/id869117407
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 3.8.3
+Filename: ./debs/com.sbhnkhrmn.easytigerapps.fused_3.8.3_iphoneos-arm.deb
+Size: 4688
+MD5sum: b623dff0f7c2c00f43a5bea7c29268bf
+Sha1: 6d9eab487142be6f8cc97985c79fbedf22a34aa1
+Sha256: d3950e9dd71c50d6ee13fd7afbd81d1045efac9dc30de9ea7dfbc3c55b6c92ce
+
+Package: com.sbhnkhrmn.hammockdistrict.clone
+Name: Clone : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Clone - Git client advanced Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.hammockdistrict.clone/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Clone.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.hammockdistrict.clone/index.php
+Homepage : https://apps.apple.com/tr/app/clone-git-client-advanced/id1037881290?l=tr
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.4.0
+Filename: ./debs/com.sbhnkhrmn.hammockdistrict.clone_1.4.0_iphoneos-arm.deb
+Size: 4312
+MD5sum: 1b3598e379d6212b0abb7bfed72c9c2b
+Sha1: d700c6619e0bddb856f1e3255587fe6f23e1575d
+Sha256: 7049c0375436a26d23918b40e60617de05e0aabc7e86294aa4973b7dff646159
+
+Package: com.sbhnkhrmn.ru.macflash.bf
+Name: Brainfuck : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Brainfuck Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.ru.macflash.bf/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Brainfuck.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.ru.macflash.bf/index.php
+Homepage : https://apps.apple.com/tr/app/brainf-ck/id493926421?l=tr#?platform=iphone
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 2.4.1
+Filename: ./debs/com.sbhnkhrmn.ru.macflash.bf_2.4.1_iphoneos-arm.deb
+Size: 4820
+MD5sum: c2198c785fc1e34aedfc8f76b73b84b1
+Sha1: 9d0e917c90d61b7c551c23017831230a03d4b2ab
+Sha256: af7ca9fe841fa245a87ed2211c01ad405e0408ac2081b695cfe8544c91114da2
+
+Package: com.sbhnkhrmn.verycoolapp.mediaconvert
+Name: MediaConvert : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.verycoolapp.mediaconvert/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_MediaConvert.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.verycoolapp.mediaconvert/index.php
+Homepage : https://apps.apple.com/tr/app/medya-d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCc%C3%BC-video-mp3/id1294207675?l=tr
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.9
+Filename: ./debs/com.sbhnkhrmn.verycoolapp.mediaconvert_1.9_iphoneos-arm.deb
+Size: 4388
+MD5sum: 9d353941098bfe1dde2369efd182d1f0
+Sha1: 25199bc3512ca825a2f010605acefd6ca38020f0
+Sha256: 719282e4681898d2d1aa8ef55eef56fdc8e96fa962215947c3d2228592a43bd6
