@@ -3664,3 +3664,41 @@ Size: 4388
 MD5sum: 9d353941098bfe1dde2369efd182d1f0
 Sha1: 25199bc3512ca825a2f010605acefd6ca38020f0
 Sha256: 719282e4681898d2d1aa8ef55eef56fdc8e96fa962215947c3d2228592a43bd6
+
+Package: com.sbhnkhrmn.photoclean.videocompress
+Name: VideoCompressor : Premium
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of save memory and disk space Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photoclean.videocompress/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_VideoCompressor.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photoclean.videocompress/index.php
+Homepage : https://apps.apple.com/tr/app/video-compressor-save-space/id1422359394
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.2
+Filename: ./debs/com.sbhnkhrmn.photoclean.videocompress_1.2_iphoneos-arm.deb
+Size: 5990
+MD5sum: ca9ab91b71beb7f494ee4d44ae3b49ac
+Sha1: d8d4d5cc392c4234791e358372d29a0f671f4e5f
+Sha256: 4a36dbf35c9a3c4d417ff6588cc5e5a18460b15ed3ae80ab866713ca394685c8
+
+Package: com.sbhnkhrmn.photoedit.cleanwatermark
+Name: Photo Eraser : Premium
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features Photo Eraser Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photoedit.cleanwatermark/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_PhotoEraser.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.photoedit.cleanwatermark/index.php
+Homepage : https://apps.apple.com/tr/app/photo-eraser-erase-watermark/id1352785876
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.5
+Filename: ./debs/com.sbhnkhrmn.photoedit.cleanwatermark_1.5_iphoneos-arm.deb
+Size: 4962
+MD5sum: 2f03d98eca39960ae7ff73292d3086c4
+Sha1: a421cdd63faaf8f64e6fd2fe4cb7433a8862aa92
+Sha256: 73be6a969fba99da15c4cf4a2257960787cdbbd5abf48b151d3f05370fc23698
