@@ -3702,3 +3702,22 @@ Size: 4962
 MD5sum: 2f03d98eca39960ae7ff73292d3086c4
 Sha1: a421cdd63faaf8f64e6fd2fe4cb7433a8862aa92
 Sha256: 73be6a969fba99da15c4cf4a2257960787cdbbd5abf48b151d3f05370fc23698
+
+Package: com.sbhnkhrmn.biugoing.biugo.lite
+Name: Biugo : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Biugo Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.biugoing.biugo.lite/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Biugo.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.biugoing.biugo.lite/index.php
+Homepage : https://apps.apple.com/tr/app/biugo-magic-effect-video-maker/id1498713435
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.2.6
+Filename: ./debs/com.sbhnkhrmn.biugoing.biugo.lite_1.2.6_iphoneos-arm.deb
+Size: 5098
+MD5sum: e1fa2ffb44f6d713dabc80989e2beecd
+Sha1: 5c3a1200264694a190a55cc0fd99b0772e3ed39b
+Sha256: dcd46d12698eeab38f1d32f0fad39bd0e510333b80e35d29de4285b14822e561
