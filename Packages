@@ -3721,3 +3721,22 @@ Size: 5098
 MD5sum: e1fa2ffb44f6d713dabc80989e2beecd
 Sha1: 5c3a1200264694a190a55cc0fd99b0772e3ed39b
 Sha256: dcd46d12698eeab38f1d32f0fad39bd0e510333b80e35d29de4285b14822e561
+
+Package: com.sbhnkhrmn.2012gpower.imagesizer
+Name: Piczoo : VIP 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Piczoo Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.2012gpower.imagesizer/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Piczoo.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.2012gpower.imagesizer/index.php
+Homepage : https://apps.apple.com/us/app/piczoo-photo-collage-maker/id956441499
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 3.5.1
+Filename: ./debs/com.sbhnkhrmn.2012gpower.imagesizer_3.5.1_iphoneos-arm.deb
+Size: 6856
+MD5sum: a95433d5f0aca972c26a2a58267f499c
+Sha1: 7a22e767345f14fa4a2f79c944527832c49a0970
+Sha256: 9165f8bc02c3b9b46d41ef93c7ae538205707c4349455de86c555a1f910ccf0c
