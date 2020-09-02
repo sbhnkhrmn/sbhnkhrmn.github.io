@@ -10,10 +10,10 @@ Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
 Section: Tweaks
 Filename: ./debs/com.sbhnkhrmn.repoico_0.1_iphoneos-arm.deb
-Size: 19038
-MD5sum: bf036aa41b806978cd28ec37f56c358f
-Sha1: e94329bfc800e791ae368e0d27255b9901c0f606
-Sha256: 37169f7753caf156c0c8a75911e44ed93beb096e0725034da8854416965f2eb2
+Size: 19036
+MD5sum: 2e0341742edf00e1288d90d712eb4412
+Sha1: 07ede0901ec08847d2967f94453f648e669368e9
+Sha256: 5641b19bf0b8b2fdcc529adfbf4882f71809fe7b9c2bacbb03f44290ed0f8917
 
 Package: com.sbhnkhrmn.1998cam.pro
 Name: 1998 Cam : Pro
