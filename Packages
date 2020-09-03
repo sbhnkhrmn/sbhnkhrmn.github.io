@@ -1,3 +1,20 @@
+Package: com.sbhnkhrmn.repoico
+Name: SBHNKHRMN
+Version: 0.1
+Essential: Yes
+Architecture: iphoneos-arm
+Description: SBHNKHRMN Repo Simgeleri
+Depiction: https://sbhkhrmn.github/depictions/Repoico/index.html
+Homepage: https://sbhnkhrmn.github.io/
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Tweaks
+Filename: ./debs/com.sbhnkhrmn.repoico_0.1_iphoneos-arm.deb
+Size: 19032
+MD5sum: 89362da1343d2b1db7bc9dd42073fdbe
+Sha1: 11dee9ada20e8f329104b6b4c523fd240edca0eb
+Sha256: 86a28900dfc54b816dd13612b19c2147644dff07008b8b8e8ec0228d1740c0d1
+
 Package: com.sbhnkhrmn.1998cam.pro
 Name: 1998 Cam : Pro
 Architecture: iphoneos-arm
