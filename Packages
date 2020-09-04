@@ -3757,3 +3757,60 @@ Size: 6856
 MD5sum: a95433d5f0aca972c26a2a58267f499c
 Sha1: 7a22e767345f14fa4a2f79c944527832c49a0970
 Sha256: 9165f8bc02c3b9b46d41ef93c7ae538205707c4349455de86c555a1f910ccf0c
+
+Package: com.sbhnkhrmn.mobivio.videotoolbox
+Name: Video Toolbox : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Video Toolbox  Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.mobivio.videotoolbox/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_VideoToolbox.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.mobivio.videotoolbox/index.php
+Homepage : https://apps.apple.com/tr/app/video-toolbox-movie-maker/id892281503
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.3.9
+Filename: ./debs/com.sbhnkhrmn.mobivio.videotoolbox_1.3.9_iphoneos-arm.deb
+Size: 5106
+MD5sum: 44a654efca8ef322bee603a9570c9722
+Sha1: 2dc2aad1bed01e3e4917113b6f8bb52dfa2230ce
+Sha256: 18629dacd150b9c76078e02824a0c2acfc08c04d10e3c4b2adf905364cf501a1
+
+Package: com.sbhnkhrmn.meitu.pomelo
+Name: Pomelo : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Pomelo Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.meitu.pomelo/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Pomelo.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.meitu.pomelo/index.php
+Homepage : https://apps.apple.com/us/app/pomelo-filters/id839452750
+Maintainer: Seren KOCER <serennkocer@gmail.com>
+Author: Seren KOCER <serennkocer@gmail.com>
+Section: Apps PRO
+Version: 3.0.310
+Filename: ./debs/com.sbhnkhrmn.meitu.pomelo_3.0.310_iphoneos-arm.deb
+Size: 5980
+MD5sum: db1aadf63e05f76291811f2185c5d166
+Sha1: cbc4363a699d75650df9219a3d562e1189b03859
+Sha256: 667c0e25ee781a648785a1e6fae032a2fe0b9545656e435e616fd8bfdce8f8b3
+
+Package: com.sbhnkhrmn.biugoing.biugo
+Name: Noizz : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Noizz Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.biugoing.biugo/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Noizz.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.biugoing.biugo/index.php
+Homepage : https://apps.apple.com/us/app/noizz-swag-music-video-editor/id1478622182
+Maintainer: Seren KOCER <serennkocer@gmail.com>
+Author: Seren KOCER <serennkocer@gmail.com>
+Section: Apps PRO
+Version: 2.1.6
+Filename: ./debs/com.sbhnkhrmn.biugoing.biugo_2.1.6_iphoneos-arm.deb
+Size: 6222
+MD5sum: bf35ca15863de96e985d336193a2f7ec
+Sha1: eabf50c893793320cf864b18b8050e320db21394
+Sha256: d1ea844b13efa8b530da020e5f4838d779a2847f8d9ce38b49e53f15c4acb366
