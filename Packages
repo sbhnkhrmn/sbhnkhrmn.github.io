@@ -3814,3 +3814,60 @@ Size: 6222
 MD5sum: bf35ca15863de96e985d336193a2f7ec
 Sha1: eabf50c893793320cf864b18b8050e320db21394
 Sha256: d1ea844b13efa8b530da020e5f4838d779a2847f8d9ce38b49e53f15c4acb366
+
+Package: com.sbhnkhrmn.apperto.typorama
+Name: Typorama : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Typorama Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.apperto.typorama/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Typorama.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.apperto.typorama/index.php
+Homepage : https://apps.apple.com/tr/app/typorama-foto%C4%9Fraf-%C3%BCst%C3%BCne-yaz%C4%B1/id978659937?l=tr
+Maintainer: Seren KOCER <serenkocerr@gmail.com>
+Author: Seren KOCER <serenkocerr@gmail.com>
+Section: Apps PRO
+Version: 2.4.5
+Filename: ./debs/com.sbhnkhrmn.apperto.typorama_2.4.5_iphoneos-arm.deb
+Size: 6386
+MD5sum: d4827527d1b5c416b8db5678d75a5441
+Sha1: b2c0c5607fdd2ce149d1aeaf9b5a8f276cb7b79b
+Sha256: c169f5b92664432d103571869d4dc513efe576b65a0380d6f1b2ff5028566dea
+
+Package: com.sbhnkhrmn.adammeszaros.logo.free
+Name: InstaLogo : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of InstaLogo Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.adammeszaros.logo.free/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_InstaLogo.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.adammeszaros.logo.free/index.php
+Homepage : https://apps.apple.com/tr/app/instalogo-logo-olu%C5%9Fturucu/id950802372?l=tr
+Maintainer: Seren KOCER <serenkocerr@gmail.com>
+Author: Seren KOCER <serenkocerr@gmail.com>
+Section: Apps PRO
+Version: 4.16
+Filename: ./debs/com.sbhnkhrmn.adammeszaros.logo.free_4.16_iphoneos-arm.deb
+Size: 4920
+MD5sum: 5071efcc5ad38d4ba7bc0cd12e9ce2e5
+Sha1: 565e1ba0ce1c5e75a8d42385041cd685e6597980
+Sha256: bcac66e9d6e0857b293484aade24aed3a3be6ba653a2a28a3bade49bca2c25de
+
+Package: com.sbhnkhrmn.apperto.videorama
+Name: Videorama  : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Videorama  Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.apperto.videorama/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Videorama.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.apperto.videorama/index.php
+Homepage : https://apps.apple.com/tr/app/videorama-video-d%C3%BCzenleyici/id1049690233?l=tr
+Maintainer: Seren KOCER <serenkocerr@gmail.com>
+Author: Seren KOCER <serenkocerr@gmail.com>
+Section: Apps PRO
+Version: 2.5.5
+Filename: ./debs/com.sbhnkhrmn.apperto.videorama_2.5.5_iphoneos-arm.deb
+Size: 5398
+MD5sum: e63fc9a7eb2549fe418b12e786a4995d
+Sha1: ef27adc41014a9dd4c4ccaf7226fc0c3025b9e99
+Sha256: d56e226d17e5a59da9f5a0098474d3f96f8c8972e9c547bda9cbf588757032c8
