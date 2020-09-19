@@ -1041,6 +1041,25 @@ MD5sum: 957acbfcd9e45d7013656574c93c6fc3
 Sha1: 5888a363f8b3233f36cb20df399b1025551e476f
 Sha256: 864e0ec63795b353b030128661e353e4988b6cde556bba415a27777789bcc16d
 
+Package: com.sbhnkhrmn.weatherlive.pro
+Name: Weather Live : Pro
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Weather Live Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.weatherlive.pro/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_WeatherLive.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.weatherlive.pro/index.php
+Homepage : https://apps.apple.com/app/id749083919
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 7.0.1
+Filename: ./debs/com.sbhnkhrmn.weatherlive.pro_7.0.1_iphoneos-arm.deb
+Size: 6390
+MD5sum: f1c34276f44cb147b5778258dc54b51f
+Sha1: 59b9b967257abcfb206cb249861f0fa9a5ef0a10
+Sha256: ee1c5119b7c0e9bbaa32aac8a97830e147e3d0b1f632b1fe6d38933a41f4b9c0
+
 Package: com.sbhnkhrmn.wpsoffice.pro
 Name: WPS Office : Pro
 Architecture: iphoneos-arm
