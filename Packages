@@ -3947,3 +3947,22 @@ Size: 6258
 MD5sum: 7e93adf4b10e971f0aeb9d2f1d74a440
 Sha1: 33d4c2c29c2357ec94a39f97cf1c296aef1d517f
 Sha256: 3d7caab9fd28d0a67e92f83312a1541e549a80fa87519a00a9d7ff3178b8fe0c
+
+Package: com.sbhnkhrmn.smule.minimagicpiano
+Name: Magic Piano : PRO
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Magic Piano  Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.smule.minimagicpiano/index.html
+Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_MagicPiano.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.smule.minimagicpiano/index.php
+Homepage : https://apps.apple.com/tr/app/magic-piano-by-smule/id421254504
+Maintainer: Seren KOCER <serenkocerr@gmail.com>
+Author: Seren KOCER <serenkocerr@gmail.com>
+Section: Games
+Version: 8.4.5
+Filename: ./debs/com.sbhnkhrmn.smule.minimagicpiano_8.4.5_iphoneos-arm.deb
+Size: 7834
+MD5sum: ba26e63ff31e2224decf391efc28ca57
+Sha1: 813c46ec4aa8372bb19072ec2b21adba864f2816
+Sha256: e98d997e589343ca12ce54660bfa1ec1d92d20271fea5364e9d686e8aa20f379
