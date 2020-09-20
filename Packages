@@ -3890,3 +3890,60 @@ Size: 5398
 MD5sum: e63fc9a7eb2549fe418b12e786a4995d
 Sha1: ef27adc41014a9dd4c4ccaf7226fc0c3025b9e99
 Sha256: d56e226d17e5a59da9f5a0098474d3f96f8c8972e9c547bda9cbf588757032c8
+
+Package: com.sbhnkhrmn.revosoft.blemishremover
+Name: Blemish : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Blemish  Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.revosoft.blemishremover/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Blemish.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.revosoft.blemishremover/index.php
+Homepage : https://apps.apple.com/tr/app/blemish-remover-photo-tool/id1444559362?l=tr
+Maintainer: Seren KOCER <serenkocerr@gmail.com>
+Author: Seren KOCER <serenkocerr@gmail.com>
+Section: Apps PRO
+Version: 1.3.1
+Filename: ./debs/com.sbhnkhrmn.revosoft.blemishremover_1.3.1_iphoneos-arm.deb
+Size: 4666
+MD5sum: 3b94f3844e1c45b620dac76d8b603932
+Sha1: 7f0261cfd5415ac6ad8418ae63dc612d94851da5
+Sha256: 0867e4fb747bc651462465eb34cc3171ffa257cc3475055c6b3302e1695f23e2
+
+Package: com.sbhnkhrmn.anydo.AnyDO
+Name: Anydo : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Anydo  Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.anydo.AnyDO/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Anydo.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.anydo.AnyDO/index.php
+Homepage : https://apps.apple.com/tr/app/any-do-yap%C4%B1lacaklar-listesi/id497328576?l=tr
+Maintainer: Seren KOCER <serenkocerr@gmail.com>
+Author: Seren KOCER <serenkocerr@gmail.com>
+Section: Apps PRO
+Version: 5.9.1
+Filename: ./debs/com.sbhnkhrmn.anydo.AnyDO_5.9.1_iphoneos-arm.deb
+Size: 6474
+MD5sum: fc716e3eb7dc6216b2f55ec1377a509f
+Sha1: 2c0f2898794d120ab811ea6971f323b1925689a5
+Sha256: 6da1414f4742b14b1531d80d7f318ad50232753fd721cb9739766aa717b2526a
+
+Package: com.sbhnkhrmn.viamobi.Simpler
+Name: Simpler : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Simpler  Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.viamobi.Simpler/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Simpler.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.viamobi.Simpler/index.php
+Homepage : https://apps.apple.com/tr/app/simpler-i-ngilizce-%C3%B6%C4%9Fren/id1265670676?l=tr
+Maintainer: Seren KOCER <serenkocerr@gmail.com>
+Author: Seren KOCER <serenkocerr@gmail.com>
+Section: Apps PRO
+Version: 2.5.12
+Filename: ./debs/com.sbhnkhrmn.viamobi.Simpler_2.5.12_iphoneos-arm.deb
+Size: 6258
+MD5sum: 7e93adf4b10e971f0aeb9d2f1d74a440
+Sha1: 33d4c2c29c2357ec94a39f97cf1c296aef1d517f
+Sha256: 3d7caab9fd28d0a67e92f83312a1541e549a80fa87519a00a9d7ff3178b8fe0c
