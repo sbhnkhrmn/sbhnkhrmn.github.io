@@ -3966,3 +3966,41 @@ Size: 7834
 MD5sum: ba26e63ff31e2224decf391efc28ca57
 Sha1: 813c46ec4aa8372bb19072ec2b21adba864f2816
 Sha256: e98d997e589343ca12ce54660bfa1ec1d92d20271fea5364e9d686e8aa20f379
+
+Package: com.sbhnkhrmn.apalonapps.planesfree
+Name: Planes Live : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Planes Live  Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.apalonapps.planesfree/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_PlanesLive.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.apalonapps.planesfree/index.php
+Homepage : https://apps.apple.com/us/app/canl%C4%B1-u%C3%A7aklar-u%C3%A7u%C5%9F-durumu/id1097815000
+Maintainer: Seren KOCER <serenkocerr@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 1.39.0
+Filename: ./debs/com.sbhnkhrmn.apalonapps.planesfree_1.39.0_iphoneos-arm.deb
+Size: 5838
+MD5sum: f36a1acbdb187c85308d72c6c37d8b25
+Sha1: eec543d78f3ef622973553b868ab2b3a1bdc3f06
+Sha256: db7eb9425347aaffce2a208039852f4575b2c42a6d837823e7f49da96e177e11
+
+Package: com.sbhnkhrmn.livintis.com.wallpapermonster
+Name: Wallpaper Tree : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Wallpaper Tree  Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.livintis.com.wallpapermonster/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_WallpaperHD.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.livintis.com.wallpapermonster/index.php
+Homepage : https://apps.apple.com/tr/app/wallpaper-tree-hd-background/id1352034630?l=tr
+Maintainer: Seren KOCER <serenkocerr@gmail.com>
+Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Section: Apps PRO
+Version: 7.0
+Filename: ./debs/com.sbhnkhrmn.livintis.com.wallpapermonster_7.0_iphoneos-arm.deb
+Size: 5854
+MD5sum: c6e4eca3d725d7963a00fb97e5192cf1
+Sha1: 3dabc4377543500ae11ec7e33eef06e7b40b1e94
+Sha256: b7a43e153e9e8cb0bc90bd2ecf82ae3d87d6ee284e2e278cf0affdc8ca6d080a
