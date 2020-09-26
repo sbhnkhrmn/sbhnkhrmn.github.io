@@ -3976,15 +3976,15 @@ Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.apalonapps.plane
 Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_PlanesLive.png
 Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.apalonapps.planesfree/index.php
 Homepage : https://apps.apple.com/us/app/canl%C4%B1-u%C3%A7aklar-u%C3%A7u%C5%9F-durumu/id1097815000
-Maintainer: Seren KOCER <serenkocerr@gmail.com>
-Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: Seren KOCER <serenkocerr@gmail.com>
 Section: Apps PRO
 Version: 1.39.0
 Filename: ./debs/com.sbhnkhrmn.apalonapps.planesfree_1.39.0_iphoneos-arm.deb
-Size: 5838
-MD5sum: f36a1acbdb187c85308d72c6c37d8b25
-Sha1: eec543d78f3ef622973553b868ab2b3a1bdc3f06
-Sha256: db7eb9425347aaffce2a208039852f4575b2c42a6d837823e7f49da96e177e11
+Size: 5840
+MD5sum: 5998055c8818efb7b417c5f91fecf0a6
+Sha1: 5bcc36282047672cc7edddcf3e8ffea8c1ef1163
+Sha256: 39bfa344f165e1a5f7af7b305284d3e7c5f2c441cb978fb785e72fe074bde5e6
 
 Package: com.sbhnkhrmn.livintis.com.wallpapermonster
 Name: Wallpaper Tree : Pro 
@@ -3995,12 +3995,12 @@ Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.livintis.com.wal
 Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_WallpaperHD.png
 Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.livintis.com.wallpapermonster/index.php
 Homepage : https://apps.apple.com/tr/app/wallpaper-tree-hd-background/id1352034630?l=tr
-Maintainer: Seren KOCER <serenkocerr@gmail.com>
-Author: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Maintainer: SBHNKHRMN <khrmn.sbhn@gmail.com>
+Author: Seren KOCER <serenkocerr@gmail.com>
 Section: Apps PRO
 Version: 7.0
 Filename: ./debs/com.sbhnkhrmn.livintis.com.wallpapermonster_7.0_iphoneos-arm.deb
-Size: 5854
-MD5sum: c6e4eca3d725d7963a00fb97e5192cf1
-Sha1: 3dabc4377543500ae11ec7e33eef06e7b40b1e94
-Sha256: b7a43e153e9e8cb0bc90bd2ecf82ae3d87d6ee284e2e278cf0affdc8ca6d080a
+Size: 5850
+MD5sum: c8146954638ea097489f26572e09f28c
+Sha1: 6da2e9ec000376c9b62672b68bfc3b7d3a241de9
+Sha256: 6537a9d572eb1bb082d9e725fbabbeb242933cd0901e71d70bdf792ce52ee30c
