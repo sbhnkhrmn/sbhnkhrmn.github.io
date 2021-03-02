@@ -4004,3 +4004,24 @@ Size: 5850
 MD5sum: c8146954638ea097489f26572e09f28c
 Sha1: 6da2e9ec000376c9b62672b68bfc3b7d3a241de9
 Sha256: 6537a9d572eb1bb082d9e725fbabbeb242933cd0901e71d70bdf792ce52ee30c
+
+Package: com.sbhnkhrmn.PhotoLab.pro
+Name: Photo Lab : Pro
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Activates Premium features of Photo Lab  Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.PhotoLab.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_PhotoLab.webp
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.PhotoLab.pro/index.php
+Homepage :https://apps.apple.com/us/app/photo-lab-picture-editor-app/id441457218
+Maintainer: Seren KOCER <serenkocerr@gmail.com>
+Author: Seren KOCER <serenkocerr@gmail.com>
+Section: Tweaks
+Version: 3.10.34
+Filename: ./debs/com.sbhnkhrmn.PhotoLab.pro_3.10.34_iphoneos-arm.deb
+Size: 8192
+MD5sum: a22b5c78698829b816faf143c0d63901
+Sha1: 9f5e967e0536f6f8ba9411dc2108c2b1eb64ed26
+Sha256: 487fc7125a86ced7bc0718baeba0c0cea0b4151c79904e3ccdd8981baf4dcc40
+
+
