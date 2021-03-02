@@ -4016,13 +4016,13 @@ Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.PhotoLab.pr
 Homepage :https://apps.apple.com/us/app/photo-lab-picture-editor-app/id441457218
 Maintainer: Seren KOCER <serenkocerr@gmail.com>
 Author: Seren KOCER <serenkocerr@gmail.com>
-Section: Tweaks
+Section: Apps PRO
 Version: 3.10.34
 Filename: ./debs/com.sbhnkhrmn.PhotoLab.pro_3.10.34_iphoneos-arm.deb
 Size: 8192
-MD5sum: a22b5c78698829b816faf143c0d63901
-Sha1: 9f5e967e0536f6f8ba9411dc2108c2b1eb64ed26
-Sha256: 487fc7125a86ced7bc0718baeba0c0cea0b4151c79904e3ccdd8981baf4dcc40
+MD5sum: 3a7c7633fef0b435458f44dcebaf9e0a
+Sha1: 225d73a40808f8791e47174901fea0950ab4307a
+Sha256: 3a164fe5709b21fafc8588cd940752d199ced831d2b988342dba50dee155d5a5
 
 Package: com.sbhnkhrmn.VHSCam.pro
 Name: VHS Cam : Pro
