@@ -4035,13 +4035,14 @@ Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.VHSCam.pro/
 Homepage : https://apps.apple.com/tr/app/vhs-cam-retro-camcorder-fx/id1091555594
 Maintainer: Seren KOCER <serenkocerr@gmail.com>
 Author: Seren KOCER <serenkocerr@gmail.com>
-Section: Tweaks
+Section: Apps PRO
 Version: 2.0.6
 Filename: ./debs/com.sbhnkhrmn.VHSCam.pro_2.0.6_iphoneos-arm.deb
 Size: 8192
-MD5sum: 0ceede87f9edf938f0cfdb37c3d4ceb9
-Sha1: 25b0b8d647413938f1e75fa9bf2029075433e3dd
-Sha256: 79c6902757d9783151042720cb0a1d4170fff56c5ca38dba83c69864d65771bc
+MD5sum: ecd473a6008b6e62f61fcbc3e8dd340f
+Sha1: b0e34185c05024a2dccc66ce77a9429b473f2bb5
+Sha256: a260abc8b6a4003e9202dcfd01827029a355ca4b7abfe95b58789d57a6ef4744
+
 
 
 
