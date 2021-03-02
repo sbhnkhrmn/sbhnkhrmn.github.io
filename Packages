@@ -4024,4 +4024,25 @@ MD5sum: a22b5c78698829b816faf143c0d63901
 Sha1: 9f5e967e0536f6f8ba9411dc2108c2b1eb64ed26
 Sha256: 487fc7125a86ced7bc0718baeba0c0cea0b4151c79904e3ccdd8981baf4dcc40
 
+Package: com.sbhnkhrmn.VHSCam.pro
+Name: VHS Cam : Pro
+Depends: mobilesubstrate, firmware (>>9.0)
+Architecture: iphoneos-arm
+Description: Activates Premium features of VHSCam  Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.VHSCam.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_WallpaperHD.png
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.VHSCam.pro/index.php
+Homepage : https://apps.apple.com/tr/app/vhs-cam-retro-camcorder-fx/id1091555594
+Maintainer: Seren KOCER <serenkocerr@gmail.com>
+Author: Seren KOCER <serenkocerr@gmail.com>
+Section: Tweaks
+Version: 2.0.6
+Filename: ./debs/com.sbhnkhrmn.VHSCam.pro_2.0.6_iphoneos-arm.deb
+Size: 8192
+MD5sum: 0ceede87f9edf938f0cfdb37c3d4ceb9
+Sha1: 25b0b8d647413938f1e75fa9bf2029075433e3dd
+Sha256: 79c6902757d9783151042720cb0a1d4170fff56c5ca38dba83c69864d65771bc
+
+
+
 
