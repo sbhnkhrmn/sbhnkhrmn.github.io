@@ -4019,10 +4019,10 @@ Author: Seren KOCER <serenkocerr@gmail.com>
 Section: Apps PRO
 Version: 3.10.34
 Filename: ./debs/com.sbhnkhrmn.PhotoLab.pro_3.10.34_iphoneos-arm.deb
-Size: 8192
-MD5sum: 3a7c7633fef0b435458f44dcebaf9e0a
-Sha1: 225d73a40808f8791e47174901fea0950ab4307a
-Sha256: 3a164fe5709b21fafc8588cd940752d199ced831d2b988342dba50dee155d5a5
+Size: 5244
+MD5sum: c8d67292b363389f96c875241e4f19e3
+Sha1: 34e84d98b8d48f25a71369b4db3437f496379d8c
+Sha256: fe23e084b74dd0466dbf3d569a458fd78df7d918d7c0bba10d60c89063ea80be
 
 Package: com.sbhnkhrmn.VHSCam.pro
 Name: VHS Cam : Pro
@@ -4038,7 +4038,7 @@ Author: Seren KOCER <serenkocerr@gmail.com>
 Section: Apps PRO
 Version: 2.0.6
 Filename: ./debs/com.sbhnkhrmn.VHSCam.pro_2.0.6_iphoneos-arm.deb
-Size: 8192
-MD5sum: e92befea7a4309edef9e7af2241a6f80
-Sha1: 39ae4aba18d38febd487800e80870673eb3e9a47
-Sha256: 9e182cb1485e416eaefff2b21f7e891ededc0938d190094123b7e10cfba699f2
+Size: 4528
+MD5sum: c5b4452ab8668a25c4cc1ed06e7e9a4a
+Sha1: dc203a3b73533d5445707820be36eb0558da6f44
+Sha256: d3b530a1e681445eb332debaa802b950c735fd3098b8747cf275538b2f74e74a
