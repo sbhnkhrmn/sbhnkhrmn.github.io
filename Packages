@@ -4042,3 +4042,125 @@ Size: 4528
 MD5sum: c5b4452ab8668a25c4cc1ed06e7e9a4a
 Sha1: dc203a3b73533d5445707820be36eb0558da6f44
 Sha256: d3b530a1e681445eb332debaa802b950c735fd3098b8747cf275538b2f74e74a
+
+Package: com.sbhnkhrmn.EqualizerFx.pro
+Name: Equalizer Fx : Pro
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Activates Premium features of Equalizer Fx  Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.EqualizerFx.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_EqualizerFx.webp
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.EqualizerFx.pro/index.php
+Homepage : https://apps.apple.com/us/app/equalizer-fx-bass-booster-app/id1084228340
+Maintainer: Seren KOCER <serenkocerr@gmail.com>
+Author: Seren KOCER <serenkocerr@gmail.com>
+Section: Apps PRO
+Version: 4.6.2
+Filename: ./debs/com.sbhnkhrmn.EqualizerFx.pro_4.6.2_iphoneos-arm.deb
+Size: 5050
+MD5sum: 0f5157b35e8e9edd2721493d4517b49c
+Sha1: 01e98e7553f820e58a3966350d85cd604c9f0166
+Sha256: 4ed905a71d3b6358683a9e25e3b953bcfb2e93538896fcd5f127730999c56065
+
+Package: com.sbhnkhrmn.VoiceChanger.pro
+Name: Voice Changer : Pro
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Activates Premium features of VoiceChanger  Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.VoiceChanger.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_VoiceChanger.webp
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.VoiceChanger.pro/index.php
+Homepage : https://apps.apple.com/tr/app/voice-changer/id680063805?l=tr
+Maintainer: Seren KOCER <serenkocerr@gmail.com>
+Author: Seren KOCER <serenkocerr@gmail.com>
+Section: Apps PRO
+Version: 7.1
+Filename: ./debs/com.sbhnkhrmn.VoiceChanger.pro_7.1_iphoneos-arm.deb
+Size: 5174
+MD5sum: 7e6d161e285eef0bb37a70aa8360c0aa
+Sha1: 42f5c928980c91f9627a335e6c2e8c5170585c40
+Sha256: f98d451db23a81be8c992cce66cc9634923f0d5666b387a6c700f80c1c252d26
+
+Package: com.sbhnkhrmn.windy.pro
+Name: Windy : Pro
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Activates Premium features of Windy  Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.windy.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Windy.webp
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.windy.pro/index.php
+Homepage : https://apps.apple.com/tr/app/windy-waves-wind-forecast/id997079492?l=tr
+Maintainer: Seren KOCER <serenkocerr@gmail.com>
+Author: Seren KOCER <serenkocerr@gmail.com>
+Section: Apps PRO
+Version: 9.6.1
+Filename: ./debs/com.sbhnkhrmn.windy.pro_9.6.1_iphoneos-arm.deb
+Size: 6480
+MD5sum: 4996475f8d28c4215cae0f1d29eeac5d
+Sha1: 399d4a22f247a6a56d4903fe0ccb01b9a13b2026
+Sha256: 19086a506e9d8ed56acb3e7f136d26ac7ffd62bf620829d816200cdabdf62d37
+
+Package: com.sbhnkhrmn.Minichat.pro
+Name: Minichat(Ome TV) : Pro
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Activates Premium features of Minichat  Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.Minichat.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Minichat.webp
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.Minichat.pro/index.php
+Homepage : https://apps.apple.com/tr/app/minichat-videolu-sohbet/id1506912979
+Maintainer: Seren KOCER <serenkocerr@gmail.com>
+Author: Seren KOCER <serenkocerr@gmail.com>
+Section: Apps PRO
+Version: 4.3
+Filename: ./debs/com.sbhnkhrmn.Minichat.pro_4.3_iphoneos-arm.deb
+Size: 5616
+MD5sum: d3e1d6f4e9b8ffa11771d64876d3a403
+Sha1: 035d44dbcccf181f849aec5929b4c49844499714
+Sha256: 1137e0340eaf70891e02fc8ec0262327138dfcb0452751853ec2d22bbb462299
+
+Package: com.sbhnkhrmn.OrNET.pro
+Name: OrNET : Pro
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Activates Premium features of OrNET  Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.OrNET.pro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_OrNET.webp
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.OrNET.pro/index.php
+Homepage : https://apps.apple.com/tr/app/ornet-private-onion-browser/id1336941722
+Maintainer: Seren KOCER <serenkocerr@gmail.com>
+Author: Seren KOCER <serenkocerr@gmail.com>
+Section: Apps PRO
+Version: 2.4.1
+Filename: ./debs/com.sbhnkhrmn.OrNET.pro_2.4.1_iphoneos-arm.deb
+Size: 4848
+MD5sum: 0da6b83ebbb4d3e20d1eb2302dea38f3
+Sha1: 3377a71590e0546e730dcfde559b01826410b85b
+Sha256: 6b7dd35f779683f6775ad1614e047708d9d6d18609ef6db27ad6c465ebecf9ea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
