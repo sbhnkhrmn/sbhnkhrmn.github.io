@@ -61,7 +61,6 @@ body {
   color: #212529;
   text-align: left;
   background-color: #fff;
-  padding-bottom: 3rem;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -10256,8 +10255,5 @@ a.text-dark:hover, a.text-dark:focus {
     color: inherit;
     border-color: #dee2e6;
   }
-.featurette-divider {
-  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
-}
 }
 /*# sourceMappingURL=bootstrap.css.map */
