@@ -3949,23 +3949,24 @@ Sha1: 33d4c2c29c2357ec94a39f97cf1c296aef1d517f
 Sha256: 3d7caab9fd28d0a67e92f83312a1541e549a80fa87519a00a9d7ff3178b8fe0c
 
 Package: com.sbhnkhrmn.smule.minimagicpiano
-Name: Magic Piano : PRO
+Name: Magic Piano : Pro 
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Description: Activates Premium features of Magic Piano  Application.
 Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.smule.minimagicpiano/index.html
-Icon: https://sbhnkhrmn.github.io/ikonlar/AppleStore_MagicPiano.png
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_MagicPiano.png
 Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.smule.minimagicpiano/index.php
-Homepage : https://apps.apple.com/tr/app/magic-piano-by-smule/id421254504
+Homepage : https://apps.apple.com/tr/app/magic-piano-by-smule/id421254504?l=tr
 Maintainer: Seren KOCER <serenkocerr@gmail.com>
 Author: Seren KOCER <serenkocerr@gmail.com>
 Section: Games
-Version: 8.4.5
-Filename: ./debs/com.sbhnkhrmn.smule.minimagicpiano_8.4.5_iphoneos-arm.deb
-Size: 7834
-MD5sum: ba26e63ff31e2224decf391efc28ca57
-Sha1: 813c46ec4aa8372bb19072ec2b21adba864f2816
-Sha256: e98d997e589343ca12ce54660bfa1ec1d92d20271fea5364e9d686e8aa20f379
+Version: 8.5.1
+Filename: ./debs/com.sbhnkhrmn.smule.minimagicpiano_8.5.1_iphoneos-arm.deb
+Size: 5408
+MD5sum: 6a679705ec2851b6b480841256800c89
+Sha1: c5e2a3fae7f46894eda9da8906b877c34050d148
+Sha256: ea68c82eaffa3cb802628fc59b2b7a8110b3b5dc5a92ef4a1ce4c9f7eee903a6
+
 
 Package: com.sbhnkhrmn.apalonapps.planesfree
 Name: Planes Live : Pro 
@@ -4137,3 +4138,79 @@ Size: 4848
 MD5sum: 0da6b83ebbb4d3e20d1eb2302dea38f3
 Sha1: 3377a71590e0546e730dcfde559b01826410b85b
 Sha256: 6b7dd35f779683f6775ad1614e047708d9d6d18609ef6db27ad6c465ebecf9ea
+
+Package: com.sbhnkhrmn.at.bergfex.touren
+Name: Bergfex GPS : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Bergfex GPS  Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.at.bergfex.touren/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Bergfex.webp
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.at.bergfex.touren/index.php
+Homepage : apps.apple.com/tr/app/bergfex-tours-gps-tracking/id912776148
+Maintainer: Seren KOCER <serenkocerr@gmail.com>
+Author: Seren KOCER <serenkocerr@gmail.com>
+Section: Apps PRO
+Version: 3.1
+Filename: ./debs/com.sbhnkhrmn.at.bergfex.touren_3.1_iphoneos-arm.deb
+Size: 4982
+MD5sum: 7a575bf024d87e98e9e60eb07f29ff6e
+Sha1: 038c36d8df91c2c2b4630e1bab6cb0f776986d04
+Sha256: fbb2e700e23f056f3e61e91e5ed664a7a3344a6a4d8b105be62c99e985be3253
+
+Package: com.sbhnkhrmn.ibearsoft.timepro
+Name: TimePro : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Time Pro  Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.ibearsoft.timepro/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_TimePro.webp
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.ibearsoft.timepro/index.php
+Homepage : https://apps.apple.com/tr/app/time-pro-zaman-takibi/id1121002766?l=tr
+Maintainer: Seren KOCER <serenkocerr@gmail.com>
+Author: Seren KOCER <serenkocerr@gmail.com>
+Section: Apps PRO
+Version: 1.1.5
+Filename: ./debs/com.sbhnkhrmn.ibearsoft.timepro_1.1.5_iphoneos-arm.deb
+Size: 4730
+MD5sum: 81f05d15382d418b1967f100db938bdb
+Sha1: 3633ead9be6e5bebdc71300ba2e2f987602d083e
+Sha256: 4dba5c65690d458168d845e8ab44285e306f03a3e35fdf7ac01eeeb67860f4bc
+
+Package: com.sbhnkhrmn.informelab.toonme
+Name: ToonMe : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of ToonMe  Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.informelab.toonme/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_ToonMe.webp
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.informelab.toonme/index.php
+Homepage : https://apps.apple.com/tr/app/toonme-cartoon-photo-editor/id1508120751
+Maintainer: Seren KOCER <serenkocerr@gmail.com>
+Author: Seren KOCER <serenkocerr@gmail.com>
+Section: Apps PRO
+Version: 0.9.40
+Filename: ./debs/com.sbhnkhrmn.informelab.toonme_0.9.40_iphoneos-arm.deb
+Size: 4568
+MD5sum: 799575fb676d0945e8efbd5b9f7b176b
+Sha1: de4f5351f5bffe20904416719511e87eec8da113
+Sha256: bc923292c2a279124cd39aac6b10791531e5a96e6cfd3ec9e46da930f0e232f1
+
+Package: com.sbhnkhrmn.nb.stk
+Name: Strike : Pro 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Activates Premium features of Strike  Application.
+Depiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.nb.stk/index.html
+Icon:https://sbhnkhrmn.github.io/ikonlar/AppleStore_Strike.webp
+Sileodepiction: https://sbhnkhrmn.github.io/depictions/com.sbhnkhrmn.nb.stk/index.php
+Homepage : https://apps.apple.com/tr/app/word-writing-documents/id1540069748
+Maintainer: Seren KOCER <serenkocerr@gmail.com>
+Author: Seren KOCER <serenkocerr@gmail.com>
+Section: Apps PRO
+Version: 2.0.2
+Filename: ./debs/com.sbhnkhrmn.nb.stk_2.0.2_iphoneos-arm.deb
+Size: 4418
+MD5sum: 0ae84843cab13ca5195bbc291b940faa
+Sha1: 9d91a8e6bfafa5cdebf25879be2998dd00e106a3
+Sha256: 9e65bdd675c459726b2d9f3a5a0ce4b7daf1f4e180302eb409f7c9e0a899dad4
