@@ -2523,3 +2523,18 @@ MD5sum: 25b6395efa574e96dde16fb1ed986c55
 Sha1: 26e4f2c25d56b474dd18e2e57766301378310633
 Sha256: 71524478a682c31135e7bcb582f1ed538d6e82d3c7fc54263efae76e3eef4b67
 
+Package: xyz.canpng.proturbovpn
+Name: Pro: Turbo VPN
+Depends: mobilesubstrate
+Architecture: iphoneos-arm 
+Description: Turbo VPN uygulamasını Pro hale getirir.
+Homepage : http://www.twitter.com/cnylmz35
+Maintainer: canpng <cnylmz35@hotmail.com>
+Author: canpng
+Section: Tweaks
+Version: 1.0
+Filename: ./debs/xyz.canpng.proturbovpn_1.0_iphoneos-arm
+Size: 3476
+MD5sum: dabaa0b0e802b07cd1bf55b422653ac5
+Sha1: 084b7869028610d651d6824ccf97a2e4c3b5fe85
+Sha256: 459c6e19afb55b6f9ebe2269a4f41cca11a8921373fbc6d7a17d63da08953a35
