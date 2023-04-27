@@ -1,48 +1,29 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//iOS 16.3.1//EN
-N:;'(⭕️❌)';;;
-FN:'(⭕️❌)'
+N:Kahraman;Sübhan;;;
+FN:Sübhan Kahraman
+ORG:Suphi Bilişim;Donanım & Yazılım
 NICKNAME:Suphi
-X-PHONETIC-FIRST-NAME:A Sübhan
-ORG:Kahraman inc.;Yazılım ve Donanım
-TITLE:Tekniker
-EMAIL;type=INTERNET;type=HOME;type=pref:sbhn.khrmn@hotmail.com
-item1.EMAIL;type=INTERNET:khrmn.sbhn@gmail.com
-item1.X-ABLabel:Gmail
-item2.EMAIL;type=INTERNET:sbhn.khrmn@yahoo.com.tr
-item2.X-ABLabel:Yahoo
-item3.EMAIL;type=INTERNET:The_Syst3m32@hotmail.com
-item3.X-ABLabel:E-posta
-item4.EMAIL;type=INTERNET:suphi.sk9@hotmail.com
-item4.X-ABLabel:E-posta
-item5.EMAIL;type=INTERNET:sk9.suphi@hotmail.com
-item5.X-ABLabel:E-posta
-item6.EMAIL;type=INTERNET:khrmn.sbhn@icloud.com
-item6.X-ABLabel:iCloud
-TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:+905315863472
-item7.TEL:+905523097874
-item7.X-ABLabel:Test2
-item8.TEL:+905524796100
-item8.X-ABLabel:Test1
-item9.TEL:+90 (552) 308 78 74
-item9.X-ABLabel:Test3
-item10.TEL:+90 (552) 499 65 41
-item10.X-ABLabel:Test4
-item11.ADR;type=HOME;type=pref:;;22 M. Reşit Tarakçı Sokak;Trabzon;Ortahisa
- r;61040;Türkiye
-item11.X-ABADR:TR
+BDAY;VALUE=date:1993-06-09
+TITLE:Yönetici
 NOTE:Konuşamıyorsan\,Susacaksın ❗️
-item12.URL;type=pref:http://www.instagram.com/sbhnkhrmn
-item12.X-ABLabel:İnstagram
-item13.URL:https://www.facebook.com/sbhnkhrmn
-item14.URL:https://www.twitter.com/sbhnkhrmn
-BDAY;value=date:1993-06-09
-IMPP;X-SERVICE-TYPE=Facebook;type=pref:xmpp:sbhnkhrmn
-IMPP;X-SERVICE-TYPE=Facebook:xmpp:sbhnkhrmn9
-item15.X-ABRELATEDNAMES;type=pref:Baba '(⭕️⭕️)' Kahraman
-item15.X-ABLabel:_$!<Father>!$_
-REV:2023-03-26T18:13:43Z
+item1.ADR;TYPE=HOME;TYPE=pref:;;20 M. Reşit Tarakçı Sokak;Trabzon;Ortahisar
+ ;61040;Türkiye
+item1.X-ABADR:TR
+TEL;TYPE=IPHONE;TYPE=CELL;TYPE=pref;TYPE=VOICE:+905315863472
+item2.URL;TYPE=pref:http://www.instagram.com/sbhnkhrmn
+item2.X-ABLABEL:İnstagram
+URL;TYPE=twitter:https://www.twitter.com/sbhnkhrmn
+item3.URL:https://sbhnkhrmn.github.io/Kartvizit
+item3.X-ABLABEL:Kartvizit
+IMPP;X-SERVICE-TYPE=facebook;TYPE=OTHER;TYPE=pref:xmpp:sbhnkhrmn
+EMAIL;TYPE=HOME;TYPE=pref;TYPE=INTERNET:sbhn.khrmn@hotmail.com
+item4.EMAIL;TYPE=INTERNET:khrmn.sbhn@gmail.com
+item4.X-ABLABEL:Gmail
+item5.EMAIL;TYPE=INTERNET:khrmn.sbhn@icloud.com
+item5.X-ABLABEL:iCloud
+PRODID:-//Apple Inc.//iCloud Web Address Book 2314B33//EN
+REV:2023-04-27T15:34:06Z
 X-IMAGETYPE:PHOTO
 X-IMAGEHASH:ZRvH/2d65lRn5NiJv75Y/w==
 END:VCARD
