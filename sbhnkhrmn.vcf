@@ -1,0 +1,48 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iOS 16.3.1//EN
+N:;'(⭕️❌)';;;
+FN:'(⭕️❌)'
+NICKNAME:Suphi
+X-PHONETIC-FIRST-NAME:A Sübhan
+ORG:Kahraman inc.;Yazılım ve Donanım
+TITLE:Tekniker
+EMAIL;type=INTERNET;type=HOME;type=pref:sbhn.khrmn@hotmail.com
+item1.EMAIL;type=INTERNET:khrmn.sbhn@gmail.com
+item1.X-ABLabel:Gmail
+item2.EMAIL;type=INTERNET:sbhn.khrmn@yahoo.com.tr
+item2.X-ABLabel:Yahoo
+item3.EMAIL;type=INTERNET:The_Syst3m32@hotmail.com
+item3.X-ABLabel:E-posta
+item4.EMAIL;type=INTERNET:suphi.sk9@hotmail.com
+item4.X-ABLabel:E-posta
+item5.EMAIL;type=INTERNET:sk9.suphi@hotmail.com
+item5.X-ABLabel:E-posta
+item6.EMAIL;type=INTERNET:khrmn.sbhn@icloud.com
+item6.X-ABLabel:iCloud
+TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:+905315863472
+item7.TEL:+905523097874
+item7.X-ABLabel:Test2
+item8.TEL:+905524796100
+item8.X-ABLabel:Test1
+item9.TEL:+90 (552) 308 78 74
+item9.X-ABLabel:Test3
+item10.TEL:+90 (552) 499 65 41
+item10.X-ABLabel:Test4
+item11.ADR;type=HOME;type=pref:;;22 M. Reşit Tarakçı Sokak;Trabzon;Ortahisa
+ r;61040;Türkiye
+item11.X-ABADR:TR
+NOTE:Konuşamıyorsan\,Susacaksın ❗️
+item12.URL;type=pref:http://www.instagram.com/sbhnkhrmn
+item12.X-ABLabel:İnstagram
+item13.URL:https://www.facebook.com/sbhnkhrmn
+item14.URL:https://www.twitter.com/sbhnkhrmn
+BDAY;value=date:1993-06-09
+IMPP;X-SERVICE-TYPE=Facebook;type=pref:xmpp:sbhnkhrmn
+IMPP;X-SERVICE-TYPE=Facebook:xmpp:sbhnkhrmn9
+item15.X-ABRELATEDNAMES;type=pref:Baba '(⭕️⭕️)' Kahraman
+item15.X-ABLabel:_$!<Father>!$_
+REV:2023-03-26T18:13:43Z
+X-IMAGETYPE:PHOTO
+X-IMAGEHASH:ZRvH/2d65lRn5NiJv75Y/w==
+END:VCARD
